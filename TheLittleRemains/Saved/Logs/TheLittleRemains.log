@@ -7532,3 +7532,861 @@ Script Stack (0 frames) :
 [2025.10.24-02.18.41:176][199]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
 	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_184
 	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.28.30:027][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.10.24-02.28.30:031][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.032
+[2025.10.24-02.28.30:032][109]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2025.10.24-02.28.30:032][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2025.10.24-02.28.30:053][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/ABP_Player_Auto9
+[2025.10.24-02.28.30:053][109]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto97F3655A9409706CD2FFED6A92B60BBBE.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/ABP_Player_Auto9.uasset'
+[2025.10.24-02.28.30:054][109]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.10.24-02.28.30:284][110]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_185
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.32.32:921][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.24-02.32.32:986][500]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_186
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.32.33:125][502]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_187
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.32.34:066][564]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.32.34:073][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.32.34:073][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.32.34:075][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001428s)
+[2025.10.24-02.32.34:075][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001460s)
+[2025.10.24-02.32.34:098][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.24-02.32.34:103][564]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.32.34:105][564]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2025.10.24-02.32.34:106][564]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.32.34:106][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.32.34:106][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.32.34:106][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.32.34:106][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.32.34:106][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.32.34:108][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.32.34:125][564]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.32.34:125][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.32.34:125][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.32.34:125][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.32.34:127][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.10.24-02.32.34:127][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.10.24-02.32.34:129][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.10.24-02.32.34:129][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.10.24-02.32.34:129][564]LogInit: FAudioDevice initialized with ID 20.
+[2025.10.24-02.32.34:129][564]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMap'.
+[2025.10.24-02.32.34:129][564]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.10.24-02.32.34:184][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.32.34:184][564]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.32.34:185][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.32.34
+[2025.10.24-02.32.34:185][564]LogWorld: Bringing up level for play took: 0.000941
+[2025.10.24-02.32.34:188][564]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2025.10.24-02.32.34:194][564]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.32.34:197][564]PIE: 에디터에서 플레이 총 시작 시간 0.125초입니다.
+[2025.10.24-02.32.39:222][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.32.39:222][890]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.32.39:223][890]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.32.39:228][890]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.32.39:228][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.32.39:231][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.32.39:237][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.32.39:260][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.32.39:261][890]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.10.24-02.32.39:261][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.10.24-02.32.39:263][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.10.24-02.32.39:270][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.24-02.32.39:340][891]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2025.10.24-02.33.20:453][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.24-02.33.20:504][548]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_188
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.33.20:662][550]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_189
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.33.21:730][633]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.33.21:735][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.33.21:735][633]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.33.21:737][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001378s)
+[2025.10.24-02.33.21:737][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001408s)
+[2025.10.24-02.33.21:756][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.24-02.33.21:762][633]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.33.21:763][633]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2025.10.24-02.33.21:764][633]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.33.21:764][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.33.21:764][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.33.21:764][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.33.21:764][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.33.21:764][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.33.21:767][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.33.21:782][633]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.33.21:782][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.33.21:782][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.33.21:782][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.33.21:783][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.10.24-02.33.21:783][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.10.24-02.33.21:785][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.10.24-02.33.21:785][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.10.24-02.33.21:785][633]LogInit: FAudioDevice initialized with ID 21.
+[2025.10.24-02.33.21:785][633]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2025.10.24-02.33.21:785][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.10.24-02.33.21:832][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.33.21:833][633]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.33.21:833][633]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.33.21
+[2025.10.24-02.33.21:834][633]LogWorld: Bringing up level for play took: 0.000810
+[2025.10.24-02.33.21:836][633]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2025.10.24-02.33.21:843][633]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.33.21:846][633]PIE: 에디터에서 플레이 총 시작 시간 0.111초입니다.
+[2025.10.24-02.33.24:962][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.33.24:962][831]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.33.24:963][831]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.33.24:968][831]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.33.24:968][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.33.24:971][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.33.24:977][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.33.24:999][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.33.24:999][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.10.24-02.33.24:999][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.10.24-02.33.25:001][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.10.24-02.33.25:008][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.24-02.33.25:077][832]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2025.10.24-02.34.36:965][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-02.34.37:079][597]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_190
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.34.37:332][599]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_191
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.34.39:441][758]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.34.39:447][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.34.39:447][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.34.39:449][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001490s)
+[2025.10.24-02.34.39:449][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001523s)
+[2025.10.24-02.34.39:472][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.24-02.34.39:475][758]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.34.39:477][758]LogPlayLevel: PIE: World Init took: (0.002093s)
+[2025.10.24-02.34.39:478][758]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.34.39:478][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.34.39:478][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.34.39:478][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.34.39:478][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.34.39:478][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.34.39:480][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.34.39:496][758]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.34.39:496][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.34.39:496][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.34.39:496][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.34.39:497][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.10.24-02.34.39:497][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.10.24-02.34.39:499][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.10.24-02.34.39:499][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.10.24-02.34.39:499][758]LogInit: FAudioDevice initialized with ID 22.
+[2025.10.24-02.34.39:499][758]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2025.10.24-02.34.39:499][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.24-02.34.39:550][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.34.39:550][758]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.34.39:551][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.34.39
+[2025.10.24-02.34.39:551][758]LogWorld: Bringing up level for play took: 0.000933
+[2025.10.24-02.34.39:553][758]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.10.24-02.34.39:560][758]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.34.39:563][758]PIE: 에디터에서 플레이 총 시작 시간 0.116초입니다.
+[2025.10.24-02.35.44:011][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.35.44:011][753]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.35.44:011][753]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.35.44:015][753]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.35.44:016][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.35.44:019][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.35.44:026][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.35.44:048][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.35.44:048][753]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.24-02.35.44:048][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.10.24-02.35.44:050][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.10.24-02.35.44:058][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.24-02.35.44:316][754]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.10.24-02.38.59:321][502]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.38.59:328][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.38.59:328][502]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.38.59:330][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2025.10.24-02.38.59:330][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002003s)
+[2025.10.24-02.38.59:354][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.24-02.38.59:358][502]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.38.59:359][502]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2025.10.24-02.38.59:360][502]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.38.59:360][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.38.59:360][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.38.59:360][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.38.59:360][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.38.59:360][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.38.59:363][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.38.59:380][502]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.38.59:380][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.38.59:380][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.38.59:380][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.38.59:381][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.10.24-02.38.59:381][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.10.24-02.38.59:383][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.10.24-02.38.59:383][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.10.24-02.38.59:383][502]LogInit: FAudioDevice initialized with ID 23.
+[2025.10.24-02.38.59:383][502]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestMap'.
+[2025.10.24-02.38.59:384][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.24-02.38.59:386][502]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.38.59:387][502]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.38.59
+[2025.10.24-02.38.59:387][502]LogWorld: Bringing up level for play took: 0.000718
+[2025.10.24-02.38.59:390][502]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2025.10.24-02.38.59:393][502]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.38.59:394][502]PIE: 에디터에서 플레이 총 시작 시간 0.066초입니다.
+[2025.10.24-02.39.08:449][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.39.08:449][392]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.39.08:449][392]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.39.08:450][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.39.08:453][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.39.08:459][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.39.08:478][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.39.08:478][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.24-02.39.08:478][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.10.24-02.39.08:480][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.10.24-02.39.08:487][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.24-02.39.08:589][393]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2025.10.24-02.39.10:355][514]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_192
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:372][515]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_193
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:390][516]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_194
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:407][517]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_195
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:423][518]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_196
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:442][519]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_197
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:460][520]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_198
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:477][521]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_199
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:494][522]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_200
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:512][523]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_201
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:531][524]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_202
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:547][525]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_203
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.10:564][526]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_204
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:690][597]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_205
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:708][598]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_206
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:726][599]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_207
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:742][600]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_208
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:763][601]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_209
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:780][602]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_210
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:796][603]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_211
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:816][604]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_212
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:834][605]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_213
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:852][606]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_214
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:870][607]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_215
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:889][608]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_216
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:907][609]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_217
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:950][610]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_218
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:965][611]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_219
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.11:984][612]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_220
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:001][613]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_221
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:018][614]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_222
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:037][615]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_223
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:054][616]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_224
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:070][617]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:087][618]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:107][619]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_227
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.12:126][620]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.24:503][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.24-02.39.24:550][596]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_229
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.24:655][598]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_230
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.25:536][670]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.39.25:544][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.39.25:545][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.39.25:547][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002221s)
+[2025.10.24-02.39.25:547][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002265s)
+[2025.10.24-02.39.25:571][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.24-02.39.25:577][670]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.39.25:579][670]LogPlayLevel: PIE: World Init took: (0.001671s)
+[2025.10.24-02.39.25:580][670]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.39.25:580][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.39.25:580][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.39.25:580][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.39.25:580][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.39.25:580][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.39.25:582][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.39.25:598][670]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.39.25:598][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.39.25:598][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.39.25:598][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.39.25:599][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.10.24-02.39.25:599][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.10.24-02.39.25:601][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.10.24-02.39.25:602][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.10.24-02.39.25:602][670]LogInit: FAudioDevice initialized with ID 24.
+[2025.10.24-02.39.25:602][670]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestMap'.
+[2025.10.24-02.39.25:602][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.24-02.39.25:648][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.39.25:648][670]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.39.25:649][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.39.25
+[2025.10.24-02.39.25:649][670]LogWorld: Bringing up level for play took: 0.000871
+[2025.10.24-02.39.25:652][670]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2025.10.24-02.39.25:658][670]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.39.25:660][670]PIE: 에디터에서 플레이 총 시작 시간 0.116초입니다.
+[2025.10.24-02.39.32:989][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.39.32:989][266]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.39.32:989][266]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.39.32:994][266]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.39.32:994][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.39.32:997][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.39.33:003][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.39.33:026][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.39.33:026][266]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.24-02.39.33:026][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.10.24-02.39.33:028][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.10.24-02.39.33:035][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.24-02.39.33:112][267]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.10.24-02.39.35:266][419]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_231
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:283][420]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_232
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:304][421]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_233
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:320][422]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_234
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:337][423]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_235
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:356][424]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_236
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:372][425]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_237
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:389][426]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_238
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:406][427]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_239
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:423][428]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_240
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:439][429]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_241
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:459][430]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_242
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:474][431]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_243
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:492][432]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_244
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:508][433]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_245
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:526][434]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_246
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.35:545][435]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_247
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.39.41:134][820]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/QuantumCharacter/Demo/Animations/A_MM_Run_Fwd.A_MM_Run_Fwd
+[2025.10.24-02.39.41:185][820]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.10.24-02.40.26:063][391]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.40.26:069][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.40.26:070][391]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.40.26:071][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001458s)
+[2025.10.24-02.40.26:071][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001490s)
+[2025.10.24-02.40.26:094][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.24-02.40.26:099][391]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.40.26:100][391]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.10.24-02.40.26:101][391]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.40.26:101][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.40.26:101][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.40.26:101][391]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.40.26:101][391]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.40.26:101][391]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.40.26:103][391]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.40.26:121][391]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.40.26:121][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.40.26:121][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.40.26:121][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.40.26:122][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.10.24-02.40.26:122][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.10.24-02.40.26:125][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.10.24-02.40.26:125][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.10.24-02.40.26:125][391]LogInit: FAudioDevice initialized with ID 25.
+[2025.10.24-02.40.26:125][391]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2025.10.24-02.40.26:125][391]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.24-02.40.26:181][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.40.26:181][391]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.40.26:182][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.40.26
+[2025.10.24-02.40.26:182][391]LogWorld: Bringing up level for play took: 0.000831
+[2025.10.24-02.40.26:184][391]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2025.10.24-02.40.26:190][391]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.40.26:192][391]PIE: 에디터에서 플레이 총 시작 시간 0.123초입니다.
+[2025.10.24-02.40.39:159][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.40.39:159][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.40.39:160][303]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.40.39:164][303]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.40.39:164][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.40.39:167][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.40.39:174][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.40.39:197][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.40.39:197][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.24-02.40.39:197][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.10.24-02.40.39:199][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.10.24-02.40.39:207][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.24-02.40.39:272][304]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2025.10.24-02.41.04:304][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.24-02.41.04:307][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.025
+[2025.10.24-02.41.04:307][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.24-02.41.04:315][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.24-02.41.04:316][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.24-02.41.04:325][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_TestCharecter_Auto0
+[2025.10.24-02.41.04:325][248]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto06F4B8FB44422C5E31D06C98C128FBD85.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Blueprint/BP_TestCharecter_Auto0.uasset'
+[2025.10.24-02.41.04:326][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2025.10.24-02.41.04:327][248]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_248
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00D4
+[2025.10.24-02.41.04:333][248]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2025.10.24-02.41.04:333][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2025.10.24-02.41.04:347][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/ABP_Player_Auto0
+[2025.10.24-02.41.04:347][248]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto08C3DABF74951841AA421C2822E613D20.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/ABP_Player_Auto0.uasset'
+[2025.10.24-02.41.04:348][248]LogFileHelpers: Auto-saving content packages took 0.041
+[2025.10.24-02.44.16:585][152]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.44.16:593][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.44.16:593][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.44.16:594][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001411s)
+[2025.10.24-02.44.16:595][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001444s)
+[2025.10.24-02.44.16:617][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.24-02.44.16:620][152]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.44.16:622][152]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2025.10.24-02.44.16:622][152]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.44.16:622][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.44.16:623][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.44.16:623][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.44.16:623][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.44.16:623][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.44.16:625][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.44.16:641][152]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.44.16:642][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.44.16:642][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.44.16:642][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.44.16:643][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.10.24-02.44.16:643][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.10.24-02.44.16:645][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.10.24-02.44.16:645][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.10.24-02.44.16:645][152]LogInit: FAudioDevice initialized with ID 26.
+[2025.10.24-02.44.16:645][152]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestMap'.
+[2025.10.24-02.44.16:645][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.24-02.44.16:695][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.44.16:695][152]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.44.16:696][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.44.16
+[2025.10.24-02.44.16:697][152]LogWorld: Bringing up level for play took: 0.000970
+[2025.10.24-02.44.16:699][152]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2025.10.24-02.44.16:706][152]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.44.16:708][152]PIE: 에디터에서 플레이 총 시작 시간 0.115초입니다.
+[2025.10.24-02.44.20:186][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.44.20:186][339]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.44.20:187][339]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.44.20:192][339]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.44.20:192][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.44.20:195][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.44.20:201][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.44.20:222][339]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.24-02.44.20:222][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.10.24-02.44.20:224][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.10.24-02.44.20:231][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.24-02.44.20:295][340]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2025.10.24-02.44.22:496][506]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.44.22:508][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.44.22:508][506]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.44.22:510][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001426s)
+[2025.10.24-02.44.22:510][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001460s)
+[2025.10.24-02.44.22:532][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.24-02.44.22:534][506]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.44.22:536][506]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2025.10.24-02.44.22:537][506]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.44.22:537][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.44.22:537][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.44.22:537][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.44.22:537][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.44.22:537][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.44.22:539][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.44.22:556][506]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.44.22:556][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.44.22:556][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.44.22:556][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.44.22:556][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.10.24-02.44.22:556][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.10.24-02.44.22:559][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.10.24-02.44.22:559][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.10.24-02.44.22:559][506]LogInit: FAudioDevice initialized with ID 27.
+[2025.10.24-02.44.22:559][506]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestMap'.
+[2025.10.24-02.44.22:559][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.24-02.44.22:596][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.44.22:596][506]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.44.22:597][506]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.44.22
+[2025.10.24-02.44.22:597][506]LogWorld: Bringing up level for play took: 0.000844
+[2025.10.24-02.44.22:599][506]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2025.10.24-02.44.22:605][506]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.44.22:606][506]PIE: 에디터에서 플레이 총 시작 시간 0.098초입니다.
+[2025.10.24-02.44.29:947][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.44.29:947][ 49]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.44.29:947][ 49]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.44.29:950][ 49]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.44.29:950][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.44.29:960][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.44.29:966][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.44.29:988][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.24-02.44.29:988][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.10.24-02.44.29:990][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.10.24-02.44.29:998][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.24-02.44.30:090][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2025.10.24-02.44.32:588][245]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.44.32:597][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.44.32:597][245]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.44.32:601][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003689s)
+[2025.10.24-02.44.32:601][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.003735s)
+[2025.10.24-02.44.32:624][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.24-02.44.32:626][245]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.44.32:628][245]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2025.10.24-02.44.32:628][245]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.24-02.44.32:628][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.44.32:628][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.44.32:628][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.44.32:628][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.44.32:628][245]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.44.32:628][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.44.32:629][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.44.32:629][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.44.32:629][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.44.32:629][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.44.32:629][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.44.32:631][245]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.44.32:647][245]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.44.32:647][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.44.32:647][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.44.32:647][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.44.32:648][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.24-02.44.32:648][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.24-02.44.32:651][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.24-02.44.32:651][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.24-02.44.32:651][245]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.24-02.44.32:651][245]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestMap'.
+[2025.10.24-02.44.32:651][245]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.24-02.44.32:678][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.44.32:678][245]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.44.32:679][245]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.44.32
+[2025.10.24-02.44.32:679][245]LogWorld: Bringing up level for play took: 0.000907
+[2025.10.24-02.44.32:682][245]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2025.10.24-02.44.32:688][245]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.44.32:690][245]PIE: 에디터에서 플레이 총 시작 시간 0.093초입니다.
+[2025.10.24-02.44.37:106][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.44.37:106][522]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.44.37:107][522]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.44.37:111][522]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.44.37:111][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.44.37:121][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.44.37:127][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.44.37:150][522]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.24-02.44.37:150][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.10.24-02.44.37:152][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.10.24-02.44.37:160][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.24-02.44.37:252][523]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2025.10.24-02.44.58:783][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-02.45.00:466][249]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.45.00:472][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.45.00:472][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.45.00:474][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001392s)
+[2025.10.24-02.45.00:474][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001423s)
+[2025.10.24-02.45.00:496][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.24-02.45.00:499][249]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.45.00:501][249]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2025.10.24-02.45.00:502][249]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.45.00:502][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.45.00:502][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.45.00:502][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.45.00:502][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.45.00:502][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.45.00:504][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.45.00:520][249]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.45.00:520][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.45.00:520][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.45.00:520][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.45.00:520][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.24-02.45.00:520][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.24-02.45.00:523][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.24-02.45.00:523][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.24-02.45.00:523][249]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.24-02.45.00:523][249]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestMap'.
+[2025.10.24-02.45.00:523][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.24-02.45.00:578][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.45.00:578][249]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.45.00:579][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.45.00
+[2025.10.24-02.45.00:579][249]LogWorld: Bringing up level for play took: 0.000805
+[2025.10.24-02.45.00:581][249]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2025.10.24-02.45.00:587][249]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.45.00:589][249]PIE: 에디터에서 플레이 총 시작 시간 0.116초입니다.
+[2025.10.24-02.45.02:316][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.45.02:316][357]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.45.02:316][357]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.45.02:320][357]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.45.02:320][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.45.02:331][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.45.02:337][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.45.02:358][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.45.02:358][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.24-02.45.02:358][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.10.24-02.45.02:360][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.10.24-02.45.02:366][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-02.45.02:460][358]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2025.10.24-02.50.35:868][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.10.24-02.50.36:777][837]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.50.36:783][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.50.36:783][837]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.50.36:785][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001526s)
+[2025.10.24-02.50.36:785][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001560s)
+[2025.10.24-02.50.36:806][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.24-02.50.36:812][837]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.50.36:814][837]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2025.10.24-02.50.36:815][837]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.50.36:815][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.50.36:815][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.50.36:815][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.50.36:815][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.50.36:815][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.50.36:817][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.50.36:834][837]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.50.36:834][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.50.36:834][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.50.36:834][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.50.36:834][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.24-02.50.36:834][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.24-02.50.36:838][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.24-02.50.36:838][837]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.24-02.50.36:838][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.24-02.50.36:838][837]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestMap'.
+[2025.10.24-02.50.36:838][837]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.24-02.50.36:892][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.50.36:892][837]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.50.36:893][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.50.36
+[2025.10.24-02.50.36:893][837]LogWorld: Bringing up level for play took: 0.000963
+[2025.10.24-02.50.36:896][837]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2025.10.24-02.50.36:902][837]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.50.36:904][837]PIE: 에디터에서 플레이 총 시작 시간 0.121초입니다.
+[2025.10.24-02.50.44:413][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.50.44:413][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.50.44:414][484]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.50.44:417][484]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.50.44:417][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.50.44:420][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.50.44:426][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.50.44:448][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.50.44:449][484]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.24-02.50.44:449][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.10.24-02.50.44:451][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.10.24-02.50.44:458][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.24-02.50.44:522][485]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2025.10.24-02.51.05:003][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-02.51.06:137][209]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-02.51.06:144][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-02.51.06:145][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.51.06:147][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002058s)
+[2025.10.24-02.51.06:147][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002106s)
+[2025.10.24-02.51.06:168][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.24-02.51.06:178][209]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.24-02.51.06:179][209]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2025.10.24-02.51.06:181][209]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-02.51.06:181][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-02.51.06:181][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-02.51.06:181][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-02.51.06:181][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-02.51.06:181][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-02.51.06:183][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-02.51.06:199][209]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-02.51.06:199][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-02.51.06:199][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-02.51.06:199][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-02.51.06:200][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.10.24-02.51.06:200][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.10.24-02.51.06:202][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.10.24-02.51.06:202][209]LogInit: FAudioDevice initialized with ID 31.
+[2025.10.24-02.51.06:202][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.10.24-02.51.06:202][209]LogAudio: Display: Audio Device (ID: 31) registered with world 'TestMap'.
+[2025.10.24-02.51.06:202][209]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.24-02.51.06:242][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.51.06:242][209]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.24-02.51.06:243][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.24-11.51.06
+[2025.10.24-02.51.06:243][209]LogWorld: Bringing up level for play took: 0.000872
+[2025.10.24-02.51.06:245][209]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2025.10.24-02.51.06:251][209]PIE: 서버가 로그인했습니다.
+[2025.10.24-02.51.06:253][209]PIE: 에디터에서 플레이 총 시작 시간 0.109초입니다.
+[2025.10.24-02.51.14:073][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-02.51.14:073][841]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.24-02.51.14:074][841]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-02.51.14:078][841]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-02.51.14:079][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.51.14:081][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-02.51.14:088][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-02.51.14:108][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-02.51.14:108][841]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.24-02.51.14:108][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.10.24-02.51.14:110][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.10.24-02.51.14:117][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.24-02.51.14:211][842]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2025.10.24-02.51.50:503][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.24-02.51.50:512][ 65]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.033
+[2025.10.24-02.51.50:513][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.24-02.51.50:551][ 65]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.24-02.51.50:552][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.24-02.51.50:568][ 65]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_TestCharecter_Auto1
+[2025.10.24-02.51.50:568][ 65]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto1471216BF469CDC2AE77AACADAC45E682.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Blueprint/BP_TestCharecter_Auto1.uasset'
+[2025.10.24-02.51.50:569][ 65]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2025.10.24-02.51.50:570][ 65]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_249
+	Function /Game/Animation/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:012C
+[2025.10.24-02.51.50:582][ 65]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2025.10.24-02.51.50:582][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2025.10.24-02.51.50:606][ 65]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/ABP_Player_Auto1
+[2025.10.24-02.51.50:606][ 65]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto1468910BC475730357C4080B17569FB35.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/ABP_Player_Auto1.uasset'
+[2025.10.24-02.51.50:607][ 65]LogFileHelpers: Auto-saving content packages took 0.095
+[2025.10.24-02.52.12:956][488]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'ACharacter::Jump' [지정된 모듈을 찾을 수 없습니다.]
+[2025.10.24-02.52.13:505][499]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'ACharacter::Jump' [지정된 모듈을 찾을 수 없습니다.]
