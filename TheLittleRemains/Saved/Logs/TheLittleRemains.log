@@ -4222,3 +4222,1407 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.26-07.51.03:043][ 73]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Attack_Auto1
 [2025.10.26-07.51.03:043][ 73]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IA_Attack_Auto1B7B53DB14EA961D0E3DA6E84F5B508BB.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Input/IA_Attack_Auto1.uasset'
 [2025.10.26-07.51.03:043][ 73]LogFileHelpers: Auto-saving content packages took 0.156
+[2025.10.26-07.52.04:110][592]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Player/Montages/Attack2_Straight_Montage.Attack2_Straight_Montage
+[2025.10.26-07.52.19:729][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-07.52.19:816][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Player/Montages/Attack2_Straight_Montage] ([1] browsable assets)...
+[2025.10.26-07.52.19:824][509]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Player/Montages/Attack2_Straight_Montage.Attack2_Straight_Montage]
+[2025.10.26-07.52.19:824][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/Montages/Attack2_Straight_Montage]
+[2025.10.26-07.52.19:826][509]LogSavePackage: Moving output files for package: /Game/Animation/Player/Montages/Attack2_Straight_Montage
+[2025.10.26-07.52.19:826][509]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Attack2_Straight_MontageEBEE8D0A4FEC288C56370380D4AFDB83.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/Montages/Attack2_Straight_Montage.uasset'
+[2025.10.26-07.52.19:837][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.048 ms (total: 2.27 sec)
+[2025.10.26-07.52.19:924][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-07.52.19:924][509]LogContentValidation: Enabled validators:
+[2025.10.26-07.52.19:924][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-07.52.19:924][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-07.52.19:924][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-07.52.19:924][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-07.52.19:924][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-07.52.19:924][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-07.52.19:924][509]AssetCheck: /Game/Animation/Player/Montages/Attack2_Straight_Montage 에셋 유효성 검사 중
+[2025.10.26-07.53.50:106][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-07.53.55:897][151]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_198
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.55:897][151]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_198
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.55:897][151]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_198
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:245][172]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_199
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:246][172]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_199
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:246][172]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_199
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:262][173]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_200
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:262][173]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_200
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:262][173]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_200
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:279][174]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_201
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:279][174]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_201
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:279][174]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_201
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:295][175]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_202
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:295][175]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_202
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:295][175]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_202
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:312][176]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_203
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:312][176]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_203
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:313][176]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_203
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:328][177]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_204
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:328][177]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_204
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:328][177]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_204
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:345][178]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_205
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:345][178]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_205
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:345][178]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_205
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:362][179]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_206
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:362][179]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_206
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:362][179]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_206
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:379][180]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_207
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:379][180]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_207
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:379][180]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_207
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:395][181]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_208
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:395][181]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_208
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:395][181]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_208
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:412][182]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_209
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:412][182]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_209
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:412][182]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_209
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:429][183]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_210
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:429][183]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_210
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:429][183]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_210
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:445][184]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_211
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:445][184]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_211
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:445][184]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_211
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:461][185]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_212
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:462][185]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_212
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:462][185]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_212
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:478][186]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_213
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:478][186]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_213
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:478][186]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_213
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:495][187]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_214
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:495][187]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_214
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:495][187]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_214
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:618][194]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_215
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:618][194]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_215
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:618][194]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_215
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:634][195]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_216
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:634][195]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_216
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:634][195]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_216
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:654][196]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_217
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:654][196]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_217
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:654][196]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_217
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.53.56:667][197]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_218
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-07.53.56:667][197]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_218
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-07.53.56:667][197]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_218
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-07.55.16:528][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1734.611206
+[2025.10.26-07.55.16:794][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-07.55.16:794][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1734.861084, Update Interval: 344.188354
+[2025.10.26-07.55.53:220][129]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.26-07.56.47:823][369]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.26-07.56.54:012][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.26-07.59.28:911][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.26-08.00.54:208][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.26-08.00.59:198][217]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_219
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.00.59:199][217]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_219
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.00.59:199][217]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_219
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.00.59:347][226]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_220
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.00.59:347][226]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_220
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.00.59:347][226]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_220
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.00.59:363][227]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_221
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.00.59:363][227]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_221
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.00.59:363][227]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_221
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.00.59:381][228]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_222
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.00.59:381][228]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_222
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.00.59:381][228]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_222
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.00.59:397][229]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_223
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.00.59:397][229]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_223
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.00.59:397][229]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_223
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.01.05:689][592]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.26-08.01.05:699][592]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.26-08.01.05:709][593]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.26-08.01.12:155][980]LogContentBrowser: Attempting asset rename: 새 폴더 -> AnimNotify
+[2025.10.26-08.01.12:155][980]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.26-08.01.41:631][501]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.26-08.01.41:642][501]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.26-08.01.41:649][501]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.26-08.01.41:676][503]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.26-08.01.44:724][680]LogContentBrowser: Attempting asset rename: NewBlueprint -> A
+[2025.10.26-08.01.44:737][680]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.26-08.01.44:776][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.26-08.01.44:779][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.022
+[2025.10.26-08.01.44:779][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.26-08.01.44:786][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.26-08.01.44:786][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.26-08.01.44:798][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_TestCharecter_Auto2
+[2025.10.26-08.01.44:799][680]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto24C59987E4AE325BEDC38779BE2E29551.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Blueprint/BP_TestCharecter_Auto2.uasset'
+[2025.10.26-08.01.44:799][680]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.26-08.01.44:800][680]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_224
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.01.44:800][680]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_224
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.01.44:800][680]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_224
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.01.44:805][680]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.26-08.01.44:805][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/ABP_Player]
+[2025.10.26-08.01.44:824][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/ABP_Player_Auto2
+[2025.10.26-08.01.44:824][680]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto287A1E2BF469F319E45B6A6AB50B7D12C.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/ABP_Player_Auto2.uasset'
+[2025.10.26-08.01.44:824][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.26-08.01.44:824][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/BPC_AttackSystem]
+[2025.10.26-08.01.44:833][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Components/BPC_AttackSystem_Auto2
+[2025.10.26-08.01.44:833][680]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto2CB0A8EA34E34DBB0C2C3CE829EEAADD5.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Components/BPC_AttackSystem_Auto2.uasset'
+[2025.10.26-08.01.44:833][680]LogFileHelpers: Auto-saving content packages took 0.054
+[2025.10.26-08.01.53:773][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2131.852539
+[2025.10.26-08.01.54:023][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.01.54:023][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2132.086426, Update Interval: 358.403259
+[2025.10.26-08.01.55:634][326]LogContentBrowser: Attempting asset rename: A -> ANS_AttackTrace
+[2025.10.26-08.01.55:749][326]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.SKEL_ANS_AttackTrace_C' ref from Metadata '/Game/Animation/Player/AnimNotify/A.PackageMetaData'
+[2025.10.26-08.01.55:749][326]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.ANS_AttackTrace_C' ref from Metadata '/Game/Animation/Player/AnimNotify/A.PackageMetaData'
+[2025.10.26-08.01.55:753][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.01.55:753][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace] ([2] browsable assets)...
+[2025.10.26-08.01.55:753][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace]
+[2025.10.26-08.01.55:753][326]LogSavePackage: Moving output files for package: /Game/Animation/Player/AnimNotify/ANS_AttackTrace
+[2025.10.26-08.01.55:753][326]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace971C32CF4CCC164281249B8E2211A75B.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/AnimNotify/ANS_AttackTrace.uasset'
+[2025.10.26-08.01.55:758][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.362 ms (total: 2.28 sec)
+[2025.10.26-08.01.55:790][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.26-08.01.55:808][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.26-08.01.55:826][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.26-08.01.55:947][326]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.01.55:947][326]LogContentValidation: Enabled validators:
+[2025.10.26-08.01.55:947][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.01.55:947][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.01.55:947][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.01.55:947][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.01.55:947][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.01.55:947][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.01.55:947][326]AssetCheck: /Game/Animation/Player/AnimNotify/ANS_AttackTrace 에셋 유효성 검사 중
+[2025.10.26-08.01.57:543][420]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animation/Player/AnimNotify/ANS_AttackTrace.ANS_AttackTrace
+[2025.10.26-08.01.57:544][420]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.10.26-08.04.48:835][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.26-08.08.47:173][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2545.245361
+[2025.10.26-08.08.47:439][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.08.47:439][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2545.495361, Update Interval: 351.844238
+[2025.10.26-08.10.00:922][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.26-08.10.02:336][278]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.10.02:336][278]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.10.02:336][278]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.10.02:336][278]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.10.02:336][278]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.10.02:336][278]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_225
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.10.05:892][475]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.10.26-08.10.54:237][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-08.11.14:173][552]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Player/Montages/Attack1_Jab_Montage.Attack1_Jab_Montage
+[2025.10.26-08.15.20:538][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2938.629150
+[2025.10.26-08.15.20:889][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.15.20:889][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2938.962646, Update Interval: 316.304199
+[2025.10.26-08.15.52:909][809]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.26-08.15.52:920][809]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.26-08.15.52:928][809]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.26-08.15.52:937][810]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.26-08.15.56:009][985]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.10.26-08.15.56:022][985]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.26-08.15.56:061][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.26-08.15.56:064][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.024
+[2025.10.26-08.15.56:064][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.26-08.15.56:072][985]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.26-08.15.56:072][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.26-08.15.56:084][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_TestCharecter_Auto3
+[2025.10.26-08.15.56:085][985]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto3829A1E7F4C302D6803FD91B41EF93CCA.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Blueprint/BP_TestCharecter_Auto3.uasset'
+[2025.10.26-08.15.56:086][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.26-08.15.56:086][985]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.15.56:086][985]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.15.56:086][985]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.15.56:086][985]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.15.56:086][985]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.15.56:086][985]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_226
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.15.56:092][985]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.26-08.15.56:092][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/ABP_Player]
+[2025.10.26-08.15.56:111][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/ABP_Player_Auto3
+[2025.10.26-08.15.56:111][985]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto3291F5226452BF37DD368B4894DF73060.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/ABP_Player_Auto3.uasset'
+[2025.10.26-08.15.56:113][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.26-08.15.56:113][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/BPC_AttackSystem]
+[2025.10.26-08.15.56:122][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Components/BPC_AttackSystem_Auto3
+[2025.10.26-08.15.56:123][985]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto3D354098E45A888F9F1C7C0B54FED64DF.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Components/BPC_AttackSystem_Auto3.uasset'
+[2025.10.26-08.15.56:123][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Player/Montages/Attack1_Jab_Montage] ([1] browsable assets)...
+[2025.10.26-08.15.56:130][985]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Player/Montages/Attack1_Jab_Montage.Attack1_Jab_Montage]
+[2025.10.26-08.15.56:130][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/Montages/Attack1_Jab_Montage]
+[2025.10.26-08.15.56:131][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/Montages/Attack1_Jab_Montage_Auto3
+[2025.10.26-08.15.56:131][985]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Attack1_Jab_Montage_Auto302D893A74ED6C967FF54478B8E7B133E.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/Montages/Attack1_Jab_Montage_Auto3.uasset'
+[2025.10.26-08.15.56:131][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace] ([2] browsable assets)...
+[2025.10.26-08.15.56:131][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace]
+[2025.10.26-08.15.56:134][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto3
+[2025.10.26-08.15.56:134][985]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace_Auto3D547FA154DB81205ADB835AE2F1CD8B6.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto3.uasset'
+[2025.10.26-08.15.56:134][985]LogFileHelpers: Auto-saving content packages took 0.069
+[2025.10.26-08.16.03:910][450]LogContentBrowser: Attempting asset rename: ANS_AttackTrace -> ANS_AttackTrace1
+[2025.10.26-08.16.04:031][450]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace1.ANS_AttackTrace1_C' ref from Metadata '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.PackageMetaData'
+[2025.10.26-08.16.04:031][450]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace1.SKEL_ANS_AttackTrace1_C' ref from Metadata '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.PackageMetaData'
+[2025.10.26-08.16.04:031][450]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace1.ANS_AttackTrace1:Received_Notify.K2Node_FunctionEntry_0' ref from Metadata '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.PackageMetaData'
+[2025.10.26-08.16.04:031][450]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace1.ANS_AttackTrace1:Received_Notify.K2Node_FunctionResult_0' ref from Metadata '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.PackageMetaData'
+[2025.10.26-08.16.04:031][450]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace1.ANS_AttackTrace1_C:Received_Notify' ref from Metadata '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.PackageMetaData'
+[2025.10.26-08.16.04:031][450]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace1.SKEL_ANS_AttackTrace1_C:Received_Notify' ref from Metadata '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.PackageMetaData'
+[2025.10.26-08.16.04:042][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.16.04:042][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1] ([2] browsable assets)...
+[2025.10.26-08.16.04:042][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1]
+[2025.10.26-08.16.04:045][450]LogSavePackage: Moving output files for package: /Game/Animation/Player/AnimNotify/ANS_AttackTrace1
+[2025.10.26-08.16.04:045][450]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace16EA6411049CBB9C50B37718FA3B15487.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/AnimNotify/ANS_AttackTrace1.uasset'
+[2025.10.26-08.16.04:051][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.562 ms (total: 2.29 sec)
+[2025.10.26-08.16.04:087][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-08.16.04:106][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-08.16.04:123][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.26-08.16.04:246][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.16.04:246][450]LogContentValidation: Enabled validators:
+[2025.10.26-08.16.04:246][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.16.04:246][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.16.04:246][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.16.04:246][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.16.04:246][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.16.04:246][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.16.04:246][450]AssetCheck: /Game/Animation/Player/AnimNotify/ANS_AttackTrace1 에셋 유효성 검사 중
+[2025.10.26-08.16.06:527][585]LogContentBrowser: Attempting asset rename: NewBlueprint -> ANS_AttackTrace
+[2025.10.26-08.16.06:644][585]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.SKEL_ANS_AttackTrace_C' ref from Metadata '/Game/Animation/Player/AnimNotify/NewBlueprint.PackageMetaData'
+[2025.10.26-08.16.06:644][585]LogMetaData: Removing '/Game/Animation/Player/AnimNotify/ANS_AttackTrace.ANS_AttackTrace_C' ref from Metadata '/Game/Animation/Player/AnimNotify/NewBlueprint.PackageMetaData'
+[2025.10.26-08.16.06:648][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.16.06:648][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace] ([2] browsable assets)...
+[2025.10.26-08.16.06:648][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace]
+[2025.10.26-08.16.06:649][585]LogSavePackage: Moving output files for package: /Game/Animation/Player/AnimNotify/ANS_AttackTrace
+[2025.10.26-08.16.06:649][585]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace555EA06845E39E49484A2093E828F4EA.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/AnimNotify/ANS_AttackTrace.uasset'
+[2025.10.26-08.16.06:653][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.274 ms (total: 2.29 sec)
+[2025.10.26-08.16.06:685][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-08.16.06:702][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-08.16.06:719][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.26-08.16.06:851][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.16.06:852][585]LogContentValidation: Enabled validators:
+[2025.10.26-08.16.06:852][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.16.06:852][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.16.06:852][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.16.06:852][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.16.06:852][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.16.06:852][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.16.06:852][585]AssetCheck: /Game/Animation/Player/AnimNotify/ANS_AttackTrace 에셋 유효성 검사 중
+[2025.10.26-08.16.08:851][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animation/Player/AnimNotify/ANS_AttackTrace.ANS_AttackTrace
+[2025.10.26-08.16.08:851][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.10.26-08.17.20:976][973]LogBlueprint: Error: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Animation\Player\AnimNotify\ANS_AttackTrace.uasset: [Compiler] 이 블루프린트(셀프)는 ActorComponent 이지 않으므로, ' Target '에 연결이 있어야 합니다.
+[2025.10.26-08.17.20:976][973]LogBlueprint: Error: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Animation\Player\AnimNotify\ANS_AttackTrace.uasset: [Compiler] 이 블루프린트(셀프)는 ActorComponent 이지 않으므로, ' Target '에 연결이 있어야 합니다.
+[2025.10.26-08.17.21:047][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-08.17.43:401][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.26-08.17.45:353][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.26-08.18.29:441][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.18.29:533][ 13]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Player/Montages/Attack1_Jab_Montage] ([1] browsable assets)...
+[2025.10.26-08.18.29:540][ 13]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Player/Montages/Attack1_Jab_Montage.Attack1_Jab_Montage]
+[2025.10.26-08.18.29:540][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/Montages/Attack1_Jab_Montage]
+[2025.10.26-08.18.29:541][ 13]LogSavePackage: Moving output files for package: /Game/Animation/Player/Montages/Attack1_Jab_Montage
+[2025.10.26-08.18.29:542][ 13]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Attack1_Jab_MontageEFB385AF4E4BB9BC253DB0BD97CEF0DB.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/Montages/Attack1_Jab_Montage.uasset'
+[2025.10.26-08.18.29:551][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.883 ms (total: 2.40 sec)
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: Enabled validators:
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.18.29:669][ 13]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.18.29:669][ 13]AssetCheck: /Game/Animation/Player/Montages/Attack1_Jab_Montage 에셋 유효성 검사 중
+[2025.10.26-08.18.37:929][507]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.18.37:933][507]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace1 before play...
+[2025.10.26-08.18.37:953][507]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.10.26-08.18.38:012][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-08.18.38:015][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (2 blueprints)
+[2025.10.26-08.18.38:016][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.18.38:017][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2025.10.26-08.18.38:017][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001725s)
+[2025.10.26-08.18.38:032][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-08.18.38:033][507]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.18.38:035][507]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2025.10.26-08.18.38:035][507]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.18.38:035][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.18.38:035][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.18.38:035][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.18.38:035][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.18.38:035][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.18.38:037][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.18.38:073][507]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.18.38:073][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.18.38:073][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.18.38:073][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.18.38:075][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.26-08.18.38:075][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.26-08.18.38:076][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.26-08.18.38:076][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.26-08.18.38:076][507]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.26-08.18.38:076][507]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2025.10.26-08.18.38:076][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.26-08.18.38:079][507]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.18.38:080][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.18.38
+[2025.10.26-08.18.38:081][507]LogWorld: Bringing up level for play took: 0.001929
+[2025.10.26-08.18.38:083][507]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.10.26-08.18.38:086][507]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.18.38:086][507]PIE: 에디터에서 플레이 총 시작 시간 0.154초입니다.
+[2025.10.26-08.18.58:063][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.18.58:063][700]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.18.58:063][700]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.18.58:063][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.18.58:065][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.18.58:069][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.18.58:088][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.18.58:088][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.26-08.18.58:089][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.26-08.18.58:091][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.26-08.18.58:096][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.26-08.18.58:171][701]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.10.26-08.19.33:149][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.26-08.19.33:165][779]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.26-08.19.33:189][780]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.26-08.19.55:384][105]LogStreaming: Display: FlushAsyncLoading(714): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.19.55:399][105]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle3.Ant_Idle3 (Required Memory Estimate: 23.17 MB)
+[2025.10.26-08.19.55:463][105]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle3.Ant_Idle3, at AnimationSequence/298746641c7da4351b21c221bf6b7f088938e722
+[2025.10.26-08.19.55:467][105]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle3.Ant_Idle3
+[2025.10.26-08.19.55:468][105]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.26-08.19.55:475][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.26-08.19.55:659][105]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.26-08.19.56:075][105]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.26-08.20.04:860][612]LogStreaming: Display: FlushAsyncLoading(715): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.04:863][612]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle1.Ant_Idle1 (Required Memory Estimate: 9.63 MB)
+[2025.10.26-08.20.04:889][612]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle1.Ant_Idle1, at AnimationSequence/2e63b1e455c76c7f9a90d07b9fa3aa918a7052da
+[2025.10.26-08.20.04:897][612]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle1.Ant_Idle1
+[2025.10.26-08.20.04:934][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.26-08.20.04:960][612]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.04:960][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.05:139][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.26-08.20.11:774][  7]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.11:777][  7]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle2.Ant_Idle2 (Required Memory Estimate: 7.75 MB)
+[2025.10.26-08.20.11:802][  7]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle2.Ant_Idle2, at AnimationSequence/b442f45e75628f2b976a367cb974cef686cbff6c
+[2025.10.26-08.20.11:807][  7]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle2.Ant_Idle2
+[2025.10.26-08.20.11:844][  7]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.26-08.20.11:873][  7]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.11:873][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.11:956][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.26-08.20.15:757][227]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle1.Ant_Idle1
+[2025.10.26-08.20.15:796][227]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.26-08.20.15:823][227]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.15:823][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.15:943][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.26-08.20.18:794][393]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.18:798][393]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle4.Ant_Idle4 (Required Memory Estimate: 13.06 MB)
+[2025.10.26-08.20.18:838][393]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle4.Ant_Idle4, at AnimationSequence/0d42a82dea90fbe75311527475499887521caa19
+[2025.10.26-08.20.18:843][393]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle4.Ant_Idle4
+[2025.10.26-08.20.18:880][393]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.26-08.20.18:909][393]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.18:909][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.18:988][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.26-08.20.25:095][751]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.25:098][751]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Run.Ant_Run (Required Memory Estimate: 2.95 MB)
+[2025.10.26-08.20.25:108][751]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Run.Ant_Run, at AnimationSequence/979b2810fa96bc9eb87dfb19418dad1b17811a5d
+[2025.10.26-08.20.25:112][751]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Run.Ant_Run
+[2025.10.26-08.20.25:149][751]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.26-08.20.25:176][751]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.25:176][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.25:256][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.26-08.20.30:382][ 50]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.30:386][ 50]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_TurnLeft.Ant_TurnLeft (Required Memory Estimate: 8.77 MB)
+[2025.10.26-08.20.30:388][ 50]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_TurnRight.Ant_TurnRight (Required Memory Estimate: 8.77 MB)
+[2025.10.26-08.20.30:389][ 50]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Walk.Ant_Walk (Required Memory Estimate: 4.32 MB)
+[2025.10.26-08.20.30:413][ 50]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Walk.Ant_Walk, at AnimationSequence/172ba6e730f072cc9ce8480f7f8f773c2669fd3c
+[2025.10.26-08.20.30:426][ 50]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_TurnRight.Ant_TurnRight, at AnimationSequence/a6f4bb36a17b7b2e334e5a1b47986bc115e79481
+[2025.10.26-08.20.30:426][ 50]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_TurnLeft.Ant_TurnLeft, at AnimationSequence/db4079c3899c98235d1afd09e73b84140769ad3e
+[2025.10.26-08.20.30:431][ 50]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_BlendSpace.Ant_BlendSpace
+[2025.10.26-08.20.30:481][ 50]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.30:481][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.30:615][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-08.20.33:945][243]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.33:948][243]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Dead.Ant_Dead (Required Memory Estimate: 5.18 MB)
+[2025.10.26-08.20.33:956][243]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Dead.Ant_Dead, at AnimationSequence/cb660727a3997b0b42cee5d5455a57d7c966be07
+[2025.10.26-08.20.33:960][243]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Dead.Ant_Dead
+[2025.10.26-08.20.33:997][243]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.10.26-08.20.36:119][362]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-08.20.36:123][362]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Death.Ant_Death (Required Memory Estimate: 12.89 MB)
+[2025.10.26-08.20.36:164][362]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Death.Ant_Death, at AnimationSequence/385c36a87b48b5dc76c9c9f73f1abcab624cdb8c
+[2025.10.26-08.20.36:169][362]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Death.Ant_Death
+[2025.10.26-08.20.36:207][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.10.26-08.20.36:233][362]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.20.36:233][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.20.36:312][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.26-08.21.10:796][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3288.888184
+[2025.10.26-08.21.11:079][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.21.11:079][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3289.154541, Update Interval: 352.298340
+[2025.10.26-08.22.37:879][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.26-08.23.28:230][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.26-08.25.57:144][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.26-08.26.15:874][478]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Player/Montages/Attack2_Straight_Montage.Attack2_Straight_Montage
+[2025.10.26-08.27.03:873][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.27.03:969][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Player/Montages/Attack2_Straight_Montage] ([1] browsable assets)...
+[2025.10.26-08.27.03:981][329]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Player/Montages/Attack2_Straight_Montage.Attack2_Straight_Montage]
+[2025.10.26-08.27.03:981][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/Montages/Attack2_Straight_Montage]
+[2025.10.26-08.27.03:983][329]LogSavePackage: Moving output files for package: /Game/Animation/Player/Montages/Attack2_Straight_Montage
+[2025.10.26-08.27.03:983][329]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Attack2_Straight_Montage2894448A4E4C5D9A4EF776BBEBD92139.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/Montages/Attack2_Straight_Montage.uasset'
+[2025.10.26-08.27.03:992][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.454 ms (total: 2.52 sec)
+[2025.10.26-08.27.04:090][329]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.27.04:090][329]LogContentValidation: Enabled validators:
+[2025.10.26-08.27.04:090][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.27.04:090][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.27.04:090][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.27.04:090][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.27.04:090][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.27.04:090][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.27.04:090][329]AssetCheck: /Game/Animation/Player/Montages/Attack2_Straight_Montage 에셋 유효성 검사 중
+[2025.10.26-08.27.22:949][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.27.23:043][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Player/Montages/Attack3_Hook_Montage] ([1] browsable assets)...
+[2025.10.26-08.27.23:050][441]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Player/Montages/Attack3_Hook_Montage.Attack3_Hook_Montage]
+[2025.10.26-08.27.23:051][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/Montages/Attack3_Hook_Montage]
+[2025.10.26-08.27.23:052][441]LogSavePackage: Moving output files for package: /Game/Animation/Player/Montages/Attack3_Hook_Montage
+[2025.10.26-08.27.23:052][441]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Attack3_Hook_MontageDFF7F1114244764D847FBF9B4C2E48A5.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/Montages/Attack3_Hook_Montage.uasset'
+[2025.10.26-08.27.23:063][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.762 ms (total: 2.64 sec)
+[2025.10.26-08.27.23:176][441]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.27.23:176][441]LogContentValidation: Enabled validators:
+[2025.10.26-08.27.23:176][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.27.23:176][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.27.23:176][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.27.23:176][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.27.23:176][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.27.23:176][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.27.23:176][441]AssetCheck: /Game/Animation/Player/Montages/Attack3_Hook_Montage 에셋 유효성 검사 중
+[2025.10.26-08.27.50:214][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.27.50:306][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Player/Montages/Attack4_Hook_Montage] ([1] browsable assets)...
+[2025.10.26-08.27.50:316][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Player/Montages/Attack4_Hook_Montage.Attack4_Hook_Montage]
+[2025.10.26-08.27.50:316][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/Montages/Attack4_Hook_Montage]
+[2025.10.26-08.27.50:318][ 36]LogSavePackage: Moving output files for package: /Game/Animation/Player/Montages/Attack4_Hook_Montage
+[2025.10.26-08.27.50:318][ 36]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Attack4_Hook_MontageFF1E384A41E4C5EBFA37DDB8E3B4097F.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Player/Montages/Attack4_Hook_Montage.uasset'
+[2025.10.26-08.27.50:327][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.050 ms (total: 2.75 sec)
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: Enabled validators:
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.27.50:446][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.27.50:446][ 36]AssetCheck: /Game/Animation/Player/Montages/Attack4_Hook_Montage 에셋 유효성 검사 중
+[2025.10.26-08.27.58:741][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3696.822266
+[2025.10.26-08.27.59:024][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.27.59:024][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3697.088867, Update Interval: 308.309570
+[2025.10.26-08.28.10:787][213]LogDerivedDataCache: C:/Users/Jackbongmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.26-08.28.41:842][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.26-08.28.43:162][135]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.28.43:167][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.28.43:167][135]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.28.43:169][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001885s)
+[2025.10.26-08.28.43:169][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001919s)
+[2025.10.26-08.28.43:185][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.26-08.28.43:189][135]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.28.43:191][135]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2025.10.26-08.28.43:191][135]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.28.43:191][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.28.43:191][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.28.43:191][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.28.43:191][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.28.43:191][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.28.43:194][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.28.43:229][135]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.28.43:229][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.28.43:229][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.28.43:229][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.28.43:231][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.26-08.28.43:231][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.26-08.28.43:232][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.26-08.28.43:232][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.26-08.28.43:232][135]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.26-08.28.43:232][135]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2025.10.26-08.28.43:232][135]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.26-08.28.43:235][135]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.28.43:237][135]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.28.43
+[2025.10.26-08.28.43:237][135]LogWorld: Bringing up level for play took: 0.001890
+[2025.10.26-08.28.43:239][135]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.10.26-08.28.43:241][135]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.28.43:242][135]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2025.10.26-08.29.02:292][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.29.02:292][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.29.02:292][269]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.29.02:293][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.29.02:296][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.29.02:300][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.29.02:314][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-08.29.02:314][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.26-08.29.02:314][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.26-08.29.02:316][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.26-08.29.02:319][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.29.02:322][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.26-08.29.02:405][270]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.10.26-08.30.23:145][ 11]LogBlueprint: Error: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Components\BPC_AttackSystem.uasset: [Compiler] ' Hit ' 핀의 현재 값이 유효하지 않습니다: 'BreakHitResult' 작업의 'Hit'에는 반드시 입력이 연결되어 있어야 합니다("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2025.10.26-08.30.23:177][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-08.31.16:599][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.26-08.31.22:360][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.26-08.31.54:737][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default
+[2025.10.26-08.31.54:738][386]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.10.26-08.32.02:298][815]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.32.02:298][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.32.02:320][815]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default
+[2025.10.26-08.32.02:320][815]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.10.26-08.32.02:667][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.26-08.33.25:622][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.26-08.33.59:327][684]LogContentBrowser: Deferred new asset file creation: Ant_Idle4_Montage
+[2025.10.26-08.33.59:354][684]LogContentBrowser: Creating deferred item: Ant_Idle4_Montage
+[2025.10.26-08.33.59:365][685]LogContentBrowser: Renaming the item being created (Deferred Item: Ant_Idle4_Montage).
+[2025.10.26-08.34.00:015][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4058.104736
+[2025.10.26-08.34.00:281][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.34.00:281][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4058.353516, Update Interval: 324.051636
+[2025.10.26-08.34.00:808][772]LogContentBrowser: Attempting asset rename: Ant_Idle4_Montage -> Ant_Idle4_Montage
+[2025.10.26-08.34.00:820][772]LogContentBrowser: End creating deferred item Ant_Idle4_Montage
+[2025.10.26-08.34.48:870][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.26-08.35.06:194][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.26-08.35.54:100][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.26-08.36.52:638][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.26-08.37.42:387][622]LogSlate: Window '애니메이션 블루프린트 생성' being destroyed
+[2025.10.26-08.37.42:401][622]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.10.26-08.37.42:407][622]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.10.26-08.37.42:428][623]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.10.26-08.37.49:341][ 36]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Ant
+[2025.10.26-08.37.49:359][ 36]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.10.26-08.37.49:360][ 36]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.26-08.37.53:465][280]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant
+[2025.10.26-08.37.53:466][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.26-08.37.53:474][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.26-08.37.53:481][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.26-08.37.53:711][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.26-08.39.00:745][195]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle2.Ant_Idle2
+[2025.10.26-08.39.00:788][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.26-08.39.00:817][195]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.39.00:817][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.39.00:953][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.26-08.39.19:003][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.26-08.39.19:663][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.39.19:753][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Moster/Ant/ABP_Ant] ([2] browsable assets)...
+[2025.10.26-08.39.19:760][299]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant]
+[2025.10.26-08.39.19:760][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/ABP_Ant]
+[2025.10.26-08.39.19:765][299]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/ABP_Ant
+[2025.10.26-08.39.19:765][299]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Ant2A2B107B43B5A061466A8A8352AE8DFC.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/ABP_Ant.uasset'
+[2025.10.26-08.39.19:803][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.155 ms (total: 2.89 sec)
+[2025.10.26-08.39.19:903][299]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.39.19:903][299]LogContentValidation: Enabled validators:
+[2025.10.26-08.39.19:903][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.39.19:903][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.39.19:903][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.39.19:903][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.39.19:903][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.39.19:903][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.39.19:903][299]AssetCheck: /Game/Animation/Moster/Ant/ABP_Ant 에셋 유효성 검사 중
+[2025.10.26-08.39.40:095][505]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''DefaultForeground' 컬러를 찾을 수 없습니다.'
+[2025.10.26-08.39.47:371][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.26-08.39.48:134][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.39.48:233][961]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.10.26-08.39.48:243][961]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.10.26-08.39.48:243][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Default]
+[2025.10.26-08.39.48:247][961]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/BP_Ant_Default
+[2025.10.26-08.39.48:247][961]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Default99F5AF4248278D4DFB0211B599202EA5.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/BP_Ant_Default.uasset'
+[2025.10.26-08.39.48:258][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.902 ms (total: 3.01 sec)
+[2025.10.26-08.39.48:353][961]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.39.48:353][961]LogContentValidation: Enabled validators:
+[2025.10.26-08.39.48:353][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.39.48:353][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.39.48:353][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.39.48:353][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.39.48:353][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.39.48:353][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.39.48:353][961]AssetCheck: /Game/Animation/Moster/Ant/BP_Ant_Default 에셋 유효성 검사 중
+[2025.10.26-08.40.15:202][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default_C
+[2025.10.26-08.40.15:203][547]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default_C
+[2025.10.26-08.40.15:204][547]LogActorFactory: Actor Factory spawned Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default as actor: BP_Ant_Default_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0
+[2025.10.26-08.40.15:205][547]LogActorFactory: Actor Factory spawned Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default as actor: BP_Ant_Default_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0
+[2025.10.26-08.40.18:096][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.26-08.40.18:120][716]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2025.10.26-08.40.18:127][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default_C
+[2025.10.26-08.40.18:127][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default_C
+[2025.10.26-08.40.18:134][716]LogActorFactory: Actor Factory spawned Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default as actor: BP_Ant_Default_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1
+[2025.10.26-08.40.18:135][716]LogActorFactory: Actor Factory spawned Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default as actor: BP_Ant_Default_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1
+[2025.10.26-08.40.18:330][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4436.348145
+[2025.10.26-08.40.18:606][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.40.18:606][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4436.606934, Update Interval: 312.942291
+[2025.10.26-08.40.21:922][925]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.40.21:933][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.40.21:933][925]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.40.21:935][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2025.10.26-08.40.21:935][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001966s)
+[2025.10.26-08.40.21:950][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.26-08.40.21:954][925]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.40.21:955][925]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2025.10.26-08.40.21:956][925]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.40.21:956][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.40.21:956][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.40.21:956][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.40.21:956][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.40.21:956][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.40.21:958][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.40.21:993][925]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.40.21:994][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.40.21:994][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.40.21:994][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.40.21:994][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.26-08.40.21:994][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.26-08.40.21:996][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.26-08.40.21:996][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.26-08.40.21:996][925]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.26-08.40.21:996][925]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2025.10.26-08.40.21:996][925]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.26-08.40.21:999][925]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.40.22:000][925]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.40.22
+[2025.10.26-08.40.22:001][925]LogWorld: Bringing up level for play took: 0.002621
+[2025.10.26-08.40.22:003][925]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.10.26-08.40.22:005][925]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.40.22:006][925]PIE: 에디터에서 플레이 총 시작 시간 0.079초입니다.
+[2025.10.26-08.40.48:662][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.40.48:662][511]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.40.48:662][511]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.40.48:663][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.40.48:668][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.40.48:672][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.40.48:687][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.40.48:687][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.26-08.40.48:687][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.10.26-08.40.48:689][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.10.26-08.40.48:695][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.26-08.40.48:790][512]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.10.26-08.42.06:305][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-08.42.08:247][224]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.42.08:252][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.42.08:282][224]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.42.08:284][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001801s)
+[2025.10.26-08.42.08:284][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001838s)
+[2025.10.26-08.42.08:299][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.26-08.42.08:302][224]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.42.08:304][224]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2025.10.26-08.42.08:304][224]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.42.08:304][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.42.08:304][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.42.08:304][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.42.08:304][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.42.08:304][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.42.08:306][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.42.08:341][224]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.42.08:341][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.42.08:341][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.42.08:341][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.42.08:341][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.26-08.42.08:341][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.26-08.42.08:344][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.26-08.42.08:344][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.26-08.42.08:344][224]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.26-08.42.08:344][224]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2025.10.26-08.42.08:344][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.26-08.42.08:346][224]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.42.08:348][224]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.42.08
+[2025.10.26-08.42.08:349][224]LogWorld: Bringing up level for play took: 0.002506
+[2025.10.26-08.42.08:351][224]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.10.26-08.42.08:351][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.26-08.42.08:353][224]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.42.08:354][224]PIE: 에디터에서 플레이 총 시작 시간 0.102초입니다.
+[2025.10.26-08.42.14:792][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.42.14:792][605]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.42.14:793][605]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.42.14:793][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.42.14:799][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.42.14:803][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.42.14:821][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.42.14:821][605]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.26-08.42.14:821][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.26-08.42.14:823][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.26-08.42.14:829][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.26-08.42.14:925][606]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.10.26-08.42.19:875][890]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.42.19:880][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.42.19:901][890]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.42.19:903][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002146s)
+[2025.10.26-08.42.19:903][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002181s)
+[2025.10.26-08.42.19:919][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.26-08.42.19:921][890]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.42.19:922][890]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2025.10.26-08.42.19:923][890]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.42.19:923][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.42.19:923][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.42.19:923][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.42.19:923][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.42.19:923][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.42.19:925][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.42.19:959][890]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.42.19:959][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.42.19:959][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.42.19:959][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.42.19:960][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.26-08.42.19:960][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.26-08.42.19:962][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.26-08.42.19:962][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.26-08.42.19:962][890]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.26-08.42.19:962][890]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2025.10.26-08.42.19:962][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.26-08.42.19:964][890]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.42.19:966][890]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.42.19
+[2025.10.26-08.42.19:967][890]LogWorld: Bringing up level for play took: 0.002620
+[2025.10.26-08.42.19:969][890]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.10.26-08.42.19:969][890]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.26-08.42.19:972][890]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.42.19:972][890]PIE: 에디터에서 플레이 총 시작 시간 0.093초입니다.
+[2025.10.26-08.42.53:611][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.42.53:611][904]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.42.53:611][904]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.42.53:612][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.42.53:616][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.42.53:621][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.42.53:637][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.42.53:637][904]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.26-08.42.53:637][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.10.26-08.42.53:639][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.10.26-08.42.53:646][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.26-08.42.53:741][905]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.10.26-08.43.01:802][367]Cmd: DELETE
+[2025.10.26-08.43.01:802][367]Cmd: ACTOR DELETE
+[2025.10.26-08.43.01:809][367]LogEditorActor: Deleted Actor: BP_Ant_Normal_C
+[2025.10.26-08.43.01:827][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.26-08.43.01:831][367]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.10.26-08.43.05:437][569]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.43.05:443][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.43.05:444][569]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.43.05:445][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001762s)
+[2025.10.26-08.43.05:445][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001796s)
+[2025.10.26-08.43.05:463][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.26-08.43.05:468][569]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.43.05:468][569]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2025.10.26-08.43.05:470][569]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.43.05:470][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.43.05:470][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.43.05:470][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.43.05:470][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.43.05:470][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.43.05:472][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.43.05:512][569]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.43.05:513][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.43.05:513][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.43.05:513][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.43.05:514][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.26-08.43.05:514][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.26-08.43.05:516][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.26-08.43.05:516][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.26-08.43.05:516][569]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.26-08.43.05:516][569]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2025.10.26-08.43.05:516][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.26-08.43.05:519][569]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.43.05:521][569]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.43.05
+[2025.10.26-08.43.05:522][569]LogWorld: Bringing up level for play took: 0.002187
+[2025.10.26-08.43.05:523][569]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.10.26-08.43.05:526][569]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.43.05:527][569]PIE: 에디터에서 플레이 총 시작 시간 0.083초입니다.
+[2025.10.26-08.43.25:482][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.43.25:482][762]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.43.25:482][762]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.43.25:483][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.43.25:487][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.43.25:494][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.43.25:511][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-08.43.25:511][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.26-08.43.25:511][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.26-08.43.25:513][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.26-08.43.25:518][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.43.25:520][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.26-08.43.25:551][763]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.10.26-08.44.17:680][866]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle4.Ant_Idle4
+[2025.10.26-08.44.17:722][866]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.10.26-08.44.17:752][866]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.44.17:752][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.44.17:860][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.26-08.44.23:114][172]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Idle3.Ant_Idle3
+[2025.10.26-08.44.23:156][172]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.10.26-08.44.23:184][172]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.44.23:184][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.44.23:295][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.26-08.44.35:588][863]LogContentBrowser: Deferred new asset file creation: Ant_Idle3_Montage
+[2025.10.26-08.44.35:603][863]LogContentBrowser: Creating deferred item: Ant_Idle3_Montage
+[2025.10.26-08.44.35:616][864]LogContentBrowser: Renaming the item being created (Deferred Item: Ant_Idle3_Montage).
+[2025.10.26-08.44.37:704][989]LogContentBrowser: Attempting asset rename: Ant_Idle3_Montage -> Ant_Idle3_Montage
+[2025.10.26-08.44.37:731][989]LogContentBrowser: End creating deferred item Ant_Idle3_Montage
+[2025.10.26-08.44.46:140][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.44.46:140][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/Ant_Idle3_Montage] ([1] browsable assets)...
+[2025.10.26-08.44.46:147][459]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Moster/Ant/Ant_Idle3_Montage.Ant_Idle3_Montage]
+[2025.10.26-08.44.46:147][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/Ant_Idle3_Montage]
+[2025.10.26-08.44.46:149][459]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/Ant_Idle3_Montage
+[2025.10.26-08.44.46:149][459]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Ant_Idle3_MontageC9B3B5A14FFF7B5FABC68FB022265059.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/Ant_Idle3_Montage.uasset'
+[2025.10.26-08.44.46:179][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.040 ms (total: 3.05 sec)
+[2025.10.26-08.44.46:250][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-08.44.46:269][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.26-08.44.46:287][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.26-08.44.46:370][459]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.26-08.44.46:370][459]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.44.46:370][459]LogContentValidation: Enabled validators:
+[2025.10.26-08.44.46:370][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.44.46:370][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.44.46:370][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.44.46:370][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.44.46:370][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.44.46:370][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.44.46:370][459]AssetCheck: /Game/Animation/Moster/Ant/Ant_Idle3_Montage 에셋 유효성 검사 중
+[2025.10.26-08.44.52:145][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.26-08.44.54:002][896]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.44.54:009][896]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.10.26-08.44.54:020][896]LogPlayLevel: [PlayLevel]   Compiling BP_TestCharecter as a dependent...
+[2025.10.26-08.44.54:135][896]LogPlayLevel: [PlayLevel] Compiling BPC_AttackSystem before play...
+[2025.10.26-08.44.54:165][896]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace1 before play...
+[2025.10.26-08.44.54:167][896]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace before play...
+[2025.10.26-08.44.54:207][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-08.44.54:212][896]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (5 blueprints)
+[2025.10.26-08.44.54:212][896]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.44.54:214][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001846s)
+[2025.10.26-08.44.54:214][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001877s)
+[2025.10.26-08.44.54:230][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-08.44.54:232][896]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.44.54:233][896]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2025.10.26-08.44.54:234][896]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.44.54:234][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.44.54:234][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.44.54:234][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.44.54:234][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.44.54:234][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.44.54:236][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.44.54:271][896]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.44.54:271][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.44.54:271][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.44.54:271][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.44.54:272][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.26-08.44.54:272][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.26-08.44.54:273][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.26-08.44.54:273][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.26-08.44.54:273][896]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.26-08.44.54:273][896]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2025.10.26-08.44.54:273][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.26-08.44.54:276][896]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.44.54:277][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.44.54
+[2025.10.26-08.44.54:279][896]LogWorld: Bringing up level for play took: 0.002122
+[2025.10.26-08.44.54:280][896]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.10.26-08.44.54:283][896]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.44.54:284][896]PIE: 에디터에서 플레이 총 시작 시간 0.277초입니다.
+[2025.10.26-08.45.14:392][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.45.14:392][ 97]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.45.14:392][ 97]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.45.14:392][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.45.14:400][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.45.14:404][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.45.14:420][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.45.14:421][ 97]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.26-08.45.14:421][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.26-08.45.14:423][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.26-08.45.14:429][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.26-08.45.14:466][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.10.26-08.45.24:465][689]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/Moster/Ant/Ant_Idle3_Montage.Ant_Idle3_Montage
+[2025.10.26-08.45.24:508][689]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.45.24:508][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.45.24:628][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.26-08.45.32:812][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.45.32:919][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/Ant_Idle3_Montage] ([1] browsable assets)...
+[2025.10.26-08.45.32:927][179]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Moster/Ant/Ant_Idle3_Montage.Ant_Idle3_Montage]
+[2025.10.26-08.45.32:927][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/Ant_Idle3_Montage]
+[2025.10.26-08.45.32:928][179]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/Ant_Idle3_Montage
+[2025.10.26-08.45.32:928][179]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Ant_Idle3_Montage062AFC704098B3FD309F77ADB9A39BD5.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/Ant_Idle3_Montage.uasset'
+[2025.10.26-08.45.32:940][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.023 ms (total: 3.18 sec)
+[2025.10.26-08.45.33:042][179]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.45.33:042][179]LogContentValidation: Enabled validators:
+[2025.10.26-08.45.33:042][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.45.33:042][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.45.33:042][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.45.33:042][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.45.33:042][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.45.33:042][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.45.33:042][179]AssetCheck: /Game/Animation/Moster/Ant/Ant_Idle3_Montage 에셋 유효성 검사 중
+[2025.10.26-08.45.33:985][232]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.45.33:991][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.45.34:021][232]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.45.34:023][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001655s)
+[2025.10.26-08.45.34:023][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001690s)
+[2025.10.26-08.45.34:041][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.26-08.45.34:043][232]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.45.34:045][232]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2025.10.26-08.45.34:045][232]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.45.34:045][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.45.34:045][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.45.34:045][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.45.34:045][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.45.34:045][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.45.34:047][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.45.34:081][232]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.45.34:081][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.45.34:082][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.45.34:082][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.45.34:082][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.26-08.45.34:082][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.26-08.45.34:084][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.26-08.45.34:084][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.26-08.45.34:084][232]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.26-08.45.34:084][232]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2025.10.26-08.45.34:084][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.26-08.45.34:087][232]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.45.34:088][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.45.34
+[2025.10.26-08.45.34:089][232]LogWorld: Bringing up level for play took: 0.002014
+[2025.10.26-08.45.34:090][232]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.10.26-08.45.34:092][232]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.45.34:093][232]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2025.10.26-08.45.44:371][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.45.44:371][845]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.45.44:372][845]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.45.44:372][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.45.44:377][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.45.44:381][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.45.44:397][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.45.44:397][845]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.26-08.45.44:397][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.26-08.45.44:399][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.26-08.45.44:405][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.26-08.45.44:486][847]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.10.26-08.45.57:384][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-08.45.57:485][606]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/Ant_Idle3_Montage] ([1] browsable assets)...
+[2025.10.26-08.45.57:493][606]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Moster/Ant/Ant_Idle3_Montage.Ant_Idle3_Montage]
+[2025.10.26-08.45.57:493][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/Ant_Idle3_Montage]
+[2025.10.26-08.45.57:494][606]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/Ant_Idle3_Montage
+[2025.10.26-08.45.57:495][606]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Ant_Idle3_MontageF6AFC44C4037A8886590498257E50EE9.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/Ant_Idle3_Montage.uasset'
+[2025.10.26-08.45.57:505][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.838 ms (total: 3.30 sec)
+[2025.10.26-08.45.57:600][606]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-08.45.57:600][606]LogContentValidation: Enabled validators:
+[2025.10.26-08.45.57:600][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-08.45.57:600][606]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-08.45.57:600][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-08.45.57:600][606]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-08.45.57:600][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-08.45.57:600][606]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-08.45.57:600][606]AssetCheck: /Game/Animation/Moster/Ant/Ant_Idle3_Montage 에셋 유효성 검사 중
+[2025.10.26-08.46.03:177][936]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.46.03:181][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.46.03:201][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.46.03:203][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2025.10.26-08.46.03:203][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001728s)
+[2025.10.26-08.46.03:218][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.26-08.46.03:222][936]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.46.03:224][936]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2025.10.26-08.46.03:224][936]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.46.03:224][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.46.03:224][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.46.03:224][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.46.03:224][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.46.03:224][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.46.03:226][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.46.03:260][936]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.46.03:260][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.46.03:260][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.46.03:260][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.46.03:262][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.26-08.46.03:262][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.26-08.46.03:264][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.26-08.46.03:264][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.26-08.46.03:264][936]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.26-08.46.03:264][936]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2025.10.26-08.46.03:264][936]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.26-08.46.03:267][936]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.46.03:268][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.46.03
+[2025.10.26-08.46.03:269][936]LogWorld: Bringing up level for play took: 0.002162
+[2025.10.26-08.46.03:270][936]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2025.10.26-08.46.03:272][936]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.46.03:273][936]PIE: 에디터에서 플레이 총 시작 시간 0.093초입니다.
+[2025.10.26-08.46.12:397][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4790.395020
+[2025.10.26-08.46.12:646][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.46.12:646][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4790.625977, Update Interval: 321.154816
+[2025.10.26-08.51.43:812][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.51.43:812][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.51.43:812][353]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.51.43:813][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.51.43:821][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.51.43:825][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.51.43:839][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.51.43:840][353]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.26-08.51.43:840][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.26-08.51.43:842][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.26-08.51.43:849][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.26-08.51.43:885][354]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2025.10.26-08.52.07:839][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5145.812988
+[2025.10.26-08.52.08:106][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-08.52.08:106][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5146.064453, Update Interval: 309.770813
+[2025.10.26-08.53.45:232][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.26-08.53.52:238][882]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.53.52:243][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.53.52:243][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.53.52:245][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001792s)
+[2025.10.26-08.53.52:245][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001823s)
+[2025.10.26-08.53.52:259][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.26-08.53.52:262][882]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.53.52:264][882]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2025.10.26-08.53.52:264][882]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.53.52:264][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.53.52:264][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.53.52:264][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.53.52:264][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.53.52:264][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.53.52:266][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.53.52:303][882]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.53.52:304][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.53.52:304][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.53.52:304][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.53.52:304][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.26-08.53.52:304][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.26-08.53.52:306][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.26-08.53.52:306][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.26-08.53.52:306][882]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.26-08.53.52:306][882]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2025.10.26-08.53.52:306][882]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.26-08.53.52:309][882]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.53.52:311][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.53.52
+[2025.10.26-08.53.52:312][882]LogWorld: Bringing up level for play took: 0.002635
+[2025.10.26-08.53.52:314][882]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.10.26-08.53.52:316][882]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.53.52:317][882]PIE: 에디터에서 플레이 총 시작 시간 0.075초입니다.
+[2025.10.26-08.54.00:522][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.54.00:522][370]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.54.00:523][370]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.54.00:523][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.54.00:537][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.54.00:541][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.54.00:554][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.54.00:555][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.26-08.54.00:555][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.26-08.54.00:557][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.26-08.54.00:562][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.26-08.54.00:602][371]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.10.26-08.54.08:041][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-08.54.12:450][ 60]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-08.54.12:455][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-08.54.12:455][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.54.12:457][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001664s)
+[2025.10.26-08.54.12:457][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001690s)
+[2025.10.26-08.54.12:472][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.26-08.54.12:475][ 60]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-08.54.12:477][ 60]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2025.10.26-08.54.12:477][ 60]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-08.54.12:477][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-08.54.12:477][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-08.54.12:477][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-08.54.12:477][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-08.54.12:477][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-08.54.12:479][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-08.54.12:514][ 60]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-08.54.12:514][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-08.54.12:514][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-08.54.12:514][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-08.54.12:514][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.26-08.54.12:514][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.26-08.54.12:516][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.26-08.54.12:516][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.10.26-08.54.12:516][ 60]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.26-08.54.12:516][ 60]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap'.
+[2025.10.26-08.54.12:516][ 60]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.26-08.54.12:518][ 60]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-08.54.12:520][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-17.54.12
+[2025.10.26-08.54.12:521][ 60]LogWorld: Bringing up level for play took: 0.002060
+[2025.10.26-08.54.12:522][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.10.26-08.54.12:524][ 60]PIE: 서버가 로그인했습니다.
+[2025.10.26-08.54.12:525][ 60]PIE: 에디터에서 플레이 총 시작 시간 0.07초입니다.
+[2025.10.26-08.54.22:312][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.54.22:312][643]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-08.54.22:312][643]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-08.54.22:312][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.54.22:327][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-08.54.22:331][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.54.22:346][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-08.54.22:346][643]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.26-08.54.22:346][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.26-08.54.22:348][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.26-08.54.22:352][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-08.54.22:355][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.26-08.54.22:447][644]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.10.26-08.54.46:767][221]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18415781375292991070
+[2025.10.26-08.54.46:767][221]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.10.26-08.54.46:780][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-08.54.55:819][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.10.26-08.54.55:828][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestMap_Auto4
+[2025.10.26-08.54.55:828][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap_Auto44F3DC34E48E7CEB4E9E8468016799E33.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Maps/TestMap_Auto4.umap'
+[2025.10.26-08.54.55:833][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.034
+[2025.10.26-08.54.55:833][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.10.26-08.54.55:833][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.26-08.54.55:968][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.26-08.54.55:968][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.26-08.54.55:980][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_TestCharecter_Auto4
+[2025.10.26-08.54.55:980][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto40B76BD0C4386E2BCA5E893A466237414.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Blueprint/BP_TestCharecter_Auto4.uasset'
+[2025.10.26-08.54.55:981][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.10.26-08.54.55:999][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.10.26-08.54.55:999][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Default]
+[2025.10.26-08.54.56:005][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Default_Auto4
+[2025.10.26-08.54.56:005][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Default_Auto462129F764A8A5F093289BCBB0671D46D.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Default_Auto4.uasset'
+[2025.10.26-08.54.56:005][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Normal] ([2] browsable assets)...
+[2025.10.26-08.54.56:006][248]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.10.26-08.54.56:060][248]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Animation/Moster/Ant/BP_Ant_Normal.BP_Ant_Normal_C]
+[2025.10.26-08.54.56:076][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Normal.BP_Ant_Normal]
+[2025.10.26-08.54.56:076][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Normal]
+[2025.10.26-08.54.56:081][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto4
+[2025.10.26-08.54.56:081][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Normal_Auto44FFE74FE4015380F3A51058E51A5EF4D.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto4.uasset'
+[2025.10.26-08.54.56:082][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.26-08.54.56:082][248]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_227
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-08.54.56:082][248]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_227
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-08.54.56:082][248]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_227
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-08.54.56:108][248]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.26-08.54.56:108][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/ABP_Player]
+[2025.10.26-08.54.56:128][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/ABP_Player_Auto4
+[2025.10.26-08.54.56:128][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto475A4C8E74321FBE9C15E05B0B6259C8F.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/ABP_Player_Auto4.uasset'
+[2025.10.26-08.54.56:130][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.26-08.54.56:130][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/BPC_AttackSystem]
+[2025.10.26-08.54.56:143][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Components/BPC_AttackSystem_Auto4
+[2025.10.26-08.54.56:143][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto401B1919D40C4C85AAD0FA19E83763274.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Components/BPC_AttackSystem_Auto4.uasset'
+[2025.10.26-08.54.56:143][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1] ([2] browsable assets)...
+[2025.10.26-08.54.56:143][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1]
+[2025.10.26-08.54.56:146][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace1_Auto4
+[2025.10.26-08.54.56:146][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace1_Auto424659A244C43C60117DACFA4AF28916A.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace1_Auto4.uasset'
+[2025.10.26-08.54.56:146][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace] ([2] browsable assets)...
+[2025.10.26-08.54.56:146][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace]
+[2025.10.26-08.54.56:149][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto4
+[2025.10.26-08.54.56:149][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace_Auto4D22B38A543BB787009DA268EA62E8D42.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto4.uasset'
+[2025.10.26-08.54.56:150][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/Ant_Idle4] ([1] browsable assets)...
+[2025.10.26-08.54.56:157][248]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animation/Moster/Ant/Ant_Idle4.Ant_Idle4]
+[2025.10.26-08.54.56:157][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/Ant_Idle4]
+[2025.10.26-08.54.56:161][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/Ant_Idle4_Auto4
+[2025.10.26-08.54.56:161][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Ant_Idle4_Auto4C10CC50D4BAEB444893289954A93C07E.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/Ant_Idle4_Auto4.uasset'
+[2025.10.26-08.54.56:161][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/Ant_Idle4_Montage] ([1] browsable assets)...
+[2025.10.26-08.54.56:167][248]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Moster/Ant/Ant_Idle4_Montage.Ant_Idle4_Montage]
+[2025.10.26-08.54.56:167][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/Ant_Idle4_Montage]
+[2025.10.26-08.54.56:169][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/Ant_Idle4_Montage_Auto4
+[2025.10.26-08.54.56:169][248]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Ant_Idle4_Montage_Auto48F5EDB434F7F3C46AA756893A8D10A61.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/Ant_Idle4_Montage_Auto4.uasset'
+[2025.10.26-08.54.56:169][248]LogFileHelpers: Auto-saving content packages took 0.336
