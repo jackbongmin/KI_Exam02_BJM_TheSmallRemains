@@ -1484,3 +1484,504 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.26-13.21.14:880][302]AssetCheck: /Game/Fab/Megascans/Surfaces/Flake_Boards_thejajhn/Mid/T_thejajhn_2K_B 에셋 유효성 검사 중
 [2025.10.26-13.21.14:880][302]AssetCheck: /Game/Fab/Megascans/Surfaces/Flake_Boards_thejajhn/Mid/T_thejajhn_2K_N 에셋 유효성 검사 중
 [2025.10.26-13.21.14:880][302]AssetCheck: /Game/Fab/Megascans/Surfaces/Flake_Boards_thejajhn/Mid/T_thejajhn_2K_ORM 에셋 유효성 검사 중
+[2025.10.26-13.22.09:727][841]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-13.22.09:729][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/BP_Item.BP_Item
+[2025.10.26-13.22.09:729][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.26-13.22.10:949][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.26-13.22.11:008][841]LogSlate: Took 0.005461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.26-13.22.16:055][136]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.26-13.22.19:489][337]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.26-13.22.52:767][286]LogContentBrowser: Attempting asset rename: MI_thejajhn -> MI_thejajhn
+[2025.10.26-13.23.12:514][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.26-13.23.20:600][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Item.BP_Item_C
+[2025.10.26-13.23.20:600][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Item.BP_Item_C
+[2025.10.26-13.23.20:601][928]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Item.BP_Item as actor: BP_Item_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Item_C_0
+[2025.10.26-13.23.20:603][928]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Item.BP_Item as actor: BP_Item_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Item_C_0
+[2025.10.26-13.23.20:999][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-13.23.21:001][950]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.26-13.23.21:006][950]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Item.BP_Item_C
+[2025.10.26-13.23.21:006][950]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Item.BP_Item_C
+[2025.10.26-13.23.21:008][950]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Item.BP_Item as actor: BP_Item_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Item_C_1
+[2025.10.26-13.23.21:008][950]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Item.BP_Item as actor: BP_Item_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Item_C_1
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: ================================================
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Total job queries 298, among them cache hits 85 (28.52%), DDC hits 204 (68.46%), Duplicates 4 (1.34%)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Tracking 209 distinct input hashes that result in 185 distinct outputs (88.52%)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: RAM used: 133.15 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.05 s
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.10
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Shader code size: average 8.187 KiB, min 5.602 KiB, max 12.137 KiB
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.10 s
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Average processing rate: 4.54 jobs/sec
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Total thread time: 1.517 s
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Total thread preprocess time: 4.428 s
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Percentage time preprocessing: 291.94%
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.26-13.23.42:504][176]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 39.38% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.87% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.34% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.71% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.70% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: === Material stats ===
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: Materials Translated:    177
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: Material Translation Only: 0.10 s (37%)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: Material Cache Hits: 16 (9%)
+[2025.10.26-13.23.42:505][176]LogShaderCompilers: Display: ================================================
+[2025.10.26-13.23.48:546][261]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2025.10.26-13.23.48:561][261]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.26-13.23.48:566][261]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.26-13.23.48:584][262]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.26-13.23.59:591][916]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Item
+[2025.10.26-13.23.59:602][916]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.26-13.24.02:709][101]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Items/WB_Item.WB_Item
+[2025.10.26-13.24.02:709][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.26-13.24.02:716][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.26-13.24.02:721][101]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2025.10.26-13.24.03:040][101]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.10.26-13.24.03:040][101]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.26-13.24.03:196][101]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2025.10.26-13.24.03:201][101]LogSlate: Took 0.005770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.26-13.26.03:411][256]LogSlate: Took 0.009792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.26-13.26.15:560][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 698.380615
+[2025.10.26-13.26.15:812][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-13.26.15:812][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 698.614441, Update Interval: 333.256622
+[2025.10.26-13.27.02:511][691]LogSlate: Window 'WB_Item' being destroyed
+[2025.10.26-13.27.05:051][831]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.26-13.27.05:057][831]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.26-13.27.05:067][832]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.26-13.27.10:631][166]LogContentBrowser: Attempting asset rename: 새 폴더 -> Textures
+[2025.10.26-13.27.10:631][166]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.26-13.27.18:492][314]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-13.27.18:584][314]LogInterchangeEngine: [대기중] 임포트 중
+[2025.10.26-13.27.18:584][314]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Jackbongmin/Downloads/EButton.png]
+[2025.10.26-13.27.19:178][316]LogStreaming: Display: FlushAsyncLoading(738): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-13.27.19:189][317]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.10.26-13.27.19:501][318]LogTexture: Display: 텍스처 빌드 중: /Game/Items/EButton.EButton(TFO_AutoDXT, 64x64 x1x1x1)(예상 필요 메모리: 1.645795MB), 인코딩 속도: Fast
+[2025.10.26-13.27.19:847][318]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Jackbongmin/Downloads/EButton.png]
+[2025.10.26-13.27.19:856][318]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2025.10.26-13.27.19:856][318]LogInterchangeEngine: [성공] 임포트 완료
+[2025.10.26-13.27.23:827][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-13.27.23:828][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Items/Textures/EButton] ([1] browsable assets)...
+[2025.10.26-13.27.23:829][474]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Items/Textures/EButton.EButton]
+[2025.10.26-13.27.23:829][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Textures/EButton]
+[2025.10.26-13.27.23:830][474]LogSavePackage: Moving output files for package: /Game/Items/Textures/EButton
+[2025.10.26-13.27.23:830][474]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/EButtonBBF60A674FAB3FAD36AEC59CE6885F78.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/Textures/EButton.uasset'
+[2025.10.26-13.27.23:831][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.543 ms (total: 387.926 ms)
+[2025.10.26-13.27.23:889][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.26-13.27.23:905][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-13.27.23:922][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.26-13.27.23:994][474]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.26-13.27.23:994][474]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-13.27.23:994][474]LogContentValidation: Enabled validators:
+[2025.10.26-13.27.23:994][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-13.27.23:994][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-13.27.23:994][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-13.27.23:994][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-13.27.23:994][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-13.27.23:994][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-13.27.23:995][474]AssetCheck: /Game/Items/Textures/EButton 에셋 유효성 검사 중
+[2025.10.26-13.28.50:575][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-13.28.51:391][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-13.28.51:480][675]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/WB_Item] ([2] browsable assets)...
+[2025.10.26-13.28.51:483][675]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Items/WB_Item.WB_Item]
+[2025.10.26-13.28.51:483][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/WB_Item]
+[2025.10.26-13.28.51:483][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/WB_Item" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/WB_Item.uasset" SILENT=true
+[2025.10.26-13.28.51:485][675]LogSavePackage: Moving output files for package: /Game/Items/WB_Item
+[2025.10.26-13.28.51:485][675]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_ItemF9E8AC4F4517543970C994B205B0BC9A.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/WB_Item.uasset'
+[2025.10.26-13.28.51:497][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.918 ms (total: 493.844 ms)
+[2025.10.26-13.28.51:584][675]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-13.28.51:584][675]LogContentValidation: Enabled validators:
+[2025.10.26-13.28.51:584][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-13.28.51:584][675]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-13.28.51:584][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-13.28.51:584][675]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-13.28.51:584][675]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-13.28.51:584][675]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-13.28.51:585][675]AssetCheck: /Game/Items/WB_Item 에셋 유효성 검사 중
+[2025.10.26-13.30.03:818][985]LogEditorTransaction: Undo 스케일 설정
+[2025.10.26-13.31.30:928][111]LogEditorTransaction: Undo 이미지 편집
+[2025.10.26-13.31.54:350][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1037.170776
+[2025.10.26-13.31.54:616][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-13.31.54:616][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1037.421021, Update Interval: 357.449280
+[2025.10.26-13.32.44:349][471]LogEditorTransaction: Undo 위젯 크기조정
+[2025.10.26-13.36.25:312][649]LogEditorTransaction: Undo 변경된 앵커
+[2025.10.26-13.37.55:693][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.26-13.37.55:702][  7]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestMap_Auto1
+[2025.10.26-13.37.55:703][  7]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap_Auto111BE9BDC465DA68F27AA598D9D7535BC.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Maps/TestMap_Auto1.umap'
+[2025.10.26-13.37.55:703][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.033
+[2025.10.26-13.37.55:703][  7]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.10.26-13.37.55:703][  7]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/BP_Item] ([2] browsable assets)...
+[2025.10.26-13.37.55:761][  7]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Items/BP_Item.BP_Item]
+[2025.10.26-13.37.55:761][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/BP_Item]
+[2025.10.26-13.37.55:763][  7]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Items/BP_Item_Auto1
+[2025.10.26-13.37.55:763][  7]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Item_Auto1F8751285412956BD5352E892E545EDB4.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Items/BP_Item_Auto1.uasset'
+[2025.10.26-13.37.55:764][  7]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/WB_Item] ([2] browsable assets)...
+[2025.10.26-13.37.55:766][  7]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Items/WB_Item.WB_Item]
+[2025.10.26-13.37.55:766][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/WB_Item]
+[2025.10.26-13.37.55:769][  7]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Items/WB_Item_Auto1
+[2025.10.26-13.37.55:769][  7]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Item_Auto128938D8D48865426E7A24FA8826EC4FD.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Items/WB_Item_Auto1.uasset'
+[2025.10.26-13.37.55:769][  7]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.10.26-13.38.02:042][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1404.868164
+[2025.10.26-13.38.02:376][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-13.38.02:377][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1405.184814, Update Interval: 343.686646
+[2025.10.26-13.38.58:024][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.26-13.39.32:297][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.26-13.40.12:634][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.26-13.41.44:263][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.26-13.41.46:711][719]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-13.41.46:716][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-13.41.46:720][719]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.26-13.41.46:720][719]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.26-13.41.46:720][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.41.46:723][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003034s)
+[2025.10.26-13.41.46:723][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.003078s)
+[2025.10.26-13.41.46:743][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.26-13.41.46:745][719]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-13.41.46:746][719]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2025.10.26-13.41.46:747][719]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-13.41.46:747][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-13.41.46:747][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-13.41.46:747][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-13.41.46:747][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-13.41.46:747][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-13.41.46:749][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-13.41.46:786][719]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-13.41.46:786][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-13.41.46:786][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-13.41.46:786][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-13.41.46:787][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.26-13.41.46:787][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.26-13.41.46:789][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.26-13.41.46:789][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.26-13.41.46:789][719]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.26-13.41.46:789][719]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2025.10.26-13.41.46:789][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.26-13.41.46:791][719]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-13.41.46:793][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-22.41.46
+[2025.10.26-13.41.46:794][719]LogWorld: Bringing up level for play took: 0.002570
+[2025.10.26-13.41.46:796][719]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.10.26-13.41.46:800][719]PIE: 서버가 로그인했습니다.
+[2025.10.26-13.41.46:801][719]PIE: 에디터에서 플레이 총 시작 시간 0.086초입니다.
+[2025.10.26-13.42.03:454][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.42.03:454][710]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.42.03:455][710]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-13.42.03:455][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.42.03:459][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-13.42.03:463][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.42.03:479][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-13.42.03:479][710]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.26-13.42.03:480][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.26-13.42.03:482][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.26-13.42.03:487][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.42.03:489][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.26-13.42.03:543][711]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.10.26-13.43.39:841][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.26-13.43.57:036][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-13.44.02:812][733]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-13.44.02:816][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-13.44.02:816][733]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.44.02:818][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001893s)
+[2025.10.26-13.44.02:818][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001920s)
+[2025.10.26-13.44.02:834][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.26-13.44.02:836][733]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-13.44.02:838][733]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2025.10.26-13.44.02:838][733]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-13.44.02:838][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-13.44.02:838][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-13.44.02:838][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-13.44.02:838][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-13.44.02:838][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-13.44.02:840][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-13.44.02:876][733]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-13.44.02:876][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-13.44.02:876][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-13.44.02:876][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-13.44.02:877][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.26-13.44.02:877][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.26-13.44.02:878][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.26-13.44.02:878][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.26-13.44.02:878][733]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.26-13.44.02:878][733]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2025.10.26-13.44.02:878][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.26-13.44.02:938][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.44.02:938][733]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-13.44.02:940][733]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-22.44.02
+[2025.10.26-13.44.02:941][733]LogWorld: Bringing up level for play took: 0.002274
+[2025.10.26-13.44.02:942][733]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.10.26-13.44.02:946][733]PIE: 서버가 로그인했습니다.
+[2025.10.26-13.44.02:947][733]PIE: 에디터에서 플레이 총 시작 시간 0.131초입니다.
+[2025.10.26-13.44.03:065][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1765.888428
+[2025.10.26-13.44.03:323][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-13.44.03:323][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1766.129395, Update Interval: 330.138245
+[2025.10.26-13.44.11:904][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.44.11:904][264]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.44.11:905][264]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-13.44.11:916][264]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-13.44.11:916][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.44.11:918][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-13.44.11:922][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.44.11:939][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-13.44.11:939][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.26-13.44.11:939][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.26-13.44.11:941][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.26-13.44.11:946][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.26-13.44.11:986][265]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.10.26-13.44.26:090][ 81]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.10.26-13.44.26:095][ 81]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.10.26-13.44.26:106][ 82]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.10.26-13.44.38:692][835]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_PickUp
+[2025.10.26-13.44.38:693][835]LogContentBrowser: End creating deferred item NewInputAction
+[2025.10.26-13.44.47:128][340]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.10.26-13.45.17:233][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-13.45.17:313][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Player] ([1] browsable assets)...
+[2025.10.26-13.45.17:313][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Player]
+[2025.10.26-13.45.17:313][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Input/IMC_Player.uasset" SILENT=true
+[2025.10.26-13.45.17:314][128]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2025.10.26-13.45.17:315][128]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IMC_PlayerC157621C467F96460430E8BC84E6A40D.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Input/IMC_Player.uasset'
+[2025.10.26-13.45.17:322][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.149 ms (total: 582.994 ms)
+[2025.10.26-13.45.17:422][128]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-13.45.17:422][128]LogContentValidation: Enabled validators:
+[2025.10.26-13.45.17:422][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-13.45.17:422][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-13.45.17:422][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-13.45.17:422][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-13.45.17:422][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-13.45.17:422][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-13.45.17:422][128]AssetCheck: /Game/Input/IMC_Player 에셋 유효성 검사 중
+[2025.10.26-13.45.20:174][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.26-13.45.21:264][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter
+[2025.10.26-13.45.21:264][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.26-13.45.21:657][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.26-13.46.22:654][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.26-13.46.25:210][ 39]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-13.46.25:214][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-13.46.25:214][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.46.25:217][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001863s)
+[2025.10.26-13.46.25:217][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001891s)
+[2025.10.26-13.46.25:234][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-13.46.25:238][ 39]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-13.46.25:239][ 39]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2025.10.26-13.46.25:240][ 39]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-13.46.25:240][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-13.46.25:240][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-13.46.25:240][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-13.46.25:240][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-13.46.25:240][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-13.46.25:241][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-13.46.25:278][ 39]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-13.46.25:278][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-13.46.25:278][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-13.46.25:278][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-13.46.25:278][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.26-13.46.25:278][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.26-13.46.25:280][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.26-13.46.25:280][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.26-13.46.25:280][ 39]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.26-13.46.25:280][ 39]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2025.10.26-13.46.25:280][ 39]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.26-13.46.25:341][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.46.25:342][ 39]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-13.46.25:343][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-22.46.25
+[2025.10.26-13.46.25:344][ 39]LogWorld: Bringing up level for play took: 0.002287
+[2025.10.26-13.46.25:346][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.26-13.46.25:352][ 39]PIE: 서버가 로그인했습니다.
+[2025.10.26-13.46.25:354][ 39]PIE: 에디터에서 플레이 총 시작 시간 0.14초입니다.
+[2025.10.26-13.46.32:084][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.46.32:084][430]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.46.32:085][430]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-13.46.32:093][430]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-13.46.32:094][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.46.32:096][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-13.46.32:102][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.46.32:121][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-13.46.32:121][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.26-13.46.32:121][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.26-13.46.32:123][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.26-13.46.32:129][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-13.46.32:173][431]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.26-13.46.41:715][991]LogContentBrowser: Deferred new asset file creation: BP_Item_Child
+[2025.10.26-13.46.41:723][991]LogContentBrowser: Creating deferred item: BP_Item_Child
+[2025.10.26-13.46.41:736][992]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Item_Child).
+[2025.10.26-13.46.48:897][422]LogContentBrowser: Attempting asset rename: BP_Item_Child -> BP_WoodStick
+[2025.10.26-13.46.48:902][422]LogContentBrowser: End creating deferred item BP_Item_Child
+[2025.10.26-13.46.48:903][422]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.BP_WoodStick:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.SKEL_BP_WoodStick_C:UserConstructionScript' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.SKEL_BP_WoodStick_C' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.BP_WoodStick_C' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.BP_WoodStick:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.BP_WoodStick:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.BP_WoodStick:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:436][904]LogMetaData: Removing '/Game/Items/Weapons/BP_WoodStick.BP_WoodStick:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Items/BP_WoodStick.PackageMetaData'
+[2025.10.26-13.46.57:438][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-13.46.57:438][904]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/Weapons/BP_WoodStick] ([2] browsable assets)...
+[2025.10.26-13.46.57:477][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Items/Weapons/BP_WoodStick.BP_WoodStick]
+[2025.10.26-13.46.57:477][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Weapons/BP_WoodStick]
+[2025.10.26-13.46.57:479][904]LogSavePackage: Moving output files for package: /Game/Items/Weapons/BP_WoodStick
+[2025.10.26-13.46.57:479][904]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_WoodStick52D39EC741497DE361E4A0B9E8245996.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/Weapons/BP_WoodStick.uasset'
+[2025.10.26-13.46.57:483][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.580 ms (total: 628.575 ms)
+[2025.10.26-13.46.57:531][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.26-13.46.57:552][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-13.46.57:568][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.26-13.46.57:649][904]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.26-13.46.57:649][904]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-13.46.57:649][904]LogContentValidation: Enabled validators:
+[2025.10.26-13.46.57:649][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-13.46.57:649][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-13.46.57:649][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-13.46.57:649][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-13.46.57:649][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-13.46.57:649][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-13.46.57:649][904]AssetCheck: /Game/Items/Weapons/BP_WoodStick 에셋 유효성 검사 중
+[2025.10.26-13.47.07:922][514]Cmd: DELETE
+[2025.10.26-13.47.07:922][514]Cmd: ACTOR DELETE
+[2025.10.26-13.47.07:926][514]LogEditorActor: Deleted Actor: BP_Item_C
+[2025.10.26-13.47.07:943][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.26-13.47.07:947][514]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.10.26-13.47.14:481][887]Cmd: DELETE
+[2025.10.26-13.47.14:481][887]Cmd: ACTOR DELETE
+[2025.10.26-13.47.14:484][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.26-13.47.14:503][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.26-13.47.14:506][887]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.10.26-13.47.15:281][924]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Weapons/BP_WoodStick.BP_WoodStick_C
+[2025.10.26-13.47.15:281][924]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Weapons/BP_WoodStick.BP_WoodStick_C
+[2025.10.26-13.47.15:283][924]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Weapons/BP_WoodStick.BP_WoodStick as actor: BP_WoodStick_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_WoodStick_C_0
+[2025.10.26-13.47.15:284][924]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Weapons/BP_WoodStick.BP_WoodStick as actor: BP_WoodStick_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_WoodStick_C_0
+[2025.10.26-13.47.16:028][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.26-13.47.16:031][965]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.26-13.47.16:034][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Weapons/BP_WoodStick.BP_WoodStick_C
+[2025.10.26-13.47.16:034][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/Weapons/BP_WoodStick.BP_WoodStick_C
+[2025.10.26-13.47.16:037][965]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Weapons/BP_WoodStick.BP_WoodStick as actor: BP_WoodStick_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_WoodStick_C_1
+[2025.10.26-13.47.16:039][965]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/Weapons/BP_WoodStick.BP_WoodStick as actor: BP_WoodStick_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_WoodStick_C_1
+[2025.10.26-13.47.22:983][372]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-13.47.22:990][372]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.10.26-13.47.22:991][372]LogPlayLevel: [PlayLevel]   Compiling BP_Item as a dependent...
+[2025.10.26-13.47.22:992][372]LogPlayLevel: [PlayLevel]   Compiling BP_TestCharecter as a dependent...
+[2025.10.26-13.47.23:079][372]LogPlayLevel: [PlayLevel] Compiling WB_Item before play...
+[2025.10.26-13.47.23:166][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.26-13.47.23:170][372]LogPlayLevel: PlayLevel: Blueprint regeneration took 182 ms (4 blueprints)
+[2025.10.26-13.47.23:204][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.47.23:206][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2025.10.26-13.47.23:206][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002053s)
+[2025.10.26-13.47.23:224][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.26-13.47.23:225][372]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-13.47.23:226][372]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2025.10.26-13.47.23:227][372]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-13.47.23:227][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-13.47.23:227][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-13.47.23:227][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-13.47.23:227][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-13.47.23:227][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-13.47.23:228][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-13.47.23:263][372]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-13.47.23:263][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-13.47.23:263][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-13.47.23:263][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-13.47.23:264][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.26-13.47.23:264][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.26-13.47.23:266][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.26-13.47.23:266][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.26-13.47.23:266][372]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.26-13.47.23:266][372]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2025.10.26-13.47.23:266][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.26-13.47.23:269][372]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-13.47.23:271][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-22.47.23
+[2025.10.26-13.47.23:271][372]LogWorld: Bringing up level for play took: 0.002072
+[2025.10.26-13.47.23:274][372]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.26-13.47.23:276][372]PIE: 서버가 로그인했습니다.
+[2025.10.26-13.47.23:277][372]PIE: 에디터에서 플레이 총 시작 시간 0.29초입니다.
+[2025.10.26-13.47.37:663][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.47.37:663][229]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-13.47.37:664][229]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-13.47.37:664][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.47.37:667][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-13.47.37:672][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-13.47.37:693][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-13.47.37:693][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.26-13.47.37:693][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.26-13.47.37:696][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.26-13.47.37:703][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-13.47.37:759][230]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.26-13.47.45:509][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-13.47.46:539][392]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.26-13.47.46:551][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-13.47.46:665][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.26-13.47.46:673][392]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2025.10.26-13.47.46:673][392]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap50EAECB3436818D89219E1A72EA1A60F.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Maps/TestMap.umap'
+[2025.10.26-13.47.46:680][392]LogFileHelpers: Saving map 'TestMap' took 0.042
+[2025.10.26-13.47.46:680][392]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/BP_Item] ([2] browsable assets)...
+[2025.10.26-13.47.46:714][392]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Items/BP_Item.BP_Item]
+[2025.10.26-13.47.46:715][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/BP_Item]
+[2025.10.26-13.47.46:715][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Item" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/BP_Item.uasset" SILENT=true
+[2025.10.26-13.47.46:718][392]LogSavePackage: Moving output files for package: /Game/Items/BP_Item
+[2025.10.26-13.47.46:719][392]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Item6C6697F14C5FE9F67244F09C19E089C1.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/BP_Item.uasset'
+[2025.10.26-13.47.46:719][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.26-13.47.46:729][392]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.26-13.47.46:729][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.26-13.47.46:742][392]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_TestCharecter
+[2025.10.26-13.47.46:743][392]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterD589C74D436D64DEA5A2A0863B463295.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Blueprint/BP_TestCharecter.uasset'
+[2025.10.26-13.47.46:744][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_PickUp] ([1] browsable assets)...
+[2025.10.26-13.47.46:744][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_PickUp]
+[2025.10.26-13.47.46:744][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_PickUp" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Input/IA_PickUp.uasset" SILENT=true
+[2025.10.26-13.47.46:744][392]LogSavePackage: Moving output files for package: /Game/Input/IA_PickUp
+[2025.10.26-13.47.46:744][392]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IA_PickUp8F7F342D43BAF5E590711FA1E2BB83AA.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Input/IA_PickUp.uasset'
+[2025.10.26-13.47.46:745][392]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/WB_Item] ([2] browsable assets)...
+[2025.10.26-13.47.46:747][392]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Items/WB_Item.WB_Item]
+[2025.10.26-13.47.46:747][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/WB_Item]
+[2025.10.26-13.47.46:747][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/WB_Item" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/WB_Item.uasset" SILENT=true
+[2025.10.26-13.47.46:749][392]LogSavePackage: Moving output files for package: /Game/Items/WB_Item
+[2025.10.26-13.47.46:750][392]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Item141550EA4A11C9A6E1261E897CFE9D63.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Items/WB_Item.uasset'
+[2025.10.26-13.47.46:760][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.117 ms (total: 836.692 ms)
+[2025.10.26-13.47.46:857][392]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.26-13.47.46:857][392]LogContentValidation: Enabled validators:
+[2025.10.26-13.47.46:857][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-13.47.46:857][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-13.47.46:857][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-13.47.46:857][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-13.47.46:857][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-13.47.46:857][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-13.47.46:857][392]AssetCheck: /Game/Maps/TestMap 에셋 유효성 검사 중
+[2025.10.26-13.47.46:857][392]AssetCheck: /Game/Items/BP_Item 에셋 유효성 검사 중
+[2025.10.26-13.47.46:857][392]AssetCheck: /Game/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.26-13.47.46:857][392]AssetCheck: /Game/Input/IA_PickUp 에셋 유효성 검사 중
+[2025.10.26-13.47.46:857][392]AssetCheck: /Game/Items/WB_Item 에셋 유효성 검사 중
