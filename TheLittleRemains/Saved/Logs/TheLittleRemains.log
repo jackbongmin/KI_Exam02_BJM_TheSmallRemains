@@ -5966,3 +5966,1355 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.26-09.28.28:684][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto6
 [2025.10.26-09.28.28:684][722]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Normal_Auto603EC7C5542B1E81572B99691C494DAC0.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto6.uasset'
 [2025.10.26-09.28.28:684][722]LogFileHelpers: Auto-saving content packages took 0.129
+[2025.10.26-09.29.50:397][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7408.047363
+[2025.10.26-09.29.50:646][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-09.29.50:647][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7408.280762, Update Interval: 331.707520
+[2025.10.26-09.36.17:295][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7794.920410
+[2025.10.26-10.51.43:757][229]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>], HttpStatus=[401], ErrorCode=[errors.com.epicgames.eos.auth.token_expired], NumericErrorCode=[110005], ErrorMessage=[Jwt is expired], CorrId=[EOS-o9pWDwIsKky6izqDyO1ITg-KO6wfJngz0yDMi_0K_xltw]
+[2025.10.26-10.51.44:091][230]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_Connect_AuthExpired, Retrying after 53.318279 seconds
+[2025.10.26-10.52.37:087][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12374.697266
+[2025.10.26-10.52.37:336][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-10.52.37:336][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12374.930664, Update Interval: 313.995178
+[2025.10.26-10.53.20:643][988]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.26-10.53.20:673][988]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.26-10.53.20:685][989]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.26-10.53.30:878][601]LogContentBrowser: Attempting asset rename: 새 폴더 -> SmallRemains
+[2025.10.26-10.53.30:878][601]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.26-10.53.54:713][ 11]LogContentBrowser: Attempting asset rename: SmallRemains -> Ai
+[2025.10.26-10.54.34:803][279]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2025.10.26-10.54.34:812][279]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2025.10.26-10.54.34:851][281]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2025.10.26-10.54.43:883][823]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BB_AI
+[2025.10.26-10.54.43:885][823]LogContentBrowser: End creating deferred item NewBlackboardData
+[2025.10.26-10.54.50:752][192]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2025.10.26-10.54.50:760][192]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2025.10.26-10.54.50:777][193]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2025.10.26-10.54.56:637][545]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> BT_Enemy
+[2025.10.26-10.54.56:638][545]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2025.10.26-10.55.02:902][920]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Ai/BB_AI.BB_AI
+[2025.10.26-10.55.14:791][613]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.14:791][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.14:869][613]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.14:869][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.14:960][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.26-10.55.20:370][932]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.20:371][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.20:483][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-10.55.22:360][ 42]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.22:361][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.22:395][ 42]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.22:395][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.22:484][ 42]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.22:484][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.22:520][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.26-10.55.27:406][333]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.27:407][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.27:470][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.26-10.55.28:641][402]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.28:641][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.28:703][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.26-10.55.30:028][479]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.30:028][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.30:074][479]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.30:074][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.30:153][479]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.30:153][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.30:184][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.26-10.55.41:206][137]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-10.55.41:206][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-10.55.41:262][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.26-10.55.44:976][356]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Ai/BT_Enemy.BT_Enemy
+[2025.10.26-10.57.09:075][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-10.57.09:167][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ai/BT_Enemy] ([1] browsable assets)...
+[2025.10.26-10.57.09:168][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ai/BT_Enemy]
+[2025.10.26-10.57.09:168][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/BT_Enemy" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Ai/BT_Enemy.uasset" SILENT=true
+[2025.10.26-10.57.09:168][365]LogSavePackage: Moving output files for package: /Game/Ai/BT_Enemy
+[2025.10.26-10.57.09:168][365]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BT_Enemy95EF24DB40734CF84F770EAA30410F61.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Ai/BT_Enemy.uasset'
+[2025.10.26-10.57.09:180][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.956 ms (total: 3.79 sec)
+[2025.10.26-10.57.09:279][365]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-10.57.09:279][365]LogContentValidation: Enabled validators:
+[2025.10.26-10.57.09:279][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-10.57.09:279][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-10.57.09:279][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-10.57.09:279][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-10.57.09:279][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-10.57.09:279][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-10.57.09:280][365]AssetCheck: /Game/Ai/BT_Enemy 에셋 유효성 검사 중
+[2025.10.26-10.57.44:928][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-10.57.45:048][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ai/BT_Enemy] ([1] browsable assets)...
+[2025.10.26-10.57.45:048][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ai/BT_Enemy]
+[2025.10.26-10.57.45:048][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/BT_Enemy" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Ai/BT_Enemy.uasset" SILENT=true
+[2025.10.26-10.57.45:049][461]LogSavePackage: Moving output files for package: /Game/Ai/BT_Enemy
+[2025.10.26-10.57.45:050][461]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BT_EnemyE73A583E481A1F30DA81A5994256505C.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Ai/BT_Enemy.uasset'
+[2025.10.26-10.57.45:060][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.821 ms (total: 3.92 sec)
+[2025.10.26-10.57.45:162][461]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-10.57.45:162][461]LogContentValidation: Enabled validators:
+[2025.10.26-10.57.45:162][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-10.57.45:162][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-10.57.45:162][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-10.57.45:162][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-10.57.45:162][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-10.57.45:162][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-10.57.45:162][461]AssetCheck: /Game/Ai/BT_Enemy 에셋 유효성 검사 중
+[2025.10.26-10.58.16:865][283]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.26-10.58.16:879][283]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.26-10.58.16:887][283]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.26-10.58.16:898][284]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.26-10.58.19:968][464]LogContentBrowser: Attempting asset rename: NewBlueprint -> A
+[2025.10.26-10.58.19:981][464]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Animation/Moster/Ant/A.
+[2025.10.26-10.58.19:985][464]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.26-10.58.20:215][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.26-10.58.20:223][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.213
+[2025.10.26-10.58.20:225][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ai/BB_AI] ([1] browsable assets)...
+[2025.10.26-10.58.20:225][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ai/BB_AI]
+[2025.10.26-10.58.20:225][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ai/BB_AI_Auto7
+[2025.10.26-10.58.20:225][464]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BB_AI_Auto7E75D0C7441A29CA674FD629CA0ABFDC8.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Ai/BB_AI_Auto7.uasset'
+[2025.10.26-10.58.20:226][464]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.10.26-10.58.27:237][883]LogContentBrowser: Attempting asset rename: A -> AIC_Enemy
+[2025.10.26-10.58.27:356][883]LogMetaData: Removing '/Game/Animation/Moster/Ant/AIC_Enemy.AIC_Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Animation/Moster/Ant/A.PackageMetaData'
+[2025.10.26-10.58.27:356][883]LogMetaData: Removing '/Game/Animation/Moster/Ant/AIC_Enemy.SKEL_AIC_Enemy_C:UserConstructionScript' ref from Metadata '/Game/Animation/Moster/Ant/A.PackageMetaData'
+[2025.10.26-10.58.27:356][883]LogMetaData: Removing '/Game/Animation/Moster/Ant/AIC_Enemy.SKEL_AIC_Enemy_C' ref from Metadata '/Game/Animation/Moster/Ant/A.PackageMetaData'
+[2025.10.26-10.58.27:356][883]LogMetaData: Removing '/Game/Animation/Moster/Ant/AIC_Enemy.AIC_Enemy_C' ref from Metadata '/Game/Animation/Moster/Ant/A.PackageMetaData'
+[2025.10.26-10.58.27:356][883]LogMetaData: Removing '/Game/Animation/Moster/Ant/AIC_Enemy.AIC_Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Animation/Moster/Ant/A.PackageMetaData'
+[2025.10.26-10.58.27:356][883]LogMetaData: Removing '/Game/Animation/Moster/Ant/AIC_Enemy.AIC_Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Animation/Moster/Ant/A.PackageMetaData'
+[2025.10.26-10.58.27:367][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-10.58.27:367][883]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Moster/Ant/AIC_Enemy] ([2] browsable assets)...
+[2025.10.26-10.58.27:367][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/AIC_Enemy]
+[2025.10.26-10.58.27:369][883]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/AIC_Enemy
+[2025.10.26-10.58.27:369][883]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AIC_EnemyEA4411F44C99E4ED33FCFFA0BA20D324.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/AIC_Enemy.uasset'
+[2025.10.26-10.58.27:369][883]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Animation/Moster/Ant/AIC_Enemy.
+[2025.10.26-10.58.27:373][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.644 ms (total: 3.93 sec)
+[2025.10.26-10.58.27:407][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-10.58.27:427][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.26-10.58.27:446][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.26-10.58.27:566][883]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-10.58.27:566][883]LogContentValidation: Enabled validators:
+[2025.10.26-10.58.27:566][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-10.58.27:566][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-10.58.27:566][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-10.58.27:566][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-10.58.27:566][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-10.58.27:566][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-10.58.27:566][883]AssetCheck: /Game/Animation/Moster/Ant/AIC_Enemy 에셋 유효성 검사 중
+[2025.10.26-10.58.31:104][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animation/Moster/Ant/AIC_Enemy.AIC_Enemy
+[2025.10.26-10.58.31:104][ 93]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.26-10.58.35:710][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12732.945312
+[2025.10.26-10.58.35:970][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-10.58.35:970][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12733.186523, Update Interval: 303.898438
+[2025.10.26-10.58.56:265][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.26-10.58.56:890][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-10.58.56:980][588]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.10.26-10.58.56:985][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.10.26-10.58.56:986][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Default]
+[2025.10.26-10.58.56:992][588]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/BP_Ant_Default
+[2025.10.26-10.58.56:993][588]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_DefaultE399F9D24E1DD3F835342781A0BF2D52.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/BP_Ant_Default.uasset'
+[2025.10.26-10.58.57:004][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.829 ms (total: 4.04 sec)
+[2025.10.26-10.58.57:098][588]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-10.58.57:098][588]LogContentValidation: Enabled validators:
+[2025.10.26-10.58.57:098][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-10.58.57:098][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-10.58.57:098][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-10.58.57:098][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-10.58.57:098][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-10.58.57:098][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-10.58.57:098][588]AssetCheck: /Game/Animation/Moster/Ant/BP_Ant_Default 에셋 유효성 검사 중
+[2025.10.26-10.59.02:052][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-11.00.43:258][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.26-11.00.43:919][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-11.00.44:005][825]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Moster/Ant/AIC_Enemy] ([2] browsable assets)...
+[2025.10.26-11.00.44:005][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/AIC_Enemy]
+[2025.10.26-11.00.44:009][825]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/AIC_Enemy
+[2025.10.26-11.00.44:009][825]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AIC_Enemy841BA17A4B2A55B86BF916994C05AD12.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/AIC_Enemy.uasset'
+[2025.10.26-11.00.44:020][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.455 ms (total: 4.15 sec)
+[2025.10.26-11.00.44:112][825]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-11.00.44:112][825]LogContentValidation: Enabled validators:
+[2025.10.26-11.00.44:112][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-11.00.44:112][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-11.00.44:112][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-11.00.44:112][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-11.00.44:112][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-11.00.44:112][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-11.00.44:112][825]AssetCheck: /Game/Animation/Moster/Ant/AIC_Enemy 에셋 유효성 검사 중
+[2025.10.26-11.01.24:957][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.26-11.01.56:324][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.26-11.01.57:501][184]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.01.57:515][184]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace1 before play...
+[2025.10.26-11.01.57:520][184]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace before play...
+[2025.10.26-11.01.57:538][184]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.10.26-11.01.57:584][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.26-11.01.57:590][184]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (3 blueprints)
+[2025.10.26-11.01.57:590][184]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.01.57:592][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001871s)
+[2025.10.26-11.01.57:592][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001910s)
+[2025.10.26-11.01.57:606][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-11.01.57:608][184]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.01.57:610][184]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2025.10.26-11.01.57:610][184]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.01.57:610][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.01.57:610][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.01.57:610][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.01.57:610][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.01.57:610][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.01.57:612][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.01.57:651][184]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.01.57:651][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.01.57:651][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.01.57:651][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.01.57:652][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.10.26-11.01.57:652][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.10.26-11.01.57:654][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.10.26-11.01.57:654][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.10.26-11.01.57:654][184]LogInit: FAudioDevice initialized with ID 19.
+[2025.10.26-11.01.57:654][184]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestMap'.
+[2025.10.26-11.01.57:654][184]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.10.26-11.01.57:715][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.01.57:716][184]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.01.57:717][184]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.01.57
+[2025.10.26-11.01.57:718][184]LogWorld: Bringing up level for play took: 0.002158
+[2025.10.26-11.01.57:720][184]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.10.26-11.01.57:728][184]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.01.57:729][184]PIE: 에디터에서 플레이 총 시작 시간 0.223초입니다.
+[2025.10.26-11.02.00:322][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.02.00:323][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.02.00:323][334]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-11.02.00:332][334]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.02.00:332][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.02.00:336][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.02.00:341][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.02.00:356][334]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.10.26-11.02.00:356][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.10.26-11.02.00:359][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.10.26-11.02.00:365][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-11.02.00:459][335]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.10.26-11.02.05:360][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.26-11.02.06:433][683]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.02.06:445][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-11.02.06:445][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.02.06:447][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001871s)
+[2025.10.26-11.02.06:447][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001897s)
+[2025.10.26-11.02.06:462][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.26-11.02.06:467][683]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.02.06:468][683]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2025.10.26-11.02.06:469][683]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.02.06:469][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.02.06:469][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.02.06:469][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.02.06:469][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.02.06:469][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.02.06:471][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.02.06:506][683]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.02.06:506][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.02.06:506][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.02.06:506][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.02.06:507][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.10.26-11.02.06:507][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.10.26-11.02.06:509][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.10.26-11.02.06:509][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.10.26-11.02.06:509][683]LogInit: FAudioDevice initialized with ID 20.
+[2025.10.26-11.02.06:509][683]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMap'.
+[2025.10.26-11.02.06:509][683]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.10.26-11.02.06:574][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.02.06:575][683]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.02.06:576][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.02.06
+[2025.10.26-11.02.06:577][683]LogWorld: Bringing up level for play took: 0.002079
+[2025.10.26-11.02.06:579][683]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.10.26-11.02.06:583][683]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.02.06:583][683]PIE: 에디터에서 플레이 총 시작 시간 0.146초입니다.
+[2025.10.26-11.02.16:162][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.02.16:162][253]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.02.16:163][253]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-11.02.16:170][253]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.02.16:171][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.02.16:174][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.02.16:179][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.02.16:193][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-11.02.16:193][253]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.10.26-11.02.16:194][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.10.26-11.02.16:196][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.10.26-11.02.16:202][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.26-11.02.16:297][254]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.10.26-11.03.51:102][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.26-11.04.18:204][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13075.021484
+[2025.10.26-11.04.18:471][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-11.04.18:471][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13075.271484, Update Interval: 322.507996
+[2025.10.26-11.05.08:802][437]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.05.08:813][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-11.05.08:813][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.05.08:815][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001919s)
+[2025.10.26-11.05.08:815][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001947s)
+[2025.10.26-11.05.08:833][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.26-11.05.08:840][437]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.05.08:841][437]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2025.10.26-11.05.08:841][437]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.05.08:842][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.05.08:842][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.05.08:842][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.05.08:842][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.05.08:842][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.05.08:844][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.05.08:880][437]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.05.08:881][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.05.08:881][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.05.08:881][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.05.08:882][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.10.26-11.05.08:882][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.10.26-11.05.08:883][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.10.26-11.05.08:883][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.10.26-11.05.08:883][437]LogInit: FAudioDevice initialized with ID 21.
+[2025.10.26-11.05.08:883][437]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2025.10.26-11.05.08:883][437]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.10.26-11.05.08:886][437]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.05.08:888][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.05.08
+[2025.10.26-11.05.08:889][437]LogWorld: Bringing up level for play took: 0.002492
+[2025.10.26-11.05.08:891][437]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.10.26-11.05.08:893][437]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.05.08:894][437]PIE: 에디터에서 플레이 총 시작 시간 0.087초입니다.
+[2025.10.26-11.05.16:803][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.05.16:803][906]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.05.16:804][906]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.05.16:804][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.05.16:808][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.05.16:812][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.05.16:831][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-11.05.16:831][906]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.10.26-11.05.16:831][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.10.26-11.05.16:834][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.10.26-11.05.16:837][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.05.16:840][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.26-11.05.16:941][907]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.10.26-11.06.55:125][764]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-11.06.55:130][764]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Attack.Ant_Attack (Required Memory Estimate: 5.52 MB)
+[2025.10.26-11.06.55:150][764]LogAnimationCompression: Display: Storing compressed animation data for /Game/Medhue_Insects/Medhue_Ant/Animation/Ant_Attack.Ant_Attack, at AnimationSequence/56f596838ca4dda5ebcc5c5566c81b27ac1f0855
+[2025.10.26-11.06.55:156][764]LogContentBrowser: Deferred new asset file creation: Ant_Attack_Montage
+[2025.10.26-11.06.55:167][764]LogContentBrowser: Creating deferred item: Ant_Attack_Montage
+[2025.10.26-11.06.55:181][765]LogContentBrowser: Renaming the item being created (Deferred Item: Ant_Attack_Montage).
+[2025.10.26-11.06.56:223][828]LogContentBrowser: Attempting asset rename: Ant_Attack_Montage -> Ant_Attack_Montage
+[2025.10.26-11.06.56:261][828]LogContentBrowser: End creating deferred item Ant_Attack_Montage
+[2025.10.26-11.07.00:547][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-11.07.00:547][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/Ant_Attack_Montage] ([1] browsable assets)...
+[2025.10.26-11.07.00:555][ 56]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/Moster/Ant/Ant_Attack_Montage.Ant_Attack_Montage]
+[2025.10.26-11.07.00:555][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/Ant_Attack_Montage]
+[2025.10.26-11.07.00:556][ 56]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/Ant_Attack_Montage
+[2025.10.26-11.07.00:556][ 56]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Ant_Attack_Montage07E5DF0C450186DF408FDF96DC85641B.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/Ant_Attack_Montage.uasset'
+[2025.10.26-11.07.00:598][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.535 ms (total: 4.20 sec)
+[2025.10.26-11.07.00:681][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.26-11.07.00:704][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.26-11.07.00:722][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.26-11.07.00:808][ 56]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: Enabled validators:
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-11.07.00:808][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-11.07.00:808][ 56]AssetCheck: /Game/Animation/Moster/Ant/Ant_Attack_Montage 에셋 유효성 검사 중
+[2025.10.26-11.08.22:205][895]LogBlueprint: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Animation\Moster\Ant\ABP_Ant.uasset: [Compiler] Idle -> Walk  will never be taken, please connect something to  Can Enter Transition
+[2025.10.26-11.08.22:205][895]LogBlueprint: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Animation\Moster\Ant\ABP_Ant.uasset: [Compiler] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2025.10.26-11.08.22:318][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.26-11.09.00:320][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.26-11.09.00:333][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestMap_Auto8
+[2025.10.26-11.09.00:333][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap_Auto8A39630C84F8E54DE1B4313BB642D8752.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Maps/TestMap_Auto8.umap'
+[2025.10.26-11.09.00:334][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.030
+[2025.10.26-11.09.00:334][152]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.10.26-11.09.00:334][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.26-11.09.00:345][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.26-11.09.00:345][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_TestCharecter]
+[2025.10.26-11.09.00:357][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_TestCharecter_Auto8
+[2025.10.26-11.09.00:358][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto8FA26B93E4EAF98FA845205B36EDFAAA3.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Blueprint/BP_TestCharecter_Auto8.uasset'
+[2025.10.26-11.09.00:358][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.10.26-11.09.00:363][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.10.26-11.09.00:363][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Default]
+[2025.10.26-11.09.00:370][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Default_Auto8
+[2025.10.26-11.09.00:370][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Default_Auto87171963749D04F4D9695C7A174744EE7.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Default_Auto8.uasset'
+[2025.10.26-11.09.00:371][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Normal] ([2] browsable assets)...
+[2025.10.26-11.09.00:377][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Normal.BP_Ant_Normal]
+[2025.10.26-11.09.00:377][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Normal]
+[2025.10.26-11.09.00:382][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto8
+[2025.10.26-11.09.00:382][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Normal_Auto8EDBC9D1A44C7686CDD527C9DBAE1E266.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto8.uasset'
+[2025.10.26-11.09.00:383][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.26-11.09.00:383][152]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-11.09.00:383][152]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-11.09.00:383][152]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-11.09.00:383][152]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:005D
+[2025.10.26-11.09.00:383][152]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:010F
+[2025.10.26-11.09.00:383][152]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_228
+	Function /Game/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:013E
+[2025.10.26-11.09.00:388][152]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.26-11.09.00:388][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/ABP_Player]
+[2025.10.26-11.09.00:408][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/ABP_Player_Auto8
+[2025.10.26-11.09.00:408][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto83CD4093441A9FCF7C7048AB636A67112.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/ABP_Player_Auto8.uasset'
+[2025.10.26-11.09.00:409][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.26-11.09.00:409][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/BPC_AttackSystem]
+[2025.10.26-11.09.00:420][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Components/BPC_AttackSystem_Auto8
+[2025.10.26-11.09.00:420][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto867B0DED44DC247EAF73A94863E77D4CD.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Components/BPC_AttackSystem_Auto8.uasset'
+[2025.10.26-11.09.00:421][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1] ([2] browsable assets)...
+[2025.10.26-11.09.00:421][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1]
+[2025.10.26-11.09.00:422][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace1_Auto8
+[2025.10.26-11.09.00:422][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace1_Auto867369DE44E13FA821F409FAA929B518A.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace1_Auto8.uasset'
+[2025.10.26-11.09.00:423][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace] ([2] browsable assets)...
+[2025.10.26-11.09.00:423][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace]
+[2025.10.26-11.09.00:425][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto8
+[2025.10.26-11.09.00:425][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace_Auto86208D4064A6BCB6FE7D90CB6C5F236F9.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto8.uasset'
+[2025.10.26-11.09.00:425][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Moster/Ant/ABP_Ant] ([2] browsable assets)...
+[2025.10.26-11.09.00:431][152]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant]
+[2025.10.26-11.09.00:431][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/ABP_Ant]
+[2025.10.26-11.09.00:441][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/ABP_Ant_Auto8
+[2025.10.26-11.09.00:441][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Ant_Auto86C381651496AB9DFF93E8BBF4E0AF0CE.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/ABP_Ant_Auto8.uasset'
+[2025.10.26-11.09.00:441][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/BPC_StateSystem] ([2] browsable assets)...
+[2025.10.26-11.09.00:441][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/BPC_StateSystem]
+[2025.10.26-11.09.00:445][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Components/BPC_StateSystem_Auto8
+[2025.10.26-11.09.00:445][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_StateSystem_Auto825EC10B24271FAA99D6929B659CF23AA.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Components/BPC_StateSystem_Auto8.uasset'
+[2025.10.26-11.09.00:446][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Moster/Ant/AIC_Enemy] ([2] browsable assets)...
+[2025.10.26-11.09.00:446][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/AIC_Enemy]
+[2025.10.26-11.09.00:448][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/AIC_Enemy_Auto8
+[2025.10.26-11.09.00:448][152]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AIC_Enemy_Auto8753A56BB418A69B6B18E078EEDA0473E.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/AIC_Enemy_Auto8.uasset'
+[2025.10.26-11.09.00:448][152]LogFileHelpers: Auto-saving content packages took 0.115
+[2025.10.26-11.09.33:193][908]LogSlate: Window '스켈레톤 선택' being destroyed
+[2025.10.26-11.09.33:213][908]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2025.10.26-11.09.33:221][908]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2025.10.26-11.09.33:232][909]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2025.10.26-11.09.43:342][516]LogContentBrowser: Attempting asset rename: NewBlendSpace -> MS_Ant_Move
+[2025.10.26-11.09.43:380][516]LogContentBrowser: End creating deferred item NewBlendSpace
+[2025.10.26-11.09.44:774][596]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animation/Moster/Ant/MS_Ant_Move.MS_Ant_Move
+[2025.10.26-11.09.44:774][596]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.26-11.09.44:782][596]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.26-11.09.44:970][596]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.10.26-11.10.28:560][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13444.941406
+[2025.10.26-11.10.28:830][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-11.10.28:830][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13445.196289, Update Interval: 320.526733
+[2025.10.26-11.13.21:286][293]LogBlueprint: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Animation\Moster\Ant\ABP_Ant.uasset: [Compiler] Walk -> Idle  will never be taken, please connect something to  Can Enter Transition
+[2025.10.26-11.13.21:380][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.26-11.13.21:406][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:406][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:407][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:407][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:408][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_36:PersistentLevel.BP_Ant_Default_C_22.CharacterMesh0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:408][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_36:PersistentLevel.BP_Ant_Default_C_22.CharacterMesh0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:443][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:443][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:444][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:444][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:445][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_36:PersistentLevel.BP_Ant_Default_C_22.CharacterMesh0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:445][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_36:PersistentLevel.BP_Ant_Default_C_22.CharacterMesh0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:454][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_384
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:454][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_384
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:454][293]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:454][293]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:483][294]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:483][294]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:500][295]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_385
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:500][295]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_385
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:502][295]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:502][295]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:516][296]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:516][296]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:533][297]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:533][297]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.21:549][298]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.21:549][298]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Ant_C_0
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.25:192][506]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_386
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.25:192][506]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_386
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.25:192][506]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_386
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.25:192][506]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_386
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.25:257][508]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_387
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.25:257][508]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_387
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.25:257][508]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_387
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.25:257][508]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_387
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.31:635][876]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_388
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.31:635][876]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_388
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.31:635][876]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_388
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.31:635][876]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_388
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.31:683][878]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_389
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.31:683][878]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_389
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.31:683][878]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_389
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.31:683][878]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_389
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.35:605][106]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_390
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.35:605][106]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_390
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.35:605][106]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_390
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.35:605][106]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_390
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.35:651][108]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_391
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.35:651][108]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_391
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.35:651][108]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_391
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.35:651][108]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_391
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.48:676][882]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_392
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.48:676][882]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_392
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.48:676][882]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_392
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.48:676][882]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_392
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.48:738][884]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_393
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.48:739][884]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_393
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.48:739][884]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_393
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.48:739][884]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_393
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.57:973][438]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_394
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.57:973][438]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_394
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.57:973][438]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_394
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.57:973][438]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_394
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.58:050][442]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_395
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.58:050][442]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_395
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.58:050][442]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_395
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.58:050][442]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_395
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.58:500][469]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_396
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.58:500][469]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_396
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.58:500][469]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_396
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.58:500][469]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_396
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.58:556][472]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_397
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.58:556][472]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_397
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.13.58:556][472]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_397
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.13.58:556][472]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_397
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.07:718][ 21]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_398
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.07:718][ 21]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_398
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.07:718][ 21]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_398
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.07:718][ 21]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_398
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.07:782][ 24]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_399
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.07:782][ 24]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_399
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.07:782][ 24]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_399
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.07:782][ 24]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_399
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.08:567][ 69]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_400
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.08:567][ 69]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_400
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.08:567][ 69]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_400
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.08:567][ 69]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_400
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.08:609][ 71]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_401
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.08:609][ 71]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_401
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.08:609][ 71]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_401
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.08:609][ 71]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_401
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.11:034][210]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_402
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.11:034][210]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_402
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.11:034][210]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_402
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.11:034][210]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_402
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.11:105][212]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_403
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.11:106][212]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_403
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.11:106][212]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_403
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.11:106][212]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_403
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.19:885][730]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_404
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.19:885][730]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_404
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.19:885][730]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_404
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.19:885][730]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_404
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.19:931][731]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_405
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.19:931][731]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_405
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.19:931][731]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_405
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.19:931][731]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_405
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.21:271][805]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_406
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.21:271][805]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_406
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.21:271][805]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_406
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.21:271][805]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_406
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.21:348][809]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_407
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.21:348][809]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_407
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.21:348][809]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_407
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.21:348][809]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_407
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.28:056][204]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_408
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.28:056][204]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_408
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.28:056][204]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_408
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.28:056][204]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_408
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.28:139][207]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_409
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.28:139][207]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_409
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.28:139][207]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_409
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.28:139][207]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_409
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.33:749][534]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_410
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.33:749][534]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_410
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.33:749][534]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_410
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.33:749][534]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_410
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.33:827][537]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_411
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.33:828][537]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_411
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.33:828][537]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_411
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.33:828][537]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_411
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.35:880][644]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_412
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.35:880][644]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_412
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.35:880][644]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_412
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.35:880][644]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_412
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.35:911][645]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_413
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.35:911][645]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_413
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.35:911][645]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_413
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.35:911][645]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_413
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.37:704][746]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_414
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.37:704][746]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_414
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.37:704][746]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_414
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.37:704][746]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_414
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.37:736][747]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_415
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.37:736][747]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_415
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.37:736][747]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_415
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.37:736][747]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_415
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.38:963][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-11.14.38:976][816]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.38:976][816]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.38:977][816]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.38:977][816]LogScript: Warning: None에 접근
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.38:983][816]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.38:983][816]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_48:PersistentLevel.BP_Ant_Default_C_0.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.38:985][816]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.38:985][816]LogScript: Warning: None에 접근
+	ABP_Ant_C /Game/Maps/TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.CharacterMesh0.ABP_Ant_C_1
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.38:996][816]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_416
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.38:996][816]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_416
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.39:031][817]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_417
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.39:031][817]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_417
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.41:651][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-11.14.41:754][974]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Moster/Ant/ABP_Ant] ([2] browsable assets)...
+[2025.10.26-11.14.41:756][974]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_418
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.41:756][974]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_418
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.14.41:762][974]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant]
+[2025.10.26-11.14.41:763][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/ABP_Ant]
+[2025.10.26-11.14.41:774][974]LogSavePackage: Moving output files for package: /Game/Animation/Moster/Ant/ABP_Ant
+[2025.10.26-11.14.41:774][974]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Ant483167E4464D805824B65F8A06842F10.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Animation/Moster/Ant/ABP_Ant.uasset'
+[2025.10.26-11.14.41:786][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.988 ms (total: 4.33 sec)
+[2025.10.26-11.14.41:881][974]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-11.14.41:881][974]LogContentValidation: Enabled validators:
+[2025.10.26-11.14.41:881][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-11.14.41:881][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-11.14.41:881][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-11.14.41:881][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-11.14.41:881][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-11.14.41:881][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-11.14.41:881][974]AssetCheck: /Game/Animation/Moster/Ant/ABP_Ant 에셋 유효성 검사 중
+[2025.10.26-11.14.41:924][976]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_419
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.14.41:924][976]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_419
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.10:714][672]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_420
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.10:714][672]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_420
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.10:714][672]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_420
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.10:714][672]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_420
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.10:777][674]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_421
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.10:777][674]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_421
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.10:777][674]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_421
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.10:777][674]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_421
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.22:187][348]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_422
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.22:187][348]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_422
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.22:187][348]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_422
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.22:187][348]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_422
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.22:267][352]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_423
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.22:267][352]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_423
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.22:267][352]LogScript: Warning: Enemy 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_423
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:0079
+[2025.10.26-11.15.22:267][352]LogScript: Warning: None에 접근
+	ABP_Ant_C /Engine/Transient.World_49:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Ant_C_423
+	Function /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant_C:ExecuteUbergraph_ABP_Ant:008E
+[2025.10.26-11.15.24:890][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-11.15.25:804][555]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.15.25:818][555]LogPlayLevel: [PlayLevel] Compiling BP_Ant_Normal before play...
+[2025.10.26-11.15.25:839][555]LogPlayLevel: [PlayLevel] Compiling BPC_AttackSystem before play...
+[2025.10.26-11.15.25:921][555]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace1 before play...
+[2025.10.26-11.15.25:924][555]LogPlayLevel: [PlayLevel] Compiling ANS_AttackTrace before play...
+[2025.10.26-11.15.25:940][555]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.10.26-11.15.25:988][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.26-11.15.25:993][555]LogPlayLevel: PlayLevel: Blueprint regeneration took 175 ms (5 blueprints)
+[2025.10.26-11.15.25:993][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.15.25:995][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2025.10.26-11.15.25:995][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002049s)
+[2025.10.26-11.15.26:011][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.26-11.15.26:014][555]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.15.26:015][555]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2025.10.26-11.15.26:015][555]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.15.26:015][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.15.26:015][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.15.26:015][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.15.26:015][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.15.26:015][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.15.26:017][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.15.26:059][555]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.15.26:059][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.15.26:059][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.15.26:059][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.15.26:060][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.10.26-11.15.26:060][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.10.26-11.15.26:062][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.10.26-11.15.26:062][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.10.26-11.15.26:062][555]LogInit: FAudioDevice initialized with ID 22.
+[2025.10.26-11.15.26:062][555]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2025.10.26-11.15.26:062][555]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.26-11.15.26:122][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.15.26:122][555]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.15.26:124][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.15.26
+[2025.10.26-11.15.26:125][555]LogWorld: Bringing up level for play took: 0.002283
+[2025.10.26-11.15.26:127][555]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2025.10.26-11.15.26:132][555]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.15.26:134][555]PIE: 에디터에서 플레이 총 시작 시간 0.325초입니다.
+[2025.10.26-11.15.36:053][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.15.36:053][138]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.15.36:054][138]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-11.15.36:061][138]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.15.36:061][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.15.36:066][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.15.36:071][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.15.36:089][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.26-11.15.36:089][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.10.26-11.15.36:091][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.10.26-11.15.36:098][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.26-11.15.36:175][139]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2025.10.26-11.16.23:010][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-11.16.24:232][970]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.16.24:242][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-11.16.24:242][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.16.24:244][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001771s)
+[2025.10.26-11.16.24:244][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001803s)
+[2025.10.26-11.16.24:259][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.26-11.16.24:263][970]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.16.24:264][970]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2025.10.26-11.16.24:264][970]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.16.24:264][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.16.24:264][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.16.24:264][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.16.24:264][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.16.24:264][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.16.24:267][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.16.24:302][970]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.16.24:302][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.16.24:302][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.16.24:302][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.16.24:302][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.10.26-11.16.24:302][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.10.26-11.16.24:304][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.10.26-11.16.24:304][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.10.26-11.16.24:304][970]LogInit: FAudioDevice initialized with ID 23.
+[2025.10.26-11.16.24:304][970]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestMap'.
+[2025.10.26-11.16.24:304][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.26-11.16.24:368][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.16.24:368][970]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.16.24:371][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.16.24
+[2025.10.26-11.16.24:371][970]LogWorld: Bringing up level for play took: 0.003193
+[2025.10.26-11.16.24:373][970]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.10.26-11.16.24:379][970]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.16.24:381][970]PIE: 에디터에서 플레이 총 시작 시간 0.145초입니다.
+[2025.10.26-11.16.34:953][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.16.34:953][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.16.34:953][599]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-11.16.34:964][599]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.16.34:964][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.16.35:001][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.16.35:005][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.16.35:021][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-11.16.35:021][599]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.26-11.16.35:021][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.10.26-11.16.35:023][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.10.26-11.16.35:030][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.26-11.16.35:261][600]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.10.26-11.16.48:785][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13824.608398
+[2025.10.26-11.16.49:093][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.26-11.16.49:208][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-11.16.49:208][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13825.022461, Update Interval: 311.883911
+[2025.10.26-11.16.50:316][482]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.16.50:327][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-11.16.50:328][482]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.16.50:329][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001732s)
+[2025.10.26-11.16.50:329][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001763s)
+[2025.10.26-11.16.50:345][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.26-11.16.50:350][482]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.16.50:352][482]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2025.10.26-11.16.50:352][482]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.16.50:352][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.16.50:352][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.16.50:352][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.16.50:352][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.16.50:352][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.16.50:354][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.16.50:388][482]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.16.50:388][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.16.50:388][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.16.50:388][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.16.50:389][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.10.26-11.16.50:389][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.10.26-11.16.50:391][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.10.26-11.16.50:391][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.10.26-11.16.50:391][482]LogInit: FAudioDevice initialized with ID 24.
+[2025.10.26-11.16.50:391][482]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestMap'.
+[2025.10.26-11.16.50:391][482]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.26-11.16.50:453][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.16.50:453][482]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.16.50:455][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.16.50
+[2025.10.26-11.16.50:456][482]LogWorld: Bringing up level for play took: 0.002450
+[2025.10.26-11.16.50:458][482]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2025.10.26-11.16.50:462][482]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.16.50:462][482]PIE: 에디터에서 플레이 총 시작 시간 0.142초입니다.
+[2025.10.26-11.17.09:133][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.17.09:133][572]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.17.09:133][572]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.26-11.17.09:138][572]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.17.09:138][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.17.09:144][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.17.09:148][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.17.09:166][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.26-11.17.09:166][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.26-11.17.09:166][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.10.26-11.17.09:168][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.10.26-11.17.09:175][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.26-11.17.09:255][573]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2025.10.26-11.17.16:440][821]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.26-11.17.16:462][821]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.26-11.17.16:473][821]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.26-11.17.22:849][821]LogContentBrowser: Attempting asset rename: 새 폴더 -> Tasks
+[2025.10.26-11.17.22:849][821]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.26-11.17.30:418][821]LogSlate: Window '다른 이름으로 에셋 저장' being destroyed
+[2025.10.26-11.17.30:454][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ai/Tasks/BTT_Attack.BTT_Attack
+[2025.10.26-11.17.30:454][821]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.10.26-11.17.30:511][821]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Ai/Tasks/BTT_Attack.
+[2025.10.26-11.19.07:454][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.26-11.19.17:914][ 99]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.26-11.19.17:914][ 99]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Ai/Tasks/BTT_Attack (0x9BFFD8B13D734902) - The package to load does not exist on disk or in the loader
+[2025.10.26-11.19.20:951][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-11.19.21:057][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ai/BT_Enemy] ([1] browsable assets)...
+[2025.10.26-11.19.21:057][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ai/BT_Enemy]
+[2025.10.26-11.19.21:057][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/BT_Enemy" FILE="../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Ai/BT_Enemy.uasset" SILENT=true
+[2025.10.26-11.19.21:059][281]LogSavePackage: Moving output files for package: /Game/Ai/BT_Enemy
+[2025.10.26-11.19.21:060][281]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BT_EnemyEC79BBEB4EC982487916D49CC1F5D099.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Ai/BT_Enemy.uasset'
+[2025.10.26-11.19.21:069][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.400 ms (total: 4.45 sec)
+[2025.10.26-11.19.21:168][281]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.26-11.19.21:168][281]LogContentValidation: Enabled validators:
+[2025.10.26-11.19.21:168][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-11.19.21:168][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-11.19.21:168][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-11.19.21:168][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-11.19.21:168][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-11.19.21:168][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-11.19.21:168][281]AssetCheck: /Game/Ai/BT_Enemy 에셋 유효성 검사 중
+[2025.10.26-11.19.23:673][417]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.19.23:685][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-11.19.23:685][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.19.23:686][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001890s)
+[2025.10.26-11.19.23:686][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001918s)
+[2025.10.26-11.19.23:704][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.26-11.19.23:711][417]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.19.23:712][417]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2025.10.26-11.19.23:712][417]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.10.26-11.19.23:712][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.19.23:713][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.19.23:713][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.19.23:713][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.19.23:713][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.19.23:713][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.19.23:713][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.19.23:713][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.19.23:713][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.19.23:713][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.19.23:713][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.19.23:714][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.19.23:750][417]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.19.23:750][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.19.23:750][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.19.23:750][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.19.23:751][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.10.26-11.19.23:751][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.10.26-11.19.23:752][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.10.26-11.19.23:753][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.10.26-11.19.23:753][417]LogInit: FAudioDevice initialized with ID 25.
+[2025.10.26-11.19.23:753][417]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2025.10.26-11.19.23:753][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.26-11.19.23:756][417]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.19.23:758][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.19.23
+[2025.10.26-11.19.23:758][417]LogWorld: Bringing up level for play took: 0.002041
+[2025.10.26-11.19.23:760][417]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.10.26-11.19.23:763][417]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.19.23:764][417]PIE: 에디터에서 플레이 총 시작 시간 0.086초입니다.
+[2025.10.26-11.19.36:853][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.19.36:853][196]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.19.36:853][196]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.19.36:854][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.19.36:881][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.19.36:887][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.19.36:902][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.19.36:902][196]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.26-11.19.36:902][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.10.26-11.19.36:904][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.10.26-11.19.36:910][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.26-11.19.37:006][197]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.10.26-11.20.00:286][581]LogEditCondition: Error: BTDecorator_IsAtLocation - EditCondition 이 유효하지 않은 "bPathFindingBasedTest" 피연산자를 사용하려 했습니다.
+[2025.10.26-11.20.37:199][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.26-11.20.37:209][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestMap_Auto9
+[2025.10.26-11.20.37:210][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap_Auto953A434A249C30AAEC1F649AA10F56534.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Maps/TestMap_Auto9.umap'
+[2025.10.26-11.20.37:211][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.034
+[2025.10.26-11.20.37:211][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.10.26-11.20.37:211][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.10.26-11.20.37:219][773]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.10.26-11.20.37:219][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Default]
+[2025.10.26-11.20.37:226][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Default_Auto9
+[2025.10.26-11.20.37:226][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Default_Auto9AA504E03421C94EF8CDFFBBF30B9A3BC.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Default_Auto9.uasset'
+[2025.10.26-11.20.37:227][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/BP_Ant_Normal] ([2] browsable assets)...
+[2025.10.26-11.20.37:234][773]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Animation/Moster/Ant/BP_Ant_Normal.BP_Ant_Normal]
+[2025.10.26-11.20.37:234][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/BP_Ant_Normal]
+[2025.10.26-11.20.37:239][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto9
+[2025.10.26-11.20.37:239][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Normal_Auto94DBE855941B6BA8EBF335DB50ED9334A.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/BP_Ant_Normal_Auto9.uasset'
+[2025.10.26-11.20.37:240][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.26-11.20.37:240][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Components/BPC_AttackSystem]
+[2025.10.26-11.20.37:251][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Components/BPC_AttackSystem_Auto9
+[2025.10.26-11.20.37:251][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto9791EFCF84E5F96EDABAEB785ED0E7FC1.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Components/BPC_AttackSystem_Auto9.uasset'
+[2025.10.26-11.20.37:251][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1] ([2] browsable assets)...
+[2025.10.26-11.20.37:251][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace1]
+[2025.10.26-11.20.37:253][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace1_Auto9
+[2025.10.26-11.20.37:253][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace1_Auto93FB9A9304AA7410EF30E00AD0951F65E.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace1_Auto9.uasset'
+[2025.10.26-11.20.37:253][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace] ([2] browsable assets)...
+[2025.10.26-11.20.37:253][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Player/AnimNotify/ANS_AttackTrace]
+[2025.10.26-11.20.37:256][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto9
+[2025.10.26-11.20.37:256][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ANS_AttackTrace_Auto99817BD6A481386299C38069C47BD2A49.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Player/AnimNotify/ANS_AttackTrace_Auto9.uasset'
+[2025.10.26-11.20.37:256][773]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/Moster/Ant/ABP_Ant] ([2] browsable assets)...
+[2025.10.26-11.20.37:262][773]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Moster/Ant/ABP_Ant.ABP_Ant]
+[2025.10.26-11.20.37:262][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/ABP_Ant]
+[2025.10.26-11.20.37:274][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/ABP_Ant_Auto9
+[2025.10.26-11.20.37:274][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Ant_Auto92C3EAD134D086454097734A2427B551E.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/ABP_Ant_Auto9.uasset'
+[2025.10.26-11.20.37:275][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ai/BT_Enemy] ([1] browsable assets)...
+[2025.10.26-11.20.37:275][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ai/BT_Enemy]
+[2025.10.26-11.20.37:275][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ai/BT_Enemy_Auto9
+[2025.10.26-11.20.37:275][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BT_Enemy_Auto91ECBE93046755E7B895C46B09EC89075.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Ai/BT_Enemy_Auto9.uasset'
+[2025.10.26-11.20.37:276][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Moster/Ant/MS_Ant_Move] ([1] browsable assets)...
+[2025.10.26-11.20.37:281][773]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Animation/Moster/Ant/MS_Ant_Move.MS_Ant_Move]
+[2025.10.26-11.20.37:281][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Moster/Ant/MS_Ant_Move]
+[2025.10.26-11.20.37:282][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Moster/Ant/MS_Ant_Move_Auto9
+[2025.10.26-11.20.37:282][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MS_Ant_Move_Auto9CDF0533E4AECEB38673453A8D7CAF7A0.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Animation/Moster/Ant/MS_Ant_Move_Auto9.uasset'
+[2025.10.26-11.20.37:283][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ai/Tasks/BTT_Attack] ([2] browsable assets)...
+[2025.10.26-11.20.37:283][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ai/Tasks/BTT_Attack]
+[2025.10.26-11.20.37:286][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ai/Tasks/BTT_Attack_Auto9
+[2025.10.26-11.20.37:286][773]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BTT_Attack_Auto9E05B601649D466EA4BEDEBBBC0261534.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Ai/Tasks/BTT_Attack_Auto9.uasset'
+[2025.10.26-11.20.37:286][773]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.10.26-11.20.55:607][867]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.26-11.20.55:618][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.26-11.20.55:618][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.20.55:620][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2025.10.26-11.20.55:620][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001829s)
+[2025.10.26-11.20.55:637][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.26-11.20.55:640][867]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.26-11.20.55:642][867]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2025.10.26-11.20.55:642][867]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.26-11.20.55:642][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.26-11.20.55:642][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.26-11.20.55:642][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.26-11.20.55:642][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.26-11.20.55:642][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.26-11.20.55:644][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.26-11.20.55:681][867]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.10.26-11.20.55:681][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.26-11.20.55:681][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.26-11.20.55:681][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.26-11.20.55:682][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.10.26-11.20.55:682][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.10.26-11.20.55:683][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.10.26-11.20.55:683][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.10.26-11.20.55:683][867]LogInit: FAudioDevice initialized with ID 26.
+[2025.10.26-11.20.55:683][867]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestMap'.
+[2025.10.26-11.20.55:683][867]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.26-11.20.55:686][867]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.26-11.20.55:688][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.10.26-20.20.55
+[2025.10.26-11.20.55:688][867]LogWorld: Bringing up level for play took: 0.002184
+[2025.10.26-11.20.55:690][867]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2025.10.26-11.20.55:693][867]PIE: 서버가 로그인했습니다.
+[2025.10.26-11.20.55:694][867]PIE: 에디터에서 플레이 총 시작 시간 0.082초입니다.
+[2025.10.26-11.21.36:076][286]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (BP_Ant_Default) Flags: (0x00200001)
+[2025.10.26-11.22.16:735][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.22.16:735][720]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2025.10.26-11.22.16:735][720]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.26-11.22.16:736][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.22.16:741][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.26-11.22.16:745][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.26-11.22.16:760][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.26-11.22.16:760][720]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.26-11.22.16:760][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.10.26-11.22.16:762][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.10.26-11.22.16:767][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.26-11.22.16:838][721]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2025.10.26-11.22.40:611][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14175.937500
+[2025.10.26-11.22.41:611][105]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.26-11.22.41:611][105]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14176.604492, Update Interval: 330.927460
