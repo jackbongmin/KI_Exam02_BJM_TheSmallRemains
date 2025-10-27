@@ -3361,3 +3361,1678 @@ Sampler Limit: 32
 [2025.10.27-05.58.10:891][478]AssetCheck: /Game/A_TheSmallRemains/Maps/TestMap 에셋 유효성 검사 중
 [2025.10.27-05.58.10:891][478]AssetCheck: /Game/A_TheSmallRemains/Items/BP_Item 에셋 유효성 검사 중
 [2025.10.27-05.58.10:891][478]AssetCheck: /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda 에셋 유효성 검사 중
+[2025.10.27-06.03.41:977][ 17]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2025.10.27-06.03.42:194][ 17]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.10.27-06.03.42:194][ 17]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.10.27-06.03.42:194][ 17]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={44A5542A-461D-D137-1BB9-749BD500EC2B}
+[2025.10.27-06.11.40:764][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.11.40:801][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Items/DT_Item] ([1] browsable assets)...
+[2025.10.27-06.11.40:801][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/DT_Item]
+[2025.10.27-06.11.40:802][188]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/DT_Item
+[2025.10.27-06.11.40:802][188]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/DT_Item1759A87940F7ABBD9182EB85F2EB310A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/DT_Item.uasset'
+[2025.10.27-06.11.40:808][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.966 ms (total: 1.41 sec)
+[2025.10.27-06.11.40:868][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.11.40:868][188]LogContentValidation: Enabled validators:
+[2025.10.27-06.11.40:868][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.11.40:868][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.11.40:868][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.11.40:868][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.11.40:868][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.11.40:868][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.11.40:869][188]AssetCheck: /Game/A_TheSmallRemains/Items/DT_Item 에셋 유효성 검사 중
+[2025.10.27-06.11.49:858][983]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.27-06.12.01:602][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.10.27-06.12.17:654][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.27-06.12.18:331][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.12.18:384][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda] ([2] browsable assets)...
+[2025.10.27-06.12.18:422][208]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda]
+[2025.10.27-06.12.18:422][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda]
+[2025.10.27-06.12.18:427][208]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda
+[2025.10.27-06.12.18:427][208]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Soda4F858CD942684F55EC7E8F80E4835355.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.uasset'
+[2025.10.27-06.12.18:434][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.590 ms (total: 1.51 sec)
+[2025.10.27-06.12.18:483][208]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.12.18:483][208]LogContentValidation: Enabled validators:
+[2025.10.27-06.12.18:483][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.12.18:483][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.12.18:483][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.12.18:483][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.12.18:483][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.12.18:483][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.12.18:483][208]AssetCheck: /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda 에셋 유효성 검사 중
+[2025.10.27-06.13.02:541][928]LogBlueprint: Error: [AssetLog] : [Compiler] 종속성 순환이 감지되어,  경유 노드  노드의 스케쥴 등록을 금지합니다.
+[2025.10.27-06.13.02:541][928]BlueprintLog: Error: 종속성 순환이 감지되어,  경유 노드  노드의 스케쥴 등록을 금지합니다.
+[2025.10.27-06.13.15:721][824]LogBlueprint: Error: [AssetLog] : [Compiler] 종속성 순환이 감지되어,  경유 노드  노드의 스케쥴 등록을 금지합니다.
+[2025.10.27-06.13.15:721][824]BlueprintLog: Error: 종속성 순환이 감지되어,  경유 노드  노드의 스케쥴 등록을 금지합니다.
+[2025.10.27-06.13.27:586][623]LogSlate: Window '메시지 로그' being destroyed
+[2025.10.27-06.13.27:596][623]LogSlate: Window '메시지 로그' being destroyed
+[2025.10.27-06.18.09:439][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.27-06.18.10:289][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.18.10:348][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.27-06.18.10:389][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.27-06.18.10:389][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.27-06.18.10:418][602]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.27-06.18.10:419][602]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter19317C804407B1278C2C959A20E2ED4C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.27-06.18.10:426][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.464 ms (total: 1.64 sec)
+[2025.10.27-06.18.10:481][602]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.18.10:481][602]LogContentValidation: Enabled validators:
+[2025.10.27-06.18.10:481][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.18.10:481][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.18.10:481][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.18.10:481][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.18.10:481][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.18.10:481][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.18.10:481][602]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.27-06.20.04:142][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.27-06.20.44:982][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.10.27-06.20.45:740][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.20.45:798][658]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/BP_Item] ([2] browsable assets)...
+[2025.10.27-06.20.45:830][658]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/BP_Item.BP_Item]
+[2025.10.27-06.20.45:830][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/BP_Item]
+[2025.10.27-06.20.45:839][658]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/BP_Item
+[2025.10.27-06.20.45:840][658]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_ItemD163A0D2479E13D9E93CE8AC8108F082.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/BP_Item.uasset'
+[2025.10.27-06.20.45:846][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.433 ms (total: 1.75 sec)
+[2025.10.27-06.20.45:896][658]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.20.45:896][658]LogContentValidation: Enabled validators:
+[2025.10.27-06.20.45:896][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.20.45:896][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.20.45:896][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.20.45:896][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.20.45:896][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.20.45:896][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.20.45:896][658]AssetCheck: /Game/A_TheSmallRemains/Items/BP_Item 에셋 유효성 검사 중
+[2025.10.27-06.20.47:268][814]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.27-06.20.47:275][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-06.20.47:275][814]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-06.20.47:278][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003393s)
+[2025.10.27-06.20.47:278][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.003423s)
+[2025.10.27-06.20.47:300][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.27-06.20.47:305][814]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.27-06.20.47:307][814]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2025.10.27-06.20.47:308][814]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-06.20.47:308][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-06.20.47:308][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-06.20.47:308][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-06.20.47:308][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-06.20.47:308][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-06.20.47:311][814]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-06.20.47:327][814]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.27-06.20.47:327][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-06.20.47:327][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-06.20.47:327][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-06.20.47:328][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.27-06.20.47:328][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.27-06.20.47:331][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.27-06.20.47:331][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.27-06.20.47:331][814]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.27-06.20.47:331][814]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2025.10.27-06.20.47:331][814]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.27-06.20.47:364][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-06.20.47:364][814]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.27-06.20.47:367][814]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.27-15.20.47
+[2025.10.27-06.20.47:367][814]LogWorld: Bringing up level for play took: 0.003414
+[2025.10.27-06.20.47:370][814]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.10.27-06.20.47:377][814]PIE: 서버가 로그인했습니다.
+[2025.10.27-06.20.47:379][814]PIE: 에디터에서 플레이 총 시작 시간 0.104초입니다.
+[2025.10.27-06.20.47:381][814]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.27-06.20.49:819][  2]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.27-06.20.57:388][635]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.27-06.20.58:027][687]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.27-06.20.59:014][767]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.27-06.20.59:809][831]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.27-06.21.01:880][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-06.21.01:881][999]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-06.21.01:881][999]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.27-06.21.01:885][999]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-06.21.01:885][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-06.21.01:888][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-06.21.01:894][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-06.21.01:915][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-06.21.01:915][999]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.27-06.21.01:915][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.27-06.21.01:917][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.27-06.21.01:925][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.27-06.21.01:985][  0]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.10.27-06.27.50:894][512]LogClass: Warning: Type mismatch in Slots of BPC_InventorySystem_C - Previous (StructProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.10.27-06.27.50:953][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.27-06.27.51:585][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.27.51:628][575]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.27.51:628][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.27.51:635][575]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.27.51:636][575]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem9F01B6CD49824423CC6EDFAF7C78C823.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.27.51:642][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.051 ms (total: 1.81 sec)
+[2025.10.27-06.27.51:694][575]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.27.51:694][575]LogContentValidation: Enabled validators:
+[2025.10.27-06.27.51:694][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.27.51:694][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.27.51:694][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.27.51:694][575]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.27.51:694][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.27.51:694][575]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.27.51:694][575]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.30.19:949][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.27-06.30.20:895][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.30.20:944][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.30.20:944][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.30.20:952][797]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.30.20:952][797]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem15DD0CD34345E09A5C570993DD98ADCD.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.30.20:959][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.710 ms (total: 1.87 sec)
+[2025.10.27-06.30.21:010][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.30.21:010][797]LogContentValidation: Enabled validators:
+[2025.10.27-06.30.21:010][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.30.21:010][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.30.21:010][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.30.21:010][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.30.21:010][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.30.21:010][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.30.21:010][797]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.30.58:452][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-06.30.59:193][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.30.59:244][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.30.59:244][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.30.59:252][179]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.30.59:253][179]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystemFBBF7FDB4CC0C5EB38B56E988D0628FA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.30.59:259][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.614 ms (total: 1.94 sec)
+[2025.10.27-06.30.59:309][179]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.30.59:309][179]LogContentValidation: Enabled validators:
+[2025.10.27-06.30.59:309][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.30.59:309][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.30.59:309][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.30.59:309][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.30.59:309][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.30.59:309][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.30.59:309][179]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.32.33:870][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.27-06.34.42:069][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.27-06.34.42:658][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.34.42:708][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.34.42:709][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.34.42:719][164]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.34.42:720][164]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem182C184A4CD9AE470DAC0EA56369BE41.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.34.42:726][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.203 ms (total: 2.01 sec)
+[2025.10.27-06.34.42:775][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.34.42:775][164]LogContentValidation: Enabled validators:
+[2025.10.27-06.34.42:775][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.34.42:775][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.34.42:775][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.34.42:775][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.34.42:775][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.34.42:775][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.34.42:775][164]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.39.20:637][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.27-06.39.21:215][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.39.21:273][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.39.21:274][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.39.21:287][644]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.39.21:287][644]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem739CD91B43DD0E80EF361BBE7ED76857.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.39.21:293][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.881 ms (total: 2.08 sec)
+[2025.10.27-06.39.21:339][644]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.39.21:339][644]LogContentValidation: Enabled validators:
+[2025.10.27-06.39.21:339][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.39.21:339][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.39.21:339][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.39.21:339][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.39.21:340][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.39.21:340][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.39.21:340][644]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.41.54:102][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-06.41.54:585][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.41.54:622][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.41.54:622][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.41.54:637][345]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.41.54:637][345]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem06A30F6E403046FEF762698B4827EFE2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.41.54:643][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.194 ms (total: 2.14 sec)
+[2025.10.27-06.41.54:688][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.41.54:688][345]LogContentValidation: Enabled validators:
+[2025.10.27-06.41.54:688][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.41.54:688][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.41.54:688][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.41.54:688][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.41.54:688][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.41.54:688][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.41.54:688][345]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.42.56:661][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.27-06.44.38:071][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.27-06.44.38:074][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.024
+[2025.10.27-06.44.38:074][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.44.38:074][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.44.38:090][ 94]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem_Auto2
+[2025.10.27-06.44.38:090][ 94]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem_Auto2E180408245FB3CE4C906298B7D56748E.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem_Auto2.uasset'
+[2025.10.27-06.44.38:091][ 94]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.10.27-06.45.46:210][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.27-06.46.27:505][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-06.46.28:086][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.46.28:138][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-06.46.28:138][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem]
+[2025.10.27-06.46.28:154][833]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem
+[2025.10.27-06.46.28:155][833]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem2032C185402F6FE6BA09C98E4592A45B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/BPC_InventorySystem.uasset'
+[2025.10.27-06.46.28:161][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.623 ms (total: 2.22 sec)
+[2025.10.27-06.46.28:204][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.46.28:205][833]LogContentValidation: Enabled validators:
+[2025.10.27-06.46.28:205][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.46.28:205][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.46.28:205][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.46.28:205][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.46.28:205][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.46.28:205][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.46.28:205][833]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-06.46.30:026][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.27-06.46.30:962][ 47]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.27-06.46.30:968][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-06.46.31:021][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.27-06.46.31:061][ 47]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.27-06.46.31:061][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.27-06.46.31:091][ 47]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.27-06.46.31:092][ 47]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter257088B44D872010EDA24BADDA1DA99D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.27-06.46.31:099][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.757 ms (total: 2.35 sec)
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: Enabled validators:
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-06.46.31:137][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-06.46.31:137][ 47]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.27-06.46.50:143][115]Cmd: DUPLICATE
+[2025.10.27-06.46.50:143][115]Cmd: ACTOR DUPLICATE
+[2025.10.27-06.46.50:175][115]LogClass: Warning: Short type name "BP_Soda_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.46.50:181][115]LogClass: Warning: Short type name "BP_Soda_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.46.51:676][233]Cmd: DUPLICATE
+[2025.10.27-06.46.51:676][233]Cmd: ACTOR DUPLICATE
+[2025.10.27-06.46.51:690][233]LogClass: Warning: Short type name "BP_Soda_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.46.51:696][233]LogClass: Warning: Short type name "BP_Soda_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.46.55:274][497]Cmd: DUPLICATE
+[2025.10.27-06.46.55:275][497]Cmd: ACTOR DUPLICATE
+[2025.10.27-06.46.55:288][497]LogClass: Warning: Short type name "BP_Soda_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.46.55:294][497]LogClass: Warning: Short type name "BP_Soda_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:252][385]Cmd: DUPLICATE
+[2025.10.27-06.47.06:252][385]Cmd: ACTOR DUPLICATE
+[2025.10.27-06.47.06:272][385]LogClass: Warning: Short type name "BP_Soda_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:278][385]LogClass: Warning: Short type name "BP_Soda_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:293][385]LogClass: Warning: Short type name "BP_Soda_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:300][385]LogClass: Warning: Short type name "BP_Soda_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:314][385]LogClass: Warning: Short type name "BP_Soda_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:321][385]LogClass: Warning: Short type name "BP_Soda_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:336][385]LogClass: Warning: Short type name "BP_Soda_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.06:342][385]LogClass: Warning: Short type name "BP_Soda_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:390][ 78]Cmd: DUPLICATE
+[2025.10.27-06.47.14:390][ 78]Cmd: ACTOR DUPLICATE
+[2025.10.27-06.47.14:412][ 78]LogClass: Warning: Short type name "BP_Soda_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:418][ 78]LogClass: Warning: Short type name "BP_Soda_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:433][ 78]LogClass: Warning: Short type name "BP_Soda_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:440][ 78]LogClass: Warning: Short type name "BP_Soda_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:455][ 78]LogClass: Warning: Short type name "BP_Soda_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:462][ 78]LogClass: Warning: Short type name "BP_Soda_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:477][ 78]LogClass: Warning: Short type name "BP_Soda_C_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.14:483][ 78]LogClass: Warning: Short type name "BP_Soda_C_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:852][240]Cmd: DUPLICATE
+[2025.10.27-06.47.16:852][240]Cmd: ACTOR DUPLICATE
+[2025.10.27-06.47.16:875][240]LogClass: Warning: Short type name "BP_Soda_C_9" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:881][240]LogClass: Warning: Short type name "BP_Soda_C_9" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:896][240]LogClass: Warning: Short type name "BP_Soda_C_10" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:902][240]LogClass: Warning: Short type name "BP_Soda_C_10" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:918][240]LogClass: Warning: Short type name "BP_Soda_C_11" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:924][240]LogClass: Warning: Short type name "BP_Soda_C_11" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:939][240]LogClass: Warning: Short type name "BP_Soda_C_12" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.16:946][240]LogClass: Warning: Short type name "BP_Soda_C_12" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa3950085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa394dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa397d50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa3977975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa2f857b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa2f85518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.10.27-06.47.25:317][932]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.27-06.47.42:710][562]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.27-06.47.42:718][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-06.47.42:750][562]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-06.47.42:757][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007139s)
+[2025.10.27-06.47.42:757][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.007177s)
+[2025.10.27-06.47.42:790][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.27-06.47.42:796][562]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.27-06.47.42:798][562]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2025.10.27-06.47.42:799][562]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-06.47.42:799][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-06.47.42:799][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-06.47.42:799][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-06.47.42:799][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-06.47.42:799][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-06.47.42:801][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-06.47.42:817][562]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.27-06.47.42:817][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-06.47.42:817][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-06.47.42:817][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-06.47.42:819][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.27-06.47.42:819][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.27-06.47.42:821][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.27-06.47.42:821][562]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.27-06.47.42:821][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.27-06.47.42:821][562]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2025.10.27-06.47.42:821][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.27-06.47.42:824][562]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.27-06.47.42:828][562]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.27-15.47.42
+[2025.10.27-06.47.42:829][562]LogWorld: Bringing up level for play took: 0.004977
+[2025.10.27-06.47.42:831][562]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.10.27-06.47.42:838][562]PIE: 서버가 로그인했습니다.
+[2025.10.27-06.47.42:840][562]PIE: 에디터에서 플레이 총 시작 시간 0.122초입니다.
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.42:842][562]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.42:843][562]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.42:864][563]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.42:864][563]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.42:864][563]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.42:865][563]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.42:865][563]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.42:865][563]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.42:865][563]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.42:865][563]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.42:903][564]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.42:903][564]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.42:903][564]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.42:904][564]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.43:543][621]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.43:544][621]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.43:544][621]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.43:544][621]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.43:743][638]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.43:743][638]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.43:744][638]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.43:744][638]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.43:744][638]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.43:744][638]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.43:744][638]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.43:744][638]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.43:868][649]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.43:868][649]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.43:868][649]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.43:868][649]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.44:541][711]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.44:541][711]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.44:542][711]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.44:542][711]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.44:735][728]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.44:735][728]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.44:735][728]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.44:735][728]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.44:735][728]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.44:735][728]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.44:736][728]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.44:736][728]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.44:872][740]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.44:872][740]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.44:873][740]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.44:873][740]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.45:540][800]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.45:541][800]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.45:541][800]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.45:541][800]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.45:740][818]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.45:741][818]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.45:741][818]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.45:741][818]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.45:741][818]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.45:741][818]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.45:741][818]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.45:742][818]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.45:872][830]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.45:872][830]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.45:872][830]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.45:873][830]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.46:538][894]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.46:538][894]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.46:538][894]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.46:538][894]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.46:737][913]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.46:738][913]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.46:876][926]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.46:876][926]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.46:876][926]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.46:877][926]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.47:544][991]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.47:544][991]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.47:544][991]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.47:544][991]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.47:733][  9]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.47:733][  9]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.47:733][  9]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.47:734][  9]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.47:744][ 10]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.47:744][ 10]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.47:745][ 10]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.47:745][ 10]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.47:870][ 22]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.47:870][ 22]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.47:870][ 22]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.47:870][ 22]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.48:539][ 87]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.48:540][ 87]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.48:540][ 87]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.48:541][ 87]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.48:740][106]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.48:740][106]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.48:740][106]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.48:740][106]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.48:741][106]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.48:741][106]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.48:741][106]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.48:741][106]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.48:870][118]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.48:870][118]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.48:870][118]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.48:870][118]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.49:543][181]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.49:543][181]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.49:543][181]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.49:543][181]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.49:737][199]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.49:737][199]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.49:737][199]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.49:737][199]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.49:738][199]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.49:738][199]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.49:738][199]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.49:738][199]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.49:876][212]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.49:877][212]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.49:877][212]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.49:877][212]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.49:992][223]LogBlueprintUserMessages: [BP_Soda_C_5] BP_Soda5
+[2025.10.27-06.47.50:546][276]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.50:546][276]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.50:547][276]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.50:547][276]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.50:731][293]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.50:731][293]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.50:732][293]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.50:732][293]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.50:742][294]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.50:742][294]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.50:742][294]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.50:742][294]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.50:870][306]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.50:871][306]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.50:871][306]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.50:871][306]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.51:545][368]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.51:545][368]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.51:545][368]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.51:545][368]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.51:731][385]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.51:731][385]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.51:731][385]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.51:731][385]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.51:744][386]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.51:744][386]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.51:744][386]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.51:744][386]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.51:871][398]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.51:872][398]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.51:872][398]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.51:872][398]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.52:542][459]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.52:542][459]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.52:542][459]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.52:543][459]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.52:734][476]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.52:734][476]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.52:735][476]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.52:735][476]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.52:735][476]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.52:735][476]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.52:735][476]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.52:735][476]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.52:863][487]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.52:876][488]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.52:876][488]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.52:876][488]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.52:876][488]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.53:544][547]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.53:544][547]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.53:544][547]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.53:545][547]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.53:731][563]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.53:731][563]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.53:731][563]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.53:731][563]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.53:741][564]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.53:741][564]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.53:742][564]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.53:742][564]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.53:875][576]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.53:875][576]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.53:876][576]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.53:876][576]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.54:549][638]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.54:549][638]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.54:549][638]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.54:549][638]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.54:736][655]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.54:736][655]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.54:736][655]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.54:737][655]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.54:737][655]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.54:737][655]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.54:737][655]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.54:737][655]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.54:877][668]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.54:878][668]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.54:878][668]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.54:878][668]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.55:544][729]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.55:544][729]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.55:544][729]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.55:544][729]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.55:731][747]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.55:732][747]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.55:732][747]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.55:732][747]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.55:743][748]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.55:743][748]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.55:743][748]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.55:743][748]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.55:867][760]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.55:867][760]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.55:867][760]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.55:867][760]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.56:541][825]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.56:541][825]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.56:541][825]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.56:542][825]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.56:736][844]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.56:736][844]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.56:736][844]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.56:737][844]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.56:737][844]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.56:737][844]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.56:737][844]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.56:737][844]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.56:871][857]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.56:871][857]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.56:872][857]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.56:872][857]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.57:258][894]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.57:540][921]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.57:540][921]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.57:540][921]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.57:541][921]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.57:645][931]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-06.47.57:730][939]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.57:730][939]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.57:731][939]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.57:731][939]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.57:741][940]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.57:742][940]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.57:742][940]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.57:742][940]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.57:869][952]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.57:869][952]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.57:870][952]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.57:870][952]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.58:541][ 16]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.58:541][ 16]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.58:541][ 16]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.58:541][ 16]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.58:735][ 34]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.47.58:735][ 34]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.58:735][ 34]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.47.58:735][ 34]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.58:736][ 34]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.47.58:736][ 34]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.58:736][ 34]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.47.58:736][ 34]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.58:873][ 47]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.47.58:873][ 47]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.47.58:873][ 47]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.47.58:873][ 47]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.47.59:537][111]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.59:537][111]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.59:537][111]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.59:538][111]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.59:736][130]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.59:736][130]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.47.59:736][130]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.59:736][130]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.47.59:736][130]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.59:736][130]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.47.59:737][130]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.47.59:737][130]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.47.59:867][141]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.47.59:868][141]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.47.59:868][141]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.47.59:869][141]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.00:542][204]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.00:542][204]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.00:542][204]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.00:542][204]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.00:740][222]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.00:740][222]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.00:741][222]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.00:741][222]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.00:741][222]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.00:741][222]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.00:741][222]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.00:741][222]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.00:872][234]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.00:872][234]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.00:873][234]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.00:873][234]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.01:541][296]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.01:541][296]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.01:541][296]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.01:541][296]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.01:738][314]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.01:738][314]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.01:738][314]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.01:738][314]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.01:738][314]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.01:738][314]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.01:739][314]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.01:739][314]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.01:874][326]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.01:874][326]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.01:874][326]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.01:874][326]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.02:542][387]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.02:543][387]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.02:543][387]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.02:543][387]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.02:735][405]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.02:868][417]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.02:868][417]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.02:868][417]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.02:868][417]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.03:540][480]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.03:540][480]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.03:541][480]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.03:541][480]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.03:739][498]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.03:739][498]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.03:739][498]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.03:739][498]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.03:739][498]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.03:739][498]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.03:740][498]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.03:740][498]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.03:867][510]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.03:867][510]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.03:867][510]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.03:868][510]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.04:536][572]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.04:537][572]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.04:537][572]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.04:537][572]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.04:731][590]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.04:731][590]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.04:731][590]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.04:731][590]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.04:741][591]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.04:741][591]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.04:741][591]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.04:742][591]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.04:873][603]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.04:873][603]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.04:873][603]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.04:873][603]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.05:543][666]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.05:543][666]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.05:543][666]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.05:544][666]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.05:732][684]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.05:732][684]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.05:733][684]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.05:733][684]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.05:743][685]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.05:744][685]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.05:744][685]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.05:744][685]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.05:868][697]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.05:869][697]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.05:869][697]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.05:869][697]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.06:544][762]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.06:544][762]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.06:544][762]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.06:544][762]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.06:735][780]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.06:870][793]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.06:871][793]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.06:871][793]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.06:871][793]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.07:543][858]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.07:543][858]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.07:543][858]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.07:543][858]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.07:737][877]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.07:737][877]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.07:737][877]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.07:737][877]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.07:737][877]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.07:738][877]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.07:738][877]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.07:738][877]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.07:872][890]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.07:873][890]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.07:873][890]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.07:873][890]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.08:545][955]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.08:546][955]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.08:546][955]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.08:546][955]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.08:736][973]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.08:737][973]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.08:873][986]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.08:874][986]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.08:874][986]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.08:874][986]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.09:538][ 50]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.09:538][ 50]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.09:538][ 50]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.09:538][ 50]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.09:737][ 69]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.09:873][ 82]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.09:874][ 82]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.09:874][ 82]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.09:874][ 82]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.10:541][143]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.10:541][143]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.10:542][143]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.10:542][143]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.10:731][160]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.10:731][160]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.10:731][160]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.10:731][160]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.10:741][161]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.10:741][161]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.10:741][161]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.10:742][161]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.10:876][173]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.10:876][173]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.10:876][173]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.10:876][173]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.11:542][233]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.11:542][233]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.11:542][233]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.11:543][233]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.11:734][250]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.11:734][250]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.11:734][250]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.11:734][250]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.11:744][251]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.11:745][251]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.11:745][251]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.11:745][251]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.11:878][263]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.11:878][263]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.11:878][263]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.11:879][263]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.12:543][323]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.12:544][323]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.12:544][323]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.12:544][323]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.12:739][341]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.12:740][341]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.12:740][341]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.12:740][341]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.12:740][341]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.12:740][341]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.12:741][341]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.12:741][341]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.12:873][353]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.12:874][353]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.12:874][353]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.12:874][353]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.13:538][412]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.13:538][412]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.13:538][412]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.13:538][412]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.13:735][430]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.13:735][430]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.13:735][430]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.13:735][430]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.13:736][430]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.13:736][430]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.13:736][430]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.13:736][430]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.13:871][442]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.13:871][442]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.13:871][442]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.13:871][442]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.14:542][504]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.14:542][504]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.14:542][504]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.14:542][504]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.14:736][522]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.14:872][534]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.14:873][534]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.14:873][534]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.14:873][534]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.15:547][598]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.15:547][598]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.15:547][598]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.15:547][598]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.15:732][616]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.15:733][616]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.15:733][616]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.15:733][616]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.15:743][617]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.15:743][617]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.15:744][617]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.15:744][617]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.15:868][629]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.15:869][629]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.15:869][629]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.15:869][629]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.16:541][693]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.16:541][693]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.16:541][693]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.16:541][693]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.16:739][712]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.48.16:739][712]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.16:739][712]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.48.16:739][712]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.16:739][712]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.48.16:739][712]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.16:740][712]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.48.16:740][712]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.16:874][725]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.48.16:874][725]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.48.16:874][725]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.48.16:874][725]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.48.17:542][790]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.17:542][790]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.17:542][790]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.17:542][790]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.17:730][808]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.17:730][808]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.17:730][808]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.17:730][808]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.17:741][809]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.48.17:741][809]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.48.17:741][809]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.48.17:741][809]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.48.17:874][822]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.48.17:875][822]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.48.17:875][822]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.48.17:875][822]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.48.18:090][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-06.48.18:090][840]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-06.48.18:090][840]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-06.48.18:091][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-06.48.18:095][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-06.48.18:101][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-06.48.18:120][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-06.48.18:120][840]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.27-06.48.18:120][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.27-06.48.18:122][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.27-06.48.18:131][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.27-06.48.18:193][841]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.10.27-06.49.24:581][466]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.27-06.49.24:589][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-06.49.24:609][466]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-06.49.24:617][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007981s)
+[2025.10.27-06.49.24:617][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.008018s)
+[2025.10.27-06.49.24:653][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.27-06.49.24:657][466]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.27-06.49.24:659][466]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2025.10.27-06.49.24:660][466]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-06.49.24:660][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-06.49.24:660][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-06.49.24:660][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-06.49.24:660][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-06.49.24:660][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-06.49.24:662][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-06.49.24:678][466]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.27-06.49.24:678][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-06.49.24:678][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-06.49.24:678][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-06.49.24:680][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.27-06.49.24:680][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.27-06.49.24:682][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.27-06.49.24:682][466]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.27-06.49.24:682][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.10.27-06.49.24:682][466]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap'.
+[2025.10.27-06.49.24:682][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.27-06.49.24:684][466]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.27-06.49.24:689][466]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.27-15.49.24
+[2025.10.27-06.49.24:690][466]LogWorld: Bringing up level for play took: 0.005153
+[2025.10.27-06.49.24:692][466]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.10.27-06.49.24:698][466]PIE: 서버가 로그인했습니다.
+[2025.10.27-06.49.24:700][466]PIE: 에디터에서 플레이 총 시작 시간 0.111초입니다.
+[2025.10.27-06.49.24:702][466]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.27-06.49.29:345][891]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 1
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.49.30:418][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.27-06.49.30:419][991]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.27-06.49.32:624][190]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 2
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.49.32:946][219]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.27-06.49.34:942][401]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 3
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.49.35:610][465]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.49.35:611][465]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.49.35:611][465]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.27-06.49.37:086][607]LogBlueprintUserMessages: [BP_Soda_C_4] BP_Soda4
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 4
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.27-06.49.37:349][632]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.27-06.49.37:350][632]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.27-06.50.06:240][420]LogBlueprintUserMessages: [BP_Soda_C_8] BP_Soda8
+[2025.10.27-06.50.08:297][619]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.27-06.50.09:010][688]LogBlueprintUserMessages: [BP_Soda_C_8] BP_Soda8
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 5
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.27-06.50.11:151][889]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.27-06.50.14:008][155]LogBlueprintUserMessages: [BP_Soda_C_12] BP_Soda12
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 6
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.27-06.50.14:362][189]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.27-06.50.15:402][289]LogBlueprintUserMessages: [BP_Soda_C_16] BP_Soda16
+[2025.10.27-06.50.15:873][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 7
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.27-06.50.15:874][334]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.27-06.50.16:707][414]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 8
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.50.17:029][445]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.27-06.50.17:785][519]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 9
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.50.18:154][555]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.27-06.50.18:988][634]LogBlueprintUserMessages: [BP_Soda_C_13] BP_Soda13
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.19:487][680]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.19:488][680]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.27-06.50.19:488][680]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.27-06.50.19:488][680]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.27-06.50.19:488][680]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.27-06.50.20:269][753]LogBlueprintUserMessages: [BP_Soda_C_9] BP_Soda9
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 1
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.20:616][786]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.20:617][786]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.27-06.50.20:617][786]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.27-06.50.20:617][786]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.27-06.50.20:617][786]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.27-06.50.21:408][860]LogBlueprintUserMessages: [BP_Soda_C_5] BP_Soda5
+[2025.10.27-06.50.21:840][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 2
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-06.50.21:841][901]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-06.50.23:740][ 79]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 3
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.50.24:681][172]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-06.50.25:924][296]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 4
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.50.26:269][330]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-06.50.27:011][404]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 5
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.27:329][436]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.27:330][436]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.50.27:330][436]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.50.27:330][436]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.50.27:330][436]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.27-06.50.28:114][514]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 10
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 6
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-06.50.28:548][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.50.28:549][555]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.27-06.50.30:369][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-06.50.30:369][724]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-06.50.30:370][724]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-06.50.30:370][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-06.50.30:374][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-06.50.30:380][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-06.50.30:400][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-06.50.30:400][724]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.27-06.50.30:400][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.27-06.50.30:402][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.27-06.50.30:411][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.27-06.50.30:489][725]LogPlayLevel: Display: Destroying online subsystem :Context_36
