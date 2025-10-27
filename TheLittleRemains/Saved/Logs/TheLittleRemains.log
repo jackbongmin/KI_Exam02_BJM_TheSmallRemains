@@ -7603,3 +7603,279 @@ Script Stack (5 frames) :
 [2025.10.27-08.40.14:211][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.27-08.40.14:211][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-08.40.14:211][790]AssetCheck: /Game/A_TheSmallRemains/Iventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-08.42.35:941][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.27-08.42.39:791][645]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.42.39:791][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.42.39:944][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.27-08.42.41:337][744]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.27-08.42.41:337][744]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.42.41:337][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.42.41:429][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.27-08.42.44:445][953]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.27-08.42.44:445][953]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.42.44:445][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.42.44:594][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.27-08.42.46:668][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.27-08.42.46:668][136]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.42.46:668][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.42.46:761][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.27-08.42.48:137][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.27-08.42.48:137][262]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.42.48:137][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.42.48:222][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.27-08.42.59:688][420]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.42.59:688][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.42.59:779][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.27-08.43.04:061][921]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.04:061][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.04:111][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.27-08.43.05:955][105]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.05:955][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.05:964][105]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.05:964][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.06:030][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.27-08.43.07:324][243]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.07:324][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.07:333][243]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.07:333][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.07:404][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-08.43.08:638][377]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.08:638][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.08:646][377]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.08:646][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.08:722][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.27-08.43.09:855][499]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.09:855][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.09:864][499]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.09:864][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.09:934][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.27-08.43.11:394][668]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.27-08.43.11:394][668]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.11:394][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.11:472][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.27-08.43.12:610][801]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.12:610][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.12:619][801]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.12:619][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.12:674][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-08.43.14:104][968]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-08.43.14:104][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-08.43.14:163][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.27-08.44.14:536][ 18]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.27-08.44.14:560][ 18]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.27-08.44.14:574][ 19]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.27-08.44.20:836][603]LogContentBrowser: Attempting asset rename: 새 폴더 -> Inventory
+[2025.10.27-08.44.20:837][603]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.27-08.44.27:680][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/S_Slot.S_Slot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/S_Slot.PackageMetaData'
+[2025.10.27-08.44.27:695][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact.SKEL_BPI_Interact_C' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPI_Interact.PackageMetaData'
+[2025.10.27-08.44.27:695][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact.BPI_Interact_C' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPI_Interact.PackageMetaData'
+[2025.10.27-08.44.27:695][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact.BPI_Interact:Interact.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPI_Interact.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:EventGraph.K2Node_Event_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:EventGraph.K2Node_Event_1' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:AddItem.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:FindSlot.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:IncreaseSlotStack.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:GetStackSize.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:ChangeSlot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:AddToNewSlot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:IncreaseSlotStack' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:GetStackSize' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:FindSlot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:AddItem' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:MouseDrop' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:710][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem_C:ReceiveBeginPlay' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:ChangeSlot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:AddToNewSlot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:CheckSlotEmpty.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:IncreaseSlotStack' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:GetStackSize' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:FindSlot' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:AddItem' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:MouseDrop' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:ReceiveTick' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.SKEL_BPC_InventorySystem_C:ReceiveBeginPlay' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:ChangeSlot.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:AddToNewSlot.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:711][165]LogMetaData: Removing '/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem:OnInventoryUpdated.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Iventory/BPC_InventorySystem.PackageMetaData'
+[2025.10.27-08.44.27:730][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-08.44.27:730][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/Inventory/WB_Inventory] ([2] browsable assets)...
+[2025.10.27-08.44.27:732][165]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/Inventory/WB_Inventory.WB_Inventory]
+[2025.10.27-08.44.27:732][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/Inventory/WB_Inventory]
+[2025.10.27-08.44.27:742][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/Inventory/WB_Inventory
+[2025.10.27-08.44.27:743][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Inventory584CBD15459C0D3AB74D628504380548.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/Inventory/WB_Inventory.uasset'
+[2025.10.27-08.44.27:744][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.27-08.44.27:767][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.27-08.44.27:767][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.27-08.44.27:798][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.27-08.44.27:799][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterE8095C4B440A5DBF23CD018F45CF8478.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.27-08.44.27:800][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Items/BPC_Item] ([2] browsable assets)...
+[2025.10.27-08.44.27:800][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/BPC_Item]
+[2025.10.27-08.44.27:804][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/BPC_Item
+[2025.10.27-08.44.27:804][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_ItemF9846C184D543A461DCC28931B94B3E2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/BPC_Item.uasset'
+[2025.10.27-08.44.27:805][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/Inventory/WB_Slot] ([2] browsable assets)...
+[2025.10.27-08.44.27:808][165]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/Inventory/WB_Slot.WB_Slot]
+[2025.10.27-08.44.27:808][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/Inventory/WB_Slot]
+[2025.10.27-08.44.27:822][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/Inventory/WB_Slot
+[2025.10.27-08.44.27:822][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Slot5765DE9A453ECC08E9339A877B8F284D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/Inventory/WB_Slot.uasset'
+[2025.10.27-08.44.27:823][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu] ([2] browsable assets)...
+[2025.10.27-08.44.27:824][165]LogScript: Warning: CallFunc_GetPlayerCharacter_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	WB_InventoryMenu_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:WB_InventoryMenu_C_1
+	Function /Game/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu.WB_InventoryMenu_C:ExecuteUbergraph_WB_InventoryMenu:00C4
+[2025.10.27-08.44.27:825][165]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu.WB_InventoryMenu]
+[2025.10.27-08.44.27:825][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu]
+[2025.10.27-08.44.27:831][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu
+[2025.10.27-08.44.27:832][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_InventoryMenuA3B2DEC44B9022F2082967A5C7174D6F.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu.uasset'
+[2025.10.27-08.44.27:833][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/UI/Inventory/BP_DragDropInventory] ([2] browsable assets)...
+[2025.10.27-08.44.27:833][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/Inventory/BP_DragDropInventory]
+[2025.10.27-08.44.27:834][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/Inventory/BP_DragDropInventory
+[2025.10.27-08.44.27:835][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_DragDropInventoryF85C7BEE41A05B6FD09989A5913914A2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/Inventory/BP_DragDropInventory.uasset'
+[2025.10.27-08.44.27:836][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/Inventory/S_Slot] ([1] browsable assets)...
+[2025.10.27-08.44.27:836][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/Inventory/S_Slot]
+[2025.10.27-08.44.27:837][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/Inventory/S_Slot
+[2025.10.27-08.44.27:837][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/S_Slot473C9F664E8A8C525AD292AC67469537.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/Inventory/S_Slot.uasset'
+[2025.10.27-08.44.27:840][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact] ([2] browsable assets)...
+[2025.10.27-08.44.27:841][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact]
+[2025.10.27-08.44.27:842][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact
+[2025.10.27-08.44.27:842][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPI_Interact3AB9B60D42AD700EE1F8038DA0A25DFF.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/Inventory/BPI_Interact.uasset'
+[2025.10.27-08.44.27:851][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.10.27-08.44.27:851][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem]
+[2025.10.27-08.44.27:873][165]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem
+[2025.10.27-08.44.27:873][165]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem37234A834FBB8B9AED71CE93E1A3DA5F.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.uasset'
+[2025.10.27-08.44.27:880][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.746 ms (total: 5.72 sec)
+[2025.10.27-08.44.28:023][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.27-08.44.28:059][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.27-08.44.28:082][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.27-08.44.28:109][165]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.27-08.44.28:109][165]LogContentValidation: Display: Starting to validate 9 assets
+[2025.10.27-08.44.28:109][165]LogContentValidation: Enabled validators:
+[2025.10.27-08.44.28:109][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-08.44.28:109][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-08.44.28:109][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-08.44.28:109][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-08.44.28:109][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-08.44.28:109][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-08.44.28:109][165]AssetCheck: /Game/A_TheSmallRemains/UI/Inventory/WB_Inventory 에셋 유효성 검사 중
+[2025.10.27-08.44.28:109][165]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.27-08.44.28:109][165]AssetCheck: /Game/A_TheSmallRemains/Items/BPC_Item 에셋 유효성 검사 중
+[2025.10.27-08.44.28:110][165]AssetCheck: /Game/A_TheSmallRemains/UI/Inventory/WB_Slot 에셋 유효성 검사 중
+[2025.10.27-08.44.28:110][165]AssetCheck: /Game/A_TheSmallRemains/UI/Inventory/WB_InventoryMenu 에셋 유효성 검사 중
+[2025.10.27-08.44.28:110][165]AssetCheck: /Game/A_TheSmallRemains/UI/Inventory/BP_DragDropInventory 에셋 유효성 검사 중
+[2025.10.27-08.44.28:110][165]AssetCheck: /Game/A_TheSmallRemains/Iventory/Inventory/S_Slot 에셋 유효성 검사 중
+[2025.10.27-08.44.28:110][165]AssetCheck: /Game/A_TheSmallRemains/Iventory/Inventory/BPI_Interact 에셋 유효성 검사 중
+[2025.10.27-08.44.28:111][165]AssetCheck: /Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem 에셋 유효성 검사 중
+[2025.10.27-08.44.30:253][330]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.27-08.44.30:277][330]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.27-08.44.30:292][331]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.27-08.44.40:811][329]LogContentBrowser: Attempting asset rename: 새 폴더 -> QuicjSlot
+[2025.10.27-08.44.40:811][329]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.27-08.44.55:932][588]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.27-08.44.55:938][588]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.27-08.44.55:945][588]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.27-08.44.55:969][590]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.27-08.45.02:173][161]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_QuickSlot
+[2025.10.27-08.45.02:180][161]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.27-08.45.03:314][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot.BPC_QuickSlot
+[2025.10.27-08.45.03:315][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.10.27-08.47.53:057][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.27-08.48.38:816][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-08.49.17:552][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.27-08.49.18:232][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-08.49.18:289][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot] ([2] browsable assets)...
+[2025.10.27-08.49.18:290][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot]
+[2025.10.27-08.49.18:295][719]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot
+[2025.10.27-08.49.18:295][719]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_QuickSlot141B23334CB365515DDCBBA27A211125.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot.uasset'
+[2025.10.27-08.49.18:304][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.812 ms (total: 5.79 sec)
+[2025.10.27-08.49.18:339][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-08.49.18:339][719]LogContentValidation: Enabled validators:
+[2025.10.27-08.49.18:339][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-08.49.18:339][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-08.49.18:339][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-08.49.18:339][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-08.49.18:339][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-08.49.18:339][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-08.49.18:339][719]AssetCheck: /Game/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot 에셋 유효성 검사 중
+[2025.10.27-08.49.24:849][312]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.27-08.49.24:860][312]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.27-08.49.24:874][313]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.27-08.49.33:489][109]LogContentBrowser: Attempting asset rename: 새 폴더 -> QuickSlot
+[2025.10.27-08.49.33:489][109]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.27-08.49.46:359][ 80]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2025.10.27-08.49.46:366][ 80]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.27-08.49.46:373][ 80]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.27-08.49.46:397][ 82]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.27-08.49.53:629][758]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_QuickSlot
+[2025.10.27-08.49.53:637][758]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.27-08.49.56:015][975]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.WB_QuickSlot
+[2025.10.27-08.49.56:015][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.10.27-08.49.56:022][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.10.27-08.51.53:177][722]LogSlate: Took 0.002405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.27-08.52.36:700][221]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.27-08.53.41:391][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.10.27-08.55.11:814][799]LogBlueprint: Warning: [AssetLog] /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.WB_QuickSlot: [Compiler] BPC_QuickSlot 변수는 '스폰 시 노출'로 마킹되어 있지만 '인스턴스 편집 가능'은 마킹되지 않았습니다. '인스턴스 편집 가능'으로 설정해 주세요.
+[2025.10.27-08.57.09:709][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.10.27-08.57.10:340][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-08.57.10:386][380]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot] ([2] browsable assets)...
+[2025.10.27-08.57.10:390][380]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.WB_QuickSlot]
+[2025.10.27-08.57.10:390][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot]
+[2025.10.27-08.57.10:396][380]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot
+[2025.10.27-08.57.10:396][380]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_QuickSlot14DB33A0455429E29276F3A6864F3DDD.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.uasset'
+[2025.10.27-08.57.10:406][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.347 ms (total: 5.85 sec)
+[2025.10.27-08.57.10:453][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-08.57.10:453][380]LogContentValidation: Enabled validators:
+[2025.10.27-08.57.10:453][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-08.57.10:453][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-08.57.10:453][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-08.57.10:453][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-08.57.10:453][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-08.57.10:453][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-08.57.10:453][380]AssetCheck: /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot 에셋 유효성 검사 중
+[2025.10.27-08.57.20:770][455]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/WB_HUD.WB_HUD
+[2025.10.27-08.57.20:770][455]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.27-08.57.20:778][455]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.27-08.58.49:326][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.27-09.00.08:518][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.27-09.00.09:604][991]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.27-09.00.09:610][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-09.00.09:670][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/WB_HUD] ([2] browsable assets)...
+[2025.10.27-09.00.09:673][991]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/WB_HUD.WB_HUD]
+[2025.10.27-09.00.09:673][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/WB_HUD]
+[2025.10.27-09.00.09:678][991]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/WB_HUD
+[2025.10.27-09.00.09:679][991]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_HUD3511522642111B0FF8BC8295C1302DE8.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/WB_HUD.uasset'
+[2025.10.27-09.00.09:687][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.484 ms (total: 5.93 sec)
+[2025.10.27-09.00.09:736][991]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-09.00.09:736][991]LogContentValidation: Enabled validators:
+[2025.10.27-09.00.09:736][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-09.00.09:736][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-09.00.09:736][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-09.00.09:736][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-09.00.09:736][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-09.00.09:736][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-09.00.09:737][991]AssetCheck: /Game/A_TheSmallRemains/UI/WB_HUD 에셋 유효성 검사 중
+[2025.10.27-09.00.37:805][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.27-09.00.37:811][287]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.025
+[2025.10.27-09.00.37:812][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/UI/WB_HUD] ([2] browsable assets)...
+[2025.10.27-09.00.37:812][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/WB_HUD]
+[2025.10.27-09.00.37:817][287]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/WB_HUD_Auto6
+[2025.10.27-09.00.37:817][287]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_HUD_Auto639554E81443E6C1C9779B68596B19E9D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/WB_HUD_Auto6.uasset'
+[2025.10.27-09.00.37:817][287]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.10.27-09.01.44:631][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.27-09.01.46:204][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.27-09.01.47:425][250]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.27-09.01.47:431][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-09.01.47:468][250]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/WB_HUD] ([2] browsable assets)...
+[2025.10.27-09.01.47:470][250]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/WB_HUD.WB_HUD]
+[2025.10.27-09.01.47:470][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/WB_HUD]
+[2025.10.27-09.01.47:475][250]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/WB_HUD
+[2025.10.27-09.01.47:476][250]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_HUD6497BF7D4DE4D58A34AE04B018D0DE6C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/WB_HUD.uasset'
+[2025.10.27-09.01.47:483][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.239 ms (total: 5.98 sec)
+[2025.10.27-09.01.47:535][250]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-09.01.47:535][250]LogContentValidation: Enabled validators:
+[2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-09.01.47:536][250]AssetCheck: /Game/A_TheSmallRemains/UI/WB_HUD 에셋 유효성 검사 중
