@@ -7879,3 +7879,202 @@ Script Stack (5 frames) :
 [2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.27-09.01.47:535][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-09.01.47:536][250]AssetCheck: /Game/A_TheSmallRemains/UI/WB_HUD 에셋 유효성 검사 중
+[2025.10.27-09.03.34:482][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.27-09.03.36:654][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-09.03.36:683][ 58]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/WB_HUD] ([2] browsable assets)...
+[2025.10.27-09.03.36:685][ 58]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/WB_HUD.WB_HUD]
+[2025.10.27-09.03.36:685][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/WB_HUD]
+[2025.10.27-09.03.36:691][ 58]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/WB_HUD
+[2025.10.27-09.03.36:692][ 58]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_HUDA2BAFFF4435EAAED99508E98D8009B2D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/WB_HUD.uasset'
+[2025.10.27-09.03.36:699][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.750 ms (total: 6.03 sec)
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: Enabled validators:
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-09.03.36:750][ 58]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-09.03.36:751][ 58]AssetCheck: /Game/A_TheSmallRemains/UI/WB_HUD 에셋 유효성 검사 중
+[2025.10.27-09.11.49:859][163]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.27-09.18.20:476][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.27-09.18.21:085][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-09.18.21:145][620]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot] ([2] browsable assets)...
+[2025.10.27-09.18.21:148][620]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.WB_QuickSlot]
+[2025.10.27-09.18.21:148][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot]
+[2025.10.27-09.18.21:156][620]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot
+[2025.10.27-09.18.21:156][620]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_QuickSlot2B499B2F4771AFB3117A61933DF52422.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.uasset'
+[2025.10.27-09.18.21:164][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.834 ms (total: 6.11 sec)
+[2025.10.27-09.18.21:211][620]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-09.18.21:211][620]LogContentValidation: Enabled validators:
+[2025.10.27-09.18.21:211][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-09.18.21:211][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-09.18.21:211][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-09.18.21:211][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-09.18.21:212][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-09.18.21:212][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-09.18.21:212][620]AssetCheck: /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot 에셋 유효성 검사 중
+[2025.10.27-09.20.34:066][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.27-09.20.34:948][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-09.20.34:994][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.27-09.20.35:079][116]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.27-09.20.35:079][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.27-09.20.35:112][116]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.27-09.20.35:112][116]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterD98A83C34649AAB4A34A1B9CDB0B9682.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.27-09.20.35:120][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.681 ms (total: 6.28 sec)
+[2025.10.27-09.20.35:178][116]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-09.20.35:178][116]LogContentValidation: Enabled validators:
+[2025.10.27-09.20.35:178][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-09.20.35:178][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-09.20.35:178][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-09.20.35:178][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-09.20.35:178][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-09.20.35:178][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-09.20.35:179][116]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.27-09.21.53:422][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.27-09.23.26:982][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.27-09.23.27:001][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.040
+[2025.10.27-09.23.27:002][348]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/WB_HUD] ([2] browsable assets)...
+[2025.10.27-09.23.27:004][348]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/WB_HUD.WB_HUD]
+[2025.10.27-09.23.27:004][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/WB_HUD]
+[2025.10.27-09.23.27:014][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/WB_HUD_Auto7
+[2025.10.27-09.23.27:015][348]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_HUD_Auto75B2CD8D04C06A259267B199512A86C7A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/WB_HUD_Auto7.uasset'
+[2025.10.27-09.23.27:015][348]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.10.27-09.24.06:617][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.10.27-09.24.07:901][ 31]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.27-09.24.07:909][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-09.24.07:909][ 31]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-09.24.07:915][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006123s)
+[2025.10.27-09.24.07:915][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.006153s)
+[2025.10.27-09.24.07:935][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-09.24.07:943][ 31]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.27-09.24.07:945][ 31]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2025.10.27-09.24.07:946][ 31]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-09.24.07:946][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-09.24.07:946][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-09.24.07:946][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-09.24.07:946][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-09.24.07:946][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-09.24.07:949][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-09.24.07:965][ 31]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.27-09.24.07:966][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-09.24.07:966][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-09.24.07:966][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-09.24.07:967][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.10.27-09.24.07:967][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.10.27-09.24.07:969][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.10.27-09.24.07:969][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.10.27-09.24.07:969][ 31]LogInit: FAudioDevice initialized with ID 24.
+[2025.10.27-09.24.07:969][ 31]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestMap'.
+[2025.10.27-09.24.07:969][ 31]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.27-09.24.08:025][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-09.24.08:026][ 31]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.27-09.24.08:031][ 31]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.27-18.24.08
+[2025.10.27-09.24.08:032][ 31]LogWorld: Bringing up level for play took: 0.005788
+[2025.10.27-09.24.08:034][ 31]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.10.27-09.24.08:044][ 31]PIE: 서버가 로그인했습니다.
+[2025.10.27-09.24.08:044][ 31]PIE: 에디터에서 플레이 총 시작 시간 0.136초입니다.
+[2025.10.27-09.24.08:047][ 31]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.27-09.24.11:556][289]LogBlueprintUserMessages: [BP_Soda_C_5] BP_Soda5
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 1
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-09.24.11:889][314]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.27-09.24.12:656][372]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 2
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-09.24.13:108][406]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.27-09.24.13:744][453]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:Soda -> 3
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.27-09.24.14:156][483]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.27-09.24.14:157][483]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-09.24.14:157][483]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-09.24.14:157][483]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-09.24.14:157][483]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.27-09.24.14:709][523]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.27-09.24.14:709][523]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.27-09.24.14:709][523]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.27-09.24.27:279][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-09.24.27:279][452]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.27-09.24.27:280][452]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.27-09.24.27:283][452]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-09.24.27:285][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-09.24.27:288][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-09.24.27:294][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-09.24.27:314][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-09.24.27:315][452]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.27-09.24.27:315][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.10.27-09.24.27:317][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.10.27-09.24.27:327][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.27-09.24.27:391][453]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.10.27-09.25.27:711][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.27-09.25.28:819][223]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.27-09.25.28:826][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-09.25.28:875][223]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/WB_HUD] ([2] browsable assets)...
+[2025.10.27-09.25.28:878][223]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/WB_HUD.WB_HUD]
+[2025.10.27-09.25.28:878][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/WB_HUD]
+[2025.10.27-09.25.28:889][223]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/WB_HUD
+[2025.10.27-09.25.28:890][223]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_HUD6FBA202C4BFD09C33FB0CA964935F9EE.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/WB_HUD.uasset'
+[2025.10.27-09.25.28:897][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.638 ms (total: 6.35 sec)
+[2025.10.27-09.25.28:958][223]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-09.25.28:958][223]LogContentValidation: Enabled validators:
+[2025.10.27-09.25.28:958][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-09.25.28:958][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-09.25.28:958][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-09.25.28:958][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-09.25.28:958][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-09.25.28:958][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-09.25.28:959][223]AssetCheck: /Game/A_TheSmallRemains/UI/WB_HUD 에셋 유효성 검사 중
