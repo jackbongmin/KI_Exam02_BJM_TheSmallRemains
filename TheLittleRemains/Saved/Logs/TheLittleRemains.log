@@ -17981,3 +17981,302 @@ Script Stack (0 frames) :
 [2025.10.28-08.48.32:121][412]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_StateSystem 에셋 유효성 검사 중
 [2025.10.28-08.48.32:121][412]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/FireAnimation/MM_Rifle_Fire_Montage 에셋 유효성 검사 중
 [2025.10.28-08.48.32:122][412]AssetCheck: /Game/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton 에셋 유효성 검사 중
+[2025.10.28-08.49.17:845][560]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-08.50.52:643][675]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Interfaces/BPI_Stats.BPI_Stats
+[2025.10.28-08.50.52:643][675]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2025.10.28-08.52.09:017][311]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_182
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.52.09:017][311]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_182
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.52.09:017][311]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_182
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.52.09:017][311]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_182
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.52.09:017][311]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_182
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.52.10:630][400]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_183
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.52.10:630][400]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_183
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.52.10:631][400]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_183
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.52.10:631][400]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_183
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.52.10:631][400]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_183
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.52.10:655][401]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_184
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.52.10:655][401]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_184
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.52.10:655][401]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_184
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.52.10:655][401]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_184
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.52.10:655][401]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_184
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.52.59:410][ 43]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_185
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.52.59:410][ 43]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_185
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.52.59:410][ 43]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_185
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.52.59:410][ 43]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_185
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.52.59:410][ 43]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_185
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.53.10:771][663]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_186
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.53.10:771][663]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_186
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.53.10:771][663]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_186
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.53.10:771][663]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_186
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.53.10:771][663]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_186
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.53.12:960][776]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_187
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.53.12:961][776]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_187
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.53.12:961][776]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_187
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.53.12:961][776]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_187
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.53.12:961][776]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_187
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.53.14:374][851]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_188
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-08.53.14:374][851]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_188
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-08.53.14:374][851]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_188
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-08.53.14:374][851]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_188
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-08.53.14:374][851]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_188
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-08.53.24:810][421]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2025.10.28-08.53.24:939][425]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_88
+[2025.10.28-08.54.22:059][ 45]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2025.10.28-08.54.22:076][ 45]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2025.10.28-08.55.25:471][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.10.28-08.55.29:676][600]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.28-08.55.29:682][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-08.55.29:735][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_StateSystem] ([2] browsable assets)...
+[2025.10.28-08.55.29:735][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_StateSystem]
+[2025.10.28-08.55.29:746][600]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_StateSystem
+[2025.10.28-08.55.29:746][600]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_StateSystemB6E887764C1C016B694EC5B5F3A6CCC3.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_StateSystem.uasset'
+[2025.10.28-08.55.29:754][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.528 ms (total: 7.91 sec)
+[2025.10.28-08.55.29:818][600]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-08.55.29:818][600]LogContentValidation: Enabled validators:
+[2025.10.28-08.55.29:818][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-08.55.29:818][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-08.55.29:818][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-08.55.29:818][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-08.55.29:818][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-08.55.29:818][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-08.55.29:818][600]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_StateSystem 에셋 유효성 검사 중
+[2025.10.28-08.55.43:509][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.28-08.55.43:553][885]LogStall: Shutdown...
+[2025.10.28-08.55.43:553][885]LogStall: Shutdown complete.
+[2025.10.28-08.55.43:628][885]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.43:628][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.43:638][885]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.43:638][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.43:767][885]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.43:767][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.43:781][885]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.43:781][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.43:931][885]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.43:931][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.43:997][885]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.43:997][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:074][885]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:074][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:203][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-08.55.44:203][885]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:203][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:394][885]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:394][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:542][885]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:542][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:558][885]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:559][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:574][885]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:574][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:701][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-08.55.44:702][885]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:702][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:856][885]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:856][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.44:881][885]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.44:881][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:008][885]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:009][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:027][885]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:027][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:147][885]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:147][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:216][885]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:216][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:267][885]LogSlate: Window 'TheLittleRemains - 언리얼 에디터' being destroyed
+[2025.10.28-08.55.45:559][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.10.28-08.55.45:619][885]Cmd: QUIT_EDITOR
+[2025.10.28-08.55.45:619][886]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.28-08.55.45:625][886]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.28-08.55.45:626][886]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.28-08.55.45:626][886]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.28-08.55.45:628][886]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:629][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:642][886]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.28-08.55.45:643][886]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.28-08.55.45:649][886]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:649][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:653][886]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:653][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:658][886]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:658][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:662][886]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:662][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:666][886]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:666][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:670][886]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:670][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:674][886]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:674][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:678][886]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:678][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:682][886]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:682][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:685][886]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:685][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:689][886]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:689][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:693][886]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:693][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:697][886]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:697][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:700][886]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:701][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:704][886]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:704][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:708][886]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:708][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:711][886]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:711][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:715][886]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:715][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:718][886]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:718][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:722][886]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:722][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:725][886]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:725][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:729][886]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:729][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:732][886]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:732][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:736][886]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:736][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:739][886]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:739][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:743][886]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:743][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:746][886]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:747][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:750][886]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-08.55.45:750][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-08.55.45:754][886]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.28-08.55.45:755][886]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.10.28-08.55.45:755][886]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.10.28-08.55.45:755][886]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.10.28-08.55.46:496][886]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.28-08.55.46:496][886]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.28-08.55.46:496][886]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2025.10.28-08.55.46:496][886]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.28-08.55.46:496][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.28-08.55.46:498][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.28-08.55.46:507][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.28-08.55.46:507][886]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.28-08.55.46:511][886]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.10.28-08.55.46:513][886]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.28-08.55.46:513][886]LogExit: Preparing to exit.
+[2025.10.28-08.55.46:556][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.46:564][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.28-08.55.47:046][886]LogEditorDataStorage: Deinitializing
+[2025.10.28-08.55.47:305][886]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.28-08.55.47:322][886]LogExit: Editor shut down
+[2025.10.28-08.55.47:324][886]LogExit: Transaction tracking system shut down
+[2025.10.28-08.55.47:579][886]LogExit: Object subsystem successfully closed.
+[2025.10.28-08.55.47:693][886]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.28-08.55.49:033][886]LogMemoryProfiler: Shutdown
+[2025.10.28-08.55.49:033][886]LogNetworkingProfiler: Shutdown
+[2025.10.28-08.55.49:033][886]LoadingProfiler: Shutdown
+[2025.10.28-08.55.49:033][886]LogTimingProfiler: Shutdown
+[2025.10.28-08.55.49:388][886]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.28-08.55.49:394][886]RenderDocPlugin: plugin has been unloaded.
+[2025.10.28-08.55.49:401][886]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.28-08.55.49:401][886]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B955FF84D-4577-3D5A-22F2-739BDB22D0AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=9711bacf4330d8db80492f890f57979c%7Cb9d11020a7614cecbf1cbd6160ab898e%7Cbaeb3f02-2b1a-4c06-b411-e601ea5486c3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.28-08.55.49:404][886]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.10.28-08.55.49:404][886]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.28-08.55.49:405][886]LogXGEController: Cleaning working directory: C:/Users/KGA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.28-08.55.49:409][886]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.28-08.55.49:409][886]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.28-08.55.49:409][886]LogPakFile: Destroying PakPlatformFile
+[2025.10.28-08.55.50:021][886]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.28-08.55.50:060][886]LogExit: Exiting.
+[2025.10.28-08.55.50:086][886]Log file closed, 10/28/25 17:55:50
