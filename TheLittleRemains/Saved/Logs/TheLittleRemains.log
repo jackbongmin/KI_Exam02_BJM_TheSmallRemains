@@ -3398,3 +3398,846 @@ Sampler Limit: 32
 [2025.10.28-13.23.21:876][365]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash_Auto1
 [2025.10.28-13.23.21:876][365]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/NS_MuzzleFlash_Auto1BB5FC02B4BD189175B4C738452938FA4.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash_Auto1.uasset'
 [2025.10.28-13.23.21:877][365]LogFileHelpers: Auto-saving content packages took 0.137
+[2025.10.28-13.25.17:433][942]120504_NS_MuzzleFlash_MessageLog: System 컴파일 상태를 알 수 없습니다.
+[2025.10.28-13.25.21:990][196]LogNiagara: Compiling System NiagaraSystem /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.NS_MuzzleFlash took 4.707264 sec (time since issued), 4.367201 sec (combined shader worker time).
+[2025.10.28-13.25.22:373][215]120504_NS_MuzzleFlash_MessageLog: System 컴파일에 성공했습니다.
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 0 (Found bundle for host: 0x6aa98040c60 [serially])
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 6 (Closing connection)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6AA170E9-4281-5AB6-9E74-F08B8AE39B84%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=7f2d9f854be39ddd047e749d362b5d7e%7Cb9d11020a7614cecbf1cbd6160ab898e%7C548b4b78-271d-45ad-82e1-22c5b369cb14&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 9 (  Trying 34.225.213.32:443...)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.225.213.32) port 443)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 12 (SSL reusing session ID)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.10.28-13.26.08:122][797]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 23 (Server certificate:)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 30 (using HTTP/1.1)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 32 (Closing connection)
+[2025.10.28-13.26.08:122][798]LogHttp: Warning: 000006AB7964BD00: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.28-13.26.40:508][711]LogNiagara: Compiling System NiagaraSystem /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.NS_MuzzleFlash took 1.022896 sec (time since issued), 0.986830 sec (combined shader worker time).
+[2025.10.28-13.26.40:844][728]120504_NS_MuzzleFlash_MessageLog: System 컴파일에 성공했습니다.
+[2025.10.28-13.26.45:509][994]120504_NS_MuzzleFlash_MessageLog: System 컴파일에 성공했습니다.
+[2025.10.28-13.27.15:558][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4639.725586
+[2025.10.28-13.27.16:905][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-13.27.16:905][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4641.057129, Update Interval: 336.798004
+[2025.10.28-13.27.19:726][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.28-13.27.20:816][ 33]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.28-13.27.20:825][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-13.27.20:932][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.28-13.27.20:932][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.10.28-13.27.20:954][ 33]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.10.28-13.27.20:954][ 33]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystemFCE3F10647B4F1B1FDA5CC88B9C95115.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.10.28-13.27.20:955][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash] ([1] browsable assets)...
+[2025.10.28-13.27.20:955][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash]
+[2025.10.28-13.27.21:072][ 33]LogSavePackage: Moving output files for package: /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash
+[2025.10.28-13.27.21:072][ 33]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/NS_MuzzleFlash5001D8E646AA6B36961D4889A0AC6BF6.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.uasset'
+[2025.10.28-13.27.21:085][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 258.762 ms (total: 796.845 ms)
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: Enabled validators:
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-13.27.21:195][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-13.27.21:195][ 33]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.10.28-13.27.21:195][ 33]AssetCheck: /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash 에셋 유효성 검사 중
+[2025.10.28-13.27.39:280][103]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MuzzleFlash/MuzzleFlash/Materials/M_Flash.M_Flash
+[2025.10.28-13.27.39:283][103]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.10.28-13.27.39:542][103]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.28-13.27.39:542][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.28-13.27.39:542][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-13.27.39:542][103]MaterialEditorStats: Shader Count: 0
+[2025.10.28-13.27.39:542][103]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: Base pass shader without light map: 152 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: Base pass vertex shader: 346 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: Shader Count: 5
+[2025.10.28-13.27.39:619][105]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Total job queries 850, among them cache hits 213 (25.06%), DDC hits 234 (27.53%), Duplicates 33 (3.88%)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Tracking 604 distinct input hashes that result in 451 distinct outputs (74.67%)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: RAM used: 286.48 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Shaders Compiled: 370
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Jobs assigned 370, completed 370 (100%)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Average time worker was idle: 102.14 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.71 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 2.37 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 3.14
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Shader code size: average 10.734 KiB, min 1.877 KiB, max 65.773 KiB
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.88 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Jobs were issued in 370 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Average processing rate: 8.24 jobs/sec
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Total thread time: 127.346 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Total thread preprocess time: 11.856 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Percentage time preprocessing: 9.31%
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Effective parallelization: 2.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   35 times, average 0.79 sec, max 1.18 sec, min 0.53 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.68 sec, max 0.83 sec, min 0.58 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   18 times, average 0.56 sec, max 2.33 sec, min 0.25 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    3 times, average 0.35 sec, max 0.43 sec, min 0.25 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 21.58% of total time (compiled   35 times, average 0.79 sec, max 1.18 sec, min 0.53 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.61% of total time (compiled   68 times, average 0.29 sec, max 0.40 sec, min 0.16 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.52% of total time (compiled   53 times, average 0.35 sec, max 0.52 sec, min 0.21 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.63% of total time (compiled   41 times, average 0.30 sec, max 0.37 sec, min 0.21 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.19% of total time (compiled   40 times, average 0.26 sec, max 0.34 sec, min 0.19 sec)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Materials Translated:    241
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Material Translation Only: 0.04 s (28%)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: Material Cache Hits: 13 (5%)
+[2025.10.28-13.28.01:925][429]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.28.49:575][260]LogStreaming: Display: FlushAsyncLoading(745): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.28.49:617][260]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.10.28-13.28.49:675][260]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2025.10.28-13.28.49:675][260]LogStaticMesh: Display: FirstPersonProjectileMesh스태틱 메시 빌드 중(필요 메모리 예상: 0.756426MB)...
+[2025.10.28-13.28.49:679][260]LogStaticMesh: Built static mesh [0.00s] /Game/MuzzleFlash/Demo/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2025.10.28-13.28.49:681][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MuzzleFlash/Demo/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.10.28-13.28.49:725][260]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.10.28-13.28.49:725][260]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 1 
+[2025.10.28-13.28.49:725][260]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.10.28-13.28.49:780][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.10.28-13.28.50:081][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.10.28-13.28.50:106][260]LogSkeletalMesh: Built Skeletal Mesh [0.43s] /Game/MuzzleFlash/Demo/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2025.10.28-13.28.51:223][313]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.28-13.30.01:538][505]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.28-13.30.21:936][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MuzzleFlash/Demo/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.10.28-13.30.21:937][709]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.10.28-13.30.40:220][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MuzzleFlash/Demo/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2025.10.28-13.30.40:220][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.10.28-13.30.56:409][732]LogStreaming: Display: FlushAsyncLoading(746): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.30.56:426][732]LogTexture: Display: 텍스처 빌드 중: /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.NS_MuzzleFlash:Flash_01001_5.ThumbnailTexture(TFO_DXT1, 512x512 x1x1x1)(예상 필요 메모리: 30.83325MB), 인코딩 속도: Fast
+[2025.10.28-13.30.56:426][732]LogTexture: Display: 텍스처 빌드 중: /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.NS_MuzzleFlash:Flash_02_3.ThumbnailTexture(TFO_DXT1, 512x512 x1x1x1)(예상 필요 메모리: 30.83325MB), 인코딩 속도: Fast
+[2025.10.28-13.30.56:426][732]LogTexture: Display: 텍스처 빌드 중: /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.NS_MuzzleFlash:Flash_02001_7.ThumbnailTexture(TFO_DXT1, 512x512 x1x1x1)(예상 필요 메모리: 30.83325MB), 인코딩 속도: Fast
+[2025.10.28-13.30.56:426][732]LogTexture: Display: 텍스처 빌드 중: /Game/MuzzleFlash/MuzzleFlash/Niagara/NS_MuzzleFlash.NS_MuzzleFlash:Flash_01_0.ThumbnailTexture(TFO_DXT1, 512x512 x1x1x1)(예상 필요 메모리: 30.83325MB), 인코딩 속도: Fast
+[2025.10.28-13.30.56:429][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MuzzleFlash/Demo/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2025.10.28-13.30.56:429][732]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.10.28-13.30.56:707][732]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Total job queries 866, among them cache hits 216 (24.94%), DDC hits 234 (27.02%), Duplicates 33 (3.81%)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Tracking 617 distinct input hashes that result in 458 distinct outputs (74.23%)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: RAM used: 288.76 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Shaders Compiled: 383
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Jobs assigned 383, completed 383 (100%)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Average time worker was idle: 117.76 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.71 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 2.37 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 3.14
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Shader code size: average 10.604 KiB, min 1.877 KiB, max 65.773 KiB
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.54 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Jobs were issued in 383 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Average processing rate: 8.06 jobs/sec
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Total thread time: 131.689 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Total thread preprocess time: 12.054 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Effective parallelization: 2.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   36 times, average 0.78 sec, max 1.18 sec, min 0.53 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.64 sec, max 0.83 sec, min 0.52 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   18 times, average 0.56 sec, max 2.33 sec, min 0.25 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    3 times, average 0.35 sec, max 0.43 sec, min 0.25 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 21.34% of total time (compiled   36 times, average 0.78 sec, max 1.18 sec, min 0.53 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.28% of total time (compiled   69 times, average 0.29 sec, max 0.40 sec, min 0.16 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.51% of total time (compiled   55 times, average 0.35 sec, max 0.52 sec, min 0.21 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.51% of total time (compiled   42 times, average 0.30 sec, max 0.37 sec, min 0.21 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.08% of total time (compiled   41 times, average 0.26 sec, max 0.34 sec, min 0.19 sec)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Materials Translated:    243
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Material Translation Only: 0.04 s (28%)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: Material Cache Hits: 13 (5%)
+[2025.10.28-13.31.01:933][ 41]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.31.26:571][517]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.31.26:571][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.31.26:779][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.28-13.31.27:803][578]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-13.31.27:803][578]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.31.27:803][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.31.27:849][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.28-13.32.12:885][272]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.32.12:885][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.32.12:947][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-13.32.28:553][199]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/MuzzleFlash/Demo/FirstPerson/Input/Actions/IA_Shoot.IA_Shoot
+[2025.10.28-13.32.33:520][483]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/MuzzleFlash/Demo/FirstPerson/Input/IMC_Weapons.IMC_Weapons
+[2025.10.28-13.32.49:064][398]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.32.49:064][398]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin (0x7B4CFD6818D8E6A8) - The package to load does not exist on disk or in the loader
+[2025.10.28-13.32.49:064][398]LogUObjectGlobals: Warning: 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin' 오브젝트를 찾는 데 실패했습니다.
+[2025.10.28-13.32.49:132][400]LogStreaming: Display: FlushAsyncLoading(749): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.32.49:210][404]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.10.28-13.32.54:900][738]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.10.28-13.32.54:950][739]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.10.28-13.32.54:975][740]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2025.10.28-13.33.08:043][512]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.10.28-13.33.09:318][581]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.10.28-13.33.26:751][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5010.903809
+[2025.10.28-13.33.26:994][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-13.33.26:994][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5011.129395, Update Interval: 336.468384
+[2025.10.28-13.33.41:067][356]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.28-13.33.41:067][356]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.33.41:069][356]LogChaosDD: Creating Chaos Debug Draw Scene for world demonstration
+[2025.10.28-13.33.41:071][356]LogObjectTools: Deleting 1 worlds: /Game/muzzle_flash/Map/demonstration.demonstration
+[2025.10.28-13.33.41:071][356]LogObjectTools: Currently 34 active worlds: /Game/A_TheSmallRemains/Maps/TestMap.TestMap, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_19, /Engine/Transient.World_51, /Engine/Transient.World_53, /Engine/Transient.World_54, /Engine/Transient.World_55, /Engine/Transient.World_56, /Engine/Transient.World_58, /Engine/Transient.World_59, /Engine/Transient.World_60, /Engine/Transient.World_61, /Engine/Transient.World_64, /Engine/Transient.World_65, /Engine/Transient.World_66, /Engine/Transient.World_67, /Engine/Transient.World_68, /Engine/Transient.World_69, /Engine/Transient.World_70
+[2025.10.28-13.33.41:086][356]LogTexture: Display: 텍스처 빌드 중: /Game/muzzle_flash/Texture/T_Muzzle_Flash_03.T_Muzzle_Flash_03(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 311.708323MB), 인코딩 속도: Fast
+[2025.10.28-13.33.41:152][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.28-13.33.48:786][356]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.28-13.33.48:853][356]LogUObjectGlobals: Force Deleting 26 Package(s):
+	Asset Name: /Game/muzzle_flash/Material_Instances/MI_Muzzle_Flash_03.MI_Muzzle_Flash_03
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/muzzle_flash/Material/M_Muzzle_Flash.M_Muzzle_Flash
+	Asset Type: Material
+	Asset Name: /Game/muzzle_flash/Texture/T_Muzzle_Flash_01.T_Muzzle_Flash_01
+	Asset Type: Texture2D
+	Asset Name: /Game/muzzle_flash/Texture/T_Muzzle_flash_05.T_Muzzle_flash_05
+	Asset Type: Texture2D
+	Asset Name: /Game/muzzle_flash/Material_Instances/MI_Muzzle_Flash_12.MI_Muzzle_Flash_12
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/muzzle_flash/Texture/T_Muzzle_flash_12.T_Muzzle_flash_12
+	Asset Type: Texture2D
+	Asset Name: /Game/muzzle_flash/Material_Instances/MI_Muzzle_Flash_11.MI_Muzzle_Flash_11
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/muzzle_flash/Texture/T_Muzzle_Flash_11.T_Muzzle_Flash_11
+	Asset Type: Texture2D
+	Asset Name: /Game/muzzle_flash/Material_Instances/MI_Muzzle_Flash_10.MI_Muzzle_Flash_10
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/muzzle_flash/Texture/T_Muzzle_Flash_10.T_Muzzle_Flash_10
+	Asset Type: Texture2D
+[2025.10.28-13.33.49:109][356]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\muzzle_flash\Material\M_Muzzle_Flash.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.33.49:110][356]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\muzzle_flash\Material\M_Muzzle_Flash.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.33.49:595][356]LogWorld: UWorld::CleanupWorld for demonstration, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.33.49:596][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.33.50:159][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.28-13.33.50:181][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.28-13.33.50:201][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.28-13.34.03:035][943]LogSlate: Window '여러 에셋 로드 중' being destroyed
+[2025.10.28-13.34.03:045][943]Message dialog closed, result: Yes, title: 여러 에셋 로드 중, text: 75개의 에셋을 로드하려고 합니다. 계속할까요?
+[2025.10.28-13.34.03:175][943]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.34.03:204][943]LogStaticMesh: Display: SM_Base2스태틱 메시 빌드 중(필요 메모리 예상: 6.952435MB)...
+[2025.10.28-13.34.03:204][943]LogStaticMesh: Display: SM_Base스태틱 메시 빌드 중(필요 메모리 예상: 18.482185MB)...
+[2025.10.28-13.34.03:204][943]LogStaticMesh: Display: SM_BaseRoom스태틱 메시 빌드 중(필요 메모리 예상: 26.714056MB)...
+[2025.10.28-13.34.03:204][943]LogStaticMesh: Display: SM_NamePlate스태틱 메시 빌드 중(필요 메모리 예상: 0.479837MB)...
+[2025.10.28-13.34.03:204][943]LogStaticMesh: Display: SM_Base_FlatWall스태틱 메시 빌드 중(필요 메모리 예상: 0.600381MB)...
+[2025.10.28-13.34.03:208][943]LogStaticMesh: Built static mesh [0.00s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_NamePlate.SM_NamePlate
+[2025.10.28-13.34.03:208][943]LogStaticMesh: Built static mesh [0.01s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2025.10.28-13.34.03:228][943]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base2.SM_Base2
+[2025.10.28-13.34.03:264][943]LogStaticMesh: Built static mesh [0.06s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base.SM_Base
+[2025.10.28-13.34.03:289][943]LogStaticMesh: Built static mesh [0.09s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_BaseRoom.SM_BaseRoom
+[2025.10.28-13.34.03:309][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_11(TFO_AutoDXT, 64x64 x1x1x1)(예상 필요 메모리: 1.651002MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:309][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_10(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.604127MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:312][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_10(TFO_DXT1, 128x128 x1x1x1)(예상 필요 메모리: 2.885386MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:317][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_11(TFO_DXT1, 64x64 x1x1x1)(예상 필요 메모리: 1.471324MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:337][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_9(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:337][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_2(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:340][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_5(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:341][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_6(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:341][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_7(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:341][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_3(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:342][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_1(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:342][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_4(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:342][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_8(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:342][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_1(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:347][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_2(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:382][943]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview_Map_Day
+[2025.10.28-13.34.03:435][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_10(TFO_AutoDXT, 128x64 x1x1x1)(예상 필요 메모리: 2.302008MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:438][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_3(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:438][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_5(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:438][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_11(TFO_AutoDXT, 64x32 x1x1x1)(예상 필요 메모리: 1.325445MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:439][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_7(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:440][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_6(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:440][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_8(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:440][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_4(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:442][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_1(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:446][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_9(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:447][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_2(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:447][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_4(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:447][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_3(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:451][943]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview_Map_Night
+[2025.10.28-13.34.03:498][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_6(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:499][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_11(BGRA8, 1024x512 x1x1x1)(예상 필요 메모리: 17.666652MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:501][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_8(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:501][943]LogObjectTools: Deleting 2 worlds: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day.Overview_Map_Day, /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night.Overview_Map_Night
+[2025.10.28-13.34.03:501][943]LogObjectTools: Currently 34 active worlds: /Game/A_TheSmallRemains/Maps/TestMap.TestMap, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_19, /Engine/Transient.World_51, /Engine/Transient.World_53, /Engine/Transient.World_54, /Engine/Transient.World_55, /Engine/Transient.World_56, /Engine/Transient.World_58, /Engine/Transient.World_59, /Engine/Transient.World_60, /Engine/Transient.World_61, /Engine/Transient.World_64, /Engine/Transient.World_65, /Engine/Transient.World_66, /Engine/Transient.World_67, /Engine/Transient.World_68, /Engine/Transient.World_69, /Engine/Transient.World_70
+[2025.10.28-13.34.03:502][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_9(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:502][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_7(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:503][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_10(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:520][943]LogStaticMesh: Display: SM_Splash_A스태틱 메시 빌드 중(필요 메모리 예상: 3.692201MB)...
+[2025.10.28-13.34.03:534][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_12(BGRA8, 64x64 x1x1x1)(예상 필요 메모리: 1.1302MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:534][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Dandelion.T_Dandelion(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:534][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:NewReflectionComponentTexture965B28AE4C9038664D8846B97A8A5DE8(BGRA8, 128x128 x6x1x1)(예상 필요 메모리: 4.499992MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:534][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_7(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:534][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_8(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:534][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_9(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:535][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fireflies_Emms.T_Fireflies_Emms(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:535][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flies.T_Flies(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:536][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Bubble.T_Bubble(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:536][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_5(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:541][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.10.28-13.34.03:544][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fish.T_Fish(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:544][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fish_NM.T_Fish_NM(TFO_BC5, 128x128 x1x1x1)(예상 필요 메모리: 5.62493MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:545][943]LogStaticMesh: Built static mesh [0.03s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Splash_A.SM_Splash_A
+[2025.10.28-13.34.03:545][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Bubblepop.T_Bubblepop(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:546][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A.T_Fire_A(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:547][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Water_A.T_Water_A(TFO_AutoDXT, 256x256 x1x1x1)(예상 필요 메모리: 11.333209MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:550][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Splat.T_Splat(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:552][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Water_D.T_Water_D(TFO_AutoDXT, 256x256 x1x1x1)(예상 필요 메모리: 11.333209MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:552][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Water_C.T_Water_C(TFO_AutoDXT, 256x256 x1x1x1)(예상 필요 메모리: 11.333209MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:552][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_10(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.604127MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:552][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_11(TFO_AutoDXT, 64x64 x1x1x1)(예상 필요 메모리: 1.651002MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:559][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_1(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:570][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_2(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:571][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_4(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:571][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_3(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:572][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_5(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:572][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_6(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:572][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_7(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:575][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_8(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:638][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:HQ_Lightmap1_9(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 171.416656MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:641][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Droplets_A_N.T_Droplets_A_N(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 483.749988MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:642][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_11(TFO_DXT1, 64x64 x1x1x1)(예상 필요 메모리: 1.471324MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:643][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_10(TFO_DXT1, 128x128 x1x1x1)(예상 필요 메모리: 2.885386MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:645][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_1(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:659][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_3(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:665][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_2(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:667][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_4(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:670][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_5(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:671][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_6(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:676][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_7(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:683][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Droplets_A.T_Droplets_A(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 311.708323MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:703][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Epxlosion_F.T_Epxlosion_F(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 311.708323MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:703][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_10(TFO_AutoDXT, 128x64 x1x1x1)(예상 필요 메모리: 2.302008MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:707][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_1(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:712][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_9(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:715][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:LQ_Lightmap_1_8(TFO_DXT1, 1024x1024 x1x1x1)(예상 필요 메모리: 124.041655MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:716][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_11(TFO_AutoDXT, 64x32 x1x1x1)(예상 필요 메모리: 1.325445MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:722][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_3(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:723][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_2(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:729][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_5(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:732][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_4(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:754][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_7(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:754][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_6(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:810][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:ShadowMapTexture2D_5(BGRA8, 64x64 x1x1x1)(예상 필요 메모리: 1.1302MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:811][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:ShadowMapTexture2D_4(BGRA8, 1024x512 x1x1x1)(예상 필요 메모리: 17.666652MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:812][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:ShadowMapTexture2D_1(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:812][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:ShadowMapTexture2D_2(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:813][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_8(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:814][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:ShadowMapTexture2D_0(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:820][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:ShadowMapTexture2D_3(BGRA8, 1024x1024 x1x1x1)(예상 필요 메모리: 34.333325MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:822][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Night_BuiltData.Overview_Map_Night_BuiltData:SkyOcclusion1_9(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 86.208315MB), 인코딩 속도: Fast
+[2025.10.28-13.34.03:863][943]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_E.T_Fire_E(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 311.708323MB), 인코딩 속도: Fast
+[2025.10.28-13.34.32:848][943]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.28-13.34.32:971][943]LogCascade: Quitting Cascade. FXSystem=0x000006ABEF3705C0
+[2025.10.28-13.34.32:979][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2025.10.28-13.34.32:979][943]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.34.32:979][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.34.33:029][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-13.34.33:029][943]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.34.33:029][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.34.33:147][943]LogUObjectGlobals: Force Deleting 188 Package(s):
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Splash_B.SM_Splash_B
+	Asset Type: StaticMesh
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Mud.M_Mud
+	Asset Type: Material
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Smoke/P_Steam_A.P_Steam_A
+	Asset Type: ParticleSystem
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground_C.M_Smoke_Ground_C
+	Asset Type: Material
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Steam_A.T_Steam_A
+	Asset Type: Texture2D
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_C.M_Smoke_C
+	Asset Type: Material
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.T_Smoke_B
+	Asset Type: Texture2D
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.T_Smoke_A
+	Asset Type: Texture2D
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Hit/P_Rubber.P_Rubber
+	Asset Type: ParticleSystem
+	Asset Name: /Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Spark_A.M_Spark_A
+	Asset Type: Material
+[2025.10.28-13.34.34:181][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Smoke_C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:181][943]LogMaterial: Warning: M_Smoke_C: Requesting an invalid TextureIndex! (1 / 1)
+[2025.10.28-13.34.34:182][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Smoke_C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:183][943]LogStaticMesh: Display: SM_Derbis_A스태틱 메시 빌드 중(필요 메모리 예상: 0.126892MB)...
+[2025.10.28-13.34.34:188][943]LogStaticMesh: Built static mesh [0.00s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_A.SM_Derbis_A
+[2025.10.28-13.34.34:190][943]LogStaticMesh: Display: SM_Splash_B스태틱 메시 빌드 중(필요 메모리 예상: 2.760404MB)...
+[2025.10.28-13.34.34:191][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Ground_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:193][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Ground_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:194][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Spark_A: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:195][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Spark_A: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:196][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:197][943]LogStaticMesh: Built static mesh [0.01s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Splash_B.SM_Splash_B
+[2025.10.28-13.34.34:197][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:198][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Explosion_I: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:199][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Explosion_I: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:200][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Spark_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:201][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Spark_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:202][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Spark_C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:203][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Spark_C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:204][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_i.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:205][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_i.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:208][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Paper.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:209][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Paper.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:210][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Impact_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:211][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Impact_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:212][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Impact_C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:213][943]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Impact_C: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:213][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_spark_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:214][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_spark_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:216][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Impact_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:217][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Impact_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:218][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Glow_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:219][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Glow_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:225][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Glass.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:227][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Glass.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:236][943]LogStaticMesh: Display: SM_NamePlate스태틱 메시 빌드 중(필요 메모리 예상: 0.479837MB)...
+[2025.10.28-13.34.34:236][943]LogStaticMesh: Display: SM_Base2스태틱 메시 빌드 중(필요 메모리 예상: 6.952435MB)...
+[2025.10.28-13.34.34:237][943]LogStaticMesh: Built static mesh [0.00s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_NamePlate.SM_NamePlate
+[2025.10.28-13.34.34:249][943]LogStaticMesh: Built static mesh [0.01s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base2.SM_Base2
+[2025.10.28-13.34.34:252][943]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base2)...
+[2025.10.28-13.34.34:252][943]LogStaticMesh: Warning: SM_Base2 메시에 거의 0 인 탄젠트가 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2025.10.28-13.34.34:252][943]LogStaticMesh: Warning: SM_Base2 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2025.10.28-13.34.34:321][943]LogStaticMesh: Display: SM_Base스태틱 메시 빌드 중(필요 메모리 예상: 18.482185MB)...
+[2025.10.28-13.34.34:337][943]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base)...
+[2025.10.28-13.34.34:357][943]LogStaticMesh: Built static mesh [0.04s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base.SM_Base
+[2025.10.28-13.34.34:529][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Wisp.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:530][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Wisp.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:544][943]LogStaticMesh: Display: SM_Derbis_C스태틱 메시 빌드 중(필요 메모리 예상: 0.064528MB)...
+[2025.10.28-13.34.34:548][943]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_C.SM_Derbis_C
+[2025.10.28-13.34.34:557][943]LogStaticMesh: Display: SM_Derbis_B스태틱 메시 빌드 중(필요 메모리 예상: 0.064528MB)...
+[2025.10.28-13.34.34:562][943]LogStaticMesh: Built static mesh [0.00s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_B.SM_Derbis_B
+[2025.10.28-13.34.34:583][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Fire_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:585][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Fire_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:594][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Butterfly.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:596][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Butterfly.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:601][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Lightning_small.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:602][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Lightning_small.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:605][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Ground_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:606][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Ground_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:609][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:610][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:612][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:613][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:620][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Dirt_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:622][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Dirt_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:633][943]LogStaticMesh: Display: SM_Splash_A스태틱 메시 빌드 중(필요 메모리 예상: 3.692201MB)...
+[2025.10.28-13.34.34:639][943]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Splash_A)...
+[2025.10.28-13.34.34:640][943]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Splash_A.SM_Splash_A
+[2025.10.28-13.34.34:691][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Rock_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:693][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Rock_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:694][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Puff_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:696][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Puff_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:735][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Leaves_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:739][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:740][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:742][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Glow_D.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:744][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Glow_D.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:746][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Wood.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:759][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Ground.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:761][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Smoke_Ground.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:763][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Impact_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:765][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Impact_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:767][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_G.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:769][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_G.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:771][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_E.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:772][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_E.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:784][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Distortion.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:786][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Distortion.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:789][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Dirt_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:791][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Dirt_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:793][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Blood_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:795][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Blood_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:859][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Water_Splat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:860][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Water_Splat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:863][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_WaterDrop_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:864][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_WaterDrop_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2025.10.28-13.34.34:867][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Bubble_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:869][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Bubble_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:872][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_WaterDrop_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:874][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_WaterDrop_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:880][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Splat_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:882][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Splat_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:885][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Slash.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:887][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Slash.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:890][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Bubble_pop.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:891][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Bubble_pop.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:897][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Fire_Splat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:898][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Fire_Splat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:905][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_D.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:907][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Explosion_D.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:920][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Fish_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:922][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Fish_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:927][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_WaterDrop.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:929][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_WaterDrop.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.10.28-13.34.34:934][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Bubble.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:935][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Bubble.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:940][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Flies.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:942][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Flies.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:944][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Dandelion.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:945][943]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Realistic_Starter_VFX_Pack_Vol2\Materials\M_Dandelion.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.28-13.34.34:960][943]LogStaticMesh: Display: SM_Base_FlatWall스태틱 메시 빌드 중(필요 메모리 예상: 0.600381MB)...
+[2025.10.28-13.34.34:962][943]LogStaticMesh: Built static mesh [0.01s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2025.10.28-13.34.35:123][943]LogStaticMesh: Display: SM_BaseRoom스태틱 메시 빌드 중(필요 메모리 예상: 26.714056MB)...
+[2025.10.28-13.34.35:139][943]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_BaseRoom)...
+[2025.10.28-13.34.35:175][943]LogStaticMesh: Built static mesh [0.05s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_BaseRoom.SM_BaseRoom
+[2025.10.28-13.34.35:623][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.28-13.34.38:346][943]LogWorld: UWorld::CleanupWorld for Overview_Map_Day, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.34.38:402][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.34.38:592][943]LogWorld: UWorld::CleanupWorld for Overview_Map_Night, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-13.34.38:592][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-13.34.45:077][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.28-13.34.45:104][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-13.34.45:128][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Total job queries 876, among them cache hits 216 (24.66%), DDC hits 239 (27.28%), Duplicates 33 (3.77%)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Tracking 627 distinct input hashes that result in 464 distinct outputs (74.00%)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: RAM used: 290.54 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Shaders Compiled: 388
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Jobs assigned 388, completed 388 (100%)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Average time worker was idle: 119.60 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.71 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 2.37 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 3.14
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Shader code size: average 10.57 KiB, min 1.877 KiB, max 65.773 KiB
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.70 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Jobs were issued in 388 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Average processing rate: 7.97 jobs/sec
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Total thread time: 133.32 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Total thread preprocess time: 12.172 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Percentage time preprocessing: 9.13%
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Effective parallelization: 2.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   36 times, average 0.78 sec, max 1.18 sec, min 0.53 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.64 sec, max 0.83 sec, min 0.52 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   18 times, average 0.56 sec, max 2.33 sec, min 0.25 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    3 times, average 0.35 sec, max 0.43 sec, min 0.25 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 21.08% of total time (compiled   36 times, average 0.78 sec, max 1.18 sec, min 0.53 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.26% of total time (compiled   70 times, average 0.29 sec, max 0.40 sec, min 0.16 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.59% of total time (compiled   56 times, average 0.35 sec, max 0.52 sec, min 0.21 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.57% of total time (compiled   43 times, average 0.30 sec, max 0.37 sec, min 0.21 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.14% of total time (compiled   42 times, average 0.26 sec, max 0.34 sec, min 0.19 sec)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Materials Translated:    361
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Material Translation Only: 0.06 s (26%)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: Material Cache Hits: 13 (4%)
+[2025.10.28-13.34.45:212][943]LogShaderCompilers: Display: ================================================
+[2025.10.28-13.34.45:321][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.28-13.34.49:396][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.28-13.34.49:396][171]LogStreaming: Display: FlushAsyncLoading(760): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-13.34.49:399][171]LogTexture: Display: 텍스처 빌드 중: /Game/VFX/T_Flare_A.T_Flare_A(TFO_AutoDXT, 128x128 x1x1x1)(예상 필요 메모리: 3.583295MB), 인코딩 속도: Fast
+[2025.10.28-13.34.49:408][171]LogTexture: Display: 텍스처 빌드 중: /Game/VFX/T_Splatter_02_4_6.T_Splatter_02_4_6(TFO_AutoDXT, 1024x512 x1x1x1)(예상 필요 메모리: 85.541647MB), 인코딩 속도: Fast
+[2025.10.28-13.34.49:417][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.28-13.34.52:511][171]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.28-13.34.52:560][171]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/VFX/MI_Blood_Trans.MI_Blood_Trans
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/VFX/M_ImpactFlare_Trans.M_ImpactFlare_Trans
+	Asset Type: Material
+	Asset Name: /Game/VFX/NS_HitBlood.NS_HitBlood
+	Asset Type: NiagaraSystem
+	Asset Name: /Game/VFX/T_Splatter_02_4_6.T_Splatter_02_4_6
+	Asset Type: Texture2D
+	Asset Name: /Game/VFX/T_Flare_A.T_Flare_A
+	Asset Type: Texture2D
+[2025.10.28-13.34.52:960][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.28-13.34.52:979][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-13.34.53:001][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.28-13.35.06:877][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.28-13.35.08:653][990]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.28-13.35.08:670][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-13.35.08:767][990]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.28-13.35.08:767][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.10.28-13.35.08:791][990]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.10.28-13.35.08:792][990]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystemF5AD897E4785030DCB7D50A489461CAF.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.10.28-13.35.08:803][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.579 ms (total: 930.425 ms)
+[2025.10.28-13.35.08:903][990]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-13.35.08:903][990]LogContentValidation: Enabled validators:
+[2025.10.28-13.35.08:903][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-13.35.08:903][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-13.35.08:903][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-13.35.08:903][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-13.35.08:903][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-13.35.08:903][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-13.35.08:903][990]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
