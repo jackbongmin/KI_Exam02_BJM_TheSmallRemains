@@ -4169,3 +4169,618 @@ FPackageName: Unable to identify a valid mount point associated with skipped pac
 [2025.10.28-03.10.44:244][254]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
 [2025.10.28-03.10.44:244][254]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MS_Move_Rifle 에셋 유효성 검사 중
 [2025.10.28-03.10.44:244][254]AssetCheck: /Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton 에셋 유효성 검사 중
+[2025.10.28-03.49.17:841][292]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-04.02.36:309][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.28-04.03.02:702][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.28-04.03.02:705][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.025
+[2025.10.28-04.03.02:706][163]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-04.03.02:707][163]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_155
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:027A
+[2025.10.28-04.03.02:707][163]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_155
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:007F
+[2025.10.28-04.03.02:707][163]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_155
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00AE
+[2025.10.28-04.03.02:716][163]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-04.03.02:716][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-04.03.02:751][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Animation/Player/ABP_Player_Auto3
+[2025.10.28-04.03.02:751][163]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto31EDA96404F19422B35DA908F7B120091.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Animation/Player/ABP_Player_Auto3.uasset'
+[2025.10.28-04.03.02:752][163]LogFileHelpers: Auto-saving content packages took 0.047
+[2025.10.28-04.03.19:175][322]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-04.03.19:185][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-04.03.19:185][322]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-04.03.19:193][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008487s)
+[2025.10.28-04.03.19:193][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.008538s)
+[2025.10.28-04.03.19:213][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.28-04.03.19:215][322]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.28-04.03.19:216][322]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2025.10.28-04.03.19:218][322]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-04.03.19:218][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-04.03.19:218][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-04.03.19:218][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-04.03.19:218][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-04.03.19:218][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-04.03.19:220][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-04.03.19:237][322]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-04.03.19:237][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-04.03.19:237][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-04.03.19:237][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-04.03.19:238][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.28-04.03.19:238][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.28-04.03.19:240][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.28-04.03.19:240][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.28-04.03.19:240][322]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.28-04.03.19:240][322]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2025.10.28-04.03.19:240][322]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.28-04.03.19:297][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-04.03.19:297][322]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.28-04.03.19:302][322]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.28-13.03.19
+[2025.10.28-04.03.19:303][322]LogWorld: Bringing up level for play took: 0.005667
+[2025.10.28-04.03.19:306][322]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.10.28-04.03.19:312][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-04.03.19:312][322]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.28-04.03.19:312][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-04.03.19:312][322]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.28-04.03.19:317][322]PIE: 서버가 로그인했습니다.
+[2025.10.28-04.03.19:318][322]PIE: 에디터에서 플레이 총 시작 시간 0.133초입니다.
+[2025.10.28-04.03.19:320][322]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-04.03.26:902][850]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.03.28:608][971]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.03.28:609][971]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-04.03.28:609][971]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-04.03.29:929][ 65]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-04.03.29:929][ 65]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.28-04.03.29:929][ 65]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.28-04.03.33:681][324]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-04.03.33:681][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.10.28-04.04.05:239][510]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.28-04.04.05:268][512]LogBlueprintUserMessages: [BP_WoodStick_C_1] BP_WoodStick
+[2025.10.28-04.04.05:777][545]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.28-04.04.05:943][555]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.28-04.04.06:480][590]LogBlueprintUserMessages: [BP_Soda_C_5] BP_Soda5
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 1
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.28-04.04.06:508][592]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.28-04.04.06:509][592]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.28-04.04.06:509][592]LogBlueprintUserMessages: [BP_Soda_C_5] ItemNone
+[2025.10.28-04.04.07:325][647]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.28-04.04.07:431][654]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.28-04.04.07:549][662]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-04.04.07:683][671]LogBlueprintUserMessages: [BP_Soda_C_9] BP_Soda9
+[2025.10.28-04.04.07:773][677]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.28-04.04.07:848][682]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.28-04.04.08:524][728]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.10:672][875]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.28-04.04.10:984][896]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.11:074][902]LogBlueprintUserMessages: [BP_Soda_C_4] BP_Soda4
+[2025.10.28-04.04.11:074][902]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.28-04.04.11:137][906]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.28-04.04.11:137][906]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.11:153][907]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.28-04.04.11:243][913]LogBlueprintUserMessages: [BP_Soda_C_8] BP_Soda8
+[2025.10.28-04.04.11:308][917]LogBlueprintUserMessages: [BP_Soda_C_13] BP_Soda13
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 2
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.11:340][919]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.11:341][919]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.28-04.04.11:341][919]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.28-04.04.11:341][919]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.28-04.04.11:341][919]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.28-04.04.11:360][920]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.28-04.04.11:508][930]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.28-04.04.11:644][939]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.11:716][944]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-04.04.11:761][947]LogBlueprintUserMessages: [BP_Soda_C_12] BP_Soda12
+[2025.10.28-04.04.11:841][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 3
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.28-04.04.11:842][952]LogBlueprintUserMessages: [BP_Soda_C_12] ItemNone
+[2025.10.28-04.04.11:848][952]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.12:016][963]LogBlueprintUserMessages: [BP_Soda_C_9] BP_Soda9
+[2025.10.28-04.04.12:016][963]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.12:089][968]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.28-04.04.12:121][970]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.28-04.04.12:166][973]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.28-04.04.12:535][997]LogBlueprintUserMessages: [BP_Soda_C_16] BP_Soda16
+[2025.10.28-04.04.12:656][  5]LogBlueprintUserMessages: [BP_Soda_C_10] BP_Soda10
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 4
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.13:043][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.28-04.04.13:044][ 30]LogBlueprintUserMessages: [BP_Soda_C_10] ItemNone
+[2025.10.28-04.04.13:082][ 32]LogBlueprintUserMessages: [BP_Soda_C_9] BP_Soda9
+[2025.10.28-04.04.13:755][ 76]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.13:755][ 76]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.28-04.04.13:859][ 83]LogBlueprintUserMessages: [BP_Soda_C_16] BP_Soda16
+[2025.10.28-04.04.13:986][ 91]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.28-04.04.14:001][ 92]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.28-04.04.14:112][ 99]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.28-04.04.14:225][106]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.14:317][112]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.14:333][113]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.28-04.04.14:815][145]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.14:815][145]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.14:831][146]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.15:053][161]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.15:098][164]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.28-04.04.15:284][176]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.28-04.04.15:299][177]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.28-04.04.15:330][179]LogBlueprintUserMessages: [BP_Soda_C_16] BP_Soda16
+[2025.10.28-04.04.15:442][186]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.15:532][192]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.28-04.04.15:548][193]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.28-04.04.15:548][193]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.28-04.04.15:563][194]LogBlueprintUserMessages: [BP_Soda_C_4] BP_Soda4
+[2025.10.28-04.04.15:563][194]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.28-04.04.15:748][206]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.28-04.04.15:891][215]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.15:920][217]LogBlueprintUserMessages: [BP_Soda_C_9] ItemNone
+[2025.10.28-04.04.15:920][217]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.28-04.04.16:191][235]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.28-04.04.16:522][257]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.16:522][257]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.16:537][258]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.16:538][258]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.16:552][259]LogBlueprintUserMessages: [BP_Soda_C_15] BP_Soda15
+[2025.10.28-04.04.16:566][260]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.16:880][281]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.28-04.04.17:221][304]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.28-04.04.17:439][319]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.28-04.04.18:524][392]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.28-04.04.18:539][393]LogBlueprintUserMessages: [BP_Soda_C_4] BP_Soda4
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 5
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.18:954][421]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.18:955][421]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.28-04.04.18:955][421]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.28-04.04.18:955][421]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.28-04.04.18:955][421]LogBlueprintUserMessages: [BP_Soda_C_4] ItemNone
+[2025.10.28-04.04.19:107][431]LogBlueprintUserMessages: [BP_Soda_C_3] BP_Soda3
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 6
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.28-04.04.19:166][435]LogBlueprintUserMessages: [BP_Soda_C_3] ItemNone
+[2025.10.28-04.04.19:464][455]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.28-04.04.19:524][459]LogBlueprintUserMessages: [BP_Soda_C_8] BP_Soda8
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 7
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.19:566][462]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.19:567][462]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.28-04.04.19:567][462]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.28-04.04.19:567][462]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.28-04.04.19:567][462]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.28-04.04.19:567][462]LogBlueprintUserMessages: [BP_Soda_C_8] ItemNone
+[2025.10.28-04.04.19:733][473]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.28-04.04.19:733][473]LogBlueprintUserMessages: [BP_Soda_C_2] BP_Soda2
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 8
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.19:766][475]LogBlueprintUserMessages: [BP_Soda_C_2] ItemNone
+[2025.10.28-04.04.19:974][489]LogBlueprintUserMessages: [BP_Soda_C_14] BP_Soda14
+[2025.10.28-04.04.20:102][498]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:Soda -> 9
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.04.20:147][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.20:148][501]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.28-04.04.20:333][512]LogBlueprintUserMessages: [BP_Soda_C_7] BP_Soda7
+[2025.10.28-04.04.20:394][516]LogBlueprintUserMessages: [BP_Soda_C_9] BP_Soda9
+[2025.10.28-04.04.20:888][549]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.28-04.04.20:888][549]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.28-04.04.20:903][550]LogBlueprintUserMessages: [BP_Soda_C_11] BP_Soda11
+[2025.10.28-04.04.21:056][560]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-04.04.21:056][560]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.10.28-04.04.21:136][565]LogBlueprintUserMessages: [BP_Soda_C_6] BP_Soda6
+[2025.10.28-04.04.21:225][571]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.28-04.04.21:995][620]LogBlueprintUserMessages: [BP_Soda_C_7] ItemNone
+[2025.10.28-04.04.22:158][630]LogBlueprintUserMessages: [BP_Soda_C_16] ItemNone
+[2025.10.28-04.04.22:608][658]LogBlueprintUserMessages: [BP_WoodStick_C_1] BP_WoodStick
+[2025.10.28-04.04.22:768][668]LogBlueprintUserMessages: [BP_Soda_C_15] ItemNone
+[2025.10.28-04.04.22:894][676]LogBlueprintUserMessages: [BP_Soda_C_6] ItemNone
+[2025.10.28-04.04.23:276][700]LogBlueprintUserMessages: [BP_Soda_C_14] ItemNone
+[2025.10.28-04.04.23:416][709]LogBlueprintUserMessages: [BP_Soda_C_11] ItemNone
+[2025.10.28-04.04.23:671][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-04.04.23:671][724]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-04.04.23:671][724]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-04.04.23:675][724]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.04.23:675][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.04.23:678][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-04.04.23:684][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.04.23:704][724]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.28-04.04.23:704][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.28-04.04.23:706][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.28-04.04.23:715][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.28-04.04.23:777][725]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.10.28-04.13.36:514][434]LogBlueprint: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] GroundCach -> Rifle Locomotion  will never be taken, please connect something to  Can Enter Transition
+[2025.10.28-04.13.36:514][434]LogBlueprint: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] Rifle Locomotion -> GroundCach  will never be taken, please connect something to  Can Enter Transition
+[2025.10.28-04.13.36:569][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.28-04.13.39:323][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.13.39:392][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-04.13.39:393][610]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_156
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:02F5
+[2025.10.28-04.13.39:393][610]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_156
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:007F
+[2025.10.28-04.13.39:393][610]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_156
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00AE
+[2025.10.28-04.13.39:402][610]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-04.13.39:402][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-04.13.39:440][610]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/ABP_Player
+[2025.10.28-04.13.39:440][610]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player8A3BB96944171418598F8A8A76CC1E5B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/ABP_Player.uasset'
+[2025.10.28-04.13.39:448][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.440 ms (total: 1.85 sec)
+[2025.10.28-04.13.39:508][610]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.13.39:508][610]LogContentValidation: Enabled validators:
+[2025.10.28-04.13.39:508][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.13.39:508][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.13.39:508][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.13.39:508][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.13.39:508][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.13.39:508][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.13.39:508][610]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
+[2025.10.28-04.14.37:202][223]LogBlueprint: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] GroundCach -> Rifle Locomotion  will never be taken, please connect something to  Can Enter Transition
+[2025.10.28-04.14.37:203][223]LogBlueprint: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] Rifle Locomotion -> GroundCach  will never be taken, please connect something to  Can Enter Transition
+[2025.10.28-04.14.37:298][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.28-04.14.38:298][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.14.38:358][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.28-04.14.38:358][298]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.28-04.14.38:374][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.28-04.14.38:374][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.28-04.14.38:430][298]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.28-04.14.38:430][298]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterCF0118474A3BD5921EB1F1897288D32C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.28-04.14.38:437][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.464 ms (total: 1.99 sec)
+[2025.10.28-04.14.38:490][298]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.14.38:490][298]LogContentValidation: Enabled validators:
+[2025.10.28-04.14.38:490][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.14.38:490][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.14.38:490][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.14.38:490][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.14.38:490][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.14.38:490][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.14.38:490][298]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.28-04.15.34:323][923]LogBlueprint: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] GroundCach -> Rifle Locomotion  will never be taken, please connect something to  Can Enter Transition
+[2025.10.28-04.15.34:323][923]LogBlueprint: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] Rifle Locomotion -> GroundCach  will never be taken, please connect something to  Can Enter Transition
+[2025.10.28-04.15.34:383][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.28-04.16.18:615][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.28-04.20.05:903][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.28-04.23.19:072][458]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive
+[2025.10.28-04.23.19:143][458]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.28-04.24.24:656][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.28-04.24.24:662][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.038
+[2025.10.28-04.24.24:662][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-04.24.24:663][790]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0324
+[2025.10.28-04.24.24:663][790]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03D6
+[2025.10.28-04.24.24:663][790]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0405
+[2025.10.28-04.24.24:663][790]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:001F
+[2025.10.28-04.24.24:663][790]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0324
+[2025.10.28-04.24.24:663][790]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03D6
+[2025.10.28-04.24.24:663][790]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0405
+[2025.10.28-04.24.24:663][790]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_157
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:001F
+[2025.10.28-04.24.24:670][790]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-04.24.24:671][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-04.24.24:717][790]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Animation/Player/ABP_Player_Auto4
+[2025.10.28-04.24.24:717][790]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto4596BFCF34FD83E685C143C81B6373E40.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Animation/Player/ABP_Player_Auto4.uasset'
+[2025.10.28-04.24.24:718][790]LogFileHelpers: Auto-saving content packages took 0.056
+[2025.10.28-04.24.37:692][642]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive (Required Memory Estimate: 1.56 MB)
+[2025.10.28-04.24.37:749][643]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive, at AnimationSequence/7268268d469fafe588508e3550a9946ee9fa52ca
+[2025.10.28-04.24.43:454][ 14]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive (Required Memory Estimate: 1.56 MB)
+[2025.10.28-04.24.43:515][ 14]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive, at AnimationSequence/823b295e646ed90ad0bc1f2839b5ce0226d2430f
+[2025.10.28-04.24.49:576][413]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive (Required Memory Estimate: 1.56 MB)
+[2025.10.28-04.24.49:638][415]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive, at AnimationSequence/5eb74527ae6e2e348ace03a3439891900ac43ae8
+[2025.10.28-04.24.52:667][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.24.52:736][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive] ([1] browsable assets)...
+[2025.10.28-04.24.52:747][611]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive]
+[2025.10.28-04.24.52:747][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive]
+[2025.10.28-04.24.52:760][611]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive
+[2025.10.28-04.24.52:760][611]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MM_Rifle_Jump_RecoveryAdditive6D1163FE41E822C7BFAFB7AF636B9CBB.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive.uasset'
+[2025.10.28-04.24.52:767][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.183 ms (total: 2.09 sec)
+[2025.10.28-04.24.52:819][611]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.24.52:819][611]LogContentValidation: Enabled validators:
+[2025.10.28-04.24.52:819][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.24.52:819][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.24.52:819][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.24.52:819][611]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.24.52:819][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.24.52:819][611]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.24.52:819][611]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/RifleLocomotions/MM_Rifle_Jump_RecoveryAdditive 에셋 유효성 검사 중
+[2025.10.28-04.25.27:949][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.28-04.25.28:696][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.25.28:736][917]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-04.25.28:737][917]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_158
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:02F2
+[2025.10.28-04.25.28:737][917]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_158
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A4
+[2025.10.28-04.25.28:737][917]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_158
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03D3
+[2025.10.28-04.25.28:737][917]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_158
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:001F
+[2025.10.28-04.25.28:747][917]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-04.25.28:747][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-04.25.28:797][917]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/ABP_Player
+[2025.10.28-04.25.28:798][917]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player91BCC5974203302178A5C7B3F45C29D8.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/ABP_Player.uasset'
+[2025.10.28-04.25.28:804][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.651 ms (total: 2.20 sec)
+[2025.10.28-04.25.28:836][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.25.28:836][917]LogContentValidation: Enabled validators:
+[2025.10.28-04.25.28:836][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.25.28:836][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.25.28:836][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.25.28:836][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.25.28:836][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.25.28:836][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.25.28:836][917]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
+[2025.10.28-04.25.43:585][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.25.43:636][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-04.25.43:636][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-04.25.43:688][899]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/ABP_Player
+[2025.10.28-04.25.43:688][899]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_PlayerE475031748A53B8D5C0E5392FA09C38C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/ABP_Player.uasset'
+[2025.10.28-04.25.43:694][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.584 ms (total: 2.30 sec)
+[2025.10.28-04.25.43:752][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.25.43:752][899]LogContentValidation: Enabled validators:
+[2025.10.28-04.25.43:752][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.25.43:752][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.25.43:752][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.25.43:752][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.25.43:752][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.25.43:752][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.25.43:752][899]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
+[2025.10.28-04.25.45:332][  2]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-04.25.45:341][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-04.25.45:342][  2]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-04.25.45:349][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007697s)
+[2025.10.28-04.25.45:349][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.007743s)
+[2025.10.28-04.25.45:370][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.28-04.25.45:374][  2]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.28-04.25.45:376][  2]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2025.10.28-04.25.45:377][  2]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-04.25.45:377][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-04.25.45:377][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-04.25.45:377][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-04.25.45:377][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-04.25.45:377][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-04.25.45:380][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-04.25.45:396][  2]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-04.25.45:396][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-04.25.45:397][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-04.25.45:397][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-04.25.45:397][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.28-04.25.45:397][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.28-04.25.45:400][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.28-04.25.45:400][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.28-04.25.45:400][  2]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.28-04.25.45:400][  2]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2025.10.28-04.25.45:400][  2]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.28-04.25.45:452][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-04.25.45:452][  2]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.28-04.25.45:457][  2]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.28-13.25.45
+[2025.10.28-04.25.45:458][  2]LogWorld: Bringing up level for play took: 0.005966
+[2025.10.28-04.25.45:461][  2]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.10.28-04.25.45:466][  2]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-04.25.45:466][  2]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.28-04.25.45:466][  2]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-04.25.45:466][  2]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.28-04.25.45:470][  2]PIE: 서버가 로그인했습니다.
+[2025.10.28-04.25.45:471][  2]PIE: 에디터에서 플레이 총 시작 시간 0.13초입니다.
+[2025.10.28-04.25.45:473][  2]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-04.25.49:607][266]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.28-04.25.50:377][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-04.25.50:378][315]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-04.25.51:715][398]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-04.25.51:715][398]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.28-04.25.51:716][398]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.28-04.25.54:882][592]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-04.25.54:882][592]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.10.28-04.26.42:671][652]LogBlueprintUserMessages: [BP_Soda_C_13] BP_Soda13
+[2025.10.28-04.26.42:802][660]LogBlueprintUserMessages: [BP_Soda_C_13] ItemNone
+[2025.10.28-04.26.57:071][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-04.26.57:071][577]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-04.26.57:072][577]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-04.26.57:075][577]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.26.57:076][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.26.57:079][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-04.26.57:085][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.26.57:106][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-04.26.57:107][577]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.28-04.26.57:107][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.28-04.26.57:109][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.28-04.26.57:118][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.28-04.26.57:180][578]LogPlayLevel: Display: Destroying online subsystem :Context_33
