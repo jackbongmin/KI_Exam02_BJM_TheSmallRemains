@@ -13077,3 +13077,698 @@ Script Stack (0 frames) :
 [2025.10.28-06.18.51:415][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
 [2025.10.28-06.18.51:424][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2025.10.28-06.18.51:493][221]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.10.28-06.23.50:877][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.10.28-06.23.50:880][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.028
+[2025.10.28-06.23.50:880][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.28-06.23.50:949][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.28-06.23.50:949][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.28-06.23.51:005][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter_Auto2
+[2025.10.28-06.23.51:005][793]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto2B3018A944B2004EA51A9BE86F13D67E6.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter_Auto2.uasset'
+[2025.10.28-06.23.51:007][793]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-06.23.51:007][793]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_166
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:028D
+[2025.10.28-06.23.51:007][793]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_166
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:033F
+[2025.10.28-06.23.51:007][793]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_166
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:036E
+[2025.10.28-06.23.51:007][793]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_166
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03B2
+[2025.10.28-06.23.51:018][793]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-06.23.51:018][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-06.23.51:081][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Animation/Player/ABP_Player_Auto2
+[2025.10.28-06.23.51:082][793]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player_Auto25D0EC3A548E42EFF1D4DE79D3745BD84.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Animation/Player/ABP_Player_Auto2.uasset'
+[2025.10.28-06.23.51:083][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton] ([1] browsable assets)...
+[2025.10.28-06.23.51:083][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton]
+[2025.10.28-06.23.51:089][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton_Auto2
+[2025.10.28-06.23.51:089][793]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SK_Military_Character_Skeleton_AEB789FC34E563BB9A3BD41821AA9E32B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton_Auto2.uasset'
+[2025.10.28-06.23.51:090][793]LogFileHelpers: Auto-saving content packages took 0.210
+[2025.10.28-06.24.32:834][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.28-06.24.32:935][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.28-06.24.35:740][202]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default
+[2025.10.28-06.24.35:741][202]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.28-06.26.28:716][149]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.28-06.26.28:834][153]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.28-06.27.48:899][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Components/BPC_AttackSystem.BPC_AttackSystem
+[2025.10.28-06.27.48:899][205]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.10.28-06.31.49:312][694]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.31.49:312][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.31.49:371][694]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.31.49:371][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.31.49:476][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.10.28-06.31.50:553][748]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.31.50:553][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.31.50:599][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.28-06.31.56:223][123]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.31.56:224][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.31.56:301][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.28-06.31.58:873][271]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.31.58:873][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.31.58:915][271]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.31.58:915][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.31.58:947][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.28-06.32.00:195][346]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-06.32.00:195][346]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.00:195][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.00:255][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.28-06.32.01:805][452]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-06.32.01:805][452]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.01:805][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.01:862][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.28-06.32.03:750][564]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.03:750][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.03:762][564]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.03:762][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.03:822][564]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.03:822][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.03:854][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.28-06.32.04:523][610]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-06.32.04:523][610]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.04:523][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.04:594][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.28-06.32.06:335][737]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.06:335][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.06:394][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.28-06.32.08:411][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-06.32.09:221][874]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.28-06.32.09:227][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.32.09:282][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-06.32.09:282][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-06.32.09:341][874]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/ABP_Player
+[2025.10.28-06.32.09:342][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player4685976D4DBC3175F27477AC88A09B1A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/ABP_Player.uasset'
+[2025.10.28-06.32.09:343][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/Weapons/AK47/BP_AK47] ([2] browsable assets)...
+[2025.10.28-06.32.09:343][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Weapons/AK47/BP_AK47]
+[2025.10.28-06.32.09:347][874]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Weapons/AK47/BP_AK47
+[2025.10.28-06.32.09:347][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_AK479398C63A44E4E68913B3E283079FB699.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Weapons/AK47/BP_AK47.uasset'
+[2025.10.28-06.32.09:348][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.28-06.32.09:348][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.28-06.32.09:404][874]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.28-06.32.09:404][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter250FC61F41E0EBC324CC5BBB900F151C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.28-06.32.09:406][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/Weapons/BP_WeaponMaster] ([2] browsable assets)...
+[2025.10.28-06.32.09:406][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Weapons/BP_WeaponMaster]
+[2025.10.28-06.32.09:408][874]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Weapons/BP_WeaponMaster
+[2025.10.28-06.32.09:409][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_WeaponMasterAE1752AC4C9F1771EC6FF684B4532E68.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Weapons/BP_WeaponMaster.uasset'
+[2025.10.28-06.32.09:410][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.28-06.32.09:410][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.10.28-06.32.09:428][874]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.10.28-06.32.09:429][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem5B3C7BCA43C5A36D5551B8848A5283C2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.10.28-06.32.09:430][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton] ([1] browsable assets)...
+[2025.10.28-06.32.09:430][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton]
+[2025.10.28-06.32.09:431][874]LogSavePackage: Moving output files for package: /Game/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton
+[2025.10.28-06.32.09:431][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SK_KA47_Skeleton3E7C9D4C4C94D44CDF17A09F1F1D235E.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton.uasset'
+[2025.10.28-06.32.09:432][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton] ([1] browsable assets)...
+[2025.10.28-06.32.09:432][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton]
+[2025.10.28-06.32.09:438][874]LogSavePackage: Moving output files for package: /Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton
+[2025.10.28-06.32.09:438][874]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SK_Military_Character_SkeletonDB6768C94059363565D3C9BB7C963088.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/QuantumCharacter/Mesh/SK_Military_Character_Skeleton.uasset'
+[2025.10.28-06.32.09:444][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.918 ms (total: 4.03 sec)
+[2025.10.28-06.32.09:481][874]LogContentValidation: Display: Starting to validate 7 assets
+[2025.10.28-06.32.09:481][874]LogContentValidation: Enabled validators:
+[2025.10.28-06.32.09:481][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.32.09:481][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.32.09:481][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.32.09:481][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.32.09:481][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.32.09:481][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.32.09:481][874]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
+[2025.10.28-06.32.09:481][874]AssetCheck: /Game/A_TheSmallRemains/Items/Weapons/AK47/BP_AK47 에셋 유효성 검사 중
+[2025.10.28-06.32.09:481][874]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.28-06.32.09:481][874]AssetCheck: /Game/A_TheSmallRemains/Items/Weapons/BP_WeaponMaster 에셋 유효성 검사 중
+[2025.10.28-06.32.09:481][874]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.10.28-06.32.09:482][874]AssetCheck: /Game/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton 에셋 유효성 검사 중
+[2025.10.28-06.32.09:482][874]AssetCheck: /Game/QuantumCharacter/Mesh/SK_Military_Character_Skeleton 에셋 유효성 검사 중
+[2025.10.28-06.32.41:525][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.28-06.32.45:420][458]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-06.32.45:427][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-06.32.45:427][458]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-06.32.45:434][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006557s)
+[2025.10.28-06.32.45:434][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.006588s)
+[2025.10.28-06.32.45:460][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.28-06.32.45:479][458]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.28-06.32.45:480][458]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2025.10.28-06.32.45:481][458]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-06.32.45:481][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-06.32.45:481][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-06.32.45:481][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-06.32.45:481][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-06.32.45:481][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-06.32.45:483][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-06.32.45:500][458]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-06.32.45:500][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-06.32.45:500][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-06.32.45:500][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-06.32.45:501][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.28-06.32.45:501][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.28-06.32.45:503][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.28-06.32.45:503][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.28-06.32.45:503][458]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.28-06.32.45:503][458]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestMap'.
+[2025.10.28-06.32.45:503][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.28-06.32.45:547][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-06.32.45:547][458]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.28-06.32.45:552][458]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.28-15.32.45
+[2025.10.28-06.32.45:553][458]LogWorld: Bringing up level for play took: 0.006156
+[2025.10.28-06.32.45:556][458]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2025.10.28-06.32.45:562][458]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-06.32.45:562][458]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.28-06.32.45:562][458]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-06.32.45:562][458]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.28-06.32.45:572][458]PIE: 서버가 로그인했습니다.
+[2025.10.28-06.32.45:577][458]PIE: 에디터에서 플레이 총 시작 시간 0.151초입니다.
+[2025.10.28-06.32.45:580][458]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-06.32.53:906][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-06.32.53:906][971]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-06.32.53:907][971]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-06.32.53:911][971]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.32.53:912][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.53:915][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-06.32.53:921][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.32.53:946][971]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-06.32.53:946][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.28-06.32.53:946][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.10.28-06.32.53:948][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.10.28-06.32.53:957][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.28-06.32.54:034][972]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2025.10.28-06.32.58:435][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.28-06.33.15:578][456]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.10.28-06.33.15:623][456]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.10.28-06.33.15:642][457]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.10.28-06.33.21:897][918]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Aming
+[2025.10.28-06.33.21:898][918]LogContentBrowser: End creating deferred item NewInputAction
+[2025.10.28-06.33.24:087][ 70]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/A_TheSmallRemains/Input/IMC_Player.IMC_Player
+[2025.10.28-06.33.43:046][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.33.43:081][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IMC_Player] ([1] browsable assets)...
+[2025.10.28-06.33.43:081][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IMC_Player]
+[2025.10.28-06.33.43:084][178]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Input/IMC_Player
+[2025.10.28-06.33.43:084][178]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IMC_Player491E9CDA410A99C3C159919995F7E70C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Input/IMC_Player.uasset'
+[2025.10.28-06.33.43:091][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.853 ms (total: 4.08 sec)
+[2025.10.28-06.33.43:130][178]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.33.43:130][178]LogContentValidation: Enabled validators:
+[2025.10.28-06.33.43:130][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.33.43:130][178]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.33.43:130][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.33.43:130][178]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.33.43:131][178]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.33.43:131][178]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.33.43:131][178]AssetCheck: /Game/A_TheSmallRemains/Input/IMC_Player 에셋 유효성 검사 중
+[2025.10.28-06.34.02:588][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.34.02:647][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IMC_Player] ([1] browsable assets)...
+[2025.10.28-06.34.02:647][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IMC_Player]
+[2025.10.28-06.34.02:649][415]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Input/IMC_Player
+[2025.10.28-06.34.02:650][415]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IMC_Player078189A645DDAF95BD99978CE701BD99.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Input/IMC_Player.uasset'
+[2025.10.28-06.34.02:655][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.857 ms (total: 4.15 sec)
+[2025.10.28-06.34.02:713][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.34.02:713][415]LogContentValidation: Enabled validators:
+[2025.10.28-06.34.02:713][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.34.02:713][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.34.02:713][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.34.02:713][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.34.02:713][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.34.02:713][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.34.02:714][415]AssetCheck: /Game/A_TheSmallRemains/Input/IMC_Player 에셋 유효성 검사 중
+[2025.10.28-06.34.30:977][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Components/BPC_AttackSystem.BPC_AttackSystem
+[2025.10.28-06.34.30:977][722]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.10.28-06.36.32:237][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.10.28-06.37.11:830][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.10.28-06.37.12:333][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.37.12:363][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.10.28-06.37.12:363][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.10.28-06.37.12:384][504]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.10.28-06.37.12:385][504]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem3DE975E34BC270330A24C9AAB7CA9192.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.10.28-06.37.12:392][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.707 ms (total: 4.20 sec)
+[2025.10.28-06.37.12:446][504]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.37.12:446][504]LogContentValidation: Enabled validators:
+[2025.10.28-06.37.12:446][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.37.12:446][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.37.12:446][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.37.12:446][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.37.12:446][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.37.12:446][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.37.12:446][504]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.10.28-06.37.13:559][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.28-06.37.14:531][626]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.28-06.37.14:537][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.37.14:596][626]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.28-06.37.14:609][626]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.28-06.37.14:609][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.28-06.37.14:667][626]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.28-06.37.14:667][626]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter229E840C4D8DA3C2586BBC860A71BBD3.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.28-06.37.14:669][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IA_Aming] ([1] browsable assets)...
+[2025.10.28-06.37.14:669][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IA_Aming]
+[2025.10.28-06.37.14:669][626]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Input/IA_Aming
+[2025.10.28-06.37.14:669][626]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IA_Aming99E37B26483C03117805D28049DEA403.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Input/IA_Aming.uasset'
+[2025.10.28-06.37.14:678][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.244 ms (total: 4.35 sec)
+[2025.10.28-06.37.14:729][626]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.28-06.37.14:729][626]LogContentValidation: Enabled validators:
+[2025.10.28-06.37.14:729][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.37.14:730][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.37.14:730][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.37.14:730][626]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.37.14:730][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.37.14:730][626]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.37.14:730][626]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.10.28-06.37.14:730][626]AssetCheck: /Game/A_TheSmallRemains/Input/IA_Aming 에셋 유효성 검사 중
+[2025.10.28-06.37.17:652][949]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-06.37.17:659][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-06.37.17:659][949]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-06.37.17:666][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006654s)
+[2025.10.28-06.37.17:666][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.006683s)
+[2025.10.28-06.37.17:689][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-06.37.17:692][949]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.28-06.37.17:693][949]LogPlayLevel: PIE: World Init took: (0.001639s)
+[2025.10.28-06.37.17:695][949]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-06.37.17:695][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-06.37.17:695][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-06.37.17:695][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-06.37.17:695][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-06.37.17:695][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-06.37.17:697][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-06.37.17:713][949]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-06.37.17:713][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-06.37.17:713][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-06.37.17:713][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-06.37.17:714][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.28-06.37.17:714][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.28-06.37.17:716][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.28-06.37.17:716][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.28-06.37.17:716][949]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.28-06.37.17:716][949]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestMap'.
+[2025.10.28-06.37.17:716][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.28-06.37.17:762][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-06.37.17:762][949]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.28-06.37.17:767][949]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.28-15.37.17
+[2025.10.28-06.37.17:768][949]LogWorld: Bringing up level for play took: 0.005732
+[2025.10.28-06.37.17:770][949]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.10.28-06.37.17:776][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-06.37.17:776][949]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.28-06.37.17:776][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-06.37.17:776][949]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.28-06.37.17:783][949]PIE: 서버가 로그인했습니다.
+[2025.10.28-06.37.17:787][949]PIE: 에디터에서 플레이 총 시작 시간 0.127초입니다.
+[2025.10.28-06.37.17:789][949]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-06.37.20:407][145]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-06.37.20:689][167]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-06.37.21:351][218]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-06.37.21:351][218]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.28-06.37.21:351][218]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.28-06.37.23:528][388]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-06.37.23:528][388]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.10.28-06.37.56:355][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-06.37.56:355][972]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-06.37.56:355][972]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-06.37.56:359][972]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.37.56:360][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.37.56:363][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-06.37.56:369][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.37.56:391][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.28-06.37.56:391][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.10.28-06.37.56:394][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.10.28-06.37.56:403][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.28-06.37.56:469][973]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.10.28-06.38.04:816][664]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_167
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:028D
+[2025.10.28-06.38.04:816][664]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_167
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:033F
+[2025.10.28-06.38.04:816][664]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_167
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:036E
+[2025.10.28-06.38.04:816][664]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_167
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03B2
+[2025.10.28-06.38.05:070][682]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_168
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:028D
+[2025.10.28-06.38.05:070][682]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_168
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:033F
+[2025.10.28-06.38.05:070][682]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_168
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:036E
+[2025.10.28-06.38.05:070][682]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_168
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03B2
+[2025.10.28-06.38.07:341][828]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.28-06.38.07:350][828]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.28-06.38.07:364][829]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.28-06.38.20:598][778]LogContentBrowser: Attempting asset rename: 새 폴더 -> AimOffset
+[2025.10.28-06.38.20:599][778]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.28-06.38.33:518][694]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.10.28-06.39.43:205][267]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS
+[2025.10.28-06.39.43:205][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.10.28-06.39.43:212][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-06.39.43:537][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.10.28-06.39.43:911][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.28-06.40.04:861][256]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS (Required Memory Estimate: 0.19 MB)
+[2025.10.28-06.40.04:864][256]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS, at AnimationSequence/407c30f9dcff2d0be3ced2b542ef955d793db87f
+[2025.10.28-06.40.14:367][717]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS (Required Memory Estimate: 0.25 MB)
+[2025.10.28-06.40.14:372][717]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS, at AnimationSequence/839f7122012caca73278121396e6b4cc7681c188
+[2025.10.28-06.40.51:191][329]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS (Required Memory Estimate: 2.09 MB)
+[2025.10.28-06.40.51:196][329]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS, at AnimationSequence/6537aeb2f815a059e055575e0c97e5a5ceafdb3e
+[2025.10.28-06.40.58:009][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.40.58:063][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS] ([1] browsable assets)...
+[2025.10.28-06.40.58:073][631]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS]
+[2025.10.28-06.40.58:073][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS]
+[2025.10.28-06.40.58:086][631]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS
+[2025.10.28-06.40.58:086][631]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MM_Rifle_Idle_ADS09345915440F5510E0A2188F5959E627.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS.uasset'
+[2025.10.28-06.40.58:159][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.825 ms (total: 4.50 sec)
+[2025.10.28-06.40.58:211][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.40.58:211][631]LogContentValidation: Enabled validators:
+[2025.10.28-06.40.58:211][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.40.58:211][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.40.58:211][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.40.58:211][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.40.58:211][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.40.58:211][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.40.58:211][631]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/AimOffset/MM_Rifle_Idle_ADS 에셋 유효성 검사 중
+[2025.10.28-06.41.00:428][728]LogSlate: Window 'MM_Rifle_Idle_ADS' being destroyed
+[2025.10.28-06.41.00:456][728]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.41.00:456][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.41.00:465][728]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.41.00:465][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.41.00:527][728]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.41.00:527][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.41.00:615][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-06.41.14:720][734]LogContentBrowser: Attempting asset rename: MM_Rifle_Idle_ADS -> AO_LookForward
+[2025.10.28-06.41.14:831][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.41.14:831][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookForward] ([1] browsable assets)...
+[2025.10.28-06.41.14:831][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookForward]
+[2025.10.28-06.41.14:843][734]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookForward
+[2025.10.28-06.41.14:843][734]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AO_LookForwardE26F68DC4EC3B26C5DC753AB90F470B6.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookForward.uasset'
+[2025.10.28-06.41.14:900][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.065 ms (total: 4.56 sec)
+[2025.10.28-06.41.14:995][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.28-06.41.15:020][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.28-06.41.15:042][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.28-06.41.15:093][734]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.41.15:093][734]LogContentValidation: Enabled validators:
+[2025.10.28-06.41.15:093][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.41.15:093][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.41.15:093][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.41.15:093][734]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.41.15:093][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.41.15:093][734]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.41.15:093][734]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookForward 에셋 유효성 검사 중
+[2025.10.28-06.41.17:046][840]LogContentBrowser: Deferred new asset file creation: AO_LookForward1
+[2025.10.28-06.41.17:054][840]LogContentBrowser: Creating deferred item: AO_LookForward1
+[2025.10.28-06.41.17:074][841]LogContentBrowser: Renaming the item being created (Deferred Item: AO_LookForward1).
+[2025.10.28-06.41.30:785][860]LogContentBrowser: Attempting asset rename: AO_LookForward1 -> AO_LookUpWard
+[2025.10.28-06.41.30:863][860]LogContentBrowser: End creating deferred item AO_LookForward1
+[2025.10.28-06.41.34:820][ 96]LogContentBrowser: Attempting asset rename: AO_LookUpWard -> AO_LookUpward
+[2025.10.28-06.41.34:947][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.28-06.41.34:968][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.28-06.41.34:991][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.28-06.41.35:024][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.28-06.41.35:048][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.28-06.41.35:072][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.28-06.41.35:970][142]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward.AO_LookUpward
+[2025.10.28-06.41.35:971][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.28-06.41.35:979][142]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-06.41.36:302][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.10.28-06.41.36:662][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.10.28-06.42.25:082][134]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward.AO_LookUpward (Required Memory Estimate: 2.09 MB)
+[2025.10.28-06.42.25:089][134]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward.AO_LookUpward, at AnimationSequence/0e2abc06c1cc33158257d4e0fb3663868b9cc1c9
+[2025.10.28-06.42.42:209][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.42.42:279][852]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward] ([1] browsable assets)...
+[2025.10.28-06.42.42:290][852]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward.AO_LookUpward]
+[2025.10.28-06.42.42:290][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward]
+[2025.10.28-06.42.42:303][852]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward
+[2025.10.28-06.42.42:304][852]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AO_LookUpwardB85ED1AA432ED4ABD370CC9DCEC2B53B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward.uasset'
+[2025.10.28-06.42.42:379][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.212 ms (total: 4.74 sec)
+[2025.10.28-06.42.42:425][852]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.42.42:425][852]LogContentValidation: Enabled validators:
+[2025.10.28-06.42.42:425][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.42.42:425][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.42.42:425][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.42.42:425][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.42.42:425][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.42.42:425][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.42.42:426][852]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookUpward 에셋 유효성 검사 중
+[2025.10.28-06.42.43:150][883]LogSlate: Window 'AO_LookUpward' being destroyed
+[2025.10.28-06.42.43:201][883]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.42.43:201][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.42.43:209][883]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.42.43:209][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.42.43:268][883]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.42.43:269][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.42.43:329][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.10.28-06.42.46:844][111]LogContentBrowser: Deferred new asset file creation: AO_LookForward1
+[2025.10.28-06.42.46:861][111]LogContentBrowser: Creating deferred item: AO_LookForward1
+[2025.10.28-06.42.46:883][112]LogContentBrowser: Renaming the item being created (Deferred Item: AO_LookForward1).
+[2025.10.28-06.42.55:273][731]LogContentBrowser: Attempting asset rename: AO_LookForward1 -> AO_LookDownward
+[2025.10.28-06.42.55:356][731]LogContentBrowser: End creating deferred item AO_LookForward1
+[2025.10.28-06.42.57:081][844]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward.AO_LookDownward
+[2025.10.28-06.42.57:082][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.10.28-06.42.57:089][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-06.42.57:415][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.10.28-06.42.57:778][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.10.28-06.43.28:402][ 98]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward.AO_LookDownward (Required Memory Estimate: 2.09 MB)
+[2025.10.28-06.43.28:411][ 98]LogAnimationCompression: Display: Storing compressed animation data for /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward.AO_LookDownward, at AnimationSequence/bdb9ad622e2f81b72d38c598b57223d55d04f3af
+[2025.10.28-06.43.37:735][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.43.37:794][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward] ([1] browsable assets)...
+[2025.10.28-06.43.37:805][508]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward.AO_LookDownward]
+[2025.10.28-06.43.37:805][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward]
+[2025.10.28-06.43.37:818][508]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward
+[2025.10.28-06.43.37:818][508]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AO_LookDownward9DC4DF434BA2418521E270B8B3ACC7F1.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward.uasset'
+[2025.10.28-06.43.37:898][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.886 ms (total: 4.90 sec)
+[2025.10.28-06.43.37:926][508]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.43.37:926][508]LogContentValidation: Enabled validators:
+[2025.10.28-06.43.37:926][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.43.37:926][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.43.37:926][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.43.37:926][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.43.37:926][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.43.37:926][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.43.37:926][508]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward 에셋 유효성 검사 중
+[2025.10.28-06.43.49:771][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.43.49:827][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward] ([1] browsable assets)...
+[2025.10.28-06.43.49:827][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward]
+[2025.10.28-06.43.49:840][ 23]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward
+[2025.10.28-06.43.49:840][ 23]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AO_LookDownward1F4B43834EAF2F0BE1808EB01C867A1D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward.uasset'
+[2025.10.28-06.43.49:848][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.969 ms (total: 4.97 sec)
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: Enabled validators:
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.43.49:892][ 23]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.43.49:893][ 23]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.43.49:893][ 23]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_LookDownward 에셋 유효성 검사 중
+[2025.10.28-06.43.50:647][ 53]LogSlate: Window 'AO_LookDownward' being destroyed
+[2025.10.28-06.43.50:675][ 53]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.43.50:676][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.43.50:682][ 53]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.43.50:682][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.43.50:743][ 53]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.43.50:743][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.43.50:806][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.28-06.44.09:478][677]LogSlate: Window '스켈레톤 선택' being destroyed
+[2025.10.28-06.44.09:488][677]LogContentBrowser: Deferred new asset file creation: NewAimOffsetBlendSpace
+[2025.10.28-06.44.09:495][677]LogContentBrowser: Creating deferred item: NewAimOffsetBlendSpace
+[2025.10.28-06.44.09:508][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewAimOffsetBlendSpace).
+[2025.10.28-06.44.22:776][649]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace -> AO_BlendSpace
+[2025.10.28-06.44.22:849][649]LogContentBrowser: End creating deferred item NewAimOffsetBlendSpace
+[2025.10.28-06.44.24:292][742]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace.AO_BlendSpace
+[2025.10.28-06.44.24:293][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.10.28-06.44.24:299][742]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-06.44.24:620][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.10.28-06.47.50:512][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.47.50:576][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace] ([1] browsable assets)...
+[2025.10.28-06.47.50:586][415]OBJ SavePackage:     Rendered thumbnail for [AimOffsetBlendSpace /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace.AO_BlendSpace]
+[2025.10.28-06.47.50:586][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace]
+[2025.10.28-06.47.50:587][415]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace
+[2025.10.28-06.47.50:587][415]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/AO_BlendSpace38D8B20642DA08DF90CD28B9D6BA1DDF.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace.uasset'
+[2025.10.28-06.47.50:673][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.665 ms (total: 5.14 sec)
+[2025.10.28-06.47.50:723][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.47.50:724][415]LogContentValidation: Enabled validators:
+[2025.10.28-06.47.50:724][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.47.50:724][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.47.50:724][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.47.50:724][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.47.50:724][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.47.50:724][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.47.50:724][415]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/AimOffset/AO_BlendSpace 에셋 유효성 검사 중
+[2025.10.28-06.47.52:119][482]LogSlate: Window 'AO_BlendSpace' being destroyed
+[2025.10.28-06.49.17:844][691]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-06.49.58:060][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.28-06.50.02:914][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-06.52.05:420][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.28-06.52.06:616][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.52.06:655][370]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-06.52.06:656][370]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_169
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0146
+[2025.10.28-06.52.06:656][370]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_169
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:01F8
+[2025.10.28-06.52.06:656][370]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_169
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0227
+[2025.10.28-06.52.06:656][370]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_169
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:026B
+[2025.10.28-06.52.06:656][370]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_169
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0372
+[2025.10.28-06.52.06:666][370]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-06.52.06:666][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-06.52.06:730][370]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/ABP_Player
+[2025.10.28-06.52.06:731][370]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_PlayerDD86D7E547F8A59293C4CB87B2AEBB46.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/ABP_Player.uasset'
+[2025.10.28-06.52.06:738][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.797 ms (total: 5.26 sec)
+[2025.10.28-06.52.06:788][370]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.52.06:788][370]LogContentValidation: Enabled validators:
+[2025.10.28-06.52.06:788][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.52.06:788][370]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.52.06:788][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.52.06:788][370]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.52.06:788][370]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.52.06:788][370]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.52.06:788][370]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
+[2025.10.28-06.52.45:182][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.28-06.55.06:440][ 72]LogBlueprint: Error: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Animation\Player\ABP_Player.uasset: [Compiler] Infinite recursion detected with SaveCachePose CachedAmingLocomotion and CachedAmingLocomotion
+[2025.10.28-06.55.06:507][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.28-06.55.33:423][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.28-06.55.34:030][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-06.55.34:088][694]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player] ([2] browsable assets)...
+[2025.10.28-06.55.34:088][694]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_170
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0280
+[2025.10.28-06.55.34:088][694]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_170
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0332
+[2025.10.28-06.55.34:088][694]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_170
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0361
+[2025.10.28-06.55.34:088][694]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_170
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:03A5
+[2025.10.28-06.55.34:088][694]LogScript: Warning: OwnerPlayer 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_170
+	Function /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0131
+[2025.10.28-06.55.34:098][694]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_TheSmallRemains/Animation/Player/ABP_Player.ABP_Player]
+[2025.10.28-06.55.34:098][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Player/ABP_Player]
+[2025.10.28-06.55.34:165][694]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Player/ABP_Player
+[2025.10.28-06.55.34:166][694]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/ABP_Player44D599FD44A3B180A0EA808FD6652DE0.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Player/ABP_Player.uasset'
+[2025.10.28-06.55.34:173][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.245 ms (total: 5.40 sec)
+[2025.10.28-06.55.34:203][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-06.55.34:203][694]LogContentValidation: Enabled validators:
+[2025.10.28-06.55.34:203][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-06.55.34:203][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-06.55.34:203][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-06.55.34:203][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-06.55.34:203][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-06.55.34:203][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-06.55.34:203][694]AssetCheck: /Game/A_TheSmallRemains/Animation/Player/ABP_Player 에셋 유효성 검사 중
+[2025.10.28-06.55.38:866][974]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-06.55.38:876][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-06.55.38:916][974]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-06.55.38:923][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006937s)
+[2025.10.28-06.55.38:923][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.006977s)
+[2025.10.28-06.55.38:947][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.28-06.55.38:953][974]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.28-06.55.38:955][974]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2025.10.28-06.55.38:956][974]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-06.55.38:956][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-06.55.38:956][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-06.55.38:956][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-06.55.38:956][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-06.55.38:956][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-06.55.38:959][974]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-06.55.38:977][974]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-06.55.38:977][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-06.55.38:977][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-06.55.38:977][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-06.55.38:978][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.28-06.55.38:978][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.28-06.55.38:980][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.28-06.55.38:980][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.28-06.55.38:980][974]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.28-06.55.38:980][974]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestMap'.
+[2025.10.28-06.55.38:980][974]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.28-06.55.38:983][974]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.28-06.55.38:988][974]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.28-15.55.38
+[2025.10.28-06.55.38:989][974]LogWorld: Bringing up level for play took: 0.005927
+[2025.10.28-06.55.38:992][974]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2025.10.28-06.55.38:997][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-06.55.38:997][974]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.28-06.55.38:997][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.28-06.55.38:997][974]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.28-06.55.39:001][974]PIE: 서버가 로그인했습니다.
+[2025.10.28-06.55.39:002][974]PIE: 에디터에서 플레이 총 시작 시간 0.125초입니다.
+[2025.10.28-06.55.39:004][974]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.28-06.55.41:034][151]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.28-06.55.43:924][417]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:AK47 -> 1
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-06.55.44:250][446]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.28-06.55.45:054][517]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-06.55.45:054][517]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.28-06.55.45:054][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.28-06.55.47:086][695]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-06.55.47:086][695]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.10.28-06.56.08:276][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-06.56.08:276][625]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.28-06.56.08:276][625]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-06.56.08:277][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.56.08:283][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-06.56.08:291][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-06.56.08:312][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-06.56.08:312][625]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.28-06.56.08:312][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.10.28-06.56.08:314][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.10.28-06.56.08:319][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-06.56.08:323][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.28-06.56.08:407][626]LogPlayLevel: Display: Destroying online subsystem :Context_97
