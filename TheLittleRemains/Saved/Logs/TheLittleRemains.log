@@ -12972,3 +12972,1615 @@ Sampler Limit: 32
 [2025.10.30-07.11.08:041][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.30-07.11.08:042][804]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
 [2025.10.30-07.11.08:042][804]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default 에셋 유효성 검사 중
+[2025.10.30-07.12.13:211][183]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.12.13:211][183]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.12.13:212][183]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_0
+[2025.10.30-07.12.13:214][183]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_0
+[2025.10.30-07.12.13:961][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.30-07.12.13:968][221]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.10.30-07.12.13:976][221]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.12.13:976][221]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.12.13:978][221]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_1
+[2025.10.30-07.12.13:980][221]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_1
+[2025.10.30-07.14.05:268][802]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2025.10.30-07.14.05:268][802]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2025.10.30-07.14.05:269][802]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavModifierVolume_0
+[2025.10.30-07.14.05:271][802]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavModifierVolume_0
+[2025.10.30-07.14.07:195][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.10.30-07.14.07:202][897]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.30-07.14.07:212][897]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2025.10.30-07.14.07:212][897]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2025.10.30-07.14.07:214][897]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavModifierVolume_1
+[2025.10.30-07.14.07:216][897]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavModifierVolume_1
+[2025.10.30-07.14.19:113][457]Cmd: DELETE
+[2025.10.30-07.14.19:113][457]Cmd: ACTOR DELETE
+[2025.10.30-07.14.19:134][457]LogEditorActor: Deleted Actor: NavModifierVolume
+[2025.10.30-07.14.19:164][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.30-07.14.19:171][457]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2025.10.30-07.14.24:803][699]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.14.24:803][699]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.14.24:804][699]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_2
+[2025.10.30-07.14.24:805][699]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_2
+[2025.10.30-07.14.26:938][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.30-07.14.26:944][806]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2025.10.30-07.14.26:953][806]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.14.26:953][806]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.10.30-07.14.26:956][806]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_3
+[2025.10.30-07.14.26:957][806]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.NavMeshBoundsVolume_3
+[2025.10.30-07.14.33:043][107]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-07.16.18:840][267]Cmd: DELETE
+[2025.10.30-07.16.18:841][267]Cmd: ACTOR DELETE
+[2025.10.30-07.16.18:865][267]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2025.10.30-07.16.18:888][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-07.16.18:896][267]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2025.10.30-07.16.22:806][484]Cmd: TRANSACTION UNDO
+[2025.10.30-07.16.22:806][484]LogEditorTransaction: Undo 엘리먼트 삭제
+[2025.10.30-07.16.27:881][712]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.16.27:897][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.16.27:927][712]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.16.28:004][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077128s)
+[2025.10.30-07.16.28:004][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.077174s)
+[2025.10.30-07.16.28:028][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.30-07.16.28:035][712]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.16.28:037][712]LogPlayLevel: PIE: World Init took: (0.002021s)
+[2025.10.30-07.16.28:039][712]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.16.28:039][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.16.28:039][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.16.28:039][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.16.28:039][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.16.28:039][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.16.28:041][712]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.16.28:058][712]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.16.28:058][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.16.28:058][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.16.28:058][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.16.28:059][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.10.30-07.16.28:059][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.10.30-07.16.28:062][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.10.30-07.16.28:062][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.10.30-07.16.28:062][712]LogInit: FAudioDevice initialized with ID 47.
+[2025.10.30-07.16.28:062][712]LogAudio: Display: Audio Device (ID: 47) registered with world 'Rural_Cabins'.
+[2025.10.30-07.16.28:062][712]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.10.30-07.16.28:065][712]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.16.28:108][712]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.16.28
+[2025.10.30-07.16.28:110][712]LogWorld: Bringing up level for play took: 0.044414
+[2025.10.30-07.16.28:113][712]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2025.10.30-07.16.28:119][712]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.16.28:119][712]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.16.28:119][712]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.16.28:119][712]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.16.28:120][712]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.16.28:120][712]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.16.28:122][712]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.16.28:124][712]PIE: 에디터에서 플레이 총 시작 시간 0.234초입니다.
+[2025.10.30-07.16.38:131][342]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.17.02:485][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.17.02:485][687]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.17.02:486][687]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.17.02:498][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.17.02:507][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.17.02:516][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.17.02:541][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.17.02:545][687]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.10.30-07.17.02:545][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.10.30-07.17.02:548][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.10.30-07.17.02:567][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.30-07.17.02:663][688]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2025.10.30-07.17.09:764][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Ai/Tasks/BTT_Attack_Spider1.BTT_Attack_Spider1
+[2025.10.30-07.17.09:765][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.10.30-07.17.25:081][609]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.17.25:095][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.17.25:095][609]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.17.25:172][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076331s)
+[2025.10.30-07.17.25:172][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.076380s)
+[2025.10.30-07.17.25:226][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.30-07.17.25:231][609]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.17.25:233][609]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2025.10.30-07.17.25:234][609]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.17.25:234][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.17.25:234][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.17.25:234][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.17.25:234][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.17.25:234][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.17.25:237][609]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.17.25:254][609]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.17.25:255][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.17.25:255][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.17.25:255][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.17.25:255][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.10.30-07.17.25:255][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.10.30-07.17.25:258][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.10.30-07.17.25:258][609]LogInit: FAudioDevice initialized with ID 48.
+[2025.10.30-07.17.25:258][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.10.30-07.17.25:258][609]LogAudio: Display: Audio Device (ID: 48) registered with world 'Rural_Cabins'.
+[2025.10.30-07.17.25:258][609]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.10.30-07.17.25:303][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.17.25:304][609]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.17.25:344][609]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.17.25
+[2025.10.30-07.17.25:346][609]LogWorld: Bringing up level for play took: 0.042422
+[2025.10.30-07.17.25:349][609]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2025.10.30-07.17.25:354][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.17.25:354][609]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.17.25:355][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.17.25:355][609]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.17.25:355][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.17.25:355][609]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.17.25:363][609]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.17.25:368][609]PIE: 에디터에서 플레이 총 시작 시간 0.279초입니다.
+[2025.10.30-07.17.45:194][555]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.17.51:518][883]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Graph.Node.Comment.TextColor' 컬러를 찾을 수 없습니다.'
+[2025.10.30-07.18.31:740][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.18.31:740][947]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.18.31:741][947]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.18.31:762][947]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.18.31:773][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.18.31:799][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.18.31:808][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.18.31:842][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.18.31:842][947]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.10.30-07.18.31:842][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.10.30-07.18.31:844][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.10.30-07.18.31:863][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-07.18.32:089][948]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2025.10.30-07.18.42:758][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-07.18.46:296][792]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-07.18.50:700][ 13]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-07.18.53:336][134]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-07.18.57:256][333]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-07.18.58:408][396]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.18.58:423][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.18.58:455][396]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.18.58:534][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078795s)
+[2025.10.30-07.18.58:534][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.078841s)
+[2025.10.30-07.18.58:558][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.30-07.18.58:563][396]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.18.58:565][396]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2025.10.30-07.18.58:566][396]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.18.58:566][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.18.58:566][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.18.58:566][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.18.58:566][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.18.58:566][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.18.58:569][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.18.58:585][396]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.18.58:585][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.18.58:585][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.18.58:585][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.18.58:586][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.10.30-07.18.58:586][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.10.30-07.18.58:589][396]LogInit: FAudioDevice initialized with ID 49.
+[2025.10.30-07.18.58:589][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.10.30-07.18.58:589][396]LogAudio: Display: Audio Device (ID: 49) registered with world 'Rural_Cabins'.
+[2025.10.30-07.18.58:589][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.10.30-07.18.58:589][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.10.30-07.18.58:592][396]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.18.58:635][396]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.18.58
+[2025.10.30-07.18.58:637][396]LogWorld: Bringing up level for play took: 0.044780
+[2025.10.30-07.18.58:640][396]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2025.10.30-07.18.58:646][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.18.58:646][396]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.18.58:646][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.18.58:646][396]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.18.58:646][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.18.58:646][396]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.18.58:650][396]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.18.58:651][396]PIE: 에디터에서 플레이 총 시작 시간 0.235초입니다.
+[2025.10.30-07.19.01:015][515]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.19.10:111][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.19.10:111][998]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.19.10:112][998]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.19.10:123][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.19.10:150][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.19.10:159][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.19.10:182][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.19.10:186][998]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.10.30-07.19.10:186][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.10.30-07.19.10:188][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.10.30-07.19.10:206][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.30-07.19.10:294][999]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2025.10.30-07.19.13:545][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.30-07.19.14:476][161]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-07.19.14:513][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-07.19.14:597][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-07.19.14:854][161]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/Rural_Cabins
+[2025.10.30-07.19.14:854][161]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins01BCCA054ED4201921814D9D604D2505.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap'
+[2025.10.30-07.19.14:871][161]LogFileHelpers: Saving map 'Rural_Cabins' took 0.318
+[2025.10.30-07.19.14:890][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 377.302 ms (total: 10.8 sec)
+[2025.10.30-07.19.14:953][161]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-07.19.14:953][161]LogContentValidation: Enabled validators:
+[2025.10.30-07.19.14:953][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-07.19.14:953][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-07.19.14:953][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-07.19.14:953][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-07.19.14:953][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-07.19.14:953][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-07.19.14:953][161]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
+[2025.10.30-07.19.16:225][223]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-07.19.22:628][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-07.19.22:635][589]LogStreaming: Display: FlushAsyncLoading(866): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-07.19.22:648][589]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.19.22:672][589]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/TestMap.TestMap
+[2025.10.30-07.19.22:672][589]Cmd: MAP LOAD FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.30-07.19.22:721][589]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.19.22:722][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.19.22:744][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.19.22:766][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.10.30-07.19.22:776][589]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.19.22:777][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.19.22:800][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-07.19.22:876][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.30-07.19.22:890][589]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2025.10.30-07.19.22:890][589]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.19.22:991][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.30-07.19.23:014][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-07.19.23:028][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.30-07.19.23:028][589]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.056ms.
+[2025.10.30-07.20.11:932][599]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.20.11:950][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.20.11:994][599]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.20.12:001][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007007s)
+[2025.10.30-07.20.12:001][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.007045s)
+[2025.10.30-07.20.12:022][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.10.30-07.20.12:027][599]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.20.12:028][599]LogPlayLevel: PIE: World Init took: (0.001705s)
+[2025.10.30-07.20.12:029][599]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.20.12:030][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.20.12:030][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.20.12:030][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.20.12:030][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.20.12:030][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.20.12:032][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.20.12:048][599]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.20.12:048][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.20.12:048][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.20.12:048][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.20.12:048][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2025.10.30-07.20.12:048][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2025.10.30-07.20.12:051][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2025.10.30-07.20.12:051][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2025.10.30-07.20.12:051][599]LogInit: FAudioDevice initialized with ID 50.
+[2025.10.30-07.20.12:051][599]LogAudio: Display: Audio Device (ID: 50) registered with world 'TestMap'.
+[2025.10.30-07.20.12:051][599]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2025.10.30-07.20.12:054][599]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.20.12:059][599]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.30-16.20.12
+[2025.10.30-07.20.12:060][599]LogWorld: Bringing up level for play took: 0.006432
+[2025.10.30-07.20.12:063][599]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.12:069][599]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.20.12:072][599]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.20.12:074][599]PIE: 에디터에서 플레이 총 시작 시간 0.129초입니다.
+[2025.10.30-07.20.12:075][599]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.30-07.20.35:909][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.20.35:909][482]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.20.35:910][482]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.20.35:911][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.20.35:915][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.20.35:922][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.20.35:942][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.20.35:943][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2025.10.30-07.20.35:943][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.10.30-07.20.35:946][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.10.30-07.20.35:955][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-07.20.35:997][483]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2025.10.30-07.20.46:355][281]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.20.46:369][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.20.46:370][281]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.20.46:377][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007350s)
+[2025.10.30-07.20.46:377][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.007383s)
+[2025.10.30-07.20.46:398][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.30-07.20.46:403][281]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.20.46:405][281]LogPlayLevel: PIE: World Init took: (0.001693s)
+[2025.10.30-07.20.46:406][281]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.20.46:406][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.20.46:406][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.20.46:406][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.20.46:406][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.20.46:406][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.20.46:408][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.20.46:424][281]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.20.46:424][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.20.46:424][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.20.46:424][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.20.46:425][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2025.10.30-07.20.46:425][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2025.10.30-07.20.46:428][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2025.10.30-07.20.46:428][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2025.10.30-07.20.46:428][281]LogInit: FAudioDevice initialized with ID 51.
+[2025.10.30-07.20.46:428][281]LogAudio: Display: Audio Device (ID: 51) registered with world 'TestMap'.
+[2025.10.30-07.20.46:428][281]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2025.10.30-07.20.46:431][281]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.20.46:437][281]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.30-16.20.46
+[2025.10.30-07.20.46:438][281]LogWorld: Bringing up level for play took: 0.006841
+[2025.10.30-07.20.46:441][281]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.20.46:447][281]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.20.46:450][281]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.20.46:451][281]PIE: 에디터에서 플레이 총 시작 시간 0.086초입니다.
+[2025.10.30-07.20.46:454][281]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.30-07.20.59:939][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.20.59:939][343]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.20.59:940][343]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.20.59:941][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.20.59:945][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.20.59:952][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.20.59:972][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.20.59:972][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2025.10.30-07.20.59:972][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.10.30-07.20.59:974][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.10.30-07.20.59:979][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.20.59:984][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.30-07.21.00:120][344]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2025.10.30-07.21.12:785][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.30-07.21.13:896][296]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-07.21.13:919][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-07.21.14:012][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-07.21.14:038][296]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/TestMap
+[2025.10.30-07.21.14:039][296]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMapC321303D4B1BEAFA74955183F28DCB4E.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap'
+[2025.10.30-07.21.14:050][296]LogFileHelpers: Saving map 'TestMap' took 0.081
+[2025.10.30-07.21.14:071][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.333 ms (total: 11.0 sec)
+[2025.10.30-07.21.14:118][296]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-07.21.14:118][296]LogContentValidation: Enabled validators:
+[2025.10.30-07.21.14:118][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-07.21.14:118][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-07.21.14:118][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-07.21.14:118][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-07.21.14:118][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-07.21.14:118][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-07.21.14:118][296]AssetCheck: /Game/A_TheSmallRemains/Maps/TestMap 에셋 유효성 검사 중
+[2025.10.30-07.21.16:099][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.30-07.21.16:103][440]LogStreaming: Display: FlushAsyncLoading(868): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-07.21.16:254][440]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.21.16:346][440]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins
+[2025.10.30-07.21.16:346][440]Cmd: MAP LOAD FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.30-07.21.16:395][440]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.21.16:395][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.21.16:425][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.21.16:431][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.30-07.21.16:440][440]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.21.16:444][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.21.16:478][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.30-07.21.16:501][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.30-07.21.16:601][440]LogAudio: Display: Audio Device (ID: 1) registered with world 'Rural_Cabins'.
+[2025.10.30-07.21.16:601][440]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.21.16:819][440]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.30-07.21.16:874][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-07.21.16:887][440]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.30-07.21.16:887][440]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.215ms.
+[2025.10.30-07.21.19:350][527]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.21.19:365][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.21.19:404][527]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.21.19:480][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076822s)
+[2025.10.30-07.21.19:480][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.076868s)
+[2025.10.30-07.21.19:501][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.30-07.21.19:507][527]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.21.19:509][527]LogPlayLevel: PIE: World Init took: (0.002184s)
+[2025.10.30-07.21.19:510][527]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.21.19:510][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.21.19:510][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.21.19:510][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.21.19:510][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.21.19:510][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.21.19:512][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.21.19:527][527]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.21.19:528][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.21.19:528][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.21.19:528][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.21.19:528][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2025.10.30-07.21.19:528][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2025.10.30-07.21.19:531][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2025.10.30-07.21.19:531][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2025.10.30-07.21.19:531][527]LogInit: FAudioDevice initialized with ID 52.
+[2025.10.30-07.21.19:531][527]LogAudio: Display: Audio Device (ID: 52) registered with world 'Rural_Cabins'.
+[2025.10.30-07.21.19:531][527]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2025.10.30-07.21.19:534][527]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.21.19:576][527]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.21.19
+[2025.10.30-07.21.19:578][527]LogWorld: Bringing up level for play took: 0.044016
+[2025.10.30-07.21.19:581][527]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2025.10.30-07.21.19:587][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.21.19:587][527]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.21.19:587][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.21.19:587][527]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.21.19:588][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.21.19:588][527]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.21.19:591][527]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.21.19:593][527]PIE: 에디터에서 플레이 총 시작 시간 0.233초입니다.
+[2025.10.30-07.21.22:385][684]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.21.47:739][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.21.47:739][109]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.21.47:740][109]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.21.47:752][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.21.47:760][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.21.47:769][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.21.47:789][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.21.47:793][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2025.10.30-07.21.47:793][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.10.30-07.21.47:795][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.10.30-07.21.47:812][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.30-07.21.47:865][110]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2025.10.30-07.21.47:919][111]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.21.55:030][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-07.21.56:214][647]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.21.56:226][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.21.56:226][647]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.21.56:303][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076630s)
+[2025.10.30-07.21.56:303][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.076665s)
+[2025.10.30-07.21.56:325][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.30-07.21.56:335][647]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.21.56:337][647]LogPlayLevel: PIE: World Init took: (0.002101s)
+[2025.10.30-07.21.56:338][647]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.21.56:338][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.21.56:338][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.21.56:338][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.21.56:338][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.21.56:338][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.21.56:340][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.21.56:357][647]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.21.56:357][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.21.56:357][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.21.56:357][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.21.56:357][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2025.10.30-07.21.56:357][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2025.10.30-07.21.56:360][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2025.10.30-07.21.56:360][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2025.10.30-07.21.56:360][647]LogInit: FAudioDevice initialized with ID 53.
+[2025.10.30-07.21.56:360][647]LogAudio: Display: Audio Device (ID: 53) registered with world 'Rural_Cabins'.
+[2025.10.30-07.21.56:360][647]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2025.10.30-07.21.56:418][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.21.56:418][647]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.21.56:460][647]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.21.56
+[2025.10.30-07.21.56:462][647]LogWorld: Bringing up level for play took: 0.043603
+[2025.10.30-07.21.56:464][647]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2025.10.30-07.21.56:470][647]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.21.56:470][647]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.21.56:470][647]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.21.56:470][647]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.21.56:471][647]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.21.56:471][647]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.21.56:479][647]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.21.56:484][647]PIE: 에디터에서 플레이 총 시작 시간 0.263초입니다.
+[2025.10.30-07.21.59:427][782]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.23.10:048][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.23.10:048][997]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.23.10:049][997]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.23.10:071][997]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.23.10:081][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.23.10:108][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.23.10:117][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.23.10:137][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.23.10:140][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2025.10.30-07.23.10:140][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.10.30-07.23.10:142][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.10.30-07.23.10:160][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.30-07.23.10:362][998]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2025.10.30-07.23.34:706][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-07.23.35:694][865]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.23.35:709][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.23.35:709][865]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.23.35:785][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076536s)
+[2025.10.30-07.23.35:785][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.076570s)
+[2025.10.30-07.23.35:807][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.30-07.23.35:818][865]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.23.35:820][865]LogPlayLevel: PIE: World Init took: (0.001962s)
+[2025.10.30-07.23.35:821][865]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.23.35:821][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.23.35:821][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.23.35:821][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.23.35:821][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.23.35:821][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.23.35:823][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.23.35:839][865]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.23.35:840][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.23.35:840][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.23.35:840][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.23.35:840][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2025.10.30-07.23.35:840][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2025.10.30-07.23.35:843][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2025.10.30-07.23.35:843][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2025.10.30-07.23.35:843][865]LogInit: FAudioDevice initialized with ID 54.
+[2025.10.30-07.23.35:843][865]LogAudio: Display: Audio Device (ID: 54) registered with world 'Rural_Cabins'.
+[2025.10.30-07.23.35:843][865]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2025.10.30-07.23.35:898][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.23.35:899][865]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.23.35:944][865]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.23.35
+[2025.10.30-07.23.35:946][865]LogWorld: Bringing up level for play took: 0.047056
+[2025.10.30-07.23.35:949][865]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2025.10.30-07.23.35:954][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.23.35:954][865]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.23.35:954][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.23.35:955][865]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.23.35:955][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.23.35:955][865]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.23.35:964][865]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.23.35:968][865]PIE: 에디터에서 플레이 총 시작 시간 0.265초입니다.
+[2025.10.30-07.23.39:026][  6]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.24.29:468][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.24.29:468][347]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.24.29:468][347]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.24.29:497][347]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.24.29:508][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.24.29:535][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.24.29:544][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.24.29:567][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.24.29:568][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2025.10.30-07.24.29:568][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.10.30-07.24.29:570][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.10.30-07.24.29:587][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-07.24.29:787][348]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2025.10.30-07.25.00:952][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-07.25.01:744][727]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-07.25.01:767][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-07.25.01:858][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-07.25.02:118][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/Rural_Cabins
+[2025.10.30-07.25.02:119][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_CabinsDA8AC92046C0403D71A2649E93AA5A58.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap'
+[2025.10.30-07.25.02:135][727]LogFileHelpers: Saving map 'Rural_Cabins' took 0.318
+[2025.10.30-07.25.02:136][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default] ([2] browsable assets)...
+[2025.10.30-07.25.02:173][727]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.BP_Spider_Default]
+[2025.10.30-07.25.02:173][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default]
+[2025.10.30-07.25.02:191][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default
+[2025.10.30-07.25.02:191][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spider_DefaultD89398B848A2F2B0E106C8ABF37A688F.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.uasset'
+[2025.10.30-07.25.02:198][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 431.620 ms (total: 11.4 sec)
+[2025.10.30-07.25.02:266][727]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.30-07.25.02:266][727]LogContentValidation: Enabled validators:
+[2025.10.30-07.25.02:266][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-07.25.02:266][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-07.25.02:266][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-07.25.02:266][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-07.25.02:266][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-07.25.02:266][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-07.25.02:267][727]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
+[2025.10.30-07.25.02:267][727]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default 에셋 유효성 검사 중
+[2025.10.30-07.25.02:989][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-07.25.02:995][770]LogStreaming: Display: FlushAsyncLoading(870): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-07.25.03:009][770]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.25.03:033][770]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/TestMap.TestMap
+[2025.10.30-07.25.03:033][770]Cmd: MAP LOAD FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.30-07.25.03:109][770]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.25.03:110][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.25.03:131][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.25.03:151][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.30-07.25.03:161][770]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.25.03:162][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.25.03:185][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.30-07.25.03:255][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-07.25.03:269][770]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2025.10.30-07.25.03:269][770]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.25.03:367][770]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.30-07.25.03:393][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-07.25.03:407][770]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.30-07.25.03:407][770]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.053ms.
+[2025.10.30-07.25.05:753][910]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.25.05:770][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.25.05:792][910]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.25.05:798][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006700s)
+[2025.10.30-07.25.05:799][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.006734s)
+[2025.10.30-07.25.05:817][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.30-07.25.05:822][910]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.25.05:824][910]LogPlayLevel: PIE: World Init took: (0.001705s)
+[2025.10.30-07.25.05:824][910]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.25.05:825][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.25.05:825][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.25.05:825][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.25.05:825][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.25.05:825][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.25.05:827][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.25.05:843][910]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.25.05:844][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.25.05:844][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.25.05:844][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.25.05:844][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2025.10.30-07.25.05:844][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2025.10.30-07.25.05:847][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2025.10.30-07.25.05:847][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2025.10.30-07.25.05:847][910]LogInit: FAudioDevice initialized with ID 55.
+[2025.10.30-07.25.05:847][910]LogAudio: Display: Audio Device (ID: 55) registered with world 'TestMap'.
+[2025.10.30-07.25.05:847][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2025.10.30-07.25.05:850][910]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.25.05:855][910]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.30-16.25.05
+[2025.10.30-07.25.05:856][910]LogWorld: Bringing up level for play took: 0.006011
+[2025.10.30-07.25.05:858][910]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.25.05:864][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.25.05:865][910]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.25.05:867][910]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.25.05:869][910]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2025.10.30-07.25.05:871][910]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.30-07.25.19:101][962]LogBlueprintUserMessages: [BP_WoodStick_C_1] BP_WoodStick
+[2025.10.30-07.25.19:641][  4]LogBlueprintUserMessages: [BP_WoodStick_C_1] BP_WoodStick
+[2025.10.30-07.25.19:702][  9]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.30-07.25.23:821][334]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.30-07.25.23:870][338]LogBlueprintUserMessages: [BP_Soda_C_1] BP_Soda
+[2025.10.30-07.25.24:082][355]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-07.25.24:748][408]LogBlueprintUserMessages: [BP_Soda_C_1] ItemNone
+[2025.10.30-07.25.33:737][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.25.33:737][115]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.25.33:737][115]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.25.33:739][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.25.33:742][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.25.33:749][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.25.33:769][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.25.33:770][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2025.10.30-07.25.33:770][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.10.30-07.25.33:772][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.10.30-07.25.33:783][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.10.30-07.25.33:872][116]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2025.10.30-07.26.02:758][254]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.26.02:773][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.26.02:811][254]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.26.02:818][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007110s)
+[2025.10.30-07.26.02:818][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.007148s)
+[2025.10.30-07.26.02:838][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.30-07.26.02:844][254]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.10.30-07.26.02:845][254]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2025.10.30-07.26.02:846][254]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.26.02:846][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.26.02:846][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.26.02:846][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.26.02:846][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.26.02:846][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.26.02:848][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.26.02:864][254]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.26.02:864][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.26.02:864][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.26.02:864][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.26.02:864][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.10.30-07.26.02:865][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.10.30-07.26.02:867][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.10.30-07.26.02:867][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.10.30-07.26.02:867][254]LogInit: FAudioDevice initialized with ID 56.
+[2025.10.30-07.26.02:867][254]LogAudio: Display: Audio Device (ID: 56) registered with world 'TestMap'.
+[2025.10.30-07.26.02:867][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.10.30-07.26.02:870][254]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.26.02:877][254]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.10.30-16.26.02
+[2025.10.30-07.26.02:878][254]LogWorld: Bringing up level for play took: 0.007396
+[2025.10.30-07.26.02:880][254]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.02:887][254]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.26.02:890][254]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.26.02:892][254]PIE: 에디터에서 플레이 총 시작 시간 0.124초입니다.
+[2025.10.30-07.26.02:894][254]LogBlueprintUserMessages: [BP_WoodStick_C_1] ItemNone
+[2025.10.30-07.26.10:577][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.26.10:577][852]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.10.30-07.26.10:577][852]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.26.10:579][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.26.10:582][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.26.10:589][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.26.10:610][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.26.10:610][852]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.10.30-07.26.10:611][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.10.30-07.26.10:613][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.10.30-07.26.10:617][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.26.10:622][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.30-07.26.10:757][853]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2025.10.30-07.26.11:533][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.30-07.26.13:147][906]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-07.26.13:169][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-07.26.13:256][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-07.26.13:281][906]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/TestMap
+[2025.10.30-07.26.13:282][906]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMapFF2A8BD54750FCFEDEA7D49D6B303C3A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap'
+[2025.10.30-07.26.13:293][906]LogFileHelpers: Saving map 'TestMap' took 0.077
+[2025.10.30-07.26.13:349][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.194 ms (total: 11.6 sec)
+[2025.10.30-07.26.13:349][906]LogStreaming: Display: FlushAsyncLoading(872): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-07.26.13:446][906]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.26.13:536][906]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins
+[2025.10.30-07.26.13:537][906]Cmd: MAP LOAD FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.30-07.26.13:613][906]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.26.13:613][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.26.13:643][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.26.13:649][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.30-07.26.13:658][906]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.26.13:662][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.26.13:695][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.10.30-07.26.13:720][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.30-07.26.13:820][906]LogAudio: Display: Audio Device (ID: 1) registered with world 'Rural_Cabins'.
+[2025.10.30-07.26.13:820][906]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.26.14:039][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.30-07.26.14:094][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.30-07.26.14:108][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.30-07.26.14:108][906]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.206ms.
+[2025.10.30-07.26.14:183][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-07.26.14:183][906]LogContentValidation: Enabled validators:
+[2025.10.30-07.26.14:183][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-07.26.14:183][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-07.26.14:183][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-07.26.14:183][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-07.26.14:183][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-07.26.14:183][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-07.26.23:870][361]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.26.23:883][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.26.23:884][361]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.26.23:964][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079940s)
+[2025.10.30-07.26.23:964][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.079987s)
+[2025.10.30-07.26.23:985][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.30-07.26.23:991][361]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.26.23:993][361]LogPlayLevel: PIE: World Init took: (0.002066s)
+[2025.10.30-07.26.23:994][361]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.26.23:994][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.26.23:994][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.26.23:994][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.26.23:994][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.26.23:994][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.26.23:997][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.26.24:013][361]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.26.24:013][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.26.24:013][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.26.24:013][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.26.24:014][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2025.10.30-07.26.24:014][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2025.10.30-07.26.24:016][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2025.10.30-07.26.24:016][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2025.10.30-07.26.24:016][361]LogInit: FAudioDevice initialized with ID 57.
+[2025.10.30-07.26.24:016][361]LogAudio: Display: Audio Device (ID: 57) registered with world 'Rural_Cabins'.
+[2025.10.30-07.26.24:016][361]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2025.10.30-07.26.24:019][361]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.26.24:062][361]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.26.24
+[2025.10.30-07.26.24:064][361]LogWorld: Bringing up level for play took: 0.044565
+[2025.10.30-07.26.24:066][361]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2025.10.30-07.26.24:072][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.24:072][361]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.26.24:073][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.24:073][361]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.26.24:073][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.26.24:073][361]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.26.24:076][361]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.26.24:078][361]PIE: 에디터에서 플레이 총 시작 시간 0.2초입니다.
+[2025.10.30-07.26.26:265][472]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.27.13:387][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.27.13:387][888]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.27.13:389][888]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.27.13:402][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.27.13:430][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.27.13:440][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.27.13:462][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.27.13:468][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.10.30-07.27.13:468][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.10.30-07.27.13:470][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.10.30-07.27.13:489][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.30-07.27.13:546][889]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2025.10.30-07.27.18:959][183]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.27.18:975][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.27.18:976][183]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.27.19:055][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079170s)
+[2025.10.30-07.27.19:055][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.079208s)
+[2025.10.30-07.27.19:073][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-07.27.19:079][183]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.27.19:081][183]LogPlayLevel: PIE: World Init took: (0.002014s)
+[2025.10.30-07.27.19:082][183]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.10.30-07.27.19:082][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.27.19:082][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.27.19:082][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.27.19:083][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.27.19:083][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.27.19:083][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.27.19:083][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.27.19:083][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.27.19:083][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.27.19:083][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.27.19:083][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.27.19:085][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.27.19:100][183]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.27.19:101][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.27.19:101][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.27.19:101][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.27.19:101][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.10.30-07.27.19:101][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.10.30-07.27.19:104][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.10.30-07.27.19:104][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.10.30-07.27.19:104][183]LogInit: FAudioDevice initialized with ID 58.
+[2025.10.30-07.27.19:104][183]LogAudio: Display: Audio Device (ID: 58) registered with world 'Rural_Cabins'.
+[2025.10.30-07.27.19:104][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.10.30-07.27.19:107][183]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.27.19:148][183]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.27.19
+[2025.10.30-07.27.19:150][183]LogWorld: Bringing up level for play took: 0.042623
+[2025.10.30-07.27.19:152][183]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2025.10.30-07.27.19:158][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.27.19:158][183]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.27.19:159][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.27.19:159][183]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.27.19:159][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.27.19:159][183]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.27.19:162][183]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.27.19:163][183]PIE: 에디터에서 플레이 총 시작 시간 0.195초입니다.
+[2025.10.30-07.27.21:937][327]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.27.54:166][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.27.54:166][ 39]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.27.54:168][ 39]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.27.54:179][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.27.54:187][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.27.54:196][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.27.54:217][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.27.54:222][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.10.30-07.27.54:222][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.10.30-07.27.54:224][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.10.30-07.27.54:242][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.30-07.27.54:293][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2025.10.30-07.28.54:709][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.30-07.28.56:238][784]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.28.56:251][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.28.56:251][784]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.28.56:329][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077181s)
+[2025.10.30-07.28.56:329][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.077222s)
+[2025.10.30-07.28.56:351][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-07.28.56:363][784]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.28.56:365][784]LogPlayLevel: PIE: World Init took: (0.002074s)
+[2025.10.30-07.28.56:366][784]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.10.30-07.28.56:366][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.28.56:366][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.28.56:366][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.28.56:366][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.28.56:367][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.28.56:367][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.28.56:367][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.28.56:367][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.28.56:367][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.28.56:367][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.28.56:367][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.28.56:369][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.28.56:385][784]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.28.56:385][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.28.56:385][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.28.56:385][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.28.56:385][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.10.30-07.28.56:386][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.10.30-07.28.56:388][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.10.30-07.28.56:388][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.10.30-07.28.56:388][784]LogInit: FAudioDevice initialized with ID 59.
+[2025.10.30-07.28.56:388][784]LogAudio: Display: Audio Device (ID: 59) registered with world 'Rural_Cabins'.
+[2025.10.30-07.28.56:388][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.10.30-07.28.56:447][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.28.56:447][784]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.28.56:495][784]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.28.56
+[2025.10.30-07.28.56:497][784]LogWorld: Bringing up level for play took: 0.048408
+[2025.10.30-07.28.56:499][784]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2025.10.30-07.28.56:505][784]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.28.56:505][784]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.28.56:505][784]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.28.56:505][784]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.28.56:506][784]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.28.56:506][784]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.28.56:514][784]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.28.56:519][784]PIE: 에디터에서 플레이 총 시작 시간 0.272초입니다.
+[2025.10.30-07.28.58:452][870]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.29.18:575][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.29.18:575][879]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.29.18:576][879]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.29.18:596][879]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.29.18:608][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.29.18:637][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.29.18:647][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.29.18:670][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.29.18:670][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.10.30-07.29.18:671][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.10.30-07.29.18:673][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.10.30-07.29.18:691][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.10.30-07.29.18:891][880]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2025.10.30-07.29.36:001][123]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.10.30-07.29.36:831][168]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter
+[2025.10.30-07.29.36:832][168]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.10.30-07.29.37:578][171]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.10.30-07.30.06:207][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.30-07.30.07:771][586]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.30.07:786][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.30.07:786][586]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.30.07:866][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079467s)
+[2025.10.30-07.30.07:866][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.079501s)
+[2025.10.30-07.30.07:895][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-07.30.07:904][586]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.30.07:907][586]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2025.10.30-07.30.07:908][586]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.30.07:908][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.30.07:908][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.30.07:908][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.30.07:908][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.30.07:908][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.30.07:910][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.30.07:926][586]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.30.07:926][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.30.07:926][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.30.07:926][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.30.07:927][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.10.30-07.30.07:927][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.10.30-07.30.07:929][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.10.30-07.30.07:929][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.10.30-07.30.07:929][586]LogInit: FAudioDevice initialized with ID 60.
+[2025.10.30-07.30.07:929][586]LogAudio: Display: Audio Device (ID: 60) registered with world 'Rural_Cabins'.
+[2025.10.30-07.30.07:929][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.10.30-07.30.07:981][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.30.07:981][586]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.30.08:024][586]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.30.08
+[2025.10.30-07.30.08:027][586]LogWorld: Bringing up level for play took: 0.045222
+[2025.10.30-07.30.08:029][586]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.10.30-07.30.08:035][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.08:035][586]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.08:035][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.08:035][586]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.08:035][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.08:035][586]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.08:041][586]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.30.08:043][586]PIE: 에디터에서 플레이 총 시작 시간 0.262초입니다.
+[2025.10.30-07.30.10:085][674]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.30.25:005][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.30.25:005][424]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.30.25:006][424]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.30.25:054][424]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.30.25:065][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.30.25:072][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.30.25:081][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.30.25:106][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.30.25:107][424]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.10.30-07.30.25:107][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.10.30-07.30.25:110][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.10.30-07.30.25:128][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.30-07.30.25:164][425]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.10.30-07.30.35:443][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.30-07.30.36:556][328]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.30.36:568][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.30.36:568][328]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.30.36:644][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075408s)
+[2025.10.30-07.30.36:644][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.075441s)
+[2025.10.30-07.30.36:665][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.10.30-07.30.36:675][328]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.30.36:677][328]LogPlayLevel: PIE: World Init took: (0.002053s)
+[2025.10.30-07.30.36:678][328]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.10.30-07.30.36:678][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.30.36:678][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.30.36:678][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.30.36:678][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.30.36:679][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.30.36:679][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.30.36:679][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.30.36:679][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.30.36:679][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.30.36:679][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.30.36:679][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.30.36:681][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.30.36:698][328]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.30.36:698][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.30.36:698][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.30.36:698][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.30.36:699][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.10.30-07.30.36:699][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.10.30-07.30.36:701][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.10.30-07.30.36:701][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.10.30-07.30.36:701][328]LogInit: FAudioDevice initialized with ID 61.
+[2025.10.30-07.30.36:701][328]LogAudio: Display: Audio Device (ID: 61) registered with world 'Rural_Cabins'.
+[2025.10.30-07.30.36:701][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.10.30-07.30.36:746][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.30.36:746][328]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.30.36:788][328]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.30.36
+[2025.10.30-07.30.36:790][328]LogWorld: Bringing up level for play took: 0.043864
+[2025.10.30-07.30.36:793][328]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.10.30-07.30.36:798][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.36:798][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.36:799][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.36:799][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.36:799][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.36:799][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.36:807][328]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.30.36:812][328]PIE: 에디터에서 플레이 총 시작 시간 0.248초입니다.
+[2025.10.30-07.30.38:612][409]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.30.49:974][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.30.49:974][978]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.30.49:975][978]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.30.49:996][978]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.30.50:006][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.30.50:034][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.30.50:044][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.30.50:067][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.30.50:067][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.10.30-07.30.50:067][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.10.30-07.30.50:070][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.10.30-07.30.50:089][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.10.30-07.30.50:290][979]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.10.30-07.30.55:145][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.30-07.30.57:446][470]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.30.57:460][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.30.57:460][470]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.30.57:536][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076458s)
+[2025.10.30-07.30.57:536][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.076492s)
+[2025.10.30-07.30.57:559][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.30-07.30.57:570][470]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.30.57:572][470]LogPlayLevel: PIE: World Init took: (0.002147s)
+[2025.10.30-07.30.57:573][470]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.30.57:573][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.30.57:573][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.30.57:573][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.30.57:573][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.30.57:573][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.30.57:575][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.30.57:591][470]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.30.57:592][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.30.57:592][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.30.57:592][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.30.57:592][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2025.10.30-07.30.57:592][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2025.10.30-07.30.57:595][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2025.10.30-07.30.57:595][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2025.10.30-07.30.57:595][470]LogInit: FAudioDevice initialized with ID 62.
+[2025.10.30-07.30.57:595][470]LogAudio: Display: Audio Device (ID: 62) registered with world 'Rural_Cabins'.
+[2025.10.30-07.30.57:595][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2025.10.30-07.30.57:646][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.30.57:647][470]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.30.57:690][470]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.30.57
+[2025.10.30-07.30.57:692][470]LogWorld: Bringing up level for play took: 0.045119
+[2025.10.30-07.30.57:695][470]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2025.10.30-07.30.57:700][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.57:700][470]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.57:700][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.57:700][470]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.57:701][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.30.57:701][470]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.30.57:710][470]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.30.57:715][470]PIE: 에디터에서 플레이 총 시작 시간 0.259초입니다.
+[2025.10.30-07.30.59:824][563]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.31.11:404][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.31.11:404][143]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.31.11:404][143]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.31.11:424][143]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.31.11:435][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.31.11:462][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.31.11:472][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.31.11:495][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.31.11:495][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2025.10.30-07.31.11:495][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.10.30-07.31.11:497][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.10.30-07.31.11:515][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.30-07.31.11:718][144]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2025.10.30-07.31.15:762][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.30-07.31.17:024][504]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.31.17:036][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.31.17:036][504]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.31.17:114][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077643s)
+[2025.10.30-07.31.17:114][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.077676s)
+[2025.10.30-07.31.17:137][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-07.31.17:148][504]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.31.17:150][504]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2025.10.30-07.31.17:151][504]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2025.10.30-07.31.17:151][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.31.17:151][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.31.17:152][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.31.17:152][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.31.17:152][504]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.31.17:152][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.31.17:152][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.31.17:152][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.31.17:152][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.31.17:152][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.31.17:152][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.31.17:154][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.31.17:169][504]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.31.17:169][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.31.17:169][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.31.17:169][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.31.17:170][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2025.10.30-07.31.17:170][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2025.10.30-07.31.17:174][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2025.10.30-07.31.17:174][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2025.10.30-07.31.17:174][504]LogInit: FAudioDevice initialized with ID 63.
+[2025.10.30-07.31.17:174][504]LogAudio: Display: Audio Device (ID: 63) registered with world 'Rural_Cabins'.
+[2025.10.30-07.31.17:174][504]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2025.10.30-07.31.17:230][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.31.17:230][504]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.31.17:274][504]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.31.17
+[2025.10.30-07.31.17:276][504]LogWorld: Bringing up level for play took: 0.046228
+[2025.10.30-07.31.17:279][504]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2025.10.30-07.31.17:285][504]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.31.17:285][504]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.31.17:285][504]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.31.17:285][504]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.31.17:286][504]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.31.17:286][504]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.31.17:295][504]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.31.17:300][504]PIE: 에디터에서 플레이 총 시작 시간 0.268초입니다.
+[2025.10.30-07.31.18:841][570]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.31.27:544][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.31.27:544][  4]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.31.27:544][  4]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.31.27:565][  4]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.31.27:576][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.31.27:604][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.31.27:613][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.31.27:639][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.31.27:640][  4]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2025.10.30-07.31.27:640][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.10.30-07.31.27:642][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.10.30-07.31.27:660][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.30-07.31.27:863][  5]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2025.10.30-07.31.45:859][389]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.30-07.31.49:131][435]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.30-07.31.50:956][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.30-07.31.52:411][627]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.31.52:424][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.31.52:424][627]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.31.52:502][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077890s)
+[2025.10.30-07.31.52:502][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.077926s)
+[2025.10.30-07.31.52:524][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-07.31.52:534][627]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.31.52:536][627]LogPlayLevel: PIE: World Init took: (0.002012s)
+[2025.10.30-07.31.52:537][627]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.31.52:537][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.31.52:537][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.31.52:537][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.31.52:537][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.31.52:537][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.31.52:540][627]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.31.52:557][627]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.31.52:557][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.31.52:557][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.31.52:557][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.31.52:558][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2025.10.30-07.31.52:558][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2025.10.30-07.31.52:561][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2025.10.30-07.31.52:561][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2025.10.30-07.31.52:561][627]LogInit: FAudioDevice initialized with ID 64.
+[2025.10.30-07.31.52:561][627]LogAudio: Display: Audio Device (ID: 64) registered with world 'Rural_Cabins'.
+[2025.10.30-07.31.52:561][627]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2025.10.30-07.31.52:612][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.31.52:613][627]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.31.52:655][627]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.31.52
+[2025.10.30-07.31.52:657][627]LogWorld: Bringing up level for play took: 0.044178
+[2025.10.30-07.31.52:660][627]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2025.10.30-07.31.52:666][627]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.31.52:666][627]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.31.52:666][627]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.31.52:666][627]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.31.52:666][627]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.31.52:666][627]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.31.52:675][627]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.31.52:680][627]PIE: 에디터에서 플레이 총 시작 시간 0.261초입니다.
+[2025.10.30-07.31.54:328][697]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.32.12:683][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.32.12:683][575]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.32.12:684][575]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.32.12:704][575]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.32.12:715][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.32.12:743][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.32.12:752][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.32.12:776][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.32.12:777][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2025.10.30-07.32.12:777][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.10.30-07.32.12:779][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.10.30-07.32.12:797][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.10.30-07.32.12:998][576]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2025.10.30-07.32.59:922][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.30-07.33.22:909][712]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.30-07.33.25:647][762]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.30-07.33.31:514][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.30-07.33.33:051][374]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.33.33:063][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.33.33:063][374]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.33.33:142][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078358s)
+[2025.10.30-07.33.33:142][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.078399s)
+[2025.10.30-07.33.33:161][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.30-07.33.33:166][374]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.33.33:168][374]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2025.10.30-07.33.33:169][374]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.33.33:169][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.33.33:169][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.33.33:169][374]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.33.33:169][374]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.33.33:169][374]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.33.33:171][374]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.33.33:187][374]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.33.33:187][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.33.33:187][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.33.33:187][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.33.33:188][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.10.30-07.33.33:188][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.10.30-07.33.33:190][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.10.30-07.33.33:190][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.10.30-07.33.33:190][374]LogInit: FAudioDevice initialized with ID 65.
+[2025.10.30-07.33.33:190][374]LogAudio: Display: Audio Device (ID: 65) registered with world 'Rural_Cabins'.
+[2025.10.30-07.33.33:190][374]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.10.30-07.33.33:244][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.33.33:244][374]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.33.33:285][374]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.33.33
+[2025.10.30-07.33.33:287][374]LogWorld: Bringing up level for play took: 0.042652
+[2025.10.30-07.33.33:290][374]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2025.10.30-07.33.33:295][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.33.33:295][374]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.33.33:296][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.33.33:296][374]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.33.33:296][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.33.33:296][374]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.33.33:304][374]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.33.33:308][374]PIE: 에디터에서 플레이 총 시작 시간 0.25초입니다.
+[2025.10.30-07.33.35:377][471]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.33.59:033][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.33.59:034][645]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.33.59:034][645]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.33.59:074][645]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.33.59:086][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.33.59:116][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.33.59:125][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.33.59:151][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.33.59:152][645]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.10.30-07.33.59:152][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.10.30-07.33.59:154][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.10.30-07.33.59:172][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.30-07.33.59:339][646]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2025.10.30-07.34.33:755][704]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.34.33:767][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.34.33:767][704]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.34.33:848][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081012s)
+[2025.10.30-07.34.33:848][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.081045s)
+[2025.10.30-07.34.33:870][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-07.34.33:875][704]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.34.33:877][704]LogPlayLevel: PIE: World Init took: (0.001990s)
+[2025.10.30-07.34.33:878][704]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.34.33:878][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.34.33:878][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.34.33:878][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.34.33:878][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.34.33:878][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.34.33:881][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.34.33:896][704]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.34.33:896][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.34.33:897][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.34.33:897][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.34.33:897][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2025.10.30-07.34.33:897][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2025.10.30-07.34.33:900][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2025.10.30-07.34.33:900][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2025.10.30-07.34.33:900][704]LogInit: FAudioDevice initialized with ID 66.
+[2025.10.30-07.34.33:900][704]LogAudio: Display: Audio Device (ID: 66) registered with world 'Rural_Cabins'.
+[2025.10.30-07.34.33:900][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2025.10.30-07.34.33:962][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.34.33:962][704]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.34.34:006][704]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.34.34
+[2025.10.30-07.34.34:008][704]LogWorld: Bringing up level for play took: 0.045177
+[2025.10.30-07.34.34:010][704]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2025.10.30-07.34.34:016][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.34.34:016][704]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.34.34:017][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.34.34:017][704]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.34.34:017][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.34.34:017][704]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.34.34:025][704]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.34.34:029][704]PIE: 에디터에서 플레이 총 시작 시간 0.266초입니다.
+[2025.10.30-07.34.36:498][821]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.34.43:952][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.34.43:952][ 35]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.34.43:953][ 35]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.34.43:979][ 35]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.34.43:989][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.34.44:020][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.34.44:029][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.34.44:055][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2025.10.30-07.34.44:055][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.10.30-07.34.44:058][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.10.30-07.34.44:075][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.30-07.34.44:241][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2025.10.30-07.34.46:489][182]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-07.34.51:627][446]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.34.51:641][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.34.51:641][446]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.34.51:722][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081381s)
+[2025.10.30-07.34.51:723][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.081427s)
+[2025.10.30-07.34.51:741][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-07.34.51:746][446]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.34.51:748][446]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2025.10.30-07.34.51:749][446]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.34.51:750][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.34.51:750][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.34.51:750][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.34.51:750][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.34.51:750][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.34.51:752][446]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.34.51:769][446]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.34.51:770][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.34.51:770][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.34.51:770][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.34.51:770][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2025.10.30-07.34.51:770][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2025.10.30-07.34.51:773][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2025.10.30-07.34.51:773][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2025.10.30-07.34.51:773][446]LogInit: FAudioDevice initialized with ID 67.
+[2025.10.30-07.34.51:773][446]LogAudio: Display: Audio Device (ID: 67) registered with world 'Rural_Cabins'.
+[2025.10.30-07.34.51:773][446]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2025.10.30-07.34.51:776][446]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.34.51:819][446]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.34.51
+[2025.10.30-07.34.51:821][446]LogWorld: Bringing up level for play took: 0.044406
+[2025.10.30-07.34.51:824][446]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2025.10.30-07.34.51:830][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.34.51:830][446]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.34.51:830][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.34.51:830][446]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.34.51:831][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.34.51:831][446]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.34.51:834][446]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.34.51:835][446]PIE: 에디터에서 플레이 총 시작 시간 0.201초입니다.
+[2025.10.30-07.34.54:258][562]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.35.53:793][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.35.53:793][927]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.35.53:795][927]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.35.53:805][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.35.53:833][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.35.53:842][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.35.53:861][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.35.53:866][927]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2025.10.30-07.35.53:866][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.10.30-07.35.53:868][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.10.30-07.35.53:887][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.30-07.35.53:943][928]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2025.10.30-07.35.54:005][929]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.37.11:185][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.30-07.37.22:088][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-07.38.05:510][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.30-07.38.06:843][832]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.38.06:860][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.38.06:860][832]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.38.06:948][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087114s)
+[2025.10.30-07.38.06:948][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.087155s)
+[2025.10.30-07.38.06:970][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.30-07.38.06:976][832]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.38.06:978][832]LogPlayLevel: PIE: World Init took: (0.002181s)
+[2025.10.30-07.38.06:980][832]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.38.06:980][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.38.06:980][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.38.06:980][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.38.06:980][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.38.06:980][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.38.06:982][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.38.06:998][832]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.38.06:998][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.38.06:999][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.38.06:999][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.38.07:000][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2025.10.30-07.38.07:000][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2025.10.30-07.38.07:002][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2025.10.30-07.38.07:002][832]LogInit: FAudioDevice initialized with ID 68.
+[2025.10.30-07.38.07:002][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2025.10.30-07.38.07:002][832]LogAudio: Display: Audio Device (ID: 68) registered with world 'Rural_Cabins'.
+[2025.10.30-07.38.07:002][832]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2025.10.30-07.38.07:005][832]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.38.07:047][832]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.38.07
+[2025.10.30-07.38.07:049][832]LogWorld: Bringing up level for play took: 0.043765
+[2025.10.30-07.38.07:052][832]LogOnline: OSS: Created online subsystem instance for: :Context_133
+[2025.10.30-07.38.07:057][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.38.07:057][832]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.38.07:058][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.38.07:058][832]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.38.07:058][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.38.07:058][832]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.38.07:061][832]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.38.07:062][832]PIE: 에디터에서 플레이 총 시작 시간 0.207초입니다.
+[2025.10.30-07.38.24:581][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.38.24:581][846]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.38.24:582][846]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.38.24:594][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.38.24:602][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.38.24:611][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.38.24:638][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.38.24:638][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2025.10.30-07.38.24:639][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.10.30-07.38.24:641][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.10.30-07.38.24:645][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.38.24:659][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-07.38.24:712][847]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2025.10.30-07.38.41:227][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.30-07.38.54:162][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-07.38.55:070][547]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-07.38.55:084][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-07.38.55:084][547]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.38.55:163][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078107s)
+[2025.10.30-07.38.55:163][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.078143s)
+[2025.10.30-07.38.55:183][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.30-07.38.55:190][547]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-07.38.55:193][547]LogPlayLevel: PIE: World Init took: (0.002203s)
+[2025.10.30-07.38.55:194][547]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-07.38.55:194][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-07.38.55:194][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-07.38.55:194][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-07.38.55:194][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-07.38.55:194][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-07.38.55:196][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-07.38.55:213][547]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-07.38.55:214][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-07.38.55:214][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-07.38.55:214][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-07.38.55:215][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2025.10.30-07.38.55:215][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2025.10.30-07.38.55:217][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2025.10.30-07.38.55:217][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2025.10.30-07.38.55:217][547]LogInit: FAudioDevice initialized with ID 69.
+[2025.10.30-07.38.55:217][547]LogAudio: Display: Audio Device (ID: 69) registered with world 'Rural_Cabins'.
+[2025.10.30-07.38.55:217][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2025.10.30-07.38.55:276][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.38.55:276][547]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-07.38.55:320][547]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-16.38.55
+[2025.10.30-07.38.55:322][547]LogWorld: Bringing up level for play took: 0.045675
+[2025.10.30-07.38.55:325][547]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2025.10.30-07.38.55:331][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.38.55:331][547]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.10.30-07.38.55:331][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.38.55:331][547]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.10.30-07.38.55:331][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-07.38.55:331][547]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-07.38.55:337][547]PIE: 서버가 로그인했습니다.
+[2025.10.30-07.38.55:339][547]PIE: 에디터에서 플레이 총 시작 시간 0.262초입니다.
+[2025.10.30-07.39.33:580][757]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-07.39.52:380][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-07.39.52:380][681]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-07.39.52:381][681]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.30-07.39.52:406][681]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-07.39.52:417][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.39.52:424][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-07.39.52:433][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-07.39.52:461][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-07.39.52:461][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2025.10.30-07.39.52:461][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.10.30-07.39.52:463][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.10.30-07.39.52:481][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.30-07.39.52:572][682]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2025.10.30-07.42.11:115][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-07.42.12:105][329]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-07.42.12:144][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-07.42.12:236][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-07.42.12:493][329]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/Rural_Cabins
+[2025.10.30-07.42.12:493][329]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins9659DDB14784CD27A19D16846952F173.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap'
+[2025.10.30-07.42.12:510][329]LogFileHelpers: Saving map 'Rural_Cabins' took 0.317
+[2025.10.30-07.42.12:510][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.10.30-07.42.12:540][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.10.30-07.42.12:540][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default]
+[2025.10.30-07.42.12:558][329]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default
+[2025.10.30-07.42.12:559][329]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Default90851ADA455C687D2D8B6FAC071C5612.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.uasset'
+[2025.10.30-07.42.12:560][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default] ([2] browsable assets)...
+[2025.10.30-07.42.12:567][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.BP_Spider_Default]
+[2025.10.30-07.42.12:567][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default]
+[2025.10.30-07.42.12:585][329]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default
+[2025.10.30-07.42.12:585][329]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spider_Default0CB8DAAA4548725691C6B4B3552F5D34.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.uasset'
+[2025.10.30-07.42.12:586][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.10.30-07.42.12:595][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.10.30-07.42.12:595][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.10.30-07.42.12:656][329]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.10.30-07.42.12:657][329]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterA276A6A14232151BC00A1AB060285C1E.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.10.30-07.42.12:678][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 533.808 ms (total: 12.1 sec)
+[2025.10.30-07.42.12:725][329]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.30-07.42.12:725][329]LogContentValidation: Enabled validators:
+[2025.10.30-07.42.12:725][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-07.42.12:725][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-07.42.12:725][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-07.42.12:725][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-07.42.12:725][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-07.42.12:725][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-07.42.12:725][329]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
+[2025.10.30-07.42.12:726][329]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default 에셋 유효성 검사 중
+[2025.10.30-07.42.12:726][329]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default 에셋 유효성 검사 중
+[2025.10.30-07.42.12:726][329]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
