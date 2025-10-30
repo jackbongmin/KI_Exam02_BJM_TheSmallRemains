@@ -8665,3 +8665,209 @@ Sampler Limit: 32
 [2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.30-02.09.27:344][624]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
 [2025.10.30-02.09.27:344][624]AssetCheck: /Game/A_TheSmallRemains/Maps/furniture/BP_Commode 에셋 유효성 검사 중
+[2025.10.30-02.14.33:041][926]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-02.22.51:057][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1
+[2025.10.30-02.22.51:057][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1
+[2025.10.30-02.22.51:058][447]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_53
+[2025.10.30-02.22.52:697][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.30-02.22.52:699][537]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.30-02.22.52:706][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1
+[2025.10.30-02.22.52:706][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1
+[2025.10.30-02.22.52:709][537]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_54
+[2025.10.30-02.24.40:558][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2
+[2025.10.30-02.24.40:558][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2
+[2025.10.30-02.24.40:559][621]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_55
+[2025.10.30-02.24.42:405][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.30-02.24.42:408][726]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.30-02.24.42:414][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2
+[2025.10.30-02.24.42:414][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2
+[2025.10.30-02.24.42:417][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_56
+[2025.10.30-02.24.43:906][817]Cmd: DELETE
+[2025.10.30-02.24.43:906][817]Cmd: ACTOR DELETE
+[2025.10.30-02.24.43:925][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-02.24.43:945][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-02.24.43:948][817]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.30-02.24.44:646][853]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.44:646][853]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.44:647][853]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_57
+[2025.10.30-02.24.45:160][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-02.24.45:164][885]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.30-02.24.45:169][885]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.45:170][885]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.45:172][885]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_58
+[2025.10.30-02.24.45:377][891]Cmd: DELETE
+[2025.10.30-02.24.45:377][891]Cmd: ACTOR DELETE
+[2025.10.30-02.24.45:396][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-02.24.45:416][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-02.24.45:419][891]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.30-02.24.45:827][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang
+[2025.10.30-02.24.45:827][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang
+[2025.10.30-02.24.45:828][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_59
+[2025.10.30-02.24.47:498][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-02.24.47:502][ 15]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.30-02.24.47:508][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang
+[2025.10.30-02.24.47:508][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang
+[2025.10.30-02.24.47:511][ 15]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_60
+[2025.10.30-02.24.47:837][ 30]Cmd: DELETE
+[2025.10.30-02.24.47:837][ 30]Cmd: ACTOR DELETE
+[2025.10.30-02.24.47:855][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-02.24.47:873][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-02.24.47:876][ 30]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.10.30-02.24.50:878][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.50:878][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.50:880][199]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_61
+[2025.10.30-02.24.51:610][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-02.24.51:614][244]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.30-02.24.51:620][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.51:620][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1
+[2025.10.30-02.24.51:623][244]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_62
+[2025.10.30-02.27.15:726][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.30-02.27.35:558][113]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.30-02.27.35:599][114]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.30-02.27.36:456][179]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.30-02.27.36:495][180]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.30-02.28.08:437][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-02.28.08:673][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto5
+[2025.10.30-02.28.08:674][809]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto519E418294ADAB76F0528CA87ED3147E6.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto5.umap'
+[2025.10.30-02.28.08:676][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.259
+[2025.10.30-02.28.08:676][809]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.259
+[2025.10.30-02.36.29:592][242]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-02.36.46:617][869]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-02.38.24:801][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.30-02.38.25:040][517]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto6
+[2025.10.30-02.38.25:040][517]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto6D6E4F292498014E12F74099B062454EA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto6.umap'
+[2025.10.30-02.38.25:042][517]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.262
+[2025.10.30-02.38.25:042][517]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.262
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: ================================================
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Total job queries 1,273, among them cache hits 400 (31.42%), DDC hits 349 (27.42%), Duplicates 20 (1.57%)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Tracking 853 distinct input hashes that result in 591 distinct outputs (69.28%)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: RAM used: 346.49 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Shaders Compiled: 504
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Jobs assigned 504, completed 504 (100%)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Average time worker was idle: 146.69 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.87 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 3.37 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 4.07
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Shader code size: average 8.051 KiB, min 3.188 KiB, max 36.812 KiB
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.92 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Jobs were issued in 504 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Average processing rate: 5.67 jobs/sec
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Total thread time: 326.93 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Total thread preprocess time: 16.313 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Percentage time preprocessing: 4.99%
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Effective parallelization: 3.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   55 times, average 1.12 sec, max 1.66 sec, min 0.92 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   49 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.92% of total time (compiled   55 times, average 1.12 sec, max 1.66 sec, min 0.92 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.91% of total time (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.58% of total time (compiled   62 times, average 0.66 sec, max 1.04 sec, min 0.51 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.69% of total time (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.17% of total time (compiled   49 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Materials Translated:    299
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Material Translation Only: 0.07 s (55%)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: Material Cache Hits: 53 (18%)
+[2025.10.30-02.39.46:952][561]LogShaderCompilers: Display: ================================================
+[2025.10.30-02.44.54:076][ 96]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-02.44.54:103][ 96]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Textures/T_1x1_Albedo.T_1x1_Albedo(BGRA8, 1x1 x1x1x1)(예상 필요 메모리: 1.000027MB), 인코딩 속도: Fast
+[2025.10.30-02.44.54:103][ 96]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Textures/T_1x1_Mask.T_1x1_Mask(BGRA8, 1x1 x1x1x1)(예상 필요 메모리: 1.000027MB), 인코딩 속도: Fast
+[2025.10.30-02.44.54:103][ 96]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Textures/T_1x1_Normal.T_1x1_Normal(BGRA8, 1x1 x1x1x1)(예상 필요 메모리: 1.000027MB), 인코딩 속도: Fast
+[2025.10.30-02.44.54:125][ 96]LogStaticMesh: Display: SM_Bookshelf스태틱 메시 빌드 중(필요 메모리 예상: 33.055737MB)...
+[2025.10.30-02.44.54:125][ 96]LogStaticMesh: Display: SM_Drawer스태틱 메시 빌드 중(필요 메모리 예상: 4.182519MB)...
+[2025.10.30-02.44.54:132][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase
+[2025.10.30-02.44.54:133][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.30-02.44.54:176][ 96]LogStaticMesh: Built static mesh [0.05s] /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_Drawer.SM_Drawer
+[2025.10.30-02.44.54:187][ 96]LogStaticMesh: Display: SM_LeftPanel스태틱 메시 빌드 중(필요 메모리 예상: 2.579044MB)...
+[2025.10.30-02.44.54:215][ 96]LogStaticMesh: Built static mesh [0.03s] /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_LeftPanel.SM_LeftPanel
+[2025.10.30-02.44.54:221][ 96]LogStaticMesh: Display: SM_MiddlePanel스태틱 메시 빌드 중(필요 메모리 예상: 6.271465MB)...
+[2025.10.30-02.44.54:537][ 96]LogStaticMesh: Built static mesh [0.32s] /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_MiddlePanel.SM_MiddlePanel
+[2025.10.30-02.44.54:548][ 96]LogStaticMesh: Display: SM_RightPanel스태틱 메시 빌드 중(필요 메모리 예상: 2.58078MB)...
+[2025.10.30-02.44.54:576][ 96]LogStaticMesh: Built static mesh [0.03s] /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_RightPanel.SM_RightPanel
+[2025.10.30-02.44.54:770][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.30-02.44.55:074][100]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/T_Bookshelf_Mask.T_Bookshelf_Mask(TFO_AutoDXT, 8192x4096 x1x1x1)(예상 필요 메모리: 2304.999968MB), 인코딩 속도: Fast
+[2025.10.30-02.44.55:203][104]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/T_Bookshelf_Normal.T_Bookshelf_Normal(TFO_BC5, 8192x4096 x1x1x1)(예상 필요 메모리: 2304.999968MB), 인코딩 속도: Fast
+[2025.10.30-02.44.55:405][113]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/T_Bookshelf_Albedo.T_Bookshelf_Albedo(TFO_AutoDXT, 8192x4096 x1x1x1)(예상 필요 메모리: 2304.999968MB), 인코딩 속도: Fast
+[2025.10.30-02.44.57:335][222]LogStaticMesh: Built static mesh [3.21s] /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_Bookshelf.SM_Bookshelf
+[2025.10.30-02.45.11:165][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase_C
+[2025.10.30-02.45.11:165][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase_C
+[2025.10.30-02.45.11:171][393]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase as actor: BP_NeoGothicBookcase_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_NeoGothicBookcase_C_0
+[2025.10.30-02.45.11:176][393]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase as actor: BP_NeoGothicBookcase_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_NeoGothicBookcase_C_0
+[2025.10.30-02.45.13:569][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.30-02.45.13:582][496]LogEditorActor: Deleted 0 Actors (0.071 secs)
+[2025.10.30-02.45.13:589][496]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase_C
+[2025.10.30-02.45.13:589][496]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase_C
+[2025.10.30-02.45.13:595][496]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase as actor: BP_NeoGothicBookcase_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_NeoGothicBookcase_C_1
+[2025.10.30-02.45.13:600][496]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/BP_NeoGothicBookcase.BP_NeoGothicBookcase as actor: BP_NeoGothicBookcase_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_NeoGothicBookcase_C_1
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: ================================================
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: Total job queries 1,284, among them cache hits 402 (31.31%), DDC hits 349 (27.18%), Duplicates 20 (1.56%)
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: Tracking 862 distinct input hashes that result in 595 distinct outputs (69.03%)
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: RAM used: 347.72 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: Shaders Compiled: 513
+[2025.10.30-02.45.47:006][672]LogShaderCompilers: Display: Jobs assigned 513, completed 513 (100%)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Average time worker was idle: 150.95 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.87 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 3.37 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 4.07
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Shader code size: average 8.045 KiB, min 2.777 KiB, max 36.812 KiB
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.86 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Jobs were issued in 513 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Average processing rate: 5.52 jobs/sec
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Total thread time: 339.54 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Total thread preprocess time: 16.48 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Percentage time preprocessing: 4.85%
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Effective parallelization: 3.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.48 sec, max 1.48 sec, min 1.48 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   56 times, average 1.13 sec, max 1.66 sec, min 0.92 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.66% of total time (compiled   56 times, average 1.13 sec, max 1.66 sec, min 0.92 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.67% of total time (compiled   63 times, average 0.68 sec, max 1.88 sec, min 0.51 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.43% of total time (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.29% of total time (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.96% of total time (compiled   50 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Materials Translated:    301
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Material Translation Only: 0.07 s (55%)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: Material Cache Hits: 53 (18%)
+[2025.10.30-02.45.47:007][672]LogShaderCompilers: Display: ================================================
+[2025.10.30-02.49.02:243][554]Cmd: DUPLICATE
+[2025.10.30-02.49.02:243][554]Cmd: ACTOR DUPLICATE
+[2025.10.30-02.50.28:394][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.10.30-02.50.29:715][421]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-02.50.29:735][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-02.50.29:844][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.30-02.50.30:112][421]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/Rural_Cabins
+[2025.10.30-02.50.30:112][421]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_CabinsA02949C148D406325260D18D3A1E0B8B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap'
+[2025.10.30-02.50.30:130][421]LogFileHelpers: Saving map 'Rural_Cabins' took 0.337
+[2025.10.30-02.50.30:151][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 415.690 ms (total: 7.18 sec)
+[2025.10.30-02.50.30:225][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-02.50.30:225][421]LogContentValidation: Enabled validators:
+[2025.10.30-02.50.30:225][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-02.50.30:225][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-02.50.30:225][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-02.50.30:225][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-02.50.30:225][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-02.50.30:225][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-02.50.30:226][421]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
+[2025.10.30-02.50.33:477][607]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-02.52.26:137][425]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
