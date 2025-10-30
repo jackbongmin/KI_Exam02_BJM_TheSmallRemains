@@ -10755,3 +10755,966 @@ Sampler Limit: 32
 [2025.10.30-05.30.04:596][987]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto284701FD940E0F65932CF0998C5DD5E8E.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto2.umap'
 [2025.10.30-05.30.04:599][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.274
 [2025.10.30-05.30.04:599][987]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.274
+[2025.10.30-05.34.25:117][515]LogStreaming: Display: FlushAsyncLoading(843): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.34.25:164][515]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_ClassicFluorescentLamp_albedo.T_ClassicFluorescentLamp_albedo(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:169][515]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_ClassicFluorescentLamp_emissive.T_ClassicFluorescentLamp_emissive(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:180][515]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_ClassicFluorescentLamp_roughness.T_ClassicFluorescentLamp_roughness(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:195][515]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_ClassicFluorescentLamp_ao.T_ClassicFluorescentLamp_ao(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:200][515]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_ClassicFluorescentLamp_normal.T_ClassicFluorescentLamp_normal(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:247][515]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreePBRLampsPack/Meshes/SM_SmallRoofLamp.SM_SmallRoofLamp
+[2025.10.30-05.34.25:248][515]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreePBRLampsPack/Meshes/SM_SmallRoofLamp.SM_SmallRoofLamp
+[2025.10.30-05.34.25:252][515]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreePBRLampsPack/Meshes/SM_SmallRoofLamp.SM_SmallRoofLamp as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_6
+[2025.10.30-05.34.25:253][515]LogStaticMesh: Display: SM_SmallRoofLamp스태틱 메시 빌드 중(필요 메모리 예상: 1.468425MB)...
+[2025.10.30-05.34.25:268][515]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/FreePBRLampsPack/Meshes/SM_SmallRoofLamp)...
+[2025.10.30-05.34.25:275][515]LogStaticMesh: Built static mesh [0.02s] /Game/FreePBRLampsPack/Meshes/SM_SmallRoofLamp.SM_SmallRoofLamp
+[2025.10.30-05.34.25:407][517]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_ClassicFluorescentLamp_specular.T_ClassicFluorescentLamp_specular(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:419][517]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_SmallRoofLamp_emissive.T_SmallRoofLamp_emissive(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:440][517]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_SmallRoofLamp_albedo.T_SmallRoofLamp_albedo(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:467][518]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_SmallRoofLamp_ao.T_SmallRoofLamp_ao(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:481][518]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_SmallRoofLamp_normal.T_SmallRoofLamp_normal(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:681][522]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_SmallRoofLamp_specular.T_SmallRoofLamp_specular(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.25:702][523]LogTexture: Display: 텍스처 빌드 중: /Game/FreePBRLampsPack/Textures/T_SmallRoofLamp_roughness.T_SmallRoofLamp_roughness(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.34.26:577][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.30-05.34.26:584][553]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.30-05.34.31:214][734]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FreePBRLampsPack/Meshes/SM_SmallRoofLamp.SM_SmallRoofLamp
+[2025.10.30-05.34.31:222][734]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.30-05.34.43:339][883]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.34.43:339][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.34.43:433][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-05.34.45:460][ 53]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.34.45:460][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.34.45:502][ 53]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.34.45:502][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.34.45:533][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.30-05.35.11:121][194]LogFabLauncher: Debug payload: [{"id":"3002f282-340b-4519-a9aa-bcdf637bd11e","path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted","meshes":[{"file":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx","name":"","material_index":-1,"lods":[]}],"materials":[],"native_files":[],"additional_textures":["C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/internal_ground_ao_texture.jpeg","C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_BaseColor.1001.png","C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Emissive.1001.png","C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Metallic.1001.png","C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Normal.1001.png","C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Roughness.1001.png"],"metadata":{"launcher":{"version":"0.0.1","listening_port":24563},"fab":{"assetNamespace":"","listing":{"averageRating":0,"createdAt":"","description":"<p>SImple worn steel overhead lamp with a bulb</p>\n<p>PBR textures <a target=\"_blank\" href=\"/2k\" rel=\"noopener noreferrer nofollow\"></a><a href=\"/users/2k\" rel=\"noopener noreferrer nofollow\">@2k</a></p>","isAiForbidden":true,"isAiGenerated":false,"lastUpdatedAt":"2025-02-24T11:37:43.536835Z","listingType":"3d-model","media":"https://media.fab.com/image_previews/gallery_images/195dd6b3-9e18-4078-9fd0-b6f04dbacde8/a37474b6-6e5c-4a6e-9ffd-9af2e819a5ab.jpeg","publishedAt":"2024-10-03T11:28:31.118269Z","reviewCount":0,"thumbnail":"https://media.fab.com/image_previews/gallery_images/47ed95a2-40fb-482b-b114-9c7d8c4b39d2/bb72002d-f2da-4437-899b-48d664d9b874.jpeg","title":"lamp","uid":"3002f282-340b-4519-a9aa-bcdf637bd11e","updatedAt":"","user":{"coverImageUrl":"https://cdn1.epicgames.com/fab/seller/o-ynhmd9y8ef3wnpurw5n6t58medckvp/cover/15fbb6a0.jpg","profileImageUrl":"","sellerName":"Roy Sousa","uid":"ce6adde9-bde6-4467-bee7-ac3e0ab6d998"},"tags":[{"name":"Pbr","slug":"pbr","uid":"080edd3b-d10a-4f32-ace2-30f5baa480dc"},{"name":"Emissive","slug":"emissive","uid":"21743a43-edf1-4e85-ba4e-697852e94117"},{"name":"Steel","slug":"steel","uid":"5bd69d4a-ba51-4523-ad8a-ec3b58a8b310"},{"name":"Rusty","slug":"rusty","uid":"65c5e671-45b0-4ed5-a63d-4bcb6883a99d"},{"name":"Worn","slug":"worn","uid":"98cd7d65-d9bb-4efc-9f13-2d3d6f29629d"},{"name":"Light","slug":"light","uid":"9ac7d3c8-eb97-4c82-bb75-ff5dcbf845c1"},{"name":"Ceiling","slug":"ceiling","uid":"d0ff1a0b-1384-4126-b58b-82cdf08e5072"},{"name":"Lamp","slug":"lamp","uid":"d7b5e9ca-33f3-46fe-bed5-c2fb5d989087"}],"category":{"name":"건물 및 건축","path":"buildings-architecture","slug":"buildings-architecture","uid":"eec3bdd5-ba7a-45a8-b15d-67462b9630f6"},"assetFormats":[],"_PluginMetas":{"apiDataVersion":"","entitlementUid":"","cacheSize":0,"downloaded":[]}},"target":"UE_5.5","quality":"","format":"fbx","fileId":"","platformIncluded":"","distributionPointBaseUrls":[],"distributionMethod":"","entitlementUid":"","invertedNormal":false,"isConverted":false,"isQuixel":false}}}]
+[2025.10.30-05.35.11:122][194]LogJson: Warning: Field megascans was not found.
+[2025.10.30-05.35.11:122][194]LogJson: Warning: Json Value of type 'Null' used as a 'Object'.
+[2025.10.30-05.35.11:160][194]LogStreaming: Display: FlushAsyncLoading(844): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.35.11:160][194]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.10.30-05.35.11:161][194]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx]
+[2025.10.30-05.35.11:204][194]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/internal_ground_ao_texture.jpeg)
+[2025.10.30-05.35.11:205][194]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2025.10.30-05.35.11:206][194]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.10.30-05.35.11:208][194]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture.internal_ground_ao_texture(TFO_AutoDXT, 512x512 x1x1x1)(예상 필요 메모리: 46.083323MB), 인코딩 속도: Fast
+[2025.10.30-05.35.11:258][194]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_BaseColor.1001.png)
+[2025.10.30-05.35.11:313][194]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.10.30-05.35.11:324][194]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor.M_Lamp_BaseColor(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 280.999983MB), 인코딩 속도: Fast
+[2025.10.30-05.35.11:391][194]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Emissive.1001.png)
+[2025.10.30-05.35.11:432][194]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.10.30-05.35.11:443][194]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive.M_Lamp_Emissive(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 280.999983MB), 인코딩 속도: Fast
+[2025.10.30-05.35.11:505][194]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Metallic.1001.png)
+[2025.10.30-05.35.11:517][194]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.10.30-05.35.11:521][194]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic.M_Lamp_Metallic(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 268.999983MB), 인코딩 속도: Fast
+[2025.10.30-05.35.11:590][194]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Normal.1001.png)
+[2025.10.30-05.35.11:640][194]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2025.10.30-05.35.11:668][194]LogEditorFactories: Display: Auto-detected normal map
+[2025.10.30-05.35.11:671][194]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/lamp/Additional_Textures/M_Lamp_Normal.M_Lamp_Normal(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-05.35.11:759][194]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/textures/M_Lamp_Roughness.1001.png)
+[2025.10.30-05.35.11:794][194]LogEditorFactories: Display: Image imported as : TSF G8
+[2025.10.30-05.35.11:799][194]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness.M_Lamp_Roughness(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 268.999983MB), 인코딩 속도: Fast
+[2025.10.30-05.35.11:814][194]LogFabLauncher: Display: Import status 'success' sent back to EGL
+[2025.10.30-05.35.11:814][194]LogFabLauncher: Status data sent: {"status":"success", "id":"3002f282-340b-4519-a9aa-bcdf637bd11e", "path":"C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted", "plugin_version": "0.4.2", "message": "Successfully exported asset", "app_name" : "Unreal Engine", "app_version": "5.5"}
+[2025.10.30-05.35.12:504][197]LogStreaming: Display: FlushAsyncLoading(845): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.35.12:521][198]LogStreaming: Display: FlushAsyncLoading(850): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.35.12:565][199]LogStreaming: Display: FlushAsyncLoading(851): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.35.12:640][201]LogStaticMesh: Display: SM_Light스태틱 메시 빌드 중(필요 메모리 예상: 0.525433MB)...
+[2025.10.30-05.35.12:640][201]LogStaticMesh: Display: SM_Light_002스태틱 메시 빌드 중(필요 메모리 예상: 0.71543MB)...
+[2025.10.30-05.35.12:640][201]LogStaticMesh: Display: SM_Light_bulb스태틱 메시 빌드 중(필요 메모리 예상: 1.566137MB)...
+[2025.10.30-05.35.12:642][201]LogStaticMesh: Built static mesh [0.00s] /Game/Fab/lamp/SM_Light.SM_Light
+[2025.10.30-05.35.12:643][201]LogStaticMesh: Built static mesh [0.00s] /Game/Fab/lamp/SM_Light_002.SM_Light_002
+[2025.10.30-05.35.12:645][201]LogStaticMesh: Built static mesh [0.01s] /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.12:701][202]LogTexture: Warning: Texture2D /Game/Fab/lamp/M_Lamp_BaseColor.M_Lamp_BaseColor contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.10.30-05.35.12:702][202]LogTexture: Warning: Texture2D /Game/Fab/lamp/M_Lamp_Emissive.M_Lamp_Emissive contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.10.30-05.35.12:702][202]LogTexture: Warning: Texture2D /Game/Fab/lamp/M_Lamp_Metallic.M_Lamp_Metallic contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.10.30-05.35.12:702][202]LogTexture: Warning: Texture2D /Game/Fab/lamp/M_Lamp_Normal.M_Lamp_Normal contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.10.30-05.35.12:702][202]LogTexture: Warning: Texture2D /Game/Fab/lamp/M_Lamp_Roughness.M_Lamp_Roughness contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.10.30-05.35.12:727][202]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...amp_extracted/source/SM_lamp_embedded.fbx]
+[2025.10.30-05.35.12:727][202]Interchange: Error: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : '', Texture2D] 소스 파일에서 페이로드를 얻을 수 없습니다.
+[2025.10.30-05.35.12:728][202]Interchange: Error: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : '', Texture2D] 소스 파일에서 페이로드를 얻을 수 없습니다.
+[2025.10.30-05.35.12:728][202]Interchange: Error: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : '', Texture2D] 소스 파일에서 페이로드를 얻을 수 없습니다.
+[2025.10.30-05.35.12:728][202]Interchange: Error: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : '', Texture2D] 소스 파일에서 페이로드를 얻을 수 없습니다.
+[2025.10.30-05.35.12:728][202]Interchange: Error: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : '', Texture2D] 소스 파일에서 페이로드를 얻을 수 없습니다.
+[2025.10.30-05.35.12:728][202]Interchange: Warning: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : 'SM_Light', StaticMesh] FBX 파일의 이 메시 'BézierCurve_002'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2025.10.30-05.35.12:728][202]Interchange: Warning: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : 'SM_Light_bulb', StaticMesh] FBX 파일의 이 메시 'Cylinder_143'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2025.10.30-05.35.12:728][202]Interchange: Warning: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/lamp-3002f282/fbx/lamp_extracted/source/SM_lamp_embedded.fbx : 'SM_Light_002', StaticMesh] FBX 파일의 이 메시 'Cylinder_144'에 대해 스무딩 그룹 정보를 찾지 못했습니다. 파일을 익스포트하기 전에 FBX 익스포터에서 '스무딩 그룹 익스포트' 옵션이 활성화되어 있는지 확인하세요.
+[2025.10.30-05.35.23:594][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.23:594][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.23:595][644]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_8
+[2025.10.30-05.35.24:645][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-05.35.24:652][681]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.10.30-05.35.26:668][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.26:668][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.26:669][751]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_10
+[2025.10.30-05.35.28:906][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.30-05.35.28:911][836]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2025.10.30-05.35.28:918][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.28:918][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb
+[2025.10.30-05.35.28:921][836]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_12
+[2025.10.30-05.35.50:391][595]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.30-05.35.50:413][595]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.30-05.35.50:420][595]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.30-05.35.50:436][596]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.30-05.35.55:332][828]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Light
+[2025.10.30-05.35.55:344][828]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.30-05.35.57:219][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fab/lamp/BP_Light.BP_Light
+[2025.10.30-05.35.57:220][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.30-05.36.09:710][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.30-05.36.49:024][263]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.36.49:024][263]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.36.49:024][263]LogShaderCompilers: Display: Total job queries 1,463, among them cache hits 476 (32.54%), DDC hits 394 (26.93%), Duplicates 21 (1.44%)
+[2025.10.30-05.36.49:024][263]LogShaderCompilers: Display: Tracking 966 distinct input hashes that result in 669 distinct outputs (69.25%)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: RAM used: 373.08 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Shaders Compiled: 572
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Jobs assigned 572, completed 572 (100%)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Average time worker was idle: 275.69 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 2.31 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 3.37 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 5.65
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Shader code size: average 8.159 KiB, min 2.691 KiB, max 36.812 KiB
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 118.58 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Jobs were issued in 572 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Average processing rate: 4.82 jobs/sec
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Total thread time: 390.338 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Total thread preprocess time: 18.982 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Percentage time preprocessing: 4.86%
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Effective parallelization: 3.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.27 sec, max 1.71 sec, min 0.83 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.26 sec, max 1.50 sec, min 1.09 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   62 times, average 1.17 sec, max 1.66 sec, min 0.92 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   40 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   40 times, average 0.89 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.52% of total time (compiled   62 times, average 1.17 sec, max 1.66 sec, min 0.92 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.25% of total time (compiled   70 times, average 0.74 sec, max 3.32 sec, min 0.51 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.09% of total time (compiled   40 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.86% of total time (compiled   58 times, average 0.73 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.13% of total time (compiled   40 times, average 0.89 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Materials Translated:    319
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Material Translation Only: 0.08 s (55%)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: Material Cache Hits: 54 (17%)
+[2025.10.30-05.36.49:025][263]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.36.57:208][667]LogStreaming: Display: FlushAsyncLoading(854): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.36.57:224][667]LogStaticMesh: Display: SM_Bed_Lamp_2스태틱 메시 빌드 중(필요 메모리 예상: 1.464005MB)...
+[2025.10.30-05.36.57:231][667]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2
+[2025.10.30-05.36.57:243][667]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Bed_Lamp_2_Mask.T_Bed_Lamp_2_Mask(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.36.57:446][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2
+[2025.10.30-05.36.57:446][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2
+[2025.10.30-05.36.57:447][671]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_14
+[2025.10.30-05.36.58:317][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.10.30-05.36.58:346][697]LogEditorActor: Deleted 0 Actors (0.097 secs)
+[2025.10.30-05.36.58:355][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2
+[2025.10.30-05.36.58:355][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2
+[2025.10.30-05.36.58:358][697]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.SM_Bed_Lamp_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_15
+[2025.10.30-05.37.06:201][955]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-05.37.14:207][195]Cmd: DELETE
+[2025.10.30-05.37.14:207][195]Cmd: ACTOR DELETE
+[2025.10.30-05.37.14:237][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-05.37.14:260][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-05.37.14:268][195]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2025.10.30-05.37.15:859][243]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-05.37.34:323][881]LogStreaming: Display: FlushAsyncLoading(855): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.37.34:337][881]LogStaticMesh: Display: SM_TV스태틱 메시 빌드 중(필요 메모리 예상: 0.836267MB)...
+[2025.10.30-05.37.34:338][881]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_TV_M.T_TV_M(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.37.34:344][881]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV
+[2025.10.30-05.37.34:461][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV
+[2025.10.30-05.37.34:461][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV
+[2025.10.30-05.37.34:462][881]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_16
+[2025.10.30-05.37.35:416][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.30-05.37.35:429][910]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.10.30-05.37.35:447][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV
+[2025.10.30-05.37.35:447][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV
+[2025.10.30-05.37.35:450][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_17
+[2025.10.30-05.38.01:381][886]LogStreaming: Display: FlushAsyncLoading(856): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.38.01:399][886]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Table_Lamp_A.T_Table_Lamp_A(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.38.01:410][886]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Table_Lamp_M_R_AO.T_Table_Lamp_M_R_AO(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.38.01:427][886]LogStaticMesh: Display: SM_Table_Lamp스태틱 메시 빌드 중(필요 메모리 예상: 5.154123MB)...
+[2025.10.30-05.38.01:446][886]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp
+[2025.10.30-05.38.01:589][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp
+[2025.10.30-05.38.01:589][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp
+[2025.10.30-05.38.01:590][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_18
+[2025.10.30-05.38.01:699][889]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Table_Lamp_N.T_Table_Lamp_N(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.38.03:110][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.30-05.38.03:115][925]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.30-05.38.03:137][925]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp
+[2025.10.30-05.38.03:137][925]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp
+[2025.10.30-05.38.03:140][925]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_20
+[2025.10.30-05.38.47:523][632]LogStreaming: Display: FlushAsyncLoading(857): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.38.47:543][632]LogStaticMesh: Display: SM_Chandelier_01스태틱 메시 빌드 중(필요 메모리 예상: 39.351869MB)...
+[2025.10.30-05.38.47:556][632]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/Chandelier_01/T_Chandelier_01_Emissive.T_Chandelier_01_Emissive(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.38.47:598][632]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.30-05.38.47:684][633]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01_C
+[2025.10.30-05.38.47:685][633]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01_C
+[2025.10.30-05.38.47:686][633]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01 as actor: BP_Chandelier_01_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Chandelier_01_C_0
+[2025.10.30-05.38.47:687][633]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01 as actor: BP_Chandelier_01_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Chandelier_01_C_0
+[2025.10.30-05.38.47:923][638]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/Chandelier_01/T_Chandelier_01_Albedo.T_Chandelier_01_Albedo(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.38.48:116][642]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/Chandelier_01/T_Chandelier_01_Mask.T_Chandelier_01_Mask(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.38.48:157][643]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/Chandelier_01/T_Chandelier_01_Normal.T_Chandelier_01_Normal(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.38.49:939][696]LogStaticMesh: Built static mesh [2.40s] /Game/UnrealBucket/Library/ArchViz/Chandelier_01/SM_Chandelier_01.SM_Chandelier_01
+[2025.10.30-05.38.50:337][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.30-05.38.50:391][708]LogEditorActor: Deleted 0 Actors (0.078 secs)
+[2025.10.30-05.38.50:401][708]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01_C
+[2025.10.30-05.38.50:401][708]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01_C
+[2025.10.30-05.38.50:406][708]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01 as actor: BP_Chandelier_01_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Chandelier_01_C_1
+[2025.10.30-05.38.50:408][708]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/Chandelier_01/BP_Chandelier_01.BP_Chandelier_01 as actor: BP_Chandelier_01_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Chandelier_01_C_1
+[2025.10.30-05.39.01:599][132]Cmd: DELETE
+[2025.10.30-05.39.01:599][132]Cmd: ACTOR DELETE
+[2025.10.30-05.39.01:626][132]LogEditorActor: Deleted Actor: BP_Chandelier_01_C
+[2025.10.30-05.39.01:647][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.30-05.39.01:653][132]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.10.30-05.39.20:766][991]LogStreaming: Display: FlushAsyncLoading(858): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.39.20:780][991]LogStaticMesh: Display: SM_ModernCeilingLamp스태틱 메시 빌드 중(필요 메모리 예상: 8.1304MB)...
+[2025.10.30-05.39.20:833][991]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.30-05.39.20:869][991]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/T_ModernCeilingLamp_Emissive.T_ModernCeilingLamp_Emissive(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.39.20:938][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp_C
+[2025.10.30-05.39.20:938][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp_C
+[2025.10.30-05.39.20:941][992]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp as actor: BP_ModernCeilingLamp_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_ModernCeilingLamp_C_0
+[2025.10.30-05.39.20:943][992]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp as actor: BP_ModernCeilingLamp_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_ModernCeilingLamp_C_0
+[2025.10.30-05.39.21:097][995]LogStaticMesh: Built static mesh [0.32s] /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/SM_ModernCeilingLamp.SM_ModernCeilingLamp
+[2025.10.30-05.39.21:101][995]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/T_ModernCeilingLamp_Albedo.T_ModernCeilingLamp_Albedo(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.39.21:187][996]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/T_ModernCeilingLamp_Normal.T_ModernCeilingLamp_Normal(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.39.21:210][996]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/T_ModernCeilingLamp_Mask.T_ModernCeilingLamp_Mask(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.39.23:154][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.30-05.39.23:162][ 59]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.30-05.39.23:169][ 59]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp_C
+[2025.10.30-05.39.23:169][ 59]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp_C
+[2025.10.30-05.39.23:173][ 59]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp as actor: BP_ModernCeilingLamp_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_ModernCeilingLamp_C_1
+[2025.10.30-05.39.23:174][ 59]LogActorFactory: Actor Factory spawned Blueprint /Game/UnrealBucket/Library/ArchViz/ModernCeilingLamp/BP_ModernCeilingLamp.BP_ModernCeilingLamp as actor: BP_ModernCeilingLamp_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_ModernCeilingLamp_C_1
+[2025.10.30-05.39.25:077][142]Cmd: DELETE
+[2025.10.30-05.39.25:077][142]Cmd: ACTOR DELETE
+[2025.10.30-05.39.25:102][142]LogEditorActor: Deleted Actor: BP_ModernCeilingLamp_C
+[2025.10.30-05.39.25:123][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.30-05.39.25:128][142]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2025.10.30-05.39.38:903][739]LogStreaming: Display: FlushAsyncLoading(859): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.39.38:913][739]LogStaticMesh: Display: SM_MokaPot스태틱 메시 빌드 중(필요 메모리 예상: 2.963105MB)...
+[2025.10.30-05.39.38:933][739]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/MokaPot/T_MokaPot_Albedo.T_MokaPot_Albedo(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.39.38:938][739]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/MokaPot/T_MokaPot_Mask.T_MokaPot_Mask(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.39.38:942][739]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/ArchViz/MokaPot/T_MokaPot_Normal.T_MokaPot_Normal(TFO_BC5, 1024x1024 x1x1x1)(예상 필요 메모리: 169.499988MB), 인코딩 속도: Fast
+[2025.10.30-05.39.39:037][739]LogStaticMesh: Built static mesh [0.12s] /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot
+[2025.10.30-05.39.39:058][740]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot
+[2025.10.30-05.39.39:058][740]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot
+[2025.10.30-05.39.39:059][740]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_21
+[2025.10.30-05.39.39:751][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.30-05.39.39:761][756]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.10.30-05.39.39:771][756]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot
+[2025.10.30-05.39.39:771][756]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot
+[2025.10.30-05.39.39:775][756]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_22
+[2025.10.30-05.39.49:049][ 32]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Total job queries 1,512, among them cache hits 489 (32.34%), DDC hits 394 (26.06%), Duplicates 21 (1.39%)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Tracking 1,002 distinct input hashes that result in 693 distinct outputs (69.16%)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: RAM used: 380.37 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Shaders Compiled: 608
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Jobs assigned 608, completed 608 (100%)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Average time worker was idle: 277.07 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 2.31 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 3.37 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 5.65
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Shader code size: average 8.166 KiB, min 2.691 KiB, max 36.812 KiB
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 129.73 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Jobs were issued in 608 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Average processing rate: 4.69 jobs/sec
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Total thread time: 419.457 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Total thread preprocess time: 19.692 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Percentage time preprocessing: 4.69%
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Effective parallelization: 3.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.27 sec, max 1.71 sec, min 0.83 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.26 sec, max 1.50 sec, min 1.09 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   68 times, average 1.19 sec, max 2.01 sec, min 0.92 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   40 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   40 times, average 0.89 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.23% of total time (compiled   68 times, average 1.19 sec, max 2.01 sec, min 0.92 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.54% of total time (compiled   76 times, average 0.75 sec, max 3.32 sec, min 0.51 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.17% of total time (compiled   64 times, average 0.73 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.32% of total time (compiled   40 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.03% of total time (compiled   69 times, average 0.55 sec, max 1.65 sec, min 0.39 sec)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Materials Translated:    325
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Material Translation Only: 0.08 s (55%)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-05.39.49:050][ 32]LogShaderCompilers: Display: Material Cache Hits: 54 (17%)
+[2025.10.30-05.39.49:051][ 32]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.40.08:051][721]LogStreaming: Display: FlushAsyncLoading(860): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.40.08:063][721]LogStaticMesh: Display: SM_WirelessHeadset_A스태틱 메시 빌드 중(필요 메모리 예상: 10.348334MB)...
+[2025.10.30-05.40.08:168][721]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/Electronics/WirelessHeadset/T_WirelessHeadset_Normal.T_WirelessHeadset_Normal(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-05.40.08:313][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A
+[2025.10.30-05.40.08:313][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A
+[2025.10.30-05.40.08:314][724]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_23
+[2025.10.30-05.40.08:330][724]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A)...
+[2025.10.30-05.40.08:462][724]LogStaticMesh: Built static mesh [0.40s] /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A
+[2025.10.30-05.40.09:343][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.30-05.40.09:349][745]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.10.30-05.40.09:356][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A
+[2025.10.30-05.40.09:356][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A
+[2025.10.30-05.40.09:359][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Electronics/WirelessHeadset/SM_WirelessHeadset_A.SM_WirelessHeadset_A as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_24
+[2025.10.30-05.40.11:618][811]Cmd: DELETE
+[2025.10.30-05.40.11:618][811]Cmd: ACTOR DELETE
+[2025.10.30-05.40.11:644][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-05.40.11:666][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.30-05.40.11:674][811]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2025.10.30-05.40.18:006][ 18]LogStreaming: Display: FlushAsyncLoading(861): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.40.18:012][ 18]LogStaticMesh: Display: SM_Chisel_A스태틱 메시 빌드 중(필요 메모리 예상: 0.940616MB)...
+[2025.10.30-05.40.18:056][ 18]LogStaticMesh: Built static mesh [0.04s] /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A
+[2025.10.30-05.40.18:110][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A
+[2025.10.30-05.40.18:110][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A
+[2025.10.30-05.40.18:111][ 18]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_26
+[2025.10.30-05.40.18:430][ 25]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/Tools/CarpenterTools/T_CarpenterTools_Normal.T_CarpenterTools_Normal(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.40.18:497][ 26]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/Tools/CarpenterTools/T_CarpenterTools_Mask.T_CarpenterTools_Mask(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.40.18:608][ 27]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/Tools/CarpenterTools/T_CarpenterTools_Albedo.T_CarpenterTools_Albedo(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-05.40.19:006][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.30-05.40.19:013][ 34]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.10.30-05.40.19:022][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A
+[2025.10.30-05.40.19:022][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A
+[2025.10.30-05.40.19:025][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_27
+[2025.10.30-05.40.20:652][ 82]LogStreaming: Display: FlushAsyncLoading(862): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.40.20:655][ 82]LogStaticMesh: Display: SM_Chisel_C스태틱 메시 빌드 중(필요 메모리 예상: 0.940616MB)...
+[2025.10.30-05.40.20:697][ 82]LogStaticMesh: Built static mesh [0.04s] /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C
+[2025.10.30-05.40.20:823][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C
+[2025.10.30-05.40.20:823][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C
+[2025.10.30-05.40.20:824][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_28
+[2025.10.30-05.40.21:441][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.30-05.40.21:446][103]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-05.40.21:452][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C
+[2025.10.30-05.40.21:452][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C
+[2025.10.30-05.40.21:455][103]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_C.SM_Chisel_C as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_29
+[2025.10.30-05.40.22:055][121]Cmd: DELETE
+[2025.10.30-05.40.22:055][121]Cmd: ACTOR DELETE
+[2025.10.30-05.40.22:085][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-05.40.22:106][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-05.40.22:112][121]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2025.10.30-05.40.23:368][165]LogStreaming: Display: FlushAsyncLoading(863): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.40.23:371][165]LogStaticMesh: Display: SM_HandDrill_A스태틱 메시 빌드 중(필요 메모리 예상: 9.067617MB)...
+[2025.10.30-05.40.23:480][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A
+[2025.10.30-05.40.23:480][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A
+[2025.10.30-05.40.23:481][166]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_30
+[2025.10.30-05.40.23:497][166]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A)...
+[2025.10.30-05.40.23:682][166]LogStaticMesh: Built static mesh [0.31s] /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A
+[2025.10.30-05.40.25:629][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.30-05.40.25:635][229]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.30-05.40.25:641][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A
+[2025.10.30-05.40.25:641][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A
+[2025.10.30-05.40.25:643][229]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandDrill_A.SM_HandDrill_A as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_32
+[2025.10.30-05.40.26:130][243]Cmd: DELETE
+[2025.10.30-05.40.26:130][243]Cmd: ACTOR DELETE
+[2025.10.30-05.40.26:159][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-05.40.26:180][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-05.40.26:185][243]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2025.10.30-05.40.26:735][262]LogStreaming: Display: FlushAsyncLoading(864): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.40.26:738][262]LogStaticMesh: Display: SM_HandSaw스태틱 메시 빌드 중(필요 메모리 예상: 3.247211MB)...
+[2025.10.30-05.40.26:848][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw
+[2025.10.30-05.40.26:848][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw
+[2025.10.30-05.40.26:849][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_34
+[2025.10.30-05.40.26:856][263]LogStaticMesh: Built static mesh [0.12s] /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw
+[2025.10.30-05.40.27:699][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.30-05.40.27:705][288]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.30-05.40.27:711][288]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw
+[2025.10.30-05.40.27:711][288]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw
+[2025.10.30-05.40.27:714][288]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_36
+[2025.10.30-05.41.15:354][144]LogStreaming: Display: FlushAsyncLoading(865): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.41.15:362][144]LogStaticMesh: Display: SM_Vinyl스태틱 메시 빌드 중(필요 메모리 예상: 1.043228MB)...
+[2025.10.30-05.41.15:385][144]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/Various/Phonograph/T_Vinyl_Normal.T_Vinyl_Normal(TFO_BC5, 1024x1024 x1x1x1)(예상 필요 메모리: 169.499988MB), 인코딩 속도: Fast
+[2025.10.30-05.41.15:388][144]LogTexture: Display: 텍스처 빌드 중: /Game/UnrealBucket/Library/Various/Phonograph/T_Vinyl_Albedo.T_Vinyl_Albedo(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-05.41.15:481][144]LogStaticMesh: Built static mesh [0.12s] /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.15:644][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.15:644][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.15:645][148]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_38
+[2025.10.30-05.41.16:597][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.30-05.41.16:605][171]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.10.30-05.41.16:614][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.16:615][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.16:618][171]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_39
+[2025.10.30-05.41.46:521][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.46:521][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.46:522][219]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_40
+[2025.10.30-05.41.47:820][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.30-05.41.47:826][260]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.30-05.41.47:835][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.47:835][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl
+[2025.10.30-05.41.47:837][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_41
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Total job queries 1,529, among them cache hits 494 (32.31%), DDC hits 394 (25.77%), Duplicates 21 (1.37%)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Tracking 1,014 distinct input hashes that result in 701 distinct outputs (69.13%)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: RAM used: 382.80 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Shaders Compiled: 620
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Jobs assigned 620, completed 620 (100%)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Average time worker was idle: 272.56 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 2.31 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 3.37 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 5.65
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Shader code size: average 8.17 KiB, min 2.691 KiB, max 36.812 KiB
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 133.39 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Jobs were issued in 620 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Average processing rate: 4.65 jobs/sec
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Total thread time: 428.702 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Total thread preprocess time: 19.928 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Percentage time preprocessing: 4.65%
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.27 sec, max 1.71 sec, min 0.83 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.26 sec, max 1.50 sec, min 1.09 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   70 times, average 1.19 sec, max 2.01 sec, min 0.92 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   40 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   40 times, average 0.89 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.44% of total time (compiled   70 times, average 1.19 sec, max 2.01 sec, min 0.92 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.63% of total time (compiled   78 times, average 0.75 sec, max 3.32 sec, min 0.51 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.26% of total time (compiled   66 times, average 0.73 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.10% of total time (compiled   40 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.13% of total time (compiled   71 times, average 0.55 sec, max 1.65 sec, min 0.39 sec)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Materials Translated:    328
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Material Translation Only: 0.09 s (55%)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: Material Cache Hits: 54 (16%)
+[2025.10.30-05.42.49:062][493]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.43.07:129][218]Cmd: DUPLICATE
+[2025.10.30-05.43.07:129][218]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.43.15:615][557]Cmd: DUPLICATE
+[2025.10.30-05.43.15:615][557]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.43.35:428][358]Cmd: DUPLICATE
+[2025.10.30-05.43.35:428][358]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.44.32:724][594]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-05.44.32:738][594]LogPlayLevel: [PlayLevel] Compiling BP_Light before play...
+[2025.10.30-05.44.32:812][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.30-05.44.32:820][594]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2025.10.30-05.44.32:820][594]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.44.32:894][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073775s)
+[2025.10.30-05.44.32:894][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.073820s)
+[2025.10.30-05.44.32:915][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.30-05.44.32:919][594]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-05.44.32:921][594]LogPlayLevel: PIE: World Init took: (0.002077s)
+[2025.10.30-05.44.32:922][594]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-05.44.32:922][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-05.44.32:922][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-05.44.32:922][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-05.44.32:922][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-05.44.32:922][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-05.44.32:924][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-05.44.32:941][594]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-05.44.32:941][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-05.44.32:941][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-05.44.32:941][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-05.44.32:942][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.10.30-05.44.32:942][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.10.30-05.44.32:944][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.10.30-05.44.32:944][594]LogInit: FAudioDevice initialized with ID 27.
+[2025.10.30-05.44.32:944][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.10.30-05.44.32:944][594]LogAudio: Display: Audio Device (ID: 27) registered with world 'Rural_Cabins'.
+[2025.10.30-05.44.32:944][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.30-05.44.32:947][594]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-05.44.32:989][594]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-14.44.32
+[2025.10.30-05.44.32:991][594]LogWorld: Bringing up level for play took: 0.043531
+[2025.10.30-05.44.32:994][594]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.10.30-05.44.32:999][594]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-05.44.32:999][594]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-05.44.33:003][594]PIE: 서버가 로그인했습니다.
+[2025.10.30-05.44.33:004][594]PIE: 에디터에서 플레이 총 시작 시간 0.268초입니다.
+[2025.10.30-05.44.37:116][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-05.45.02:325][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.45.02:325][768]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.45.02:326][768]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.45.02:337][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.45.02:344][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-05.45.02:352][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.45.02:377][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-05.45.02:378][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.30-05.45.02:378][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.10.30-05.45.02:381][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.10.30-05.45.02:385][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.45.02:399][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.10.30-05.45.02:496][769]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.10.30-05.45.02:506][769]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-05.45.22:429][392]Cmd: DUPLICATE
+[2025.10.30-05.45.22:429][392]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.46.04:234][738]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-05.46.04:249][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-05.46.04:250][738]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.46.04:327][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077864s)
+[2025.10.30-05.46.04:328][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.077910s)
+[2025.10.30-05.46.04:349][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.30-05.46.04:355][738]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-05.46.04:357][738]LogPlayLevel: PIE: World Init took: (0.002041s)
+[2025.10.30-05.46.04:358][738]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-05.46.04:358][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-05.46.04:358][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-05.46.04:358][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-05.46.04:358][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-05.46.04:358][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-05.46.04:360][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-05.46.04:376][738]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-05.46.04:377][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-05.46.04:377][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-05.46.04:377][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-05.46.04:377][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.30-05.46.04:377][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.30-05.46.04:380][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.30-05.46.04:380][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.30-05.46.04:380][738]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.30-05.46.04:380][738]LogAudio: Display: Audio Device (ID: 28) registered with world 'Rural_Cabins'.
+[2025.10.30-05.46.04:380][738]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.30-05.46.04:384][738]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-05.46.04:424][738]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-14.46.04
+[2025.10.30-05.46.04:426][738]LogWorld: Bringing up level for play took: 0.041806
+[2025.10.30-05.46.04:428][738]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2025.10.30-05.46.04:433][738]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-05.46.04:433][738]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-05.46.04:437][738]PIE: 서버가 로그인했습니다.
+[2025.10.30-05.46.04:438][738]PIE: 에디터에서 플레이 총 시작 시간 0.189초입니다.
+[2025.10.30-05.46.17:374][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.46.17:374][664]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.46.17:375][664]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.46.17:385][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.46.17:390][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-05.46.17:399][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.46.17:422][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.46.17:427][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.30-05.46.17:427][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.10.30-05.46.17:429][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.10.30-05.46.17:446][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.30-05.46.17:563][665]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2025.10.30-05.46.49:344][864]Cmd: DUPLICATE
+[2025.10.30-05.46.49:344][864]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.47.13:125][759]Cmd: DELETE
+[2025.10.30-05.47.13:125][759]Cmd: ACTOR DELETE
+[2025.10.30-05.47.13:155][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-05.47.13:177][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.30-05.47.13:182][759]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2025.10.30-05.47.19:783][  5]Cmd: DUPLICATE
+[2025.10.30-05.47.19:783][  5]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.48.12:668][819]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-05.48.12:680][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-05.48.12:680][819]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.48.12:759][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078947s)
+[2025.10.30-05.48.12:760][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.078998s)
+[2025.10.30-05.48.12:777][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.30-05.48.12:783][819]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-05.48.12:785][819]LogPlayLevel: PIE: World Init took: (0.002059s)
+[2025.10.30-05.48.12:786][819]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-05.48.12:786][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-05.48.12:786][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-05.48.12:786][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-05.48.12:786][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-05.48.12:786][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-05.48.12:788][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-05.48.12:805][819]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-05.48.12:806][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-05.48.12:806][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-05.48.12:806][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-05.48.12:807][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.30-05.48.12:807][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.30-05.48.12:809][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.30-05.48.12:809][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.30-05.48.12:809][819]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.30-05.48.12:809][819]LogAudio: Display: Audio Device (ID: 29) registered with world 'Rural_Cabins'.
+[2025.10.30-05.48.12:809][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.30-05.48.12:812][819]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-05.48.12:853][819]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-14.48.12
+[2025.10.30-05.48.12:855][819]LogWorld: Bringing up level for play took: 0.042669
+[2025.10.30-05.48.12:858][819]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2025.10.30-05.48.12:863][819]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-05.48.12:863][819]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-05.48.12:867][819]PIE: 서버가 로그인했습니다.
+[2025.10.30-05.48.12:868][819]PIE: 에디터에서 플레이 총 시작 시간 0.188초입니다.
+[2025.10.30-05.48.42:864][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.48.42:864][ 87]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.48.42:865][ 87]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.48.42:876][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.48.42:880][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-05.48.42:889][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.48.42:911][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.48.42:916][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.30-05.48.42:916][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.10.30-05.48.42:918][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.10.30-05.48.42:936][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.30-05.48.43:028][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2025.10.30-05.48.55:441][549]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-05.48.55:455][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-05.48.55:455][549]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.48.55:533][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077927s)
+[2025.10.30-05.48.55:533][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.077972s)
+[2025.10.30-05.48.55:554][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-05.48.55:560][549]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-05.48.55:562][549]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2025.10.30-05.48.55:563][549]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-05.48.55:563][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-05.48.55:563][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-05.48.55:563][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-05.48.55:563][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-05.48.55:563][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-05.48.55:565][549]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-05.48.55:581][549]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-05.48.55:582][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-05.48.55:582][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-05.48.55:582][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-05.48.55:582][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.30-05.48.55:582][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.30-05.48.55:585][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.30-05.48.55:585][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.30-05.48.55:585][549]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.30-05.48.55:585][549]LogAudio: Display: Audio Device (ID: 30) registered with world 'Rural_Cabins'.
+[2025.10.30-05.48.55:585][549]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.30-05.48.55:588][549]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-05.48.55:628][549]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-14.48.55
+[2025.10.30-05.48.55:629][549]LogWorld: Bringing up level for play took: 0.041083
+[2025.10.30-05.48.55:632][549]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2025.10.30-05.48.55:637][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-05.48.55:637][549]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-05.48.55:640][549]PIE: 서버가 로그인했습니다.
+[2025.10.30-05.48.55:641][549]PIE: 에디터에서 플레이 총 시작 시간 0.187초입니다.
+[2025.10.30-05.49.47:252][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.49.47:252][458]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.49.47:253][458]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.49.47:264][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.49.47:268][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-05.49.47:276][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.49.47:298][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.49.47:302][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.30-05.49.47:302][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.10.30-05.49.47:305][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.10.30-05.49.47:323][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.30-05.49.47:411][459]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2025.10.30-05.49.52:686][613]Cmd: DUPLICATE
+[2025.10.30-05.49.52:686][613]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.51.31:273][ 55]Cmd: DUPLICATE
+[2025.10.30-05.51.31:273][ 55]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.53.17:405][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.30-05.53.17:659][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto3
+[2025.10.30-05.53.17:659][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto3977D664F48715367F014D6AE50695F45.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto3.umap'
+[2025.10.30-05.53.17:662][857]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.278
+[2025.10.30-05.53.17:662][857]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.278
+[2025.10.30-05.53.17:663][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture] ([1] browsable assets)...
+[2025.10.30-05.53.17:665][857]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture.internal_ground_ao_texture]
+[2025.10.30-05.53.17:665][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture]
+[2025.10.30-05.53.17:666][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture_Auto3
+[2025.10.30-05.53.17:666][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/internal_ground_ao_texture_Auto3392BDCCD4FBBC2ED3031148B6F4E68B2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture_Auto3.uasset'
+[2025.10.30-05.53.17:667][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor] ([1] browsable assets)...
+[2025.10.30-05.53.17:668][857]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor.M_Lamp_BaseColor]
+[2025.10.30-05.53.17:668][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor]
+[2025.10.30-05.53.17:677][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor_Auto3
+[2025.10.30-05.53.17:677][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_BaseColor_Auto31F9F49F74D5CA462BDE87FA954A10169.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor_Auto3.uasset'
+[2025.10.30-05.53.17:678][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive] ([1] browsable assets)...
+[2025.10.30-05.53.17:680][857]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive.M_Lamp_Emissive]
+[2025.10.30-05.53.17:680][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive]
+[2025.10.30-05.53.17:689][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive_Auto3
+[2025.10.30-05.53.17:689][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Emissive_Auto33BA034A0427455F6E75A4883BCC96F97.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive_Auto3.uasset'
+[2025.10.30-05.53.17:691][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic] ([1] browsable assets)...
+[2025.10.30-05.53.17:692][857]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic.M_Lamp_Metallic]
+[2025.10.30-05.53.17:692][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic]
+[2025.10.30-05.53.17:695][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic_Auto3
+[2025.10.30-05.53.17:696][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Metallic_Auto31DFBBF2D411085BC42B2C7B311B61451.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic_Auto3.uasset'
+[2025.10.30-05.53.17:697][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Normal] ([1] browsable assets)...
+[2025.10.30-05.53.17:698][857]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/lamp/Additional_Textures/M_Lamp_Normal.M_Lamp_Normal]
+[2025.10.30-05.53.17:698][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Normal]
+[2025.10.30-05.53.17:708][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Normal_Auto3
+[2025.10.30-05.53.17:708][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Normal_Auto305505C5A416485DDF7BD65B68CB9915A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Normal_Auto3.uasset'
+[2025.10.30-05.53.17:709][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness] ([1] browsable assets)...
+[2025.10.30-05.53.17:710][857]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness.M_Lamp_Roughness]
+[2025.10.30-05.53.17:710][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness]
+[2025.10.30-05.53.17:713][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness_Auto3
+[2025.10.30-05.53.17:713][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Roughness_Auto3DE017FA74FC54A250F381FAD66AE4EC9.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness_Auto3.uasset'
+[2025.10.30-05.53.17:714][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/M_Lamp] ([1] browsable assets)...
+[2025.10.30-05.53.19:309][857]LogMaterial: Warning: M_Lamp: Requesting an invalid TextureIndex! (3 / 4)
+[2025.10.30-05.53.19:337][857]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/lamp/M_Lamp.M_Lamp]
+[2025.10.30-05.53.19:337][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/M_Lamp]
+[2025.10.30-05.53.19:341][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/M_Lamp_Auto3
+[2025.10.30-05.53.19:341][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Auto3118CC248421DE1353CD964AC3661952B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/M_Lamp_Auto3.uasset'
+[2025.10.30-05.53.19:342][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/SM_Light] ([1] browsable assets)...
+[2025.10.30-05.53.19:349][857]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/lamp/SM_Light.SM_Light]
+[2025.10.30-05.53.19:349][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/SM_Light]
+[2025.10.30-05.53.19:352][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/SM_Light_Auto3
+[2025.10.30-05.53.19:352][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SM_Light_Auto3EB19B0CB47B72F42731F9A92D82D86D6.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/SM_Light_Auto3.uasset'
+[2025.10.30-05.53.19:353][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/SM_Light_bulb] ([1] browsable assets)...
+[2025.10.30-05.53.19:360][857]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb]
+[2025.10.30-05.53.19:361][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/SM_Light_bulb]
+[2025.10.30-05.53.19:365][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/SM_Light_bulb_Auto3
+[2025.10.30-05.53.19:365][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SM_Light_bulb_Auto336A682D246FF58E7ADBA6B81D553F8BA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/SM_Light_bulb_Auto3.uasset'
+[2025.10.30-05.53.19:366][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/SM_Light_002] ([1] browsable assets)...
+[2025.10.30-05.53.19:373][857]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/lamp/SM_Light_002.SM_Light_002]
+[2025.10.30-05.53.19:373][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/SM_Light_002]
+[2025.10.30-05.53.19:375][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/SM_Light_002_Auto3
+[2025.10.30-05.53.19:375][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SM_Light_002_Auto32201581B43B73756CFBB7287105566CD.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/SM_Light_002_Auto3.uasset'
+[2025.10.30-05.53.19:376][857]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Fab/lamp/BP_Light] ([2] browsable assets)...
+[2025.10.30-05.53.19:384][857]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fab/lamp/BP_Light.BP_Light]
+[2025.10.30-05.53.19:384][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/BP_Light]
+[2025.10.30-05.53.19:387][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/lamp/BP_Light_Auto3
+[2025.10.30-05.53.19:387][857]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Light_Auto3F8DED03F483B19359BC08481D8126A66.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/Fab/lamp/BP_Light_Auto3.uasset'
+[2025.10.30-05.53.19:388][857]LogFileHelpers: Auto-saving content packages took 1.725
+[2025.10.30-05.54.21:381][766]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2025.10.30-05.54.21:381][766]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2025.10.30-05.54.21:382][766]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2025.10.30-05.54.21:397][766]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.10.30-05.54.22:798][822]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.10.30-05.54.22:798][822]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.10.30-05.54.22:826][822]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.10.30-05.54.30:612][329]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-05.54.33:023][478]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-05.54.37:727][769]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-05.54.40:557][941]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-05.54.43:105][109]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-05.54.44:434][195]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-05.54.44:443][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-05.54.44:444][195]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.54.44:524][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080966s)
+[2025.10.30-05.54.44:524][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.081016s)
+[2025.10.30-05.54.44:554][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.30-05.54.44:562][195]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-05.54.44:564][195]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2025.10.30-05.54.44:565][195]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-05.54.44:565][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-05.54.44:565][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-05.54.44:565][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-05.54.44:565][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-05.54.44:565][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-05.54.44:567][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-05.54.44:583][195]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-05.54.44:583][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-05.54.44:583][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-05.54.44:583][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-05.54.44:584][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.10.30-05.54.44:584][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.10.30-05.54.44:586][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.10.30-05.54.44:587][195]LogInit: FAudioDevice initialized with ID 31.
+[2025.10.30-05.54.44:587][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.10.30-05.54.44:587][195]LogAudio: Display: Audio Device (ID: 31) registered with world 'Rural_Cabins'.
+[2025.10.30-05.54.44:587][195]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.30-05.54.44:590][195]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-05.54.44:630][195]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-14.54.44
+[2025.10.30-05.54.44:632][195]LogWorld: Bringing up level for play took: 0.042164
+[2025.10.30-05.54.44:635][195]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.10.30-05.54.44:640][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.10.30-05.54.44:640][195]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.10.30-05.54.44:644][195]PIE: 서버가 로그인했습니다.
+[2025.10.30-05.54.44:645][195]PIE: 에디터에서 플레이 총 시작 시간 0.202초입니다.
+[2025.10.30-05.54.45:096][214]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Total job queries 1,533, among them cache hits 494 (32.22%), DDC hits 394 (25.70%), Duplicates 21 (1.37%)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Tracking 1,018 distinct input hashes that result in 703 distinct outputs (69.06%)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: RAM used: 383.82 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Shaders Compiled: 624
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Jobs assigned 624, completed 624 (100%)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Average time worker was idle: 275.47 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 2.31 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 3.37 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 5.65
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Shader code size: average 8.185 KiB, min 2.691 KiB, max 36.812 KiB
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 134.96 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Jobs were issued in 624 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Average processing rate: 4.62 jobs/sec
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Total thread time: 431.153 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Total thread preprocess time: 19.969 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Percentage time preprocessing: 4.63%
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Effective parallelization: 3.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.27 sec, max 1.71 sec, min 0.83 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.26 sec, max 1.50 sec, min 1.09 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   70 times, average 1.19 sec, max 2.01 sec, min 0.92 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   41 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   41 times, average 0.89 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.33% of total time (compiled   70 times, average 1.19 sec, max 2.01 sec, min 0.92 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.55% of total time (compiled   78 times, average 0.75 sec, max 3.32 sec, min 0.51 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.19% of total time (compiled   66 times, average 0.73 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.31% of total time (compiled   41 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.08% of total time (compiled   71 times, average 0.55 sec, max 1.65 sec, min 0.39 sec)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Materials Translated:    328
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Material Translation Only: 0.09 s (55%)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: Material Cache Hits: 54 (16%)
+[2025.10.30-05.54.49:114][473]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.55.21:299][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.55.21:300][998]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-05.55.21:301][998]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-05.55.21:310][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.55.21:315][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-05.55.21:324][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-05.55.21:351][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-05.55.21:351][998]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.30-05.55.21:351][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.10.30-05.55.21:353][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.10.30-05.55.21:359][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-05.55.21:372][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.30-05.55.21:448][999]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.10.30-05.55.27:012][404]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.30-05.55.27:012][404]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.30-05.55.27:260][415]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.10.30-05.55.28:264][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-05.55.28:271][486]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.30-05.55.28:277][486]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.30-05.55.28:278][486]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.30-05.56.34:791][108]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2025.10.30-05.56.34:791][108]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2025.10.30-05.56.34:795][108]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BlockingVolume_12
+[2025.10.30-05.56.34:797][108]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BlockingVolume_12
+[2025.10.30-05.57.48:640][375]Cmd: DUPLICATE
+[2025.10.30-05.57.48:640][375]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.59.11:206][428]Cmd: DUPLICATE
+[2025.10.30-05.59.11:206][428]Cmd: ACTOR DUPLICATE
+[2025.10.30-05.59.57:617][591]Cmd: DUPLICATE
+[2025.10.30-05.59.57:617][591]Cmd: ACTOR DUPLICATE
+[2025.10.30-06.00.36:328][ 43]Cmd: POLY SELECT ADJACENT WALLS
+[2025.10.30-06.03.56:391][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.30-06.03.56:650][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto4
+[2025.10.30-06.03.56:651][491]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto432B87ED843D84F79EE50A1A2F85CC32C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto4.umap'
+[2025.10.30-06.03.56:654][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.293
+[2025.10.30-06.03.56:654][491]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.293
+[2025.10.30-06.10.15:227][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.30-06.10.16:228][776]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-06.10.16:269][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-06.10.16:372][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-06.10.16:656][776]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/Rural_Cabins
+[2025.10.30-06.10.16:657][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_CabinsBCB6DD004AC6F8F20144458402DC41D5.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap'
+[2025.10.30-06.10.16:674][776]LogFileHelpers: Saving map 'Rural_Cabins' took 0.349
+[2025.10.30-06.10.16:675][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/lamp/BP_Light] ([2] browsable assets)...
+[2025.10.30-06.10.16:675][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/BP_Light]
+[2025.10.30-06.10.16:675][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/lamp/BP_Light" FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/BP_Light.uasset" SILENT=true
+[2025.10.30-06.10.16:677][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/BP_Light
+[2025.10.30-06.10.16:677][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Light6F06A6394FADC32CE166338BE9AC9D07.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/BP_Light.uasset'
+[2025.10.30-06.10.16:681][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture] ([1] browsable assets)...
+[2025.10.30-06.10.16:681][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture]
+[2025.10.30-06.10.16:683][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture
+[2025.10.30-06.10.16:683][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/internal_ground_ao_texture23148A624EA794990C5E6DB4F065E664.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/Additional_Textures/internal_ground_ao_texture.uasset'
+[2025.10.30-06.10.16:684][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/M_Lamp] ([1] browsable assets)...
+[2025.10.30-06.10.16:684][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/M_Lamp]
+[2025.10.30-06.10.16:684][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/lamp/M_Lamp" FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/M_Lamp.uasset" SILENT=true
+[2025.10.30-06.10.16:687][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/M_Lamp
+[2025.10.30-06.10.16:687][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_LampCECB152A4DE24C4037FFC0B61F1EB9F2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/M_Lamp.uasset'
+[2025.10.30-06.10.16:688][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor] ([1] browsable assets)...
+[2025.10.30-06.10.16:688][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor]
+[2025.10.30-06.10.16:723][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor
+[2025.10.30-06.10.16:723][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_BaseColor9198F8FA4892266DCD6832A832CC1289.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/Additional_Textures/M_Lamp_BaseColor.uasset'
+[2025.10.30-06.10.16:725][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive] ([1] browsable assets)...
+[2025.10.30-06.10.16:725][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive]
+[2025.10.30-06.10.16:743][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive
+[2025.10.30-06.10.16:743][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_EmissiveEF9854E74ACF99DF344BE5B742C31F1B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/Additional_Textures/M_Lamp_Emissive.uasset'
+[2025.10.30-06.10.16:744][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic] ([1] browsable assets)...
+[2025.10.30-06.10.16:744][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic]
+[2025.10.30-06.10.16:750][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic
+[2025.10.30-06.10.16:750][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Metallic15D976814AECE4EDDA1B60B03A4AE3B6.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/Additional_Textures/M_Lamp_Metallic.uasset'
+[2025.10.30-06.10.16:752][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Normal] ([1] browsable assets)...
+[2025.10.30-06.10.16:752][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Normal]
+[2025.10.30-06.10.16:778][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/Additional_Textures/M_Lamp_Normal
+[2025.10.30-06.10.16:778][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Normal65783CEC476493B177DDBDB17C057F0F.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/Additional_Textures/M_Lamp_Normal.uasset'
+[2025.10.30-06.10.16:780][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness] ([1] browsable assets)...
+[2025.10.30-06.10.16:780][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness]
+[2025.10.30-06.10.16:797][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness
+[2025.10.30-06.10.16:798][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/M_Lamp_Roughness64F4C7D848FBD2A2CFA2489E0B9EB8FF.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/Additional_Textures/M_Lamp_Roughness.uasset'
+[2025.10.30-06.10.16:799][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/SM_Light] ([1] browsable assets)...
+[2025.10.30-06.10.16:799][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/SM_Light]
+[2025.10.30-06.10.16:799][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/lamp/SM_Light" FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/SM_Light.uasset" SILENT=true
+[2025.10.30-06.10.16:801][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/SM_Light
+[2025.10.30-06.10.16:802][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SM_Light01C8ABC747BBC3DFDEE826A46A1B2FD9.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/SM_Light.uasset'
+[2025.10.30-06.10.16:803][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/SM_Light_002] ([1] browsable assets)...
+[2025.10.30-06.10.16:803][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/SM_Light_002]
+[2025.10.30-06.10.16:806][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/SM_Light_002
+[2025.10.30-06.10.16:806][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SM_Light_0025712712649E7438A5FDEA594EEDFDB45.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/SM_Light_002.uasset'
+[2025.10.30-06.10.16:808][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/lamp/SM_Light_bulb] ([1] browsable assets)...
+[2025.10.30-06.10.16:808][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/lamp/SM_Light_bulb]
+[2025.10.30-06.10.16:811][776]LogSavePackage: Moving output files for package: /Game/Fab/lamp/SM_Light_bulb
+[2025.10.30-06.10.16:811][776]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/SM_Light_bulb33ABA72345646B3BB8C43CA5EA4D4BE3.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Fab/lamp/SM_Light_bulb.uasset'
+[2025.10.30-06.10.16:841][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 571.582 ms (total: 9.37 sec)
+[2025.10.30-06.10.16:890][776]LogContentValidation: Display: Starting to validate 12 assets
+[2025.10.30-06.10.16:890][776]LogContentValidation: Enabled validators:
+[2025.10.30-06.10.16:890][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-06.10.16:890][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-06.10.16:890][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-06.10.16:890][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-06.10.16:890][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-06.10.16:890][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-06.10.16:891][776]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
+[2025.10.30-06.10.16:891][776]AssetCheck: /Game/Fab/lamp/BP_Light 에셋 유효성 검사 중
+[2025.10.30-06.10.16:891][776]AssetCheck: /Game/Fab/lamp/Additional_Textures/internal_ground_ao_texture 에셋 유효성 검사 중
+[2025.10.30-06.10.16:891][776]AssetCheck: /Game/Fab/lamp/M_Lamp 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/Additional_Textures/M_Lamp_BaseColor 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/Additional_Textures/M_Lamp_Emissive 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/Additional_Textures/M_Lamp_Metallic 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/Additional_Textures/M_Lamp_Normal 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/Additional_Textures/M_Lamp_Roughness 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/SM_Light 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/SM_Light_002 에셋 유효성 검사 중
+[2025.10.30-06.10.16:892][776]AssetCheck: /Game/Fab/lamp/SM_Light_bulb 에셋 유효성 검사 중
