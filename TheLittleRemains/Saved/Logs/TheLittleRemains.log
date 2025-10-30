@@ -7485,3 +7485,1183 @@ Sampler Limit: 32
 [2025.10.30-01.24.45:989][516]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
 [2025.10.30-01.24.45:989][516]LogShaderCompilers: Display: Material Cache Hits: 53 (19%)
 [2025.10.30-01.24.45:989][516]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.32.37:460][725]LogStreaming: Display: FlushAsyncLoading(817): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.32.37:478][725]LogStaticMesh: Display: SM_Classic_table스태틱 메시 빌드 중(필요 메모리 예상: 4.157512MB)...
+[2025.10.30-01.32.37:505][725]LogStaticMesh: Built static mesh [0.03s] /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2025.10.30-01.32.37:550][726]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_table_a.T_Classic_table_a(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.32.37:580][726]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_table_n.T_Classic_table_n(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-01.32.37:588][726]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_table_m_r_ao.T_Classic_table_m_r_ao(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.32.37:646][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2025.10.30-01.32.37:646][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2025.10.30-01.32.37:647][727]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_0
+[2025.10.30-01.32.38:489][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-01.32.38:492][760]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.30-01.32.38:501][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2025.10.30-01.32.38:501][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2025.10.30-01.32.38:504][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_2
+[2025.10.30-01.33.03:593][483]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FreeFurniturePack/Materials/M_Classic_table.M_Classic_table
+[2025.10.30-01.33.03:597][483]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.30-01.33.03:983][483]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-01.33.03:983][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-01.33.03:983][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-01.33.03:983][483]MaterialEditorStats: Shader Count: 0
+[2025.10.30-01.33.03:983][483]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: Shader Count: 5
+[2025.10.30-01.33.04:075][485]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-01.33.12:741][236]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FreeFurniturePack/Textures/T_Classic_table_a.T_Classic_table_a
+[2025.10.30-01.33.13:114][236]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-01.33.13:114][236]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-01.33.13:114][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-01.33.13:114][236]MaterialEditorStats: Shader Count: 0
+[2025.10.30-01.33.13:114][236]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: Shader Count: 5
+[2025.10.30-01.33.13:217][237]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-01.33.18:119][775]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_table_a.T_Classic_table_a(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 280.999983MB), 인코딩 속도: Final
+[2025.10.30-01.33.22:232][251]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_table_a.T_Classic_table_a(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 280.999983MB), 인코딩 속도: Final
+[2025.10.30-01.33.24:519][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-01.33.24:593][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FreeFurniturePack/Textures/T_Classic_table_a] ([1] browsable assets)...
+[2025.10.30-01.33.24:626][507]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FreeFurniturePack/Textures/T_Classic_table_a.T_Classic_table_a]
+[2025.10.30-01.33.24:626][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeFurniturePack/Textures/T_Classic_table_a]
+[2025.10.30-01.33.24:727][507]LogSavePackage: Moving output files for package: /Game/FreeFurniturePack/Textures/T_Classic_table_a
+[2025.10.30-01.33.24:728][507]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/T_Classic_table_aA71144124B9BCE90126D99BFDD06EFCA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/FreeFurniturePack/Textures/T_Classic_table_a.uasset'
+[2025.10.30-01.33.24:744][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.731 ms (total: 6.39 sec)
+[2025.10.30-01.33.24:795][507]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-01.33.24:795][507]LogContentValidation: Enabled validators:
+[2025.10.30-01.33.24:795][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-01.33.24:795][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-01.33.24:795][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-01.33.24:795][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-01.33.24:795][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-01.33.24:795][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-01.33.24:795][507]AssetCheck: /Game/FreeFurniturePack/Textures/T_Classic_table_a 에셋 유효성 검사 중
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Total job queries 1,184, among them cache hits 369 (31.17%), DDC hits 349 (29.48%), Duplicates 20 (1.69%)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Tracking 795 distinct input hashes that result in 553 distinct outputs (69.56%)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: RAM used: 324.03 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Shaders Compiled: 446
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Jobs assigned 446, completed 446 (100%)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Average time worker was idle: 64.96 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.93 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 3.37 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 4.07
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Shader code size: average 8.066 KiB, min 3.188 KiB, max 36.812 KiB
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.75 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Jobs were issued in 446 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Average processing rate: 5.97 jobs/sec
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Total thread time: 281.86 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Total thread preprocess time: 15.075 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Percentage time preprocessing: 5.35%
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   44 times, average 1.07 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   42 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.64% of total time (compiled   44 times, average 1.07 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.97% of total time (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 12.40% of total time (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.73% of total time (compiled   52 times, average 0.64 sec, max 1.04 sec, min 0.51 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.06% of total time (compiled   42 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Materials Translated:    283
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Material Translation Only: 0.07 s (57%)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: Material Cache Hits: 53 (19%)
+[2025.10.30-01.33.46:066][963]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.34.44:925][761]LogStreaming: Display: FlushAsyncLoading(818): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.34.44:932][761]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_NormalPlaceHolder.T_NormalPlaceHolder(TFO_BC5, 128x128 x1x1x1)(예상 필요 메모리: 5.62493MB), 인코딩 속도: Fast
+[2025.10.30-01.34.44:942][761]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Wood_R.T_Wood_R(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 99.583323MB), 인코딩 속도: Fast
+[2025.10.30-01.34.44:961][761]LogStaticMesh: Display: SM_Commode스태틱 메시 빌드 중(필요 메모리 예상: 4.215223MB)...
+[2025.10.30-01.34.44:963][761]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Wood_N.T_Wood_N(TFO_BC5, 1024x1024 x1x1x1)(예상 필요 메모리: 169.499988MB), 인코딩 속도: Fast
+[2025.10.30-01.34.44:965][761]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Wood_A.T_Wood_A(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-01.34.44:996][761]LogStaticMesh: Built static mesh [0.04s] /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.45:291][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.45:291][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.45:292][771]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_3
+[2025.10.30-01.34.46:041][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.10.30-01.34.46:117][796]LogEditorActor: Deleted 0 Actors (0.173 secs)
+[2025.10.30-01.34.46:501][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.46:501][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.46:503][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_4
+[2025.10.30-01.34.46:870][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.30-01.34.46:920][829]LogEditorActor: Deleted 0 Actors (0.073 secs)
+[2025.10.30-01.34.46:929][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.46:929][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode
+[2025.10.30-01.34.46:931][829]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_5
+[2025.10.30-01.36.26:747][717]LogStreaming: Display: FlushAsyncLoading(819): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.36.26:770][717]LogStaticMesh: Display: SM_Classic_chair스태틱 메시 빌드 중(필요 메모리 예상: 3.798271MB)...
+[2025.10.30-01.36.26:793][717]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair
+[2025.10.30-01.36.26:854][718]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_chair_a.T_Classic_chair_a(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.36.26:891][718]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_chair_m_r_ao.T_Classic_chair_m_r_ao(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.36.26:900][719]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_chair_n.T_Classic_chair_n(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-01.36.26:913][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair
+[2025.10.30-01.36.26:913][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair
+[2025.10.30-01.36.26:914][719]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_6
+[2025.10.30-01.36.27:468][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-01.36.27:475][742]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.30-01.36.27:483][742]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair
+[2025.10.30-01.36.27:483][742]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair
+[2025.10.30-01.36.27:486][742]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_chair.SM_Classic_chair as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_7
+[2025.10.30-01.36.46:066][978]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Total job queries 1,202, among them cache hits 369 (30.70%), DDC hits 349 (29.03%), Duplicates 20 (1.66%)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Tracking 813 distinct input hashes that result in 565 distinct outputs (69.50%)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: RAM used: 327.67 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Shaders Compiled: 464
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Jobs assigned 464, completed 464 (100%)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Average time worker was idle: 86.35 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.06 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 3.37 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 4.07
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Shader code size: average 8.068 KiB, min 3.188 KiB, max 36.812 KiB
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 78.49 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Jobs were issued in 464 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Average processing rate: 5.91 jobs/sec
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Total thread time: 294.892 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Total thread preprocess time: 15.322 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Percentage time preprocessing: 5.20%
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Effective parallelization: 3.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   47 times, average 1.08 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   45 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.22% of total time (compiled   47 times, average 1.08 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.31% of total time (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.03% of total time (compiled   55 times, average 0.64 sec, max 1.04 sec, min 0.51 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.85% of total time (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.34% of total time (compiled   45 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Materials Translated:    286
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Material Translation Only: 0.07 s (56%)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: Material Cache Hits: 53 (19%)
+[2025.10.30-01.36.46:067][978]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.38.11:997][900]LogStreaming: Display: FlushAsyncLoading(820): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.38.12:007][900]LogStaticMesh: Display: SM_Classic_Picture스태틱 메시 빌드 중(필요 메모리 예상: 0.153108MB)...
+[2025.10.30-01.38.12:009][900]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture
+[2025.10.30-01.38.12:036][900]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Art_2.T_Art_2(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-01.38.12:073][900]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_Picture_n.T_Classic_Picture_n(TFO_BC5, 2048x2048 x1x1x1)(예상 필요 메모리: 337.499988MB), 인코딩 속도: Fast
+[2025.10.30-01.38.12:107][901]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_Picture_M_R_AO.T_Classic_Picture_M_R_AO(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 288.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.38.12:206][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture
+[2025.10.30-01.38.12:206][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture
+[2025.10.30-01.38.12:208][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_8
+[2025.10.30-01.38.12:230][902]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_Picture_A.T_Classic_Picture_A(TFO_AutoDXT, 2048x2048 x1x1x1)(예상 필요 메모리: 304.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.38.13:181][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-01.38.13:188][937]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.30-01.38.13:196][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture
+[2025.10.30-01.38.13:196][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture
+[2025.10.30-01.38.13:200][937]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_9
+[2025.10.30-01.38.45:807][ 94]LogStreaming: Display: FlushAsyncLoading(821): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.38.45:814][ 94]LogStaticMesh: Display: SM_Picture스태틱 메시 빌드 중(필요 메모리 예상: 0.140544MB)...
+[2025.10.30-01.38.45:815][ 94]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture
+[2025.10.30-01.38.45:842][ 94]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Art_1.T_Art_1(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.10.30-01.38.46:007][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture
+[2025.10.30-01.38.46:007][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture
+[2025.10.30-01.38.46:008][ 97]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_10
+[2025.10.30-01.38.47:114][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.30-01.38.47:119][150]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.30-01.38.47:125][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture
+[2025.10.30-01.38.47:126][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture
+[2025.10.30-01.38.47:128][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_11
+[2025.10.30-01.39.12:122][884]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-01.39.37:337][144]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Total job queries 1,227, among them cache hits 375 (30.56%), DDC hits 349 (28.44%), Duplicates 20 (1.63%)
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Tracking 832 distinct input hashes that result in 578 distinct outputs (69.47%)
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: RAM used: 331.58 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Shaders Compiled: 483
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Jobs assigned 483, completed 483 (100%)
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Average time worker was idle: 85.98 s
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.22 s
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 3.37 s
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 4.07
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Shader code size: average 8.077 KiB, min 3.188 KiB, max 36.812 KiB
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 82.19 s
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Jobs were issued in 483 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Average processing rate: 5.88 jobs/sec
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Total thread time: 309.8 s
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Total thread preprocess time: 15.725 s
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Percentage time preprocessing: 5.08%
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   51 times, average 1.10 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-01.39.46:068][696]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   48 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.09% of total time (compiled   51 times, average 1.10 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.62% of total time (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.26% of total time (compiled   58 times, average 0.65 sec, max 1.04 sec, min 0.51 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.28% of total time (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.51% of total time (compiled   48 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Materials Translated:    290
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Material Translation Only: 0.07 s (56%)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: Material Cache Hits: 53 (18%)
+[2025.10.30-01.39.46:069][696]LogShaderCompilers: Display: ================================================
+[2025.10.30-01.41.11:046][687]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-01.41.12:052][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2
+[2025.10.30-01.41.12:052][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2
+[2025.10.30-01.41.12:053][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_12
+[2025.10.30-01.41.12:833][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.30-01.41.12:840][807]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-01.41.12:847][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2
+[2025.10.30-01.41.12:847][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2
+[2025.10.30-01.41.12:850][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_13
+[2025.10.30-01.42.35:509][257]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-01.42.35:519][257]LogPlayLevel: [PlayLevel] Compiling BP_Sofa1 before play...
+[2025.10.30-01.42.35:589][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.30-01.42.35:592][257]LogPlayLevel: PlayLevel: Blueprint regeneration took 73 ms (1 blueprints)
+[2025.10.30-01.42.35:630][257]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-01.42.35:700][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070548s)
+[2025.10.30-01.42.35:701][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.070594s)
+[2025.10.30-01.42.35:719][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.30-01.42.35:722][257]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-01.42.35:724][257]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2025.10.30-01.42.35:725][257]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-01.42.35:725][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-01.42.35:725][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-01.42.35:725][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-01.42.35:725][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-01.42.35:725][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-01.42.35:727][257]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-01.42.35:743][257]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-01.42.35:744][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-01.42.35:744][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-01.42.35:744][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-01.42.35:744][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.30-01.42.35:744][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.30-01.42.35:747][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.30-01.42.35:747][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.30-01.42.35:747][257]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.30-01.42.35:747][257]LogAudio: Display: Audio Device (ID: 3) registered with world 'Rural_Cabins'.
+[2025.10.30-01.42.35:747][257]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.30-01.42.35:750][257]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-01.42.35:786][257]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-10.42.35
+[2025.10.30-01.42.35:787][257]LogWorld: Bringing up level for play took: 0.037039
+[2025.10.30-01.42.35:789][257]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.10.30-01.42.35:797][257]PIE: 서버가 로그인했습니다.
+[2025.10.30-01.42.35:798][257]PIE: 에디터에서 플레이 총 시작 시간 0.28초입니다.
+[2025.10.30-01.42.35:846][258]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.36:116][271]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.36:769][325]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.37:116][356]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.37:775][410]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.38:119][437]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.38:771][488]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.39:112][515]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.39:774][570]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.40:109][599]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.40:773][657]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.41:114][688]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.41:776][746]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.42:109][775]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.42:775][833]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.43:117][862]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.43:767][916]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.44:117][944]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.44:777][998]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.45:111][ 25]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.45:766][ 76]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.46:115][103]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.46:771][154]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.47:114][181]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.47:773][235]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.48:044][258]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.48:110][264]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.48:773][323]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.49:120][353]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.49:767][406]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.50:110][434]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.50:769][489]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.50:817][493]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.51:112][518]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.51:771][574]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.52:117][604]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.52:774][661]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.53:120][691]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.53:767][745]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.54:114][772]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.54:767][822]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.55:111][850]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.55:774][904]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.56:109][932]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.56:331][950]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.56:766][985]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.57:109][ 14]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.57:446][ 42]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.57:773][ 69]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.42.58:109][ 97]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.42.58:765][154]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.42.59:110][184]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.42.59:770][241]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.00:120][271]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.00:767][325]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.01:119][355]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.01:766][407]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.02:121][435]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.02:772][486]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.03:112][513]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.03:767][567]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.04:110][596]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.04:771][654]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.05:110][684]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.05:771][742]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.06:114][770]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.06:765][826]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.07:115][857]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.07:773][914]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.08:114][944]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.08:775][  5]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.09:110][ 35]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.09:772][ 94]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.10:115][124]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.10:776][179]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.11:120][206]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.11:769][258]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.12:114][286]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.12:773][338]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.13:113][363]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.13:771][411]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.14:116][437]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.14:765][486]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.15:112][512]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.15:769][562]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.16:122][589]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.16:775][639]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.17:116][665]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.17:768][715]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.18:114][742]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.18:777][799]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.19:111][828]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.19:769][884]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.20:118][912]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.20:775][964]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.21:114][992]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.21:767][ 47]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.22:111][ 76]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.22:772][132]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.23:112][161]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.23:775][217]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.24:109][245]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.24:726][294]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.24:777][298]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.25:115][325]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.25:723][374]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.25:773][378]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.26:120][406]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.26:772][463]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.27:115][493]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.27:772][550]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.28:118][580]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.28:772][636]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.29:110][665]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.29:771][718]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.30:111][745]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.30:769][798]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.31:117][826]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.31:772][880]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.32:120][909]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.32:767][966]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.33:115][997]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.33:138][999]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.33:463][ 27]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.33:767][ 55]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.34:111][ 86]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.34:768][145]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.43.35:120][174]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.43.35:772][231]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.43.36:119][262]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.43.36:499][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-01.43.36:499][294]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-01.43.36:500][294]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-01.43.36:509][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-01.43.36:515][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-01.43.36:525][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-01.43.36:547][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-01.43.36:551][294]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.30-01.43.36:551][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.30-01.43.36:553][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.30-01.43.36:570][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.30-01.43.36:660][295]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.10.30-01.44.15:631][986]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-01.44.19:753][321]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-01.44.22:112][512]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-01.44.23:816][652]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-01.44.24:850][733]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-01.44.24:859][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-01.44.24:888][733]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-01.44.24:957][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068996s)
+[2025.10.30-01.44.24:957][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.069048s)
+[2025.10.30-01.44.24:978][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.30-01.44.24:982][733]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-01.44.24:984][733]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2025.10.30-01.44.24:985][733]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-01.44.24:986][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-01.44.24:986][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-01.44.24:986][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-01.44.24:986][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-01.44.24:986][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-01.44.24:988][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-01.44.25:004][733]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-01.44.25:004][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-01.44.25:004][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-01.44.25:004][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-01.44.25:004][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.30-01.44.25:004][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.30-01.44.25:007][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.30-01.44.25:007][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.30-01.44.25:007][733]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.30-01.44.25:007][733]LogAudio: Display: Audio Device (ID: 4) registered with world 'Rural_Cabins'.
+[2025.10.30-01.44.25:007][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.30-01.44.25:010][733]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-01.44.25:047][733]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-10.44.25
+[2025.10.30-01.44.25:048][733]LogWorld: Bringing up level for play took: 0.037708
+[2025.10.30-01.44.25:051][733]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.10.30-01.44.25:058][733]PIE: 서버가 로그인했습니다.
+[2025.10.30-01.44.25:059][733]PIE: 에디터에서 플레이 총 시작 시간 0.201초입니다.
+[2025.10.30-01.44.25:207][735]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.25:455][751]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.26:111][809]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.26:457][838]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.27:111][891]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.27:457][918]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.28:111][970]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.28:455][996]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.29:119][ 47]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.29:452][ 73]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.30:109][126]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.30:463][154]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.31:118][205]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.31:457][231]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.32:119][282]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.32:452][308]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.33:108][359]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.33:456][386]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.34:116][437]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.34:464][464]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.35:112][514]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.35:459][541]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.36:298][556]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.36:631][557]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.37:297][559]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.37:632][560]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.38:245][582]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.38:578][583]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.39:245][585]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.39:578][586]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.40:244][588]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.40:578][589]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.41:246][591]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.41:578][592]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.42:246][594]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.42:579][595]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.43:246][597]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.43:579][598]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.44:246][600]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.44:579][601]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.45:245][603]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.45:579][604]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.46:246][606]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.46:579][607]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.47:246][609]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.47:463][620]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.48:114][671]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.48:457][698]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.49:110][749]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.49:452][776]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.50:112][828]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.50:455][855]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.51:107][906]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.51:453][933]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.52:115][986]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.52:456][ 13]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.53:110][ 65]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.53:451][ 92]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.54:113][145]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.54:460][173]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.55:116][226]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.55:453][252]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.56:113][305]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.56:453][334]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.57:117][389]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.57:458][416]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.44.58:112][469]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.44.58:461][497]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.44.59:110][549]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.44.59:456][579]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.00:113][636]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.00:459][666]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.01:109][722]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.01:450][752]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.02:114][809]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.02:453][838]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.03:117][894]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.03:458][923]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.04:117][979]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.04:458][  8]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.04:518][ 13]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.05:111][ 64]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.05:454][ 94]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.05:598][107]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.06:112][154]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.06:454][185]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.07:108][243]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.07:453][271]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.08:109][324]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.08:455][352]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.09:118][406]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.09:450][433]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.10:117][492]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.10:453][521]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.11:112][577]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.11:453][606]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.12:118][665]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.12:450][694]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.12:941][735]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.13:120][750]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.13:457][778]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.14:111][833]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.14:287][848]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.14:454][862]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.15:119][918]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.15:457][947]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.16:111][  3]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.16:451][ 33]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.17:111][ 91]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.17:457][120]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.18:110][176]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.18:451][206]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.19:109][259]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.19:461][286]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.20:111][335]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.20:459][363]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.21:112][416]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.21:456][445]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.22:110][500]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.22:451][529]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.45.23:109][585]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.45.23:453][614]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.45.24:114][670]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.45.24:458][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-01.45.24:458][696]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-01.45.24:459][696]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-01.45.24:469][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-01.45.24:474][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-01.45.24:483][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-01.45.24:501][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-01.45.24:505][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.30-01.45.24:505][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.30-01.45.24:507][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.30-01.45.24:525][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.10.30-01.45.24:598][697]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.10.30-01.45.57:842][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.30-01.45.58:076][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto3
+[2025.10.30-01.45.58:076][251]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto3DF208DB64498A22B639065AEA1BC5665.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto3.umap'
+[2025.10.30-01.45.58:078][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.255
+[2025.10.30-01.45.58:078][251]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.255
+[2025.10.30-01.46.18:799][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl
+[2025.10.30-01.46.18:799][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl
+[2025.10.30-01.46.18:800][  2]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_14
+[2025.10.30-01.46.21:028][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-01.46.21:031][154]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.30-01.46.21:038][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl
+[2025.10.30-01.46.21:038][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl
+[2025.10.30-01.46.21:041][154]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_15
+[2025.10.30-01.46.22:739][280]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.30-01.46.25:989][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1
+[2025.10.30-01.46.25:989][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1
+[2025.10.30-01.46.25:990][457]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_16
+[2025.10.30-01.46.27:068][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-01.46.27:073][519]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.30-01.46.27:080][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1
+[2025.10.30-01.46.27:080][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1
+[2025.10.30-01.46.27:082][519]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_17
+[2025.10.30-01.46.31:064][790]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.46.31:066][790]LogStaticMesh: Display: Log_2스태틱 메시 빌드 중(필요 메모리 예상: 1.089658MB)...
+[2025.10.30-01.46.31:074][790]LogStaticMesh: Built static mesh [0.01s] /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2
+[2025.10.30-01.46.31:325][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2
+[2025.10.30-01.46.31:325][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2
+[2025.10.30-01.46.31:326][797]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_18
+[2025.10.30-01.46.32:219][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.30-01.46.32:224][852]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-01.46.32:230][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2
+[2025.10.30-01.46.32:230][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2
+[2025.10.30-01.46.32:233][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_19
+[2025.10.30-01.46.34:447][994]Cmd: DELETE
+[2025.10.30-01.46.34:447][994]Cmd: ACTOR DELETE
+[2025.10.30-01.46.34:465][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.46.34:486][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-01.46.34:491][994]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.10.30-01.47.42:951][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3
+[2025.10.30-01.47.42:951][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3
+[2025.10.30-01.47.42:952][538]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_20
+[2025.10.30-01.47.43:875][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.47.43:880][592]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.30-01.47.43:887][592]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3
+[2025.10.30-01.47.43:887][592]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3
+[2025.10.30-01.47.43:890][592]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_21
+[2025.10.30-01.48.09:093][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.48.09:093][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.48.09:095][265]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_22
+[2025.10.30-01.48.09:874][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-01.48.09:878][310]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.30-01.48.09:885][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.48.09:885][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.48.09:888][310]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_23
+[2025.10.30-01.48.20:796][ 72]Cmd: DELETE
+[2025.10.30-01.48.20:796][ 72]Cmd: ACTOR DELETE
+[2025.10.30-01.48.20:814][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.48.20:835][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-01.48.20:839][ 72]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.10.30-01.48.21:631][125]Cmd: DELETE
+[2025.10.30-01.48.21:631][125]Cmd: ACTOR DELETE
+[2025.10.30-01.48.21:649][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.48.21:669][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.48.21:673][125]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.30-01.48.23:565][281]Cmd: POLY SELECT ADJACENT WALLS
+[2025.10.30-01.48.30:641][817]Cmd: DUPLICATE
+[2025.10.30-01.48.30:641][817]Cmd: ACTOR DUPLICATE
+[2025.10.30-01.49.10:169][352]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.0.47:58778, Sequence=0
+[2025.10.30-01.49.10:169][352]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.0.47:58778, Sequence=0
+[2025.10.30-01.49.10:169][352]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.0.47:58778, Sequence=0
+[2025.10.30-01.49.10:169][352]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.0.47:58778, Sequence=0
+[2025.10.30-01.49.17:646][848]Cmd: DELETE
+[2025.10.30-01.49.17:646][848]Cmd: ACTOR DELETE
+[2025.10.30-01.49.17:664][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.49.17:686][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.30-01.49.17:691][848]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.10.30-01.49.19:826][  3]Cmd: DUPLICATE
+[2025.10.30-01.49.19:826][  3]Cmd: ACTOR DUPLICATE
+[2025.10.30-01.49.45:256][810]Cmd: DELETE
+[2025.10.30-01.49.45:256][810]Cmd: ACTOR DELETE
+[2025.10.30-01.49.45:275][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.49.45:297][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.30-01.49.45:301][810]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.10.30-01.49.46:275][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2
+[2025.10.30-01.49.46:275][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2
+[2025.10.30-01.49.46:276][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_26
+[2025.10.30-01.49.48:737][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-01.49.48:742][ 48]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-01.49.48:748][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2
+[2025.10.30-01.49.48:749][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2
+[2025.10.30-01.49.48:751][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_27
+[2025.10.30-01.50.15:253][890]Cmd: DELETE
+[2025.10.30-01.50.15:253][890]Cmd: ACTOR DELETE
+[2025.10.30-01.50.15:271][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.50.15:293][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-01.50.15:296][890]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.10.30-01.50.16:145][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1
+[2025.10.30-01.50.16:145][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1
+[2025.10.30-01.50.16:146][940]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_28
+[2025.10.30-01.50.16:761][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.50.16:766][981]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-01.50.16:773][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1
+[2025.10.30-01.50.16:773][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1
+[2025.10.30-01.50.16:776][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_29
+[2025.10.30-01.50.20:243][226]Cmd: DELETE
+[2025.10.30-01.50.20:243][226]Cmd: ACTOR DELETE
+[2025.10.30-01.50.20:261][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.50.20:280][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.50.20:284][226]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.10.30-01.50.46:427][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.50.46:427][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.50.46:428][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_30
+[2025.10.30-01.50.48:009][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-01.50.48:015][  0]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.30-01.50.48:022][  0]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.50.48:022][  0]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.50.48:024][  0]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_31
+[2025.10.30-01.50.49:042][ 44]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.50.49:042][ 44]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.50.49:043][ 44]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_32
+[2025.10.30-01.50.50:295][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.30-01.50.50:298][118]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.30-01.50.50:305][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.50.50:305][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.50.50:308][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_33
+[2025.10.30-01.51.23:336][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.51.23:336][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.51.23:337][230]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_34
+[2025.10.30-01.51.23:973][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.30-01.51.23:977][266]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.30-01.51.23:983][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.51.23:983][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5
+[2025.10.30-01.51.23:986][266]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_35
+[2025.10.30-01.51.30:793][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.51.30:794][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.51.30:795][693]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_36
+[2025.10.30-01.51.31:372][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.51.31:375][723]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.30-01.51.31:381][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.51.31:382][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6
+[2025.10.30-01.51.31:384][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_37
+[2025.10.30-01.51.42:828][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.51.42:828][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.51.42:829][431]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_38
+[2025.10.30-01.51.43:541][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-01.51.43:546][472]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-01.51.43:553][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.51.43:553][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.51.43:556][472]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_39
+[2025.10.30-01.51.49:039][852]Cmd: DELETE
+[2025.10.30-01.51.49:039][852]Cmd: ACTOR DELETE
+[2025.10.30-01.51.49:058][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.51.49:078][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-01.51.49:083][852]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.10.30-01.51.50:047][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.51.50:047][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.51.50:048][905]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_40
+[2025.10.30-01.51.51:609][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.30-01.51.51:614][ 11]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.30-01.51.51:620][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.51.51:620][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.51.51:623][ 11]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_41
+[2025.10.30-01.51.55:633][278]Cmd: DELETE
+[2025.10.30-01.51.55:633][278]Cmd: ACTOR DELETE
+[2025.10.30-01.51.55:650][278]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.51.55:668][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-01.51.55:672][278]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.10.30-01.51.56:245][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.51.56:245][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.51.56:246][307]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_42
+[2025.10.30-01.51.56:879][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-01.51.56:884][353]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.30-01.51.56:890][353]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.51.56:890][353]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3
+[2025.10.30-01.51.56:893][353]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_43
+[2025.10.30-01.52.49:290][994]Cmd: TRANSACTION UNDO
+[2025.10.30-01.52.49:290][994]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.52.50:041][ 15]Cmd: TRANSACTION UNDO
+[2025.10.30-01.52.50:041][ 15]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.52.52:107][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.52.52:107][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.52.52:108][123]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_44
+[2025.10.30-01.52.53:140][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.52.53:143][180]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.30-01.52.53:150][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.52.53:150][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1
+[2025.10.30-01.52.53:152][180]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_45
+[2025.10.30-01.52.57:336][483]Cmd: DELETE
+[2025.10.30-01.52.57:337][483]Cmd: ACTOR DELETE
+[2025.10.30-01.52.57:354][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.52.57:372][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.30-01.52.57:376][483]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.10.30-01.52.58:409][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.52.58:409][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.52.58:410][549]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_46
+[2025.10.30-01.52.59:262][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-01.52.59:266][606]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.30-01.52.59:273][606]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.52.59:273][606]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2
+[2025.10.30-01.52.59:276][606]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2 as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_47
+[2025.10.30-01.53.00:486][685]Cmd: DELETE
+[2025.10.30-01.53.00:486][685]Cmd: ACTOR DELETE
+[2025.10.30-01.53.00:504][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.53.00:525][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-01.53.00:528][685]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.30-01.53.19:503][196]Cmd: TRANSACTION UNDO
+[2025.10.30-01.53.19:503][196]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2025.10.30-01.53.37:728][421]Cmd: TRANSACTION UNDO
+[2025.10.30-01.53.37:728][421]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.53.38:336][432]Cmd: TRANSACTION UNDO
+[2025.10.30-01.53.38:336][432]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.53.38:908][457]Cmd: TRANSACTION UNDO
+[2025.10.30-01.53.38:908][457]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.54.03:139][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door
+[2025.10.30-01.54.03:139][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door
+[2025.10.30-01.54.03:140][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_48
+[2025.10.30-01.54.04:487][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-01.54.04:491][105]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-01.54.04:498][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door
+[2025.10.30-01.54.04:498][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door
+[2025.10.30-01.54.04:501][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_49
+[2025.10.30-01.54.34:441][  6]Cmd: DELETE
+[2025.10.30-01.54.34:441][  6]Cmd: ACTOR DELETE
+[2025.10.30-01.54.34:459][  6]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.54.34:480][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-01.54.34:486][  6]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.10.30-01.54.39:078][309]Cmd: TRANSACTION UNDO
+[2025.10.30-01.54.39:078][309]LogEditorTransaction: Undo 엘리먼트 클릭
+[2025.10.30-01.54.40:400][364]Cmd: TRANSACTION UNDO
+[2025.10.30-01.54.40:400][364]LogEditorTransaction: Undo 엘리먼트 클릭
+[2025.10.30-01.54.42:083][476]Cmd: TRANSACTION UNDO
+[2025.10.30-01.54.42:083][476]LogEditorTransaction: Undo 엘리먼트 삭제
+[2025.10.30-01.55.12:169][374]Cmd: DELETE
+[2025.10.30-01.55.12:169][374]Cmd: ACTOR DELETE
+[2025.10.30-01.55.12:187][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.55.12:208][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.30-01.55.12:212][374]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.10.30-01.55.45:558][832]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.30-01.55.45:566][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-01.55.45:592][832]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-01.55.45:663][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070318s)
+[2025.10.30-01.55.45:663][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins to /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins (0.070364s)
+[2025.10.30-01.55.45:684][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.30-01.55.45:688][832]LogChaosDD: Creating Chaos Debug Draw Scene for world Rural_Cabins
+[2025.10.30-01.55.45:690][832]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2025.10.30-01.55.45:692][832]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-01.55.45:692][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-01.55.45:692][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-01.55.45:692][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-01.55.45:692][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-01.55.45:692][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-01.55.45:695][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-01.55.45:712][832]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.30-01.55.45:713][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-01.55.45:713][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-01.55.45:713][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-01.55.45:713][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.30-01.55.45:714][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.30-01.55.45:716][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.30-01.55.45:716][832]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.30-01.55.45:716][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.30-01.55.45:716][832]LogAudio: Display: Audio Device (ID: 5) registered with world 'Rural_Cabins'.
+[2025.10.30-01.55.45:716][832]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.30-01.55.45:720][832]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.10.30-01.55.45:757][832]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins.Rural_Cabins up for play (max tick rate 0) at 2025.10.30-10.55.45
+[2025.10.30-01.55.45:758][832]LogWorld: Bringing up level for play took: 0.037496
+[2025.10.30-01.55.45:760][832]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.10.30-01.55.45:768][832]PIE: 서버가 로그인했습니다.
+[2025.10.30-01.55.45:769][832]PIE: 에디터에서 플레이 총 시작 시간 0.203초입니다.
+[2025.10.30-01.55.45:821][833]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.46:156][846]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.46:818][896]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.47:159][923]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.47:827][973]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.48:168][997]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.48:825][ 47]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.49:165][ 73]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.49:819][122]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.50:164][149]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.50:815][197]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.51:166][224]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.51:812][274]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.52:160][300]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.52:815][351]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.53:163][378]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.53:821][430]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.54:166][457]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.54:824][508]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.55:163][534]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.55:825][586]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.56:159][612]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.56:821][664]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.57:159][690]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.57:815][741]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.55.58:158][768]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.55.58:824][817]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.55.59:158][842]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.55.59:815][892]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.00:158][918]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.00:826][969]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.01:168][996]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.01:471][ 19]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.01:654][ 33]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.01:814][ 45]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.02:166][ 73]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.02:420][ 93]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.02:824][125]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.02:914][132]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.03:162][152]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.03:822][204]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.04:167][231]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.04:814][282]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.05:160][309]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.05:815][361]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.06:163][388]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.06:813][438]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.07:157][464]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.07:816][515]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.08:157][541]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.08:821][592]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.09:158][618]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.09:817][668]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.10:165][694]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.10:822][745]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.11:168][772]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.11:821][825]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.12:162][853]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.12:235][859]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.12:395][872]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.12:820][906]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.13:161][933]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.13:815][986]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.14:168][ 14]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.14:816][ 65]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.15:168][ 93]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.15:734][137]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.15:821][144]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.16:161][169]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.16:640][205]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.16:717][211]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.16:767][215]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.16:822][219]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.17:168][244]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.17:816][294]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.18:161][320]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.18:816][370]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.19:166][397]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.19:819][447]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.19:820][447]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.20:160][473]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.20:257][480]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.20:816][523]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.21:158][550]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.21:710][594]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.21:823][603]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.22:163][630]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.22:820][683]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.23:163][710]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.23:813][761]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.24:164][788]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.24:826][840]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.10.30-01.56.25:164][866]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.10.30-01.56.25:823][916]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] BP_WeaponPickupMaster
+[2025.10.30-01.56.26:167][943]LogBlueprintUserMessages: [BP_WeaponPickupMaster_C_1] ItemNone
+[2025.10.30-01.56.26:503][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-01.56.26:503][967]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_Rural_Cabins
+[2025.10.30-01.56.26:504][967]LogWorld: UWorld::CleanupWorld for Rural_Cabins, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-01.56.26:513][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-01.56.26:520][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-01.56.26:528][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-01.56.26:547][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-01.56.26:551][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.30-01.56.26:552][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.30-01.56.26:554][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.30-01.56.26:570][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.30-01.56.26:661][968]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.10.30-01.56.33:884][459]Cmd: DUPLICATE
+[2025.10.30-01.56.33:884][459]Cmd: ACTOR DUPLICATE
+[2025.10.30-01.56.56:081][902]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.56:081][902]LogEditorTransaction: Undo 엘리먼트 회전
+[2025.10.30-01.56.56:923][927]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.56:923][927]LogEditorTransaction: Undo 엘리먼트 회전
+[2025.10.30-01.56.57:516][952]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.57:516][952]LogEditorTransaction: Undo 엘리먼트 회전
+[2025.10.30-01.56.58:137][979]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.58:137][979]LogEditorTransaction: Undo 엘리먼트 회전
+[2025.10.30-01.56.58:706][  2]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.58:706][  2]LogEditorTransaction: Undo 엘리먼트 회전
+[2025.10.30-01.56.59:342][ 30]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.59:342][ 30]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.56.59:941][ 53]Cmd: TRANSACTION UNDO
+[2025.10.30-01.56.59:941][ 53]LogEditorTransaction: Undo 엘리먼트 이동
+[2025.10.30-01.58.16:787][444]LogStreaming: Display: FlushAsyncLoading(823): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.58.16:811][444]LogStaticMesh: Display: SM_Classic_Commode스태틱 메시 빌드 중(필요 메모리 예상: 4.22037MB)...
+[2025.10.30-01.58.16:825][444]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2025.10.30-01.58.16:957][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2025.10.30-01.58.16:957][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2025.10.30-01.58.16:958][446]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_51
+[2025.10.30-01.58.17:202][455]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_Commode_A.T_Classic_Commode_A(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.58.17:354][459]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_Commode_M_R_AO.T_Classic_Commode_M_R_AO(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.58.17:394][460]LogTexture: Display: 텍스처 빌드 중: /Game/FreeFurniturePack/Textures/T_Classic_Commode_N.T_Classic_Commode_N(TFO_BC5, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.30-01.58.18:173][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.10.30-01.58.18:178][490]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2025.10.30-01.58.18:187][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2025.10.30-01.58.18:187][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode
+[2025.10.30-01.58.18:191][490]LogActorFactory: Actor Factory spawned StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode as actor: StaticMeshActor /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.StaticMeshActor_52
+[2025.10.30-01.58.42:758][150]Cmd: DELETE
+[2025.10.30-01.58.42:758][150]Cmd: ACTOR DELETE
+[2025.10.30-01.58.42:776][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-01.58.42:795][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.30-01.58.42:799][150]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.10.30-01.58.55:244][  9]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.30-01.58.55:263][  9]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.30-01.58.55:269][  9]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.30-01.58.55:282][ 10]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.30-01.58.56:658][133]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.10.30-01.58.56:665][133]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.30-01.58.57:415][201]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.NewBlueprint
+[2025.10.30-01.58.57:416][201]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.30-01.59.06:527][ 19]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Commode
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.SKEL_BP_Commode_C:UserConstructionScript' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.SKEL_BP_Commode_C' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode_C' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:621][ 19]LogMetaData: Removing '/Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode:EventGraph.K2Node_Event_2' ref from Metadata '/Game/A_TheSmallRemains/Maps/furniture/NewBlueprint.PackageMetaData'
+[2025.10.30-01.59.06:650][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-01.59.06:650][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Maps/furniture/BP_Commode] ([2] browsable assets)...
+[2025.10.30-01.59.06:650][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Maps/furniture/BP_Commode]
+[2025.10.30-01.59.06:653][ 19]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/furniture/BP_Commode
+[2025.10.30-01.59.06:653][ 19]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Commode907E71D54802CC7B425AE7AB51A86965.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/furniture/BP_Commode.uasset'
+[2025.10.30-01.59.06:658][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.647 ms (total: 6.40 sec)
+[2025.10.30-01.59.06:724][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.30-01.59.06:747][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.30-01.59.06:769][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: Enabled validators:
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-01.59.06:848][ 19]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-01.59.06:848][ 19]AssetCheck: /Game/A_TheSmallRemains/Maps/furniture/BP_Commode 에셋 유효성 검사 중
+[2025.10.30-01.59.27:529][883]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.30-01.59.38:866][876]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.59.38:871][876]LogStaticMesh: Display: SM_Classic_Commode_Drawer_1스태틱 메시 빌드 중(필요 메모리 예상: 0.512869MB)...
+[2025.10.30-01.59.38:874][876]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_1.SM_Classic_Commode_Drawer_1
+[2025.10.30-01.59.58:428][556]LogStreaming: Display: FlushAsyncLoading(825): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-01.59.58:445][556]LogStaticMesh: Display: SM_Classic_Commode_2스태틱 메시 빌드 중(필요 메모리 예상: 4.392637MB)...
+[2025.10.30-01.59.58:451][556]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/FreeFurniturePack/Meshes/SM_Classic_Commode_2)...
+[2025.10.30-01.59.58:461][556]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_2.SM_Classic_Commode_2
+[2025.10.30-02.00.14:721][ 39]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-02.00.14:725][ 39]LogStaticMesh: Display: SM_Classic_Commode_Drawer_2스태틱 메시 빌드 중(필요 메모리 예상: 0.512869MB)...
+[2025.10.30-02.00.14:727][ 39]LogStaticMesh: Built static mesh [0.00s] /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_2.SM_Classic_Commode_Drawer_2
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: ================================================
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Total job queries 1,233, among them cache hits 375 (30.41%), DDC hits 349 (28.30%), Duplicates 20 (1.62%)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Tracking 838 distinct input hashes that result in 582 distinct outputs (69.45%)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: RAM used: 343.81 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Shaders Compiled: 489
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Jobs assigned 489, completed 489 (100%)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Average time worker was idle: 99.53 s
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.22 s
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 3.37 s
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 4.07
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Shader code size: average 8.081 KiB, min 3.188 KiB, max 36.812 KiB
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 84.74 s
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Jobs were issued in 489 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Average processing rate: 5.77 jobs/sec
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Total thread time: 313.887 s
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Total thread preprocess time: 15.806 s
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Percentage time preprocessing: 5.04%
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Effective parallelization: 3.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   52 times, average 1.10 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   49 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.24% of total time (compiled   52 times, average 1.10 sec, max 1.61 sec, min 0.92 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.45% of total time (compiled   39 times, average 1.08 sec, max 1.27 sec, min 0.82 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.31% of total time (compiled   59 times, average 0.66 sec, max 1.04 sec, min 0.51 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.13% of total time (compiled   39 times, average 0.90 sec, max 1.07 sec, min 0.70 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.59% of total time (compiled   49 times, average 0.68 sec, max 3.32 sec, min 0.45 sec)
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Materials Translated:    291
+[2025.10.30-02.00.46:234][939]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.30-02.00.46:235][939]LogShaderCompilers: Display: Material Translation Only: 0.07 s (56%)
+[2025.10.30-02.00.46:235][939]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.30-02.00.46:235][939]LogShaderCompilers: Display: Material Cache Hits: 53 (18%)
+[2025.10.30-02.00.46:235][939]LogShaderCompilers: Display: ================================================
+[2025.10.30-02.01.54:916][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.30-02.01.59:324][620]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode_C
+[2025.10.30-02.01.59:325][620]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode_C
+[2025.10.30-02.01.59:328][620]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode as actor: BP_Commode_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Commode_C_0
+[2025.10.30-02.01.59:331][620]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode as actor: BP_Commode_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Commode_C_0
+[2025.10.30-02.02.00:514][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.30-02.02.00:519][695]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.30-02.02.00:526][695]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode_C
+[2025.10.30-02.02.00:526][695]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode_C
+[2025.10.30-02.02.00:531][695]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode as actor: BP_Commode_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Commode_C_1
+[2025.10.30-02.02.00:534][695]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode as actor: BP_Commode_C /Game/A_TheSmallRemains/Maps/Rural_Cabins.Rural_Cabins:PersistentLevel.BP_Commode_C_1
+[2025.10.30-02.06.33:291][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.30-02.06.33:528][661]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto4
+[2025.10.30-02.06.33:528][661]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins_Auto4DDD821E840C2A8654D67E6A7FD3A3FEF.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/Rural_Cabins_Auto4.umap'
+[2025.10.30-02.06.33:530][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/Rural_Cabins' took 0.267
+[2025.10.30-02.06.33:530][661]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.267
+[2025.10.30-02.06.33:531][661]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Maps/furniture/BP_Commode] ([2] browsable assets)...
+[2025.10.30-02.06.33:555][661]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Maps/furniture/BP_Commode.BP_Commode]
+[2025.10.30-02.06.33:555][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Maps/furniture/BP_Commode]
+[2025.10.30-02.06.33:559][661]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/furniture/BP_Commode_Auto4
+[2025.10.30-02.06.33:559][661]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Commode_Auto4F18BA8C143BBF94CA83269ACBF28EE6D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/furniture/BP_Commode_Auto4.uasset'
+[2025.10.30-02.06.33:560][661]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.10.30-02.09.25:919][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.30-02.09.26:891][624]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.30-02.09.26:910][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-02.09.26:986][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.30-02.09.27:222][624]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/Rural_Cabins
+[2025.10.30-02.09.27:223][624]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Rural_Cabins77E691A246C2A7422BDC2AA53BF6AC16.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/Rural_Cabins.umap'
+[2025.10.30-02.09.27:238][624]LogFileHelpers: Saving map 'Rural_Cabins' took 0.295
+[2025.10.30-02.09.27:238][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Maps/furniture/BP_Commode] ([2] browsable assets)...
+[2025.10.30-02.09.27:238][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Maps/furniture/BP_Commode]
+[2025.10.30-02.09.27:241][624]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/furniture/BP_Commode
+[2025.10.30-02.09.27:242][624]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Commode2096CA0E4C4566F62D8BC39BD07567FA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/furniture/BP_Commode.uasset'
+[2025.10.30-02.09.27:275][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 364.789 ms (total: 6.76 sec)
+[2025.10.30-02.09.27:343][624]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.30-02.09.27:343][624]LogContentValidation: Enabled validators:
+[2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-02.09.27:343][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-02.09.27:344][624]AssetCheck: /Game/A_TheSmallRemains/Maps/Rural_Cabins 에셋 유효성 검사 중
+[2025.10.30-02.09.27:344][624]AssetCheck: /Game/A_TheSmallRemains/Maps/furniture/BP_Commode 에셋 유효성 검사 중
