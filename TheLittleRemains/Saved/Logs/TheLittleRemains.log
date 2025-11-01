@@ -5817,3 +5817,425 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.01-15.11.48:285][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7828.835449
 [2025.11.01-15.11.49:285][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.01-15.11.49:285][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7829.502441, Update Interval: 322.768036
+[2025.11.01-15.12.24:369][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.01-15.12.30:980][861]LogContentBrowser: Deferred new asset file creation: BP_AntSpawner1
+[2025.11.01-15.12.30:988][861]LogContentBrowser: Creating deferred item: BP_AntSpawner1
+[2025.11.01-15.12.31:005][862]LogContentBrowser: Renaming the item being created (Deferred Item: BP_AntSpawner1).
+[2025.11.01-15.12.50:053][  3]LogContentBrowser: Attempting asset rename: BP_AntSpawner1 -> BP_CockroachSpawner
+[2025.11.01-15.12.50:095][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.01-15.12.50:125][  3]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.
+[2025.11.01-15.12.50:125][  3]LogContentBrowser: End creating deferred item BP_AntSpawner1
+[2025.11.01-15.13.02:339][727]LogContentBrowser: Attempting asset rename: BP_AntSpawner -> BP_Spawner_Ant
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.BP_Spawner_Ant:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.SKEL_BP_Spawner_Ant_C' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.BP_Spawner_Ant_C' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.BP_Spawner_Ant:EventGraph.K2Node_Event_0' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.BP_Spawner_Ant:EventGraph.K2Node_Event_1' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.BP_Spawner_Ant:EventGraph.K2Node_Event_2' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.BP_Spawner_Ant_C:ReceiveBeginPlay' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.SKEL_BP_Spawner_Ant_C:UserConstructionScript' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.SKEL_BP_Spawner_Ant_C:Respawn' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:643][727]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.SKEL_BP_Spawner_Ant_C:ReceiveBeginPlay' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.PackageMetaData'
+[2025.11.01-15.13.02:701][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.01-15.13.02:702][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant] ([2] browsable assets)...
+[2025.11.01-15.13.02:702][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant]
+[2025.11.01-15.13.02:708][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant
+[2025.11.01-15.13.02:708][727]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spawner_Ant3008CE84424297447CA752A0AC3CDC60.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.uasset'
+[2025.11.01-15.13.02:711][727]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant.
+[2025.11.01-15.13.02:714][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner] ([5] browsable assets)...
+[2025.11.01-15.13.02:715][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner]
+[2025.11.01-15.13.02:715][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner
+[2025.11.01-15.13.02:715][727]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_AntSpawner3A290C5B41DFBB160874188C0A133826.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner.uasset'
+[2025.11.01-15.13.02:718][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.369 ms (total: 4.42 sec)
+[2025.11.01-15.13.02:866][727]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.01-15.13.02:866][727]LogContentValidation: Enabled validators:
+[2025.11.01-15.13.02:866][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.01-15.13.02:866][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.01-15.13.02:866][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.01-15.13.02:866][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.01-15.13.02:866][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.01-15.13.02:866][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.01-15.13.02:866][727]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Ant 에셋 유효성 검사 중
+[2025.11.01-15.13.02:866][727]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner 에셋 유효성 검사 중
+[2025.11.01-15.13.02:866][727]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner 에셋 유효성 검사 중
+[2025.11.01-15.13.02:866][727]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_AntSpawner 에셋 유효성 검사 중
+[2025.11.01-15.13.04:015][794]LogContentBrowser: Attempting asset rename: BP_Spawner_Ant -> BP_Spawner_Ant
+[2025.11.01-15.13.12:811][321]LogContentBrowser: Attempting asset rename: BP_CockroachSpawner -> BP_Spawner_Cockroach
+[2025.11.01-15.13.12:943][321]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.SKEL_BP_Spawner_Cockroach_C' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.PackageMetaData'
+[2025.11.01-15.13.12:943][321]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach_C' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.PackageMetaData'
+[2025.11.01-15.13.12:943][321]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.SKEL_BP_Spawner_Cockroach_C:ReceiveBeginPlay' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.PackageMetaData'
+[2025.11.01-15.13.12:943][321]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.SKEL_BP_Spawner_Cockroach_C:Respawn' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.PackageMetaData'
+[2025.11.01-15.13.12:943][321]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.SKEL_BP_Spawner_Cockroach_C:UserConstructionScript' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.PackageMetaData'
+[2025.11.01-15.13.12:943][321]LogMetaData: Removing '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach_C:ReceiveBeginPlay' ref from Metadata '/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_CockroachSpawner.PackageMetaData'
+[2025.11.01-15.13.12:958][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.01-15.13.12:959][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach] ([2] browsable assets)...
+[2025.11.01-15.13.12:959][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach]
+[2025.11.01-15.13.12:964][321]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach
+[2025.11.01-15.13.12:964][321]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spawner_CockroachDB7BC32345D22749A8BA7584AF4B4E02.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.uasset'
+[2025.11.01-15.13.12:968][321]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.
+[2025.11.01-15.13.12:971][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.239 ms (total: 4.43 sec)
+[2025.11.01-15.13.13:018][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.01-15.13.13:058][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.01-15.13.13:090][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.11.01-15.13.13:286][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.01-15.13.13:286][321]LogContentValidation: Enabled validators:
+[2025.11.01-15.13.13:286][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.01-15.13.13:286][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.01-15.13.13:287][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.01-15.13.13:287][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.01-15.13.13:287][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.01-15.13.13:287][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.01-15.13.13:287][321]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach 에셋 유효성 검사 중
+[2025.11.01-15.13.25:464][ 49]LogContentBrowser: Deferred new asset file creation: BP_Spawner_Cockroach1
+[2025.11.01-15.13.25:472][ 49]LogContentBrowser: Creating deferred item: BP_Spawner_Cockroach1
+[2025.11.01-15.13.25:496][ 50]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spawner_Cockroach1).
+[2025.11.01-15.13.39:116][865]LogContentBrowser: Attempting asset rename: BP_Spawner_Cockroach1 -> BP_Spawner_RhinocerosBeetle
+[2025.11.01-15.13.39:210][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.01-15.13.39:254][865]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.
+[2025.11.01-15.13.39:255][865]LogContentBrowser: End creating deferred item BP_Spawner_Cockroach1
+[2025.11.01-15.13.42:232][ 42]LogContentBrowser: Deferred new asset file creation: BP_Spawner_Ant1
+[2025.11.01-15.13.42:240][ 42]LogContentBrowser: Creating deferred item: BP_Spawner_Ant1
+[2025.11.01-15.13.42:258][ 43]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spawner_Ant1).
+[2025.11.01-15.13.48:706][428]LogContentBrowser: Attempting asset rename: BP_Spawner_Ant1 -> BP_Spawner_Spider
+[2025.11.01-15.13.48:756][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.01-15.13.48:783][428]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.
+[2025.11.01-15.13.48:784][428]LogContentBrowser: End creating deferred item BP_Spawner_Ant1
+[2025.11.01-15.13.52:161][627]LogContentBrowser: Deferred new asset file creation: BP_Spawner_Ant1
+[2025.11.01-15.13.52:169][627]LogContentBrowser: Creating deferred item: BP_Spawner_Ant1
+[2025.11.01-15.13.52:187][628]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Spawner_Ant1).
+[2025.11.01-15.14.01:489][183]LogContentBrowser: Attempting asset rename: BP_Spawner_Ant1 -> BP_Spawner_StagBeetle
+[2025.11.01-15.14.01:534][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.11.01-15.14.01:561][183]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.
+[2025.11.01-15.14.01:562][183]LogContentBrowser: End creating deferred item BP_Spawner_Ant1
+[2025.11.01-15.14.04:790][375]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach
+[2025.11.01-15.14.04:790][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.11.01-15.15.35:184][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.01-15.15.42:100][987]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.42:101][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.42:203][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.01-15.15.43:072][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.43:072][ 38]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.43:072][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.43:185][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.01-15.15.43:956][ 83]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.43:956][ 83]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.43:956][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.44:060][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.01-15.15.44:814][127]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.44:814][127]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.44:814][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.44:924][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.01-15.15.45:946][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.45:947][187]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.45:947][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.46:038][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.11.01-15.15.47:444][270]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.47:444][270]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.47:444][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.47:549][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.01-15.15.53:435][621]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.53:435][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.53:506][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.01-15.15.56:681][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.56:681][809]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.56:681][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.56:782][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.01-15.15.57:757][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.57:757][866]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.57:757][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.57:891][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.01-15.15.58:705][913]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.01-15.15.58:705][913]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.15.58:705][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.15.58:789][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.01-15.16.04:452][234]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default.BP_cockroach_Default
+[2025.11.01-15.16.04:452][234]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.11.01-15.16.47:920][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.01-15.16.59:394][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach_C
+[2025.11.01-15.16.59:394][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach_C
+[2025.11.01-15.16.59:395][288]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach as actor: BP_Spawner_Cockroach_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Cockroach_C_0
+[2025.11.01-15.16.59:395][288]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach as actor: BP_Spawner_Cockroach_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Cockroach_C_0
+[2025.11.01-15.17.00:339][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.01-15.17.00:366][336]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2025.11.01-15.17.00:374][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach_C
+[2025.11.01-15.17.00:374][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach_C
+[2025.11.01-15.17.00:375][336]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach as actor: BP_Spawner_Cockroach_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Cockroach_C_1
+[2025.11.01-15.17.00:376][336]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.BP_Spawner_Cockroach as actor: BP_Spawner_Cockroach_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Cockroach_C_1
+[2025.11.01-15.17.02:817][475]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.11.01-15.17.02:826][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.01-15.17.02:826][475]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.01-15.17.02:835][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009474s)
+[2025.11.01-15.17.02:835][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.009512s)
+[2025.11.01-15.17.02:860][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.01-15.17.02:865][475]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.01-15.17.02:867][475]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2025.11.01-15.17.02:868][475]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.01-15.17.02:868][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.01-15.17.02:868][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.01-15.17.02:868][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.01-15.17.02:868][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.01-15.17.02:868][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.01-15.17.02:870][475]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.01-15.17.02:939][475]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.01-15.17.02:939][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.01-15.17.02:939][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.01-15.17.02:939][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.01-15.17.02:940][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.11.01-15.17.02:940][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.11.01-15.17.02:942][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.11.01-15.17.02:942][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.11.01-15.17.02:942][475]LogInit: FAudioDevice initialized with ID 38.
+[2025.11.01-15.17.02:942][475]LogAudio: Display: Audio Device (ID: 38) registered with world 'TestMap'.
+[2025.11.01-15.17.02:942][475]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.11.01-15.17.02:945][475]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.01-15.17.02:952][475]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.11.02-00.17.02
+[2025.11.01-15.17.02:953][475]LogWorld: Bringing up level for play took: 0.007495
+[2025.11.01-15.17.02:955][475]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2025.11.01-15.17.02:961][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:961][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.01-15.17.02:962][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:962][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.17.02:963][475]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.01-15.17.02:969][475]PIE: 서버가 로그인했습니다.
+[2025.11.01-15.17.02:970][475]PIE: 에디터에서 플레이 총 시작 시간 0.146초입니다.
+[2025.11.01-15.17.22:766][656]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Branch 그래프:  IsValid 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.22:766][656]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Get 그래프:  DecreaseHealth 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.23:448][697]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Branch 그래프:  IsValid 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.23:448][697]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Get 그래프:  DecreaseHealth 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.43:932][926]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Branch 그래프:  IsValid 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.43:932][926]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Get 그래프:  DecreaseHealth 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.44:598][966]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Branch 그래프:  IsValid 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.17.44:598][966]PIE: Error: 블루프린트 런타임 오류: "PlayerCharacter 프로퍼티를 읽으려던 중 None에 접근했습니다.". 노드:  Get 그래프:  DecreaseHealth 함수:  Decrease Health 블루프린트:  BPC_StateSystem
+[2025.11.01-15.18.01:590][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-15.18.01:590][983]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.01-15.18.01:590][983]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.18.01:592][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.18.01:676][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.01-15.18.01:683][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.18.01:711][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-15.18.01:711][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.11.01-15.18.01:711][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.11.01-15.18.01:713][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.11.01-15.18.01:716][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-15.18.01:721][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.01-15.18.01:918][984]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2025.11.01-15.18.03:491][ 72]LogSlate: Window '메시지 로그' being destroyed
+[2025.11.01-15.18.03:501][ 72]LogSlate: Window '메시지 로그' being destroyed
+[2025.11.01-15.18.10:804][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8211.328125
+[2025.11.01-15.18.11:120][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-15.18.11:120][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8211.626953, Update Interval: 335.091400
+[2025.11.01-15.18.17:486][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle
+[2025.11.01-15.18.17:486][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2025.11.01-15.19.12:363][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.01-15.19.19:274][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle.BP_RhinocerosBeetle
+[2025.11.01-15.19.19:275][428]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.11.01-15.20.00:217][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.11.01-15.20.11:134][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.01-15.21.01:271][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.01-15.21.13:652][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider
+[2025.11.01-15.21.13:653][796]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.11.01-15.21.55:010][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.01-15.22.09:490][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.11.01-15.22.10:449][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.01-15.22.14:568][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle.BP_StagBeetle
+[2025.11.01-15.22.14:568][117]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2025.11.01-15.23.13:509][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.01-15.23.22:568][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle
+[2025.11.01-15.23.22:568][902]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.11.01-15.24.00:340][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.01-15.24.09:079][486]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle_C
+[2025.11.01-15.24.09:079][486]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle_C
+[2025.11.01-15.24.09:080][486]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle as actor: BP_Spawner_RhinocerosBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_RhinocerosBeetle_C_0
+[2025.11.01-15.24.09:080][486]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle as actor: BP_Spawner_RhinocerosBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_RhinocerosBeetle_C_0
+[2025.11.01-15.24.09:526][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.01-15.24.09:543][507]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2025.11.01-15.24.09:551][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle_C
+[2025.11.01-15.24.09:551][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle_C
+[2025.11.01-15.24.09:553][507]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle as actor: BP_Spawner_RhinocerosBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_RhinocerosBeetle_C_1
+[2025.11.01-15.24.09:553][507]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.BP_Spawner_RhinocerosBeetle as actor: BP_Spawner_RhinocerosBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_RhinocerosBeetle_C_1
+[2025.11.01-15.24.10:524][552]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider_C
+[2025.11.01-15.24.10:524][552]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider_C
+[2025.11.01-15.24.10:525][552]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider as actor: BP_Spawner_Spider_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Spider_C_0
+[2025.11.01-15.24.10:525][552]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider as actor: BP_Spawner_Spider_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Spider_C_0
+[2025.11.01-15.24.11:375][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.01-15.24.11:379][591]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.01-15.24.11:386][591]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider_C
+[2025.11.01-15.24.11:387][591]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider_C
+[2025.11.01-15.24.11:388][591]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider as actor: BP_Spawner_Spider_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Spider_C_1
+[2025.11.01-15.24.11:389][591]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.BP_Spawner_Spider as actor: BP_Spawner_Spider_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_Spider_C_1
+[2025.11.01-15.24.12:061][620]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle_C
+[2025.11.01-15.24.12:061][620]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle_C
+[2025.11.01-15.24.12:062][620]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle as actor: BP_Spawner_StagBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_StagBeetle_C_0
+[2025.11.01-15.24.12:062][620]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle as actor: BP_Spawner_StagBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_StagBeetle_C_0
+[2025.11.01-15.24.12:832][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.01-15.24.12:836][656]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.11.01-15.24.12:845][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle_C
+[2025.11.01-15.24.12:845][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle_C
+[2025.11.01-15.24.12:847][656]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle as actor: BP_Spawner_StagBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_StagBeetle_C_1
+[2025.11.01-15.24.12:847][656]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.BP_Spawner_StagBeetle as actor: BP_Spawner_StagBeetle_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_Spawner_StagBeetle_C_1
+[2025.11.01-15.24.24:009][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8584.420898
+[2025.11.01-15.24.24:276][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-15.24.24:276][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8584.669922, Update Interval: 347.779175
+[2025.11.01-15.24.27:165][485]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.01-15.24.30:062][627]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.01-15.24.34:495][871]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.01-15.24.39:183][146]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.11.01-15.24.39:191][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.01-15.24.39:191][146]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.01-15.24.39:200][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009201s)
+[2025.11.01-15.24.39:200][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.009242s)
+[2025.11.01-15.24.39:228][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.01-15.24.39:233][146]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.01-15.24.39:235][146]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2025.11.01-15.24.39:235][146]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.01-15.24.39:235][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.01-15.24.39:235][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.01-15.24.39:235][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.01-15.24.39:235][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.01-15.24.39:235][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.01-15.24.39:236][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.01-15.24.39:305][146]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.01-15.24.39:305][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.01-15.24.39:305][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.01-15.24.39:305][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.01-15.24.39:306][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.11.01-15.24.39:306][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.11.01-15.24.39:309][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.11.01-15.24.39:309][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.11.01-15.24.39:309][146]LogInit: FAudioDevice initialized with ID 39.
+[2025.11.01-15.24.39:309][146]LogAudio: Display: Audio Device (ID: 39) registered with world 'TestMap'.
+[2025.11.01-15.24.39:309][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.11.01-15.24.39:312][146]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.01-15.24.39:318][146]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.11.02-00.24.39
+[2025.11.01-15.24.39:318][146]LogWorld: Bringing up level for play took: 0.006750
+[2025.11.01-15.24.39:321][146]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2025.11.01-15.24.39:326][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:326][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.01-15.24.39:328][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:328][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.01-15.24.39:329][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:329][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.01-15.24.39:330][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:330][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.01-15.24.39:332][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:332][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.01-15.24.39:332][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:332][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.01-15.24.39:332][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:332][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.01-15.24.39:333][146]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.01-15.24.39:338][146]PIE: 서버가 로그인했습니다.
+[2025.11.01-15.24.39:339][146]PIE: 에디터에서 플레이 총 시작 시간 0.149초입니다.
+[2025.11.01-15.25.42:869][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-15.25.42:869][943]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.01-15.25.42:870][943]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-15.25.42:872][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.25.42:884][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.01-15.25.42:891][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-15.25.42:920][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-15.25.42:920][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.11.01-15.25.42:920][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.11.01-15.25.42:922][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.11.01-15.25.42:926][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-15.25.42:932][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.01-15.25.43:002][944]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2025.11.01-15.25.56:466][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.01-15.25.57:320][720]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.01-15.25.57:333][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.01-15.25.57:608][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.11.01-15.25.57:645][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/TestMap
+[2025.11.01-15.25.57:645][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap5057F1C244125A98FE1FAE9861AEEE75.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap'
+[2025.11.01-15.25.57:656][720]LogFileHelpers: Saving map 'TestMap' took 0.100
+[2025.11.01-15.25.57:658][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.11.01-15.25.57:724][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.11.01-15.25.57:724][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default]
+[2025.11.01-15.25.57:743][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default
+[2025.11.01-15.25.57:744][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_DefaultE15C73FA4B6B94CBAE4D42BAEC4C59FD.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.uasset'
+[2025.11.01-15.25.57:745][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default] ([2] browsable assets)...
+[2025.11.01-15.25.57:753][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default.BP_cockroach_Default]
+[2025.11.01-15.25.57:753][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default]
+[2025.11.01-15.25.57:774][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default
+[2025.11.01-15.25.57:774][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_cockroach_Default4158B15B412B2E07EE152E827045379C.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default.uasset'
+[2025.11.01-15.25.57:775][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle] ([2] browsable assets)...
+[2025.11.01-15.25.57:783][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle.BP_RhinocerosBeetle]
+[2025.11.01-15.25.57:783][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle]
+[2025.11.01-15.25.57:801][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle
+[2025.11.01-15.25.57:801][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_RhinocerosBeetle1B0D625940E9742DF8D53DA7225C2791.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle.uasset'
+[2025.11.01-15.25.57:803][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach] ([2] browsable assets)...
+[2025.11.01-15.25.57:803][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach]
+[2025.11.01-15.25.57:808][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach
+[2025.11.01-15.25.57:808][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spawner_CockroachD71146B940842D5E013BBFB616FCE29F.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach.uasset'
+[2025.11.01-15.25.57:809][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle] ([2] browsable assets)...
+[2025.11.01-15.25.57:809][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle]
+[2025.11.01-15.25.57:815][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle
+[2025.11.01-15.25.57:815][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spawner_RhinocerosBeetle8BD5A9934DE0CEDD11819AA59D3BD437.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.uasset'
+[2025.11.01-15.25.57:816][720]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle.
+[2025.11.01-15.25.57:819][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider] ([2] browsable assets)...
+[2025.11.01-15.25.57:819][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider]
+[2025.11.01-15.25.57:825][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider
+[2025.11.01-15.25.57:825][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spawner_SpiderAB88FE1E450BC2230F094097BAB2233B.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.uasset'
+[2025.11.01-15.25.57:826][720]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider.
+[2025.11.01-15.25.57:829][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle] ([2] browsable assets)...
+[2025.11.01-15.25.57:829][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle]
+[2025.11.01-15.25.57:835][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle
+[2025.11.01-15.25.57:835][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spawner_StagBeetle2ED7C1B74BBAB42C9CAEE2B00577C3A5.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.uasset'
+[2025.11.01-15.25.57:836][720]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle.
+[2025.11.01-15.25.57:838][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default] ([2] browsable assets)...
+[2025.11.01-15.25.57:850][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.BP_Spider_Default]
+[2025.11.01-15.25.57:850][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default]
+[2025.11.01-15.25.57:868][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default
+[2025.11.01-15.25.57:869][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spider_Default4E234A1F4DB5E143C13ED0817BCA214D.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.uasset'
+[2025.11.01-15.25.57:870][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle] ([2] browsable assets)...
+[2025.11.01-15.25.57:878][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle.BP_StagBeetle]
+[2025.11.01-15.25.57:878][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle]
+[2025.11.01-15.25.57:896][720]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle
+[2025.11.01-15.25.57:896][720]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_StagBeetle14F43FB24CEA6BB1230E6DA838911013.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle.uasset'
+[2025.11.01-15.25.57:911][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 578.646 ms (total: 5.01 sec)
+[2025.11.01-15.25.58:065][720]LogContentValidation: Display: Starting to validate 10 assets
+[2025.11.01-15.25.58:065][720]LogContentValidation: Enabled validators:
+[2025.11.01-15.25.58:065][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.01-15.25.58:065][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.01-15.25.58:065][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.01-15.25.58:065][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.01-15.25.58:065][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.01-15.25.58:065][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Maps/TestMap 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Cockroach 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_RhinocerosBeetle 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_Spider 에셋 유효성 검사 중
+[2025.11.01-15.25.58:065][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/ActorSpawner/BP_Spawner_StagBeetle 에셋 유효성 검사 중
+[2025.11.01-15.25.58:066][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default 에셋 유효성 검사 중
+[2025.11.01-15.25.58:066][720]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle 에셋 유효성 검사 중
