@@ -16009,3 +16009,31 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.02-12.04.49:594][276]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2025.11.02-12.04.57:867][766]LogSlate: Window '메시지 로그' being destroyed
 [2025.11.02-12.04.57:876][766]LogSlate: Window '메시지 로그' being destroyed
+[2025.11.02-12.05.54:841][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.02-12.05.55:583][586]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.02-12.05.55:594][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-12.05.55:702][586]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.11.02-12.05.55:755][586]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.11.02-12.05.55:755][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.11.02-12.05.55:806][586]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.11.02-12.05.55:807][586]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterA3A1951D4B7D10A3A678C9A2A62AE798.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.11.02-12.05.55:807][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.11.02-12.05.55:807][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.11.02-12.05.55:843][586]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.11.02-12.05.55:844][586]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystemD41F14E04D20393DD2BF7DAEA24FB7A2.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.11.02-12.05.55:845][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_StateSystem] ([2] browsable assets)...
+[2025.11.02-12.05.55:845][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_StateSystem]
+[2025.11.02-12.05.55:867][586]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_StateSystem
+[2025.11.02-12.05.55:867][586]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_StateSystem37A5258B48880A9717AB9CAF5D3F3023.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_StateSystem.uasset'
+[2025.11.02-12.05.55:881][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.411 ms (total: 1.48 sec)
+[2025.11.02-12.05.55:992][586]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.02-12.05.55:992][586]LogContentValidation: Enabled validators:
+[2025.11.02-12.05.55:992][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-12.05.55:992][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-12.05.55:992][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-12.05.55:992][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-12.05.55:992][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-12.05.55:992][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-12.05.55:992][586]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.11.02-12.05.55:992][586]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.11.02-12.05.55:992][586]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_StateSystem 에셋 유효성 검사 중
