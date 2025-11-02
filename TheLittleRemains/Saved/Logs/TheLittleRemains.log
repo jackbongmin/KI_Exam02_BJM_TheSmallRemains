@@ -2583,3 +2583,40 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.02-06.54.18:394][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.11.02-06.54.18:401][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2025.11.02-06.54.18:456][352]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.11.02-06.55.16:041][664]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Iventory/QuicjSlot/BPC_QuickSlot.BPC_QuickSlot
+[2025.11.02-06.55.16:042][664]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.02-06.55.28:281][369]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.BPC_InventorySystem
+[2025.11.02-06.55.28:281][369]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.02-06.56.48:784][167]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot.WB_QuickSlot
+[2025.11.02-06.56.48:788][167]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.02-06.56.48:795][167]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.02-06.56.48:800][167]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2025.11.02-06.56.49:262][167]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2025.11.02-06.56.49:269][167]LogSlate: Took 0.006447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.02-06.59.11:912][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1644.509399
+[2025.11.02-06.59.12:161][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-06.59.12:161][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1644.742554, Update Interval: 312.967926
+[2025.11.02-07.04.15:206][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.02-07.04.15:210][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/TestMap' took 0.113
+[2025.11.02-07.04.15:211][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.11.02-07.04.15:211][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem]
+[2025.11.02-07.04.15:224][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem_Auto1
+[2025.11.02-07.04.15:224][399]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem_Auto1FBD3CC2D4E5DEF4DACBBF79D65B3E377.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem_Auto1.uasset'
+[2025.11.02-07.04.15:225][399]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.11.02-07.04.37:157][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.11.02-07.04.39:077][618]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.02-07.04.39:088][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-07.04.39:205][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem] ([2] browsable assets)...
+[2025.11.02-07.04.39:205][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem]
+[2025.11.02-07.04.39:219][618]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem
+[2025.11.02-07.04.39:219][618]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_InventorySystem64941FC743126FB1DC556180E323C659.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem.uasset'
+[2025.11.02-07.04.39:228][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.194 ms (total: 1.38 sec)
+[2025.11.02-07.04.39:316][618]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-07.04.39:316][618]LogContentValidation: Enabled validators:
+[2025.11.02-07.04.39:316][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-07.04.39:316][618]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-07.04.39:316][618]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-07.04.39:316][618]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-07.04.39:316][618]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-07.04.39:316][618]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-07.04.39:317][618]AssetCheck: /Game/A_TheSmallRemains/Iventory/Inventory/BPC_InventorySystem 에셋 유효성 검사 중
