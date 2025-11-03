@@ -2356,3 +2356,1367 @@ FPackageName: Skipped package /Game/StackOBot/Environment/Landscape/Textures/RVT
 [2025.11.03-05.46.11:401][150]AssetCheck: /Game/A_TheSmallRemains/UI/Inventory/WB_Drag 에셋 유효성 검사 중
 [2025.11.03-05.46.11:402][150]AssetCheck: /Game/A_TheSmallRemains/UI/QuickSlot/WB_QuickSlot 에셋 유효성 검사 중
 [2025.11.03-05.46.11:402][150]AssetCheck: /Game/A_TheSmallRemains/UI/Inventory/WB_Slot 에셋 유효성 검사 중
+[2025.11.03-05.46.58:679][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.03-05.47.13:491][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.03-05.47.50:674][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.11.03-05.48.45:159][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.03-05.48.49:320][645]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.03-05.50.20:576][742]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Item.WB_Item
+[2025.11.03-05.50.20:577][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.03-05.50.20:586][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.03-05.50.20:591][742]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2025.11.03-05.50.21:029][742]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2025.11.03-05.50.28:495][527]LogContentBrowser: Deferred new asset file creation: WB_Item1
+[2025.11.03-05.50.28:504][527]LogContentBrowser: Creating deferred item: WB_Item1
+[2025.11.03-05.50.28:522][528]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Item1).
+[2025.11.03-05.50.34:077][ 24]LogContentBrowser: Attempting asset rename: WB_Item1 -> WB_Ending
+[2025.11.03-05.50.34:128][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.03-05.50.34:142][ 24]LogContentBrowser: End creating deferred item WB_Item1
+[2025.11.03-05.50.35:546][143]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending.WB_Ending
+[2025.11.03-05.50.35:547][143]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.03-05.50.35:553][143]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.11.03-05.50.37:007][256]LogSlate: Took 0.000847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: ================================================
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Total job queries 1,068, among them cache hits 341 (31.93%), DDC hits 630 (58.99%), Duplicates 8 (0.75%)
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Tracking 719 distinct input hashes that result in 511 distinct outputs (71.07%)
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: RAM used: 292.92 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Shaders Compiled: 89
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100%)
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Average time worker was idle: 96.88 s
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.73 s
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.82
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Shader code size: average 8.21 KiB, min 4.078 KiB, max 12.734 KiB
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.90 s
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Average processing rate: 3.57 jobs/sec
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Total thread time: 54.484 s
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Total thread preprocess time: 14.914 s
+[2025.11.03-05.52.19:737][789]LogShaderCompilers: Display: Percentage time preprocessing: 27.37%
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Effective parallelization: 2.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.05 sec, max 1.26 sec, min 0.85 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.04 sec, max 1.42 sec, min 0.89 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 0.69 sec, max 0.73 sec, min 0.57 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 0.59 sec, max 0.76 sec, min 0.46 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.94% of total time (compiled   14 times, average 1.05 sec, max 1.26 sec, min 0.85 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.35% of total time (compiled   17 times, average 0.59 sec, max 0.76 sec, min 0.46 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.03% of total time (compiled   17 times, average 0.42 sec, max 0.54 sec, min 0.29 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.83% of total time (compiled   13 times, average 0.45 sec, max 0.56 sec, min 0.36 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.67% of total time (compiled   13 times, average 0.41 sec, max 0.52 sec, min 0.29 sec)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Materials Translated:    226
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Material Translation Only: 0.06 s (62%)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (5%)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: Material Cache Hits: 111 (49%)
+[2025.11.03-05.52.19:738][789]LogShaderCompilers: Display: ================================================
+[2025.11.03-05.53.31:476][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.11.03-05.53.32:394][308]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-05.53.32:400][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-05.53.32:501][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.03-05.53.32:782][308]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.03-05.53.32:782][308]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MainMap2EEBF2B841E522766BFF3BB62F81BB53.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/MainMap.umap'
+[2025.11.03-05.53.32:802][308]LogFileHelpers: Saving map 'MainMap' took 0.355
+[2025.11.03-05.53.32:803][308]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport] ([2] browsable assets)...
+[2025.11.03-05.53.32:847][308]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport]
+[2025.11.03-05.53.32:847][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport]
+[2025.11.03-05.53.32:853][308]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport
+[2025.11.03-05.53.32:854][308]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestTeleportFA2E200E4FFC8E1CB5B18A940A2C3574.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.uasset'
+[2025.11.03-05.53.32:855][308]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/WB_Ending] ([2] browsable assets)...
+[2025.11.03-05.53.32:859][308]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending.WB_Ending]
+[2025.11.03-05.53.32:859][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/WB_Ending]
+[2025.11.03-05.53.32:862][308]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/WB_Ending
+[2025.11.03-05.53.32:862][308]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Ending4714B5DA4689F2121FD2F289AF628C22.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/WB_Ending.uasset'
+[2025.11.03-05.53.32:871][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 471.505 ms (total: 1.77 sec)
+[2025.11.03-05.53.32:931][308]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.03-05.53.32:931][308]LogContentValidation: Enabled validators:
+[2025.11.03-05.53.32:931][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-05.53.32:931][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-05.53.32:931][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-05.53.32:931][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-05.53.32:931][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-05.53.32:931][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-05.53.32:932][308]AssetCheck: /Game/A_TheSmallRemains/Maps/MainMap 에셋 유효성 검사 중
+[2025.11.03-05.53.32:932][308]AssetCheck: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport 에셋 유효성 검사 중
+[2025.11.03-05.53.32:932][308]AssetCheck: /Game/A_TheSmallRemains/Items/WB_Ending 에셋 유효성 검사 중
+[2025.11.03-05.55.27:254][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.03-05.57.44:915][203]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Tube.SM_Scifi_Tube
+[2025.11.03-05.57.44:926][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.03-05.58.39:110][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.03-05.58.52:684][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Items/BP_Item.BP_Item
+[2025.11.03-05.58.52:684][630]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.03-05.59.30:429][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.03-05.59.42:896][874]LogBlueprint: Error: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Items\EndingItem\BP_TestTeleport.uasset: [Compiler] Self  및  Item  핀을 연결할 수 없습니다: Self 오브젝트 레퍼런스 타입은 BP Item 오브젝트 레퍼런스 타입과 호환되지 않습니다.
+[2025.11.03-05.59.42:896][874]LogBlueprint: Error: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Items\EndingItem\BP_TestTeleport.uasset: [Compiler] Item  및  Self  핀을 연결할 수 없습니다: BP Item 오브젝트 레퍼런스 타입은 Self 오브젝트 레퍼런스 타입과 호환되지 않습니다.
+[2025.11.03-05.59.42:910][874]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-05.59.42:976][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.03-06.03.31:368][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.11.03-06.03.31:373][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/MainMap' took 0.028
+[2025.11.03-06.03.31:374][746]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport] ([2] browsable assets)...
+[2025.11.03-06.03.31:414][746]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport]
+[2025.11.03-06.03.31:414][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport]
+[2025.11.03-06.03.31:421][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport_Auto2
+[2025.11.03-06.03.31:421][746]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestTeleport_Auto2C7A999D34C4446D6CCC05DBB01C257DE.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport_Auto2.uasset'
+[2025.11.03-06.03.31:423][746]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/WB_Ending] ([2] browsable assets)...
+[2025.11.03-06.03.31:426][746]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending.WB_Ending]
+[2025.11.03-06.03.31:426][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/WB_Ending]
+[2025.11.03-06.03.31:429][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Items/WB_Ending_Auto2
+[2025.11.03-06.03.31:429][746]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Ending_Auto24386EA284FFC882E4DC3E3A7043A2AF9.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Items/WB_Ending_Auto2.uasset'
+[2025.11.03-06.03.31:430][746]LogFileHelpers: Auto-saving content packages took 0.057
+[2025.11.03-06.09.24:049][469]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-06.09.57:075][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.11.03-06.10.04:387][ 57]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-06.10.04:405][ 57]LogInterchangeEngine: [대기중] 임포트 중
+[2025.11.03-06.10.04:405][ 57]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/KGA/Downloads/ChatGPT Image 2025년 11월 3일 오후 03_09_43.png]
+[2025.11.03-06.10.05:108][ 59]LogStreaming: Display: FlushAsyncLoading(692): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-06.10.05:130][ 60]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.11.03-06.10.05:397][ 61]LogTexture: Display: 텍스처 빌드 중: /Game/A_TheSmallRemains/Items/EndingItem/ChatGPT_Image_2025년_11월_3일_오후_03_09_43.ChatGPT_Image_2025년_11월_3일_오후_03_09_43(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 102.583323MB), 인코딩 속도: Fast
+[2025.11.03-06.10.05:746][ 61]LogInterchangeEngine: Display: Interchange import completed [C:/Users/KGA/Downloads/ChatGPT Image 2025년 11월 3일 오후 03_09_43.png]
+[2025.11.03-06.10.05:757][ 61]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2025.11.03-06.10.05:757][ 61]LogInterchangeEngine: [성공] 임포트 완료
+[2025.11.03-06.10.16:184][807]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-06.10.21:258][252]LogContentBrowser: Attempting asset rename: ChatGPT_Image_2025년_11월_3일_오후_03_09_43 -> T_Ending
+[2025.11.03-06.10.21:350][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.10.21:350][252]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/T_Ending] ([1] browsable assets)...
+[2025.11.03-06.10.21:352][252]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/A_TheSmallRemains/Items/EndingItem/T_Ending.T_Ending]
+[2025.11.03-06.10.21:352][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/T_Ending]
+[2025.11.03-06.10.21:371][252]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/EndingItem/T_Ending
+[2025.11.03-06.10.21:371][252]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/T_Ending7147A6644D8A8B7987C9A8AA456CDCC1.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/EndingItem/T_Ending.uasset'
+[2025.11.03-06.10.21:372][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.014 ms (total: 1.80 sec)
+[2025.11.03-06.10.21:402][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.11.03-06.10.21:425][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-06.10.21:445][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.03-06.10.21:508][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-06.10.21:508][252]LogContentValidation: Enabled validators:
+[2025.11.03-06.10.21:508][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.10.21:508][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.10.21:508][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.10.21:508][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.10.21:508][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.10.21:508][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.10.21:508][252]AssetCheck: /Game/A_TheSmallRemains/Items/EndingItem/T_Ending 에셋 유효성 검사 중
+[2025.11.03-06.10.23:308][400]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-06.10.25:875][591]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-06.10.51:185][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.03-06.11.01:996][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.03-06.11.03:579][169]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-06.11.03:585][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.11.03:641][169]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport] ([2] browsable assets)...
+[2025.11.03-06.11.03:678][169]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport]
+[2025.11.03-06.11.03:678][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport]
+[2025.11.03-06.11.03:685][169]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport
+[2025.11.03-06.11.03:685][169]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestTeleportEB38DB364F09ECB94B8EB3AFF9A9FA66.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.uasset'
+[2025.11.03-06.11.03:686][169]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/WB_Ending] ([2] browsable assets)...
+[2025.11.03-06.11.03:688][169]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending.WB_Ending]
+[2025.11.03-06.11.03:688][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/WB_Ending]
+[2025.11.03-06.11.03:692][169]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/WB_Ending
+[2025.11.03-06.11.03:692][169]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Ending2AC9959743B667ECE1540A9BE5001FD7.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/WB_Ending.uasset'
+[2025.11.03-06.11.03:758][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.874 ms (total: 1.97 sec)
+[2025.11.03-06.11.03:758][169]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-06.11.04:359][169]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.11.04:434][169]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/TestMap.TestMap
+[2025.11.03-06.11.04:434][169]Cmd: MAP LOAD FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.03-06.11.04:498][169]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.11.04:499][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.11.04:520][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-06.11.04:551][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.11.03-06.11.04:558][169]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.11.04:559][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.11.04:586][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.03-06.11.04:609][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.03-06.11.04:664][169]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2025.11.03-06.11.04:664][169]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.11.04:824][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.03-06.11.04:853][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.03-06.11.04:868][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.03-06.11.04:868][169]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.061ms.
+[2025.11.03-06.11.04:941][169]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-06.11.04:941][169]LogContentValidation: Enabled validators:
+[2025.11.03-06.11.04:941][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.11.04:941][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.11.04:941][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.11.04:941][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.11.04:941][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.11.04:941][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.11.04:941][169]AssetCheck: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport 에셋 유효성 검사 중
+[2025.11.03-06.11.04:942][169]AssetCheck: /Game/A_TheSmallRemains/Items/WB_Ending 에셋 유효성 검사 중
+[2025.11.03-06.11.13:617][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport_C
+[2025.11.03-06.11.13:617][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport_C
+[2025.11.03-06.11.13:620][928]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport as actor: BP_TestTeleport_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_TestTeleport_C_0
+[2025.11.03-06.11.13:622][928]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport as actor: BP_TestTeleport_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_TestTeleport_C_0
+[2025.11.03-06.11.16:413][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.03-06.11.16:417][165]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.03-06.11.16:422][165]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport_C
+[2025.11.03-06.11.16:422][165]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport_C
+[2025.11.03-06.11.16:427][165]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport as actor: BP_TestTeleport_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_TestTeleport_C_1
+[2025.11.03-06.11.16:430][165]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport as actor: BP_TestTeleport_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_TestTeleport_C_1
+[2025.11.03-06.11.17:974][303]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.11.17:984][303]LogPlayLevel: [PlayLevel] Compiling BP_TestTeleport before play...
+[2025.11.03-06.11.18:041][303]LogPlayLevel: [PlayLevel] Compiling BP_BatteryCube before play...
+[2025.11.03-06.11.18:083][303]LogPlayLevel: [PlayLevel] Compiling WB_QuickSlot before play...
+[2025.11.03-06.11.18:092][303]LogPlayLevel: [PlayLevel] Compiling WB_Drag before play...
+[2025.11.03-06.11.18:097][303]LogPlayLevel: [PlayLevel] Compiling WB_Slot before play...
+[2025.11.03-06.11.18:129][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.03-06.11.18:133][303]LogPlayLevel: PlayLevel: Blueprint regeneration took 149 ms (5 blueprints)
+[2025.11.03-06.11.18:133][303]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.11.18:148][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014551s)
+[2025.11.03-06.11.18:148][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.014587s)
+[2025.11.03-06.11.18:170][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.03-06.11.18:172][303]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.11.18:173][303]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2025.11.03-06.11.18:174][303]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.11.18:174][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.11.18:174][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.11.18:174][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.11.18:174][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.11.18:174][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.11.18:176][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.11.18:193][303]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.11.18:193][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.11.18:193][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.11.18:193][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.11.18:193][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.11.03-06.11.18:193][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.11.03-06.11.18:196][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.11.03-06.11.18:196][303]LogInit: FAudioDevice initialized with ID 3.
+[2025.11.03-06.11.18:196][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.11.03-06.11.18:196][303]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2025.11.03-06.11.18:196][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.03-06.11.18:241][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.11.18:241][303]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.11.18:252][303]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.11.18
+[2025.11.03-06.11.18:254][303]LogWorld: Bringing up level for play took: 0.012971
+[2025.11.03-06.11.18:257][303]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.11.03-06.11.18:264][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.11.18:264][303]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.11.18:266][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.11.18:266][303]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.11.18:268][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.11.18:268][303]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.11.18:270][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.11.18:270][303]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.11.18:272][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.11.18:272][303]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.11.18:274][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.11.18:274][303]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.11.18:281][303]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.11.18:283][303]PIE: 에디터에서 플레이 총 시작 시간 0.3초입니다.
+[2025.11.03-06.11.32:325][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.11.32:325][245]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.11.32:325][245]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.11.32:330][245]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.11.32:333][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.11.32:336][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.11.32:344][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.11.32:366][245]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.03-06.11.32:366][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.11.03-06.11.32:368][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.11.03-06.11.32:380][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.11.03-06.11.32:436][246]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.11.03-06.11.54:636][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.03-06.12.02:161][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.03-06.12.08:721][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-06.12.10:232][915]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.12.10:242][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-06.12.10:242][915]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.12.10:256][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013699s)
+[2025.11.03-06.12.10:256][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.013733s)
+[2025.11.03-06.12.10:278][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.03-06.12.10:284][915]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.12.10:286][915]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2025.11.03-06.12.10:287][915]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.12.10:287][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.12.10:287][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.12.10:287][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.12.10:287][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.12.10:287][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.12.10:289][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.12.10:305][915]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.12.10:305][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.12.10:305][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.12.10:305][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.12.10:305][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.03-06.12.10:305][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.11.03-06.12.10:308][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.03-06.12.10:308][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.03-06.12.10:308][915]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.03-06.12.10:308][915]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2025.11.03-06.12.10:308][915]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.03-06.12.10:342][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.12.10:342][915]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.12.10:354][915]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.12.10
+[2025.11.03-06.12.10:356][915]LogWorld: Bringing up level for play took: 0.013147
+[2025.11.03-06.12.10:358][915]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.11.03-06.12.10:365][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.12.10:365][915]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.12.10:367][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.12.10:367][915]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.12.10:370][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.12.10:370][915]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.12.10:373][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.12.10:373][915]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.12.10:375][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.12.10:375][915]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.12.10:377][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.12.10:377][915]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.12.10:382][915]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.12.10:383][915]PIE: 에디터에서 플레이 총 시작 시간 0.141초입니다.
+[2025.11.03-06.12.23:425][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.12.23:425][682]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.12.23:425][682]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.12.23:429][682]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.12.23:432][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.12.23:436][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.12.23:444][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.12.23:465][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-06.12.23:465][682]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.03-06.12.23:465][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.11.03-06.12.23:468][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.11.03-06.12.23:480][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.11.03-06.12.23:523][683]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: ================================================
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Total job queries 1,106, among them cache hits 358 (32.37%), DDC hits 646 (58.41%), Duplicates 8 (0.72%)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Tracking 740 distinct input hashes that result in 525 distinct outputs (70.95%)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: RAM used: 297.45 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Shaders Compiled: 94
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100%)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Average time worker was idle: 159.63 s
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 1.93 s
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 1.94
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Shader code size: average 8.206 KiB, min 4.078 KiB, max 12.734 KiB
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.83 s
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Average processing rate: 3.50 jobs/sec
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Total thread time: 57.082 s
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Total thread preprocess time: 15.394 s
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Percentage time preprocessing: 26.97%
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Effective parallelization: 2.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.05 sec, max 1.26 sec, min 0.85 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.02 sec, max 1.42 sec, min 0.89 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 0.69 sec, max 0.73 sec, min 0.57 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   18 times, average 0.59 sec, max 0.76 sec, min 0.46 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.72% of total time (compiled   14 times, average 1.05 sec, max 1.26 sec, min 0.85 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.46% of total time (compiled   18 times, average 0.59 sec, max 0.76 sec, min 0.46 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.13% of total time (compiled   18 times, average 0.42 sec, max 0.54 sec, min 0.29 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.98% of total time (compiled   14 times, average 0.45 sec, max 0.56 sec, min 0.36 sec)
+[2025.11.03-06.13.19:774][870]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.83% of total time (compiled   14 times, average 0.40 sec, max 0.52 sec, min 0.29 sec)
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: Materials Translated:    231
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: Material Translation Only: 0.07 s (62%)
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (5%)
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: Material Cache Hits: 114 (49%)
+[2025.11.03-06.13.19:775][870]LogShaderCompilers: Display: ================================================
+[2025.11.03-06.14.18:752][ 41]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.11.03-06.17.34:394][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.11.03-06.17.35:800][246]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.17.35:810][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-06.17.35:810][246]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.17.35:824][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013948s)
+[2025.11.03-06.17.35:824][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.013983s)
+[2025.11.03-06.17.35:843][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-06.17.35:848][246]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.17.35:850][246]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2025.11.03-06.17.35:851][246]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.17.35:851][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.17.35:851][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.17.35:851][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.17.35:851][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.17.35:851][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.17.35:854][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.17.35:869][246]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.17.35:869][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.17.35:869][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.17.35:869][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.17.35:870][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.03-06.17.35:870][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.11.03-06.17.35:872][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.03-06.17.35:872][246]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.03-06.17.35:872][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.03-06.17.35:873][246]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2025.11.03-06.17.35:873][246]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.03-06.17.35:906][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.17.35:907][246]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.17.35:918][246]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.17.35
+[2025.11.03-06.17.35:919][246]LogWorld: Bringing up level for play took: 0.012398
+[2025.11.03-06.17.35:922][246]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.11.03-06.17.35:930][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.35:930][246]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.17.35:931][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.35:931][246]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.17.35:934][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.35:934][246]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.17.35:936][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.35:936][246]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.17.35:937][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.35:937][246]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.17.35:939][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.35:939][246]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.17.35:945][246]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.17.35:946][246]PIE: 에디터에서 플레이 총 시작 시간 0.136초입니다.
+[2025.11.03-06.17.49:892][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.17.49:892][113]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.17.49:893][113]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.17.49:898][113]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.17.49:902][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.17.49:905][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.17.49:913][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.17.49:937][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-06.17.49:937][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.03-06.17.49:937][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.11.03-06.17.49:939][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.11.03-06.17.49:951][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.11.03-06.17.49:994][114]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.11.03-06.17.54:268][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.03-06.17.55:181][641]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.17.55:190][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-06.17.55:190][641]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.17.55:204][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013815s)
+[2025.11.03-06.17.55:204][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.013848s)
+[2025.11.03-06.17.55:226][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-06.17.55:231][641]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.17.55:233][641]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2025.11.03-06.17.55:234][641]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.17.55:234][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.17.55:234][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.17.55:234][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.17.55:234][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.17.55:234][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.17.55:236][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.17.55:252][641]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.17.55:252][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.17.55:252][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.17.55:252][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.17.55:253][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.03-06.17.55:253][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.11.03-06.17.55:256][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.03-06.17.55:256][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.03-06.17.55:256][641]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.03-06.17.55:256][641]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2025.11.03-06.17.55:256][641]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.03-06.17.55:289][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.17.55:289][641]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.17.55:300][641]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.17.55
+[2025.11.03-06.17.55:301][641]LogWorld: Bringing up level for play took: 0.012265
+[2025.11.03-06.17.55:304][641]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.11.03-06.17.55:312][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.55:312][641]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.17.55:313][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.55:313][641]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.17.55:316][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.55:316][641]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.17.55:318][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.55:318][641]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.17.55:320][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.55:320][641]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.17.55:322][641]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.17.55:322][641]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.17.55:327][641]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.17.55:328][641]PIE: 에디터에서 플레이 총 시작 시간 0.138초입니다.
+[2025.11.03-06.18.11:751][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.18.11:751][768]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.18.11:752][768]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.18.11:757][768]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.18.11:760][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.18.11:764][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.18.11:772][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.18.11:795][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-06.18.11:795][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.03-06.18.11:795][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.11.03-06.18.11:797][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.11.03-06.18.11:809][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.03-06.18.11:850][769]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.03-06.18.21:396][728]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter
+[2025.11.03-06.18.21:396][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.11.03-06.18.22:297][731]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.11.03-06.18.35:795][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.11.03-06.18.37:060][529]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.18.37:071][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-06.18.37:071][529]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.18.37:085][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013749s)
+[2025.11.03-06.18.37:085][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.013782s)
+[2025.11.03-06.18.37:113][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.03-06.18.37:117][529]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.18.37:118][529]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2025.11.03-06.18.37:119][529]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.18.37:119][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.18.37:119][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.18.37:119][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.18.37:119][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.18.37:119][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.18.37:122][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.18.37:137][529]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.18.37:137][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.18.37:137][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.18.37:137][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.18.37:137][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.03-06.18.37:138][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.03-06.18.37:140][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.03-06.18.37:140][529]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.03-06.18.37:140][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.03-06.18.37:140][529]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2025.11.03-06.18.37:140][529]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.03-06.18.37:189][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.18.37:189][529]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.18.37:201][529]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.18.37
+[2025.11.03-06.18.37:202][529]LogWorld: Bringing up level for play took: 0.012628
+[2025.11.03-06.18.37:205][529]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.11.03-06.18.37:212][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.18.37:213][529]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.18.37:214][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.18.37:214][529]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.18.37:216][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.18.37:216][529]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.18.37:218][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.18.37:218][529]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.18.37:220][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.18.37:220][529]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.18.37:222][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.18.37:222][529]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.18.37:231][529]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.18.37:237][529]PIE: 에디터에서 플레이 총 시작 시간 0.166초입니다.
+[2025.11.03-06.19.00:691][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.19.00:691][413]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.19.00:692][413]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.19.00:700][413]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.19.00:703][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.19.00:706][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.19.00:714][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.19.00:738][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-06.19.00:739][413]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.03-06.19.00:739][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.03-06.19.00:741][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.11.03-06.19.00:752][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.03-06.19.00:805][414]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.11.03-06.20.47:536][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.11.03-06.20.54:667][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Components/BPC_AttackSystem.BPC_AttackSystem
+[2025.11.03-06.20.54:667][691]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.11.03-06.21.33:889][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.03-06.22.13:547][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.03-06.22.28:550][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.03-06.24.48:807][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.03-06.25.22:835][116]LogContentBrowser: Attempting asset rename: WB_Ending -> WB_Ending1
+[2025.11.03-06.25.22:923][116]LogMetaData: Removing '/Game/A_TheSmallRemains/Items/WB_Ending1.SKEL_WB_Ending1_C' ref from Metadata '/Game/A_TheSmallRemains/Items/WB_Ending.PackageMetaData'
+[2025.11.03-06.25.22:923][116]LogMetaData: Removing '/Game/A_TheSmallRemains/Items/WB_Ending1.WB_Ending1_C' ref from Metadata '/Game/A_TheSmallRemains/Items/WB_Ending.PackageMetaData'
+[2025.11.03-06.25.22:923][116]LogMetaData: Removing '/Game/A_TheSmallRemains/Items/WB_Ending1.SKEL_WB_Ending1_C:Tick' ref from Metadata '/Game/A_TheSmallRemains/Items/WB_Ending.PackageMetaData'
+[2025.11.03-06.25.22:923][116]LogMetaData: Removing '/Game/A_TheSmallRemains/Items/WB_Ending1.SKEL_WB_Ending1_C:Construct' ref from Metadata '/Game/A_TheSmallRemains/Items/WB_Ending.PackageMetaData'
+[2025.11.03-06.25.22:923][116]LogMetaData: Removing '/Game/A_TheSmallRemains/Items/WB_Ending1.SKEL_WB_Ending1_C:PreConstruct' ref from Metadata '/Game/A_TheSmallRemains/Items/WB_Ending.PackageMetaData'
+[2025.11.03-06.25.22:964][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.25.22:964][116]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport] ([2] browsable assets)...
+[2025.11.03-06.25.22:988][116]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport]
+[2025.11.03-06.25.22:988][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport]
+[2025.11.03-06.25.22:996][116]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport
+[2025.11.03-06.25.22:997][116]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestTeleportF50D5C85470A05A699FAE68B43B234E7.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.uasset'
+[2025.11.03-06.25.22:998][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/WB_Ending1] ([2] browsable assets)...
+[2025.11.03-06.25.22:998][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/WB_Ending1]
+[2025.11.03-06.25.23:001][116]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/WB_Ending1
+[2025.11.03-06.25.23:001][116]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Ending1D70AE7F04C1C7108174FAE8A562FD8C8.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/WB_Ending1.uasset'
+[2025.11.03-06.25.23:006][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.849 ms (total: 2.01 sec)
+[2025.11.03-06.25.23:040][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.03-06.25.23:064][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.03-06.25.23:087][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.03-06.25.23:152][116]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-06.25.23:152][116]LogContentValidation: Enabled validators:
+[2025.11.03-06.25.23:152][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.25.23:152][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.25.23:152][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.25.23:152][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.25.23:152][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.25.23:152][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.25.23:152][116]AssetCheck: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport 에셋 유효성 검사 중
+[2025.11.03-06.25.23:153][116]AssetCheck: /Game/A_TheSmallRemains/Items/WB_Ending1 에셋 유효성 검사 중
+[2025.11.03-06.25.24:203][201]LogContentBrowser: Deferred new asset file creation: WB_Ending2
+[2025.11.03-06.25.24:213][201]LogContentBrowser: Creating deferred item: WB_Ending2
+[2025.11.03-06.25.24:265][202]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Ending2).
+[2025.11.03-06.25.24:948][259]LogContentBrowser: Attempting asset rename: WB_Ending2 -> WB_Ending2
+[2025.11.03-06.25.24:975][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-06.25.24:991][259]LogContentBrowser: End creating deferred item WB_Ending2
+[2025.11.03-06.25.25:569][302]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending2.WB_Ending2
+[2025.11.03-06.25.25:569][302]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.11.03-06.25.25:577][302]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.11.03-06.25.43:488][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.03-06.26.52:716][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.03-06.26.59:384][198]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.03-06.27.03:469][430]Cmd: TRANSACTION UNDO
+[2025.11.03-06.27.03:469][430]LogEditorTransaction: Undo 오브젝트 배치
+[2025.11.03-06.27.05:660][488]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.05:660][488]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.05:663][488]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_0
+[2025.11.03-06.27.05:666][488]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_0
+[2025.11.03-06.27.06:082][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.03-06.27.06:087][509]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-06.27.06:092][509]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.06:092][509]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.06:097][509]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_1
+[2025.11.03-06.27.06:100][509]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_1
+[2025.11.03-06.27.07:309][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.07:309][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.07:310][583]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_2
+[2025.11.03-06.27.07:313][583]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_2
+[2025.11.03-06.27.08:255][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.03-06.27.08:261][640]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-06.27.08:266][640]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.08:266][640]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.08:271][640]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_3
+[2025.11.03-06.27.08:274][640]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_3
+[2025.11.03-06.27.09:145][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.09:145][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.09:148][697]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_4
+[2025.11.03-06.27.09:151][697]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_4
+[2025.11.03-06.27.09:813][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.03-06.27.09:817][733]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.11.03-06.27.09:823][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.09:823][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.09:828][733]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_5
+[2025.11.03-06.27.09:831][733]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_5
+[2025.11.03-06.27.10:646][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.10:646][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.10:649][787]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_6
+[2025.11.03-06.27.10:652][787]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_6
+[2025.11.03-06.27.11:344][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.03-06.27.11:349][827]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-06.27.11:354][827]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.11:354][827]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.11:359][827]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_7
+[2025.11.03-06.27.11:363][827]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_7
+[2025.11.03-06.27.12:006][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.12:006][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.12:009][864]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_8
+[2025.11.03-06.27.12:013][864]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_8
+[2025.11.03-06.27.12:548][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-06.27.12:552][893]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.03-06.27.12:558][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.12:558][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.27.12:563][893]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_9
+[2025.11.03-06.27.12:566][893]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_9
+[2025.11.03-06.27.15:793][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.27.15:906][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.03-06.27.15:967][147]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/TestMap
+[2025.11.03-06.27.15:967][147]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMapEB745E204FC34FDC20022A8280ABC767.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap'
+[2025.11.03-06.27.15:983][147]LogFileHelpers: Saving map 'TestMap' took 0.131
+[2025.11.03-06.27.15:991][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.466 ms (total: 2.21 sec)
+[2025.11.03-06.27.16:051][147]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-06.27.16:051][147]LogContentValidation: Enabled validators:
+[2025.11.03-06.27.16:051][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.27.16:051][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.27.16:051][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.27.16:051][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.27.16:051][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.27.16:051][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.27.16:051][147]AssetCheck: /Game/A_TheSmallRemains/Maps/TestMap 에셋 유효성 검사 중
+[2025.11.03-06.27.17:509][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.03-06.27.18:450][269]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-06.27.18:458][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.27.18:520][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.11.03-06.27.18:557][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.11.03-06.27.18:557][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.11.03-06.27.18:623][269]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.11.03-06.27.18:624][269]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterF1CA01434CFEFB12452ABA9A58BC1991.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.11.03-06.27.18:625][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport] ([2] browsable assets)...
+[2025.11.03-06.27.18:632][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport]
+[2025.11.03-06.27.18:632][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport]
+[2025.11.03-06.27.18:641][269]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport
+[2025.11.03-06.27.18:641][269]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestTeleport82CE09734A6ACB54CB5594AEB3D525F5.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.uasset'
+[2025.11.03-06.27.18:643][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.11.03-06.27.18:643][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.11.03-06.27.18:687][269]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.11.03-06.27.18:687][269]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem91E465E74164A49C11352FA2BFAAC165.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.11.03-06.27.18:689][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/WB_Ending2] ([2] browsable assets)...
+[2025.11.03-06.27.18:692][269]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending2.WB_Ending2]
+[2025.11.03-06.27.18:692][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/WB_Ending2]
+[2025.11.03-06.27.18:695][269]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/WB_Ending2
+[2025.11.03-06.27.18:695][269]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Ending2E8F1A0E34EFC6A72FDDC2D88EB758015.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/WB_Ending2.uasset'
+[2025.11.03-06.27.18:705][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.798 ms (total: 2.46 sec)
+[2025.11.03-06.27.18:768][269]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.03-06.27.18:768][269]LogContentValidation: Enabled validators:
+[2025.11.03-06.27.18:768][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.27.18:768][269]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.27.18:768][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.27.18:768][269]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.27.18:768][269]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.27.18:768][269]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.27.18:768][269]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.11.03-06.27.18:768][269]AssetCheck: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport 에셋 유효성 검사 중
+[2025.11.03-06.27.18:768][269]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.11.03-06.27.18:769][269]AssetCheck: /Game/A_TheSmallRemains/Items/WB_Ending2 에셋 유효성 검사 중
+[2025.11.03-06.27.21:240][481]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.27.21:251][481]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.11.03-06.27.21:252][481]LogPlayLevel: [PlayLevel]   Compiling BPC_AttackSystem as a dependent...
+[2025.11.03-06.27.21:439][481]LogPlayLevel: [PlayLevel] Compiling TestMap before play...
+[2025.11.03-06.27.21:513][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.03-06.27.21:521][481]LogPlayLevel: PlayLevel: Blueprint regeneration took 271 ms (3 blueprints)
+[2025.11.03-06.27.21:521][481]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.27.21:536][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015286s)
+[2025.11.03-06.27.21:536][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.015323s)
+[2025.11.03-06.27.21:555][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.03-06.27.21:558][481]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.27.21:560][481]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2025.11.03-06.27.21:561][481]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.27.21:561][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.27.21:561][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.27.21:561][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.27.21:561][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.27.21:561][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.27.21:563][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.27.21:579][481]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.27.21:579][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.27.21:579][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.27.21:579][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.27.21:580][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.03-06.27.21:580][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.03-06.27.21:582][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.03-06.27.21:582][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.03-06.27.21:582][481]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.03-06.27.21:582][481]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2025.11.03-06.27.21:582][481]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.03-06.27.21:635][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.27.21:635][481]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.27.21:647][481]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.27.21
+[2025.11.03-06.27.21:648][481]LogWorld: Bringing up level for play took: 0.012971
+[2025.11.03-06.27.21:651][481]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.11.03-06.27.21:659][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.27.21:659][481]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.27.21:660][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.27.21:660][481]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.27.21:663][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.27.21:663][481]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.27.21:665][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.27.21:665][481]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.27.21:667][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.27.21:667][481]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.27.21:669][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.27.21:669][481]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.27.21:676][481]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.27.21:679][481]PIE: 에디터에서 플레이 총 시작 시간 0.43초입니다.
+[2025.11.03-06.27.32:699][176]LogBlueprintUserMessages: [BP_BatteryCube_C_9] BP_BatteryCube5
+[2025.11.03-06.27.32:891][188]LogBlueprintUserMessages: [BP_BatteryCube_C_7] BP_BatteryCube4
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 1
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.27.34:539][294]LogBlueprintUserMessages: [BP_BatteryCube_C_7] ItemNone
+[2025.11.03-06.27.35:219][337]LogBlueprintUserMessages: [BP_BatteryCube_C_3] BP_BatteryCube2
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 2
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.27.35:372][347]LogBlueprintUserMessages: [BP_BatteryCube_C_3] ItemNone
+[2025.11.03-06.27.37:146][460]LogBlueprintUserMessages: [BP_BatteryCube_C_1] BP_BatteryCube
+[2025.11.03-06.27.37:179][462]LogBlueprintUserMessages: [BP_BatteryCube_C_1] ItemNone
+[2025.11.03-06.27.38:550][552]LogBlueprintUserMessages: [BP_BatteryCube_C_5] BP_BatteryCube3
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 3
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.27.38:974][580]LogBlueprintUserMessages: [BP_BatteryCube_C_5] ItemNone
+[2025.11.03-06.27.39:534][616]LogBlueprintUserMessages: [BP_BatteryCube_C_1] BP_BatteryCube
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 4
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.27.39:710][627]LogBlueprintUserMessages: [BP_BatteryCube_C_1] ItemNone
+[2025.11.03-06.27.43:811][882]LogBlueprintUserMessages: [BP_BatteryCube_C_9] ItemNone
+[2025.11.03-06.27.50:338][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.27.50:338][295]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.27.50:339][295]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.27.50:344][295]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.27.50:347][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.27.50:350][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.27.50:359][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.27.50:384][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.03-06.27.50:384][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.11.03-06.27.50:386][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.11.03-06.27.50:399][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.11.03-06.27.50:482][296]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.11.03-06.28.18:826][699]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.18:826][699]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.18:829][699]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_10
+[2025.11.03-06.28.18:831][699]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_10
+[2025.11.03-06.28.19:645][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-06.28.19:655][747]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.11.03-06.28.19:661][747]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.19:661][747]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.19:666][747]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_11
+[2025.11.03-06.28.19:669][747]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_11
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: ================================================
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Total job queries 1,130, among them cache hits 359 (31.77%), DDC hits 646 (57.17%), Duplicates 8 (0.71%)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Tracking 763 distinct input hashes that result in 543 distinct outputs (71.17%)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: RAM used: 304.44 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Shaders Compiled: 117
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100%)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Average time worker was idle: 251.71 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 2.79 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 3.39 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 4.11
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Shader code size: average 8.049 KiB, min 3.395 KiB, max 15.076 KiB
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.96 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Jobs were issued in 117 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Average processing rate: 3.78 jobs/sec
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Total thread time: 77.682 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Total thread preprocess time: 15.69 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Percentage time preprocessing: 20.20%
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Effective parallelization: 2.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.59 sec, max 1.59 sec, min 1.59 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.51 sec, max 1.51 sec, min 1.51 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.25 sec, max 2.40 sec, min 0.89 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.05 sec, max 1.26 sec, min 0.85 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 0.73 sec, max 0.95 sec, min 0.57 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.90% of total time (compiled   14 times, average 1.05 sec, max 1.26 sec, min 0.85 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.81% of total time (compiled   19 times, average 0.61 sec, max 0.97 sec, min 0.46 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.48% of total time (compiled   19 times, average 0.43 sec, max 0.64 sec, min 0.29 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.66% of total time (compiled    6 times, average 1.25 sec, max 2.40 sec, min 0.89 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.90% of total time (compiled   15 times, average 0.46 sec, max 0.65 sec, min 0.36 sec)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Materials Translated:    232
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Material Translation Only: 0.07 s (62%)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (5%)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: Material Cache Hits: 114 (49%)
+[2025.11.03-06.28.19:809][752]LogShaderCompilers: Display: ================================================
+[2025.11.03-06.28.20:377][789]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.20:377][789]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.20:380][789]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_12
+[2025.11.03-06.28.20:383][789]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_12
+[2025.11.03-06.28.21:323][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-06.28.21:328][852]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-06.28.21:342][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.21:342][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube_C
+[2025.11.03-06.28.21:347][852]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_13
+[2025.11.03-06.28.21:350][852]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_BatteryCube.BP_BatteryCube as actor: BP_BatteryCube_C /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.BP_BatteryCube_C_13
+[2025.11.03-06.28.40:439][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.03-06.28.41:949][790]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.28.41:958][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-06.28.41:959][790]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.28.41:973][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014714s)
+[2025.11.03-06.28.41:973][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.014759s)
+[2025.11.03-06.28.41:992][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-06.28.41:999][790]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.28.42:000][790]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2025.11.03-06.28.42:001][790]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.28.42:001][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.28.42:001][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.28.42:001][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.28.42:001][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.28.42:001][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.28.42:003][790]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.28.42:020][790]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.28.42:020][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.28.42:020][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.28.42:020][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.28.42:020][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.11.03-06.28.42:020][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.11.03-06.28.42:023][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.11.03-06.28.42:023][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.11.03-06.28.42:023][790]LogInit: FAudioDevice initialized with ID 9.
+[2025.11.03-06.28.42:023][790]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2025.11.03-06.28.42:024][790]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.03-06.28.42:085][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.28.42:086][790]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.28.42:097][790]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.28.42
+[2025.11.03-06.28.42:099][790]LogWorld: Bringing up level for play took: 0.013023
+[2025.11.03-06.28.42:101][790]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.11.03-06.28.42:110][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.28.42:110][790]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.28.42:111][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.28.42:111][790]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.28.42:113][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.28.42:113][790]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.28.42:115][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.28.42:115][790]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.28.42:117][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.28.42:117][790]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.28.42:119][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.28.42:119][790]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.28.42:126][790]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.28.42:128][790]PIE: 에디터에서 플레이 총 시작 시간 0.17초입니다.
+[2025.11.03-06.28.54:325][434]LogBlueprintUserMessages: [BP_BatteryCube_C_7] BP_BatteryCube4
+[2025.11.03-06.28.54:422][439]LogBlueprintUserMessages: [BP_BatteryCube_C_11] BP_BatteryCube6
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 1
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.28.54:901][464]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.28.54:902][464]LogBlueprintUserMessages: [BP_BatteryCube_C_11] ItemNone
+[2025.11.03-06.28.55:820][513]LogBlueprintUserMessages: [BP_BatteryCube_C_7] ItemNone
+[2025.11.03-06.28.58:652][666]LogBlueprintUserMessages: [BP_BatteryCube_C_7] BP_BatteryCube4
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 2
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.28.58:894][679]LogBlueprintUserMessages: [BP_BatteryCube_C_7] ItemNone
+[2025.11.03-06.28.59:141][692]LogBlueprintUserMessages: [BP_BatteryCube_C_3] BP_BatteryCube2
+[2025.11.03-06.28.59:178][694]LogBlueprintUserMessages: [BP_BatteryCube_C_1] BP_BatteryCube
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 3
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.28.59:197][695]LogBlueprintUserMessages: [BP_BatteryCube_C_1] ItemNone
+[2025.11.03-06.28.59:612][717]LogBlueprintUserMessages: [BP_BatteryCube_C_13] BP_BatteryCube7
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 4
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.28.59:687][721]LogBlueprintUserMessages: [BP_BatteryCube_C_13] ItemNone
+[2025.11.03-06.28.59:862][730]LogBlueprintUserMessages: [BP_BatteryCube_C_9] BP_BatteryCube5
+[2025.11.03-06.29.00:036][739]LogBlueprintUserMessages: [BP_BatteryCube_C_3] ItemNone
+[2025.11.03-06.29.00:468][762]LogBlueprintUserMessages: [BP_BatteryCube_C_3] BP_BatteryCube2
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 5
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.29.00:789][778]LogBlueprintUserMessages: [BP_BatteryCube_C_3] ItemNone
+[2025.11.03-06.29.01:706][825]LogBlueprintUserMessages: [BP_BatteryCube_C_5] BP_BatteryCube3
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 6
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.29.01:981][839]LogBlueprintUserMessages: [BP_BatteryCube_C_5] ItemNone
+[2025.11.03-06.29.02:117][846]LogBlueprintUserMessages: [BP_BatteryCube_C_9] ItemNone
+[2025.11.03-06.29.10:587][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.29.10:587][287]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.29.10:588][287]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.29.10:594][287]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.29.10:598][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.29.10:601][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.29.10:609][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.29.10:636][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-06.29.10:636][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.03-06.29.10:636][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.11.03-06.29.10:638][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.11.03-06.29.10:650][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.03-06.29.10:723][288]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.11.03-06.29.18:711][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.03-06.30.11:156][ 13]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-06.32.26:386][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.11.03-06.32.31:065][389]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-06.32.31:081][389]LogInterchangeEngine: [대기중] 임포트 중
+[2025.11.03-06.32.31:081][389]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/KGA/Downloads/T_FButton.png]
+[2025.11.03-06.32.31:781][391]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-06.32.32:073][393]LogTexture: Display: 텍스처 빌드 중: /Game/A_TheSmallRemains/Items/EndingItem/T_FButton.T_FButton(TFO_AutoDXT, 64x64 x1x1x1)(예상 필요 메모리: 1.466117MB), 인코딩 속도: Fast
+[2025.11.03-06.32.32:422][393]LogInterchangeEngine: Display: Interchange import completed [C:/Users/KGA/Downloads/T_FButton.png]
+[2025.11.03-06.32.32:433][393]LogInterchangeEngine: [대기중] 임포트 중 - Operation completed.
+[2025.11.03-06.32.32:433][393]LogInterchangeEngine: [성공] 임포트 완료
+[2025.11.03-06.32.40:494][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.32.40:494][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/Textures/T_FButton] ([1] browsable assets)...
+[2025.11.03-06.32.40:495][912]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/A_TheSmallRemains/Items/Textures/T_FButton.T_FButton]
+[2025.11.03-06.32.40:495][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Textures/T_FButton]
+[2025.11.03-06.32.40:497][912]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Textures/T_FButton
+[2025.11.03-06.32.40:497][912]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/T_FButtonC312E17E46D75AB02F880FA7D844EB96.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Textures/T_FButton.uasset'
+[2025.11.03-06.32.40:498][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.468 ms (total: 2.46 sec)
+[2025.11.03-06.32.40:567][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.03-06.32.40:595][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.03-06.32.40:619][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.11.03-06.32.40:639][912]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.03-06.32.40:639][912]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-06.32.40:639][912]LogContentValidation: Enabled validators:
+[2025.11.03-06.32.40:639][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.32.40:639][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.32.40:639][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.32.40:639][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.32.40:639][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.32.40:639][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.32.40:639][912]AssetCheck: /Game/A_TheSmallRemains/Items/Textures/T_FButton 에셋 유효성 검사 중
+[2025.11.03-06.32.56:928][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.03-06.32.59:885][665]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-06.32.59:896][665]LogPlayLevel: [PlayLevel] Compiling BP_TestTeleport before play...
+[2025.11.03-06.32.59:972][665]LogPlayLevel: [PlayLevel] Compiling TestMap before play...
+[2025.11.03-06.33.00:047][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.03-06.33.00:053][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (2 blueprints)
+[2025.11.03-06.33.00:053][665]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.33.00:068][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015550s)
+[2025.11.03-06.33.00:068][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.015584s)
+[2025.11.03-06.33.00:090][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.03-06.33.00:093][665]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.03-06.33.00:094][665]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2025.11.03-06.33.00:095][665]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-06.33.00:095][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-06.33.00:095][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-06.33.00:095][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-06.33.00:095][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-06.33.00:095][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-06.33.00:098][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-06.33.00:114][665]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.11.03-06.33.00:114][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-06.33.00:114][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-06.33.00:114][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-06.33.00:115][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.11.03-06.33.00:115][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.11.03-06.33.00:117][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.11.03-06.33.00:118][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.11.03-06.33.00:118][665]LogInit: FAudioDevice initialized with ID 10.
+[2025.11.03-06.33.00:118][665]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2025.11.03-06.33.00:118][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.03-06.33.00:149][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.33.00:149][665]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-06.33.00:162][665]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2025.11.03-15.33.00
+[2025.11.03-06.33.00:163][665]LogWorld: Bringing up level for play took: 0.013822
+[2025.11.03-06.33.00:166][665]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.11.03-06.33.00:175][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.33.00:175][665]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-06.33.00:177][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.33.00:177][665]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-06.33.00:179][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.33.00:179][665]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.33.00:181][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.33.00:181][665]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-06.33.00:183][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.33.00:183][665]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-06.33.00:186][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-06.33.00:186][665]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-06.33.00:194][665]PIE: 서버가 로그인했습니다.
+[2025.11.03-06.33.00:197][665]PIE: 에디터에서 플레이 총 시작 시간 0.302초입니다.
+[2025.11.03-06.33.04:139][911]LogBlueprintUserMessages: [BP_BatteryCube_C_11] BP_BatteryCube6
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 1
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.04:415][929]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.04:416][929]LogBlueprintUserMessages: [BP_BatteryCube_C_11] ItemNone
+[2025.11.03-06.33.04:476][933]LogBlueprintUserMessages: [BP_BatteryCube_C_7] BP_BatteryCube4
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 2
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.04:680][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.04:681][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.04:681][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.04:681][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.04:681][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.04:681][946]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.04:681][946]LogBlueprintUserMessages: [BP_BatteryCube_C_7] ItemNone
+[2025.11.03-06.33.04:714][948]LogBlueprintUserMessages: [BP_BatteryCube_C_1] BP_BatteryCube
+[2025.11.03-06.33.04:897][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 3
+[2025.11.03-06.33.04:897][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.04:897][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.04:898][960]LogBlueprintUserMessages: [BP_BatteryCube_C_1] ItemNone
+[2025.11.03-06.33.05:005][967]LogBlueprintUserMessages: [BP_BatteryCube_C_3] BP_BatteryCube2
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 4
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.05:145][976]LogBlueprintUserMessages: [BP_BatteryCube_C_3] ItemNone
+[2025.11.03-06.33.05:413][993]LogBlueprintUserMessages: [BP_BatteryCube_C_5] BP_BatteryCube3
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 5
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.05:645][  8]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.05:646][  8]LogBlueprintUserMessages: [BP_BatteryCube_C_5] ItemNone
+[2025.11.03-06.33.10:068][287]LogBlueprintUserMessages: [BP_BatteryCube_C_9] BP_BatteryCube5
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 6
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.10:099][289]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.10:100][289]LogBlueprintUserMessages: [BP_BatteryCube_C_9] ItemNone
+[2025.11.03-06.33.10:484][312]LogBlueprintUserMessages: [BP_BatteryCube_C_13] BP_BatteryCube7
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 0:BatteryCube -> 7
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 1:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 2:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 3:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 4:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 5:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 6:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 7:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 8:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 9:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 10:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 11:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 12:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 13:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 14:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BPC_InventorySystem] Slot Index 15:None -> 0
+[2025.11.03-06.33.10:729][327]LogBlueprintUserMessages: [BP_BatteryCube_C_13] ItemNone
+[2025.11.03-06.33.27:256][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-06.33.27:256][385]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.03-06.33.27:256][385]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-06.33.27:261][385]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-06.33.27:265][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.33.27:268][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-06.33.27:277][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-06.33.27:301][385]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.03-06.33.27:301][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.11.03-06.33.27:303][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.11.03-06.33.27:315][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.03-06.33.27:397][386]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.11.03-06.34.26:551][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.11.03-06.34.27:319][190]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-06.34.27:330][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-06.34.27:434][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.11.03-06.34.27:493][190]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/TestMap
+[2025.11.03-06.34.27:494][190]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestMap3D9828CA498FDB25A29CD4A09D24F05D.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestMap.umap'
+[2025.11.03-06.34.27:511][190]LogFileHelpers: Saving map 'TestMap' took 0.128
+[2025.11.03-06.34.27:511][190]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport] ([2] browsable assets)...
+[2025.11.03-06.34.27:559][190]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.BP_TestTeleport]
+[2025.11.03-06.34.27:559][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport]
+[2025.11.03-06.34.27:574][190]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport
+[2025.11.03-06.34.27:575][190]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestTeleport9A5239A649C81640F378BEB48644C20E.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport.uasset'
+[2025.11.03-06.34.27:576][190]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/WB_Ending2] ([2] browsable assets)...
+[2025.11.03-06.34.27:581][190]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/Items/WB_Ending2.WB_Ending2]
+[2025.11.03-06.34.27:581][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/WB_Ending2]
+[2025.11.03-06.34.27:587][190]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/WB_Ending2
+[2025.11.03-06.34.27:588][190]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Ending2475F745946E1C84E2A57F5B8B55DD908.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/WB_Ending2.uasset'
+[2025.11.03-06.34.27:600][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 270.462 ms (total: 2.73 sec)
+[2025.11.03-06.34.27:665][190]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.03-06.34.27:665][190]LogContentValidation: Enabled validators:
+[2025.11.03-06.34.27:665][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-06.34.27:665][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-06.34.27:665][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-06.34.27:665][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-06.34.27:665][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-06.34.27:665][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-06.34.27:665][190]AssetCheck: /Game/A_TheSmallRemains/Maps/TestMap 에셋 유효성 검사 중
+[2025.11.03-06.34.27:665][190]AssetCheck: /Game/A_TheSmallRemains/Items/EndingItem/BP_TestTeleport 에셋 유효성 검사 중
+[2025.11.03-06.34.27:666][190]AssetCheck: /Game/A_TheSmallRemains/Items/WB_Ending2 에셋 유효성 검사 중
