@@ -15914,3 +15914,252 @@ FPackageName: Unable to identify a valid mount point associated with skipped pac
 [2025.11.03-00.41.12:721][392]AssetCheck: /Game/A_TheSmallRemains/Maps/TestMap 에셋 유효성 검사 중
 [2025.11.03-00.41.12:721][392]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
 [2025.11.03-00.41.12:721][392]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.11.03-00.42.01:307][198]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.03-00.42.04:764][482]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.03-00.42.10:995][106]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-00.42.13:518][106]LogSlate: Window '새 레벨' being destroyed
+[2025.11.03-00.42.13:563][106]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-00.42.13:564][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-00.42.13:584][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-00.42.13:591][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.03-00.42.13:595][106]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.11.03-00.42.13:597][106]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.11.03-00.42.13:742][108]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 43.57 ms. Compile time 33.56 ms, link time 9.97 ms.
+[2025.11.03-00.42.13:816][109]LogD3D12RHI: Creating RTPSO with 32 shaders (0 cached, 32 new) took 156.25 ms. Compile time 143.94 ms, link time 12.28 ms.
+[2025.11.03-00.42.38:585][603]LogSlate: Window '다른 이름으로 레벨 저장' being destroyed
+[2025.11.03-00.42.38:709][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.03-00.42.38:718][603]LogSavePackage: Moving output files for package: /Game/Maps/StartGameMap
+[2025.11.03-00.42.38:718][603]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/StartGameMap3FE95B464D9445EF3D6FFF8F947D66DA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Maps/StartGameMap.umap'
+[2025.11.03-00.42.38:740][603]LogFileHelpers: Saving map 'StartGameMap' took 0.145
+[2025.11.03-00.42.38:740][603]Cmd: MAP LOAD FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Maps/StartGameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.03-00.42.38:770][603]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-00.42.38:770][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-00.42.38:789][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-00.42.38:791][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.03-00.42.38:793][603]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-00.42.38:794][603]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartGameMap'.
+[2025.11.03-00.42.38:794][603]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-00.42.38:819][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.03-00.42.38:841][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.03-00.42.38:855][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.03-00.42.38:855][603]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.052ms.
+[2025.11.03-00.42.38:888][603]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-00.42.38:888][603]LogContentValidation: Enabled validators:
+[2025.11.03-00.42.38:888][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-00.42.38:888][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-00.42.38:888][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-00.42.38:888][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-00.42.38:888][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-00.42.38:888][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-00.42.38:888][603]AssetCheck: /Game/Maps/StartGameMap 에셋 유효성 검사 중
+[2025.11.03-00.42.39:027][607]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.11.03-00.42.56:549][134]LogSlate: Window '메시지' being destroyed
+[2025.11.03-00.42.56:556][134]Message dialog closed, result: Ok, title: 메시지, text: 소스 코드, 환경설정 INI 및 텍스트 파일에서 다음에 대한 찾기/바꾸기가 필요할 수 있습니다.
+
+
+StartGameMap
+
+그렇지 않으면 쿠킹된 빌드에서 에셋이 누락될 수 있습니다. 이름을 변경하고 계속할까요?
+[2025.11.03-00.42.56:565][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-00.42.56:632][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.03-00.42.56:638][134]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/StartGameMap
+[2025.11.03-00.42.56:638][134]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/StartGameMapAE07576A4F453B9742116B820EA1993B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/StartGameMap.umap'
+[2025.11.03-00.42.56:652][134]LogFileHelpers: Saving map 'StartGameMap' took 0.087
+[2025.11.03-00.42.56:652][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/StartGameMap] ([1] browsable assets)...
+[2025.11.03-00.42.56:652][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/StartGameMap]
+[2025.11.03-00.42.56:652][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartGameMap" FILE="../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Maps/StartGameMap.umap" SILENT=true
+[2025.11.03-00.42.56:653][134]LogSavePackage: Moving output files for package: /Game/Maps/StartGameMap
+[2025.11.03-00.42.56:653][134]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/StartGameMap37735C304BA5ABF28941049865C93700.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/Maps/StartGameMap.umap'
+[2025.11.03-00.42.56:654][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.655 ms (total: 581.817 ms)
+[2025.11.03-00.42.56:672][134]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.03-00.42.56:672][134]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-00.42.56:672][134]LogContentValidation: Enabled validators:
+[2025.11.03-00.42.56:672][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-00.42.56:672][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-00.42.56:672][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-00.42.56:672][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-00.42.56:672][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-00.42.56:672][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-00.42.56:672][134]AssetCheck: /Game/A_TheSmallRemains/Maps/StartGameMap 에셋 유효성 검사 중
+[2025.11.03-00.42.56:672][134]AssetCheck: /Game/Maps/StartGameMap 에셋 유효성 검사 중
+[2025.11.03-00.44.44:079][ 46]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.11.03-00.44.44:106][ 46]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.11.03-00.44.44:119][ 47]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.11.03-00.44.49:441][678]LogContentBrowser: Attempting asset rename: 새 폴더 -> StartMap
+[2025.11.03-00.44.49:443][678]LogContentBrowser: End creating deferred item 새 폴더
+[2025.11.03-00.47.54:668][943]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2025.11.03-00.47.54:690][943]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.11.03-00.47.54:695][943]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.11.03-00.47.54:715][945]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.11.03-00.48.02:908][924]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_StartUI
+[2025.11.03-00.48.02:914][924]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.11.03-00.48.04:387][ 94]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI.WB_StartUI
+[2025.11.03-00.48.04:387][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.03-00.48.04:393][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.03-00.48.04:398][ 94]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2025.11.03-00.48.04:839][ 94]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2025.11.03-00.48.38:813][ 52]LogSlate: Took 0.003118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.11.03-00.50.51:778][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.11.03-00.50.51:779][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.11.03-00.50.51:781][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.11.03-00.50.51:869][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.11.03-00.50.51:883][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.11.03-00.50.51:980][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.11.03-00.52.52:720][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.11.03-00.52.52:726][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/StartGameMap' took 0.059
+[2025.11.03-00.52.52:726][470]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-00.52.52:730][470]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI.WB_StartUI]
+[2025.11.03-00.52.52:730][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-00.52.52:734][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto2
+[2025.11.03-00.52.52:734][470]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUI_Auto236DFAFB74663D4D0C527F9AC44144B72.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto2.uasset'
+[2025.11.03-00.52.52:735][470]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.11.03-00.56.16:253][609]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.03-01.05.37:670][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.11.03-01.05.37:675][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/StartGameMap' took 0.027
+[2025.11.03-01.05.37:675][768]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-01.05.37:678][768]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI.WB_StartUI]
+[2025.11.03-01.05.37:678][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-01.05.37:681][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto3
+[2025.11.03-01.05.37:681][768]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUI_Auto3B2FA26734EA3FDADAB9520AEC239F1BB.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto3.uasset'
+[2025.11.03-01.05.37:681][768]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.11.03-01.10.33:309][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.03-01.11.42:226][623]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-01.15.37:816][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.11.03-01.15.37:821][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/StartGameMap' took 0.026
+[2025.11.03-01.15.37:821][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-01.15.37:826][717]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI.WB_StartUI]
+[2025.11.03-01.15.37:826][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-01.15.37:830][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto4
+[2025.11.03-01.15.37:830][717]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUI_Auto4FEA251F8481BD8C113B9ADB34B7CB6B2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto4.uasset'
+[2025.11.03-01.15.37:831][717]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.11.03-01.21.34:039][199]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2025.11.03-01.21.34:043][199]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.11.03-01.21.34:048][199]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.11.03-01.21.34:059][200]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.11.03-01.21.43:034][263]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Story1
+[2025.11.03-01.21.43:041][263]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.11.03-01.21.45:077][491]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story1.WB_Story1
+[2025.11.03-01.21.45:077][491]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.03-01.21.45:083][491]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.03-01.22.30:106][572]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.03-01.23.08:384][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.03-01.23.48:722][823]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-01.23.48:727][823]LogTexture: Display: 텍스처 빌드 중: /Game/A_TheSmallRemains/Items/Textures/T_1.T_1(TFO_AutoDXT, 1536x1024 x1x1x1)(예상 필요 메모리: 137.250MB), 인코딩 속도: Fast
+[2025.11.03-01.23.48:741][823]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Game/A_TheSmallRemains/Items/Textures/T_1)...
+[2025.11.03-01.24.15:523][837]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.03-01.24.16:609][963]LogEditorTransaction: Undo 지정된 컬러 편집
+[2025.11.03-01.24.22:121][503]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.03-01.25.21:156][295]LogEditorTransaction: Undo 앵커 이동
+[2025.11.03-01.29.16:401][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.11.03-01.29.28:125][563]LogContentBrowser: Deferred new asset file creation: WB_Story2
+[2025.11.03-01.29.28:132][563]LogContentBrowser: Creating deferred item: WB_Story2
+[2025.11.03-01.29.28:145][564]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Story2).
+[2025.11.03-01.29.28:521][609]LogContentBrowser: Attempting asset rename: WB_Story2 -> WB_Story2
+[2025.11.03-01.29.28:545][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.03-01.29.28:558][609]LogContentBrowser: End creating deferred item WB_Story2
+[2025.11.03-01.29.29:209][679]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story2.WB_Story2
+[2025.11.03-01.29.29:209][679]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.03-01.29.29:215][679]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.03-01.29.37:833][538]LogStreaming: Display: FlushAsyncLoading(663): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-01.29.37:838][538]LogTexture: Display: 텍스처 빌드 중: /Game/A_TheSmallRemains/Items/Textures/T_2.T_2(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 115.583323MB), 인코딩 속도: Fast
+[2025.11.03-01.29.37:852][538]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Game/A_TheSmallRemains/Items/Textures/T_2)...
+[2025.11.03-01.30.10:387][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.03-01.30.20:206][368]LogContentBrowser: Deferred new asset file creation: WB_Story3
+[2025.11.03-01.30.20:214][368]LogContentBrowser: Creating deferred item: WB_Story3
+[2025.11.03-01.30.20:226][369]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Story3).
+[2025.11.03-01.30.21:430][505]LogContentBrowser: Attempting asset rename: WB_Story3 -> WB_Story3
+[2025.11.03-01.30.21:454][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.03-01.30.21:466][505]LogContentBrowser: End creating deferred item WB_Story3
+[2025.11.03-01.30.22:030][558]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story3.WB_Story3
+[2025.11.03-01.30.22:030][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.03-01.30.22:037][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.03-01.30.26:022][929]LogStreaming: Display: FlushAsyncLoading(664): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-01.30.26:028][929]LogTexture: Display: 텍스처 빌드 중: /Game/A_TheSmallRemains/Items/Textures/T_3.T_3(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 115.583323MB), 인코딩 속도: Fast
+[2025.11.03-01.30.26:043][929]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Game/A_TheSmallRemains/Items/Textures/T_3)...
+[2025.11.03-01.30.47:455][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.03-01.30.49:081][508]LogContentBrowser: Deferred new asset file creation: WB_Story4
+[2025.11.03-01.30.49:088][508]LogContentBrowser: Creating deferred item: WB_Story4
+[2025.11.03-01.30.49:101][509]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Story4).
+[2025.11.03-01.30.49:374][540]LogContentBrowser: Attempting asset rename: WB_Story4 -> WB_Story4
+[2025.11.03-01.30.49:398][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.03-01.30.49:410][540]LogContentBrowser: End creating deferred item WB_Story4
+[2025.11.03-01.30.50:187][614]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story4.WB_Story4
+[2025.11.03-01.30.50:187][614]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.03-01.30.50:194][614]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.11.03-01.30.53:023][853]LogStreaming: Display: FlushAsyncLoading(665): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-01.30.53:028][853]LogTexture: Display: 텍스처 빌드 중: /Game/A_TheSmallRemains/Items/Textures/T_4.T_4(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 115.583323MB), 인코딩 속도: Fast
+[2025.11.03-01.30.53:043][853]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Game/A_TheSmallRemains/Items/Textures/T_4)...
+[2025.11.03-01.31.28:154][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.03-01.31.28:157][634]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/StartGameMap' took 0.042
+[2025.11.03-01.31.28:157][634]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-01.31.28:157][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-01.31.28:161][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto5
+[2025.11.03-01.31.28:161][634]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUI_Auto5E23968D048720BA8D8082CBCD1C1D374.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI_Auto5.uasset'
+[2025.11.03-01.31.28:162][634]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story1] ([2] browsable assets)...
+[2025.11.03-01.31.28:165][634]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story1.WB_Story1]
+[2025.11.03-01.31.28:165][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story1]
+[2025.11.03-01.31.28:169][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story1_Auto5
+[2025.11.03-01.31.28:169][634]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story1_Auto523274B7A440DB38BB15BCE96D4770327.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story1_Auto5.uasset'
+[2025.11.03-01.31.28:170][634]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story2] ([2] browsable assets)...
+[2025.11.03-01.31.28:173][634]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story2.WB_Story2]
+[2025.11.03-01.31.28:173][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story2]
+[2025.11.03-01.31.28:176][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story2_Auto5
+[2025.11.03-01.31.28:176][634]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story2_Auto59BD0DA644F9A86F22F1E5B934C0F33A2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story2_Auto5.uasset'
+[2025.11.03-01.31.28:177][634]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story3] ([2] browsable assets)...
+[2025.11.03-01.31.28:180][634]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story3.WB_Story3]
+[2025.11.03-01.31.28:180][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story3]
+[2025.11.03-01.31.28:184][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story3_Auto5
+[2025.11.03-01.31.28:184][634]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story3_Auto5B9CC387140B52E71F87A858C53E51CE2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story3_Auto5.uasset'
+[2025.11.03-01.31.28:185][634]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story4] ([2] browsable assets)...
+[2025.11.03-01.31.28:187][634]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story4.WB_Story4]
+[2025.11.03-01.31.28:187][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story4]
+[2025.11.03-01.31.28:190][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story4_Auto5
+[2025.11.03-01.31.28:190][634]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story4_Auto5DA1DD8DB4163A220AF15338EEE649115.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/UI/StartMap/WB_Story4_Auto5.uasset'
+[2025.11.03-01.31.28:191][634]LogFileHelpers: Auto-saving content packages took 0.034
+[2025.11.03-01.31.45:223][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-01.32.11:802][280]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.03-01.32.19:169][ 10]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.03-01.32.39:546][177]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.03-01.32.56:698][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.11.03-01.33.50:221][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-01.34.17:323][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-01.34.18:362][727]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-01.34.18:369][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-01.34.18:419][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-01.34.18:419][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-01.34.18:423][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI
+[2025.11.03-01.34.18:423][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUID58A592C4E7ED7EE8DD3EDB1D07881D4.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_StartUI.uasset'
+[2025.11.03-01.34.18:426][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story1] ([2] browsable assets)...
+[2025.11.03-01.34.18:429][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story1.WB_Story1]
+[2025.11.03-01.34.18:429][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story1]
+[2025.11.03-01.34.18:433][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_Story1
+[2025.11.03-01.34.18:433][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story1ECB092AB4E1F997286AE809AB0129F4F.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_Story1.uasset'
+[2025.11.03-01.34.18:437][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story2] ([2] browsable assets)...
+[2025.11.03-01.34.18:439][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story2.WB_Story2]
+[2025.11.03-01.34.18:439][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story2]
+[2025.11.03-01.34.18:442][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_Story2
+[2025.11.03-01.34.18:442][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story2FE90041744570D1305C6E9AD01048BFD.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_Story2.uasset'
+[2025.11.03-01.34.18:447][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story3] ([2] browsable assets)...
+[2025.11.03-01.34.18:449][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story3.WB_Story3]
+[2025.11.03-01.34.18:449][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story3]
+[2025.11.03-01.34.18:452][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_Story3
+[2025.11.03-01.34.18:452][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story38070C40A4AACED795076B294758D9A6B.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_Story3.uasset'
+[2025.11.03-01.34.18:456][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story4] ([2] browsable assets)...
+[2025.11.03-01.34.18:459][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Story4.WB_Story4]
+[2025.11.03-01.34.18:459][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Story4]
+[2025.11.03-01.34.18:463][727]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_Story4
+[2025.11.03-01.34.18:463][727]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_Story48F304DB24A9109D5D7209FB7DFBF29BB.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_Story4.uasset'
+[2025.11.03-01.34.18:473][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.619 ms (total: 685.436 ms)
+[2025.11.03-01.34.18:520][727]LogContentValidation: Display: Starting to validate 5 assets
+[2025.11.03-01.34.18:520][727]LogContentValidation: Enabled validators:
+[2025.11.03-01.34.18:520][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-01.34.18:520][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-01.34.18:520][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-01.34.18:520][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-01.34.18:520][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-01.34.18:520][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-01.34.18:521][727]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI 에셋 유효성 검사 중
+[2025.11.03-01.34.18:521][727]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_Story1 에셋 유효성 검사 중
+[2025.11.03-01.34.18:521][727]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_Story2 에셋 유효성 검사 중
+[2025.11.03-01.34.18:522][727]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_Story3 에셋 유효성 검사 중
+[2025.11.03-01.34.18:522][727]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_Story4 에셋 유효성 검사 중
