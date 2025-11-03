@@ -4467,3 +4467,732 @@ FPackageName: Skipped package /Game/StackOBot/Environment/Landscape/Textures/RVT
 [2025.11.03-13.02.28:828][477]AssetCheck: /Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound 에셋 유효성 검사 중
 [2025.11.03-13.02.28:829][477]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_GameOver 에셋 유효성 검사 중
 [2025.11.03-13.02.28:829][477]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI 에셋 유효성 검사 중
+[2025.11.03-13.05.19:463][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3216.781006
+[2025.11.03-13.05.20:463][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-13.05.20:463][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3217.449707, Update Interval: 324.873810
+[2025.11.03-13.06.41:150][304]LogWindows: LaunchURL https://docs.unrealengine.com/5.5/ko/Engine/Audio/SoundCues/Editor?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs#soundwave
+[2025.11.03-13.06.51:989][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.03-13.06.55:152][667]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.03-13.06.55:180][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.03-13.06.55:202][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.03-13.06.55:222][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.03-13.09.04:271][243]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Jackbongmin\Downloads\S_MainMenu_BackgroundSound11.wav)
+[2025.11.03-13.09.04:274][243]Imported audio has DC offsets larger than 100 at the end of 1 channel - may pop and not loop well: 'S_MainMenu_BackgroundSound11'
+[2025.11.03-13.09.04:287][243]LogAudioDerivedData: Display: BINKA 압축 오디오 포맷 BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END 웨이브 S_MainMenu_BackgroundSound11 빌드 중...
+[2025.11.03-13.09.04:371][243]LogAudioDerivedData: Display: S_MainMenu_BackgroundSound11 16.75% 압축됨(4,953KB에서 829KB로) BINKA 사용, 퀄리티 80, 퀄리티 모디파이어 1.00
+[2025.11.03-13.09.04:372][243]LogAudio: Display: Chunk stats for (SoundWave /Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11.S_MainMenu_BackgroundSound11: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=5, Chunk0=28 bytes, Chunk1=260815 bytes, ChunkN=261123)
+[2025.11.03-13.09.04:375][243]LogAudioDerivedData: Display: BINKA 압축 오디오 포맷 BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END 웨이브 S_MainMenu_BackgroundSound11 빌드 중...
+[2025.11.03-13.09.04:462][244]LogAudioDerivedData: Display: S_MainMenu_BackgroundSound11 16.75% 압축됨(4,953KB에서 829KB로) BINKA 사용, 퀄리티 80, 퀄리티 모디파이어 1.00
+[2025.11.03-13.09.04:463][244]LogAudio: Display: Chunk stats for (SoundWave /Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11.S_MainMenu_BackgroundSound11: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=5, Chunk0=28 bytes, Chunk1=260815 bytes, ChunkN=261123)
+[2025.11.03-13.09.08:326][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.03-13.09.09:054][408]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-13.09.09:063][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-13.09.09:157][408]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11] ([1] browsable assets)...
+[2025.11.03-13.09.09:164][408]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11.S_MainMenu_BackgroundSound11]
+[2025.11.03-13.09.09:164][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11]
+[2025.11.03-13.09.09:173][408]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11
+[2025.11.03-13.09.09:173][408]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/S_MainMenu_BackgroundSound119C80496D4C2081E05BF026929422FF41.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11.uasset'
+[2025.11.03-13.09.09:184][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.425 ms (total: 2.32 sec)
+[2025.11.03-13.09.09:286][408]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-13.09.09:286][408]LogContentValidation: Enabled validators:
+[2025.11.03-13.09.09:286][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-13.09.09:286][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-13.09.09:286][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-13.09.09:286][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-13.09.09:286][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-13.09.09:286][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-13.09.09:286][408]AssetCheck: /Game/A_TheSmallRemains/Sound/S_MainMenu_BackgroundSound11 에셋 유효성 검사 중
+[2025.11.03-13.09.54:151][906]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/A_TheSmallRemains/Maps/TestMap.TestMap:PersistentLevel.TestMap
+[2025.11.03-13.09.54:152][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.11.03-13.10.06:501][627]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2025.11.03-13.10.06:702][628]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 173628
+[2025.11.03-13.10.06:702][628]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.11.03-13.10.06:717][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.10.09:500][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.03-13.10.15:737][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.03-13.10.15:741][135]LogStreaming: Display: FlushAsyncLoading(928): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-13.10.15:762][135]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.10.15:763][135]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap
+[2025.11.03-13.10.15:805][135]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.10.15:805][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.10.15:833][135]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.10.15:833][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.10.15:853][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-13.10.15:860][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-13.10.15:865][135]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.10.15:865][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.10.15:886][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.03-13.10.16:011][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.03-13.10.16:033][135]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartGameMap'.
+[2025.11.03-13.10.16:033][135]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.10.16:051][135]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.03-13.10.16:072][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.03-13.10.16:081][135]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.03-13.10.16:081][135]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.048ms.
+[2025.11.03-13.10.16:141][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.11.03-13.10.19:161][295]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap:PersistentLevel.StartGameMap
+[2025.11.03-13.10.19:161][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.11.03-13.10.41:311][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.03-13.10.42:600][639]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.10.42:606][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.10.42:607][639]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.10.42:607][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000844s)
+[2025.11.03-13.10.42:607][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap (0.000873s)
+[2025.11.03-13.10.42:626][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.03-13.10.42:629][639]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.10.42:631][639]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2025.11.03-13.10.42:631][639]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.10.42:631][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.10.42:631][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.10.42:631][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.10.42:631][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.10.42:631][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.10.42:633][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.10.42:698][639]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.10.42:698][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.10.42:698][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.10.42:698][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.10.42:699][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.11.03-13.10.42:699][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.11.03-13.10.42:701][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.11.03-13.10.42:701][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.11.03-13.10.42:701][639]LogInit: FAudioDevice initialized with ID 18.
+[2025.11.03-13.10.42:701][639]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartGameMap'.
+[2025.11.03-13.10.42:701][639]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.03-13.10.42:774][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.10.42:775][639]LogLoad: Game class is 'GM_MainMenu_C'
+[2025.11.03-13.10.42:775][639]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap up for play (max tick rate 60) at 2025.11.03-22.10.42
+[2025.11.03-13.10.42:775][639]LogWorld: Bringing up level for play took: 0.000374
+[2025.11.03-13.10.42:778][639]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.11.03-13.10.42:778][639]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.11.03-13.10.42:781][639]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.10.42:781][639]PIE: 에디터에서 플레이 총 시작 시간 0.175초입니다.
+[2025.11.03-13.11.15:066][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.11.15:066][555]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.11.15:067][555]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.11.15:071][555]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.11.15:071][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.11.15:074][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.11.15:081][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.11.15:100][555]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.03-13.11.15:100][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.11.03-13.11.15:104][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.11.03-13.11.15:112][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.03-13.11.15:131][556]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.11.03-13.11.18:284][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3575.598633
+[2025.11.03-13.11.18:551][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-13.11.18:552][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3575.849121, Update Interval: 359.505615
+[2025.11.03-13.11.23:999][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.03-13.11.25:274][ 86]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-13.11.25:285][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-13.11.25:423][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.03-13.11.25:429][ 86]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/StartGameMap
+[2025.11.03-13.11.25:429][ 86]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/StartGameMap3425CCDC475D2A104A6082B4AC235A5F.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/StartGameMap.umap'
+[2025.11.03-13.11.25:438][ 86]LogFileHelpers: Saving map 'StartGameMap' took 0.051
+[2025.11.03-13.11.25:577][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.585 ms (total: 2.61 sec)
+[2025.11.03-13.11.25:577][ 86]LogStreaming: Display: FlushAsyncLoading(930): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-13.11.25:649][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.11.25:729][ 86]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/MainMap.MainMap
+[2025.11.03-13.11.25:771][ 86]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.11.25:771][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.11.25:806][ 86]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.11.25:806][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.11.25:842][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-13.11.25:845][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.03-13.11.25:855][ 86]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.11.25:858][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.11.25:895][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.03-13.11.25:921][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.11.03-13.11.25:992][ 86]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2025.11.03-13.11.25:992][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.11.26:154][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.03-13.11.26:206][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.03-13.11.26:217][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.03-13.11.26:217][ 86]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.154ms.
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: Enabled validators:
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-13.11.26:357][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-13.11.26:409][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.03-13.11.34:054][315]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.MainMap
+[2025.11.03-13.11.34:055][315]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.11.03-13.12.16:155][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.11.03-13.12.18:081][805]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.12.18:089][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.12.18:089][805]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.12.18:143][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054334s)
+[2025.11.03-13.12.18:143][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/MainMap.MainMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap (0.054373s)
+[2025.11.03-13.12.18:164][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.03-13.12.18:166][805]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.12.18:168][805]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2025.11.03-13.12.18:168][805]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.12.18:168][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.12.18:168][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.12.18:168][805]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.12.18:168][805]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.12.18:168][805]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.12.18:170][805]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.12.18:233][805]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.12.18:233][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.12.18:233][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.12.18:233][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.12.18:234][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.11.03-13.12.18:234][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.11.03-13.12.18:236][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.11.03-13.12.18:236][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.11.03-13.12.18:236][805]LogInit: FAudioDevice initialized with ID 19.
+[2025.11.03-13.12.18:236][805]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2025.11.03-13.12.18:236][805]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.03-13.12.18:301][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.12.18:302][805]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-13.12.18:328][805]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.03-22.12.18
+[2025.11.03-13.12.18:329][805]LogWorld: Bringing up level for play took: 0.027753
+[2025.11.03-13.12.18:332][805]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.11.03-13.12.18:336][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:336][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-13.12.18:338][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:338][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.03-13.12.18:339][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:339][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-13.12.18:340][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:340][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.03-13.12.18:341][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:341][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.03-13.12.18:342][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:342][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-13.12.18:343][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:343][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.12.18:345][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:345][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.12.18:345][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:345][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.03-13.12.18:346][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:346][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.03-13.12.18:347][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:347][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.03-13.12.18:348][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:348][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.03-13.12.18:349][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:349][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.12.18:350][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:350][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.12.18:351][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:351][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.12.18:352][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:352][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.03-13.12.18:353][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:353][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.03-13.12.18:354][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:354][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.03-13.12.18:355][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:355][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.03-13.12.18:356][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:356][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.03-13.12.18:358][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:358][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.12.18:359][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:359][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.03-13.12.18:361][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:361][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.03-13.12.18:362][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:362][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.03-13.12.18:362][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:362][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.12.18:362][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.12.18:362][805]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.12.18:368][805]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.12.18:370][805]PIE: 에디터에서 플레이 총 시작 시간 0.283초입니다.
+[2025.11.03-13.12.18:918][815]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.12.31:591][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.12.31:591][199]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.12.31:592][199]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.12.31:625][199]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.12.31:644][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.12.31:649][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.12.31:663][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.12.31:704][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.03-13.12.31:704][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.11.03-13.12.31:707][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.11.03-13.12.31:741][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.11.03-13.12.31:832][200]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.11.03-13.13.34:512][343]LogDerivedDataCache: C:/Users/Jackbongmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-13.14.30:490][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.03-13.14.32:110][752]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.14.32:117][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.14.32:117][752]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.14.32:170][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052675s)
+[2025.11.03-13.14.32:170][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/MainMap.MainMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap (0.052715s)
+[2025.11.03-13.14.32:189][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-13.14.32:191][752]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.14.32:193][752]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2025.11.03-13.14.32:193][752]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.14.32:194][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.14.32:194][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.14.32:194][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.14.32:194][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.14.32:194][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.14.32:195][752]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.14.32:258][752]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.14.32:258][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.14.32:258][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.14.32:259][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.14.32:259][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.03-13.14.32:259][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.11.03-13.14.32:261][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.03-13.14.32:262][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.11.03-13.14.32:262][752]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.03-13.14.32:262][752]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMap'.
+[2025.11.03-13.14.32:262][752]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.03-13.14.32:334][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.14.32:334][752]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-13.14.32:360][752]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.03-22.14.32
+[2025.11.03-13.14.32:361][752]LogWorld: Bringing up level for play took: 0.027448
+[2025.11.03-13.14.32:364][752]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.11.03-13.14.32:369][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:369][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-13.14.32:369][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:370][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.03-13.14.32:371][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:371][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-13.14.32:372][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:372][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.03-13.14.32:373][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:373][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.03-13.14.32:374][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:374][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-13.14.32:375][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:375][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.14.32:377][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:377][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.14.32:377][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:378][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.03-13.14.32:378][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:378][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.03-13.14.32:379][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:379][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.03-13.14.32:380][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:380][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.03-13.14.32:381][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:381][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.14.32:382][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:382][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.14.32:383][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:383][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.14.32:384][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:384][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.03-13.14.32:385][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:385][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.03-13.14.32:386][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:386][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.03-13.14.32:388][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:388][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.03-13.14.32:389][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:389][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.03-13.14.32:391][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:391][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.14.32:392][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:392][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.03-13.14.32:393][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:393][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.03-13.14.32:394][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:394][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.03-13.14.32:395][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:395][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.14.32:395][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.14.32:395][752]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.14.32:399][752]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.14.32:401][752]PIE: 에디터에서 플레이 총 시작 시간 0.284초입니다.
+[2025.11.03-13.14.33:029][766]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.14.33:420][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.14.33:420][777]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.14.33:420][777]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.14.33:536][777]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.14.33:549][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.33:552][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.14.33:560][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.33:585][777]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.03-13.14.33:585][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.11.03-13.14.33:586][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.11.03-13.14.33:602][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.03-13.14.33:624][778]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.11.03-13.14.34:700][843]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.14.41:429][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.03-13.14.42:663][100]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-13.14.42:672][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-13.14.42:816][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.03-13.14.43:005][100]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.03-13.14.43:005][100]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MainMapA0CE8D0B44C080317B1CEE97570BE598.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/MainMap.umap'
+[2025.11.03-13.14.43:019][100]LogFileHelpers: Saving map 'MainMap' took 0.239
+[2025.11.03-13.14.43:019][100]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-13.14.43:021][100]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI.WB_StartUI]
+[2025.11.03-13.14.43:021][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-13.14.43:026][100]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI
+[2025.11.03-13.14.43:026][100]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUIF8C1A90545ED6D4A635622AC8B8394DE.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_StartUI.uasset'
+[2025.11.03-13.14.43:141][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 468.190 ms (total: 3.08 sec)
+[2025.11.03-13.14.43:141][100]LogStreaming: Display: FlushAsyncLoading(932): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-13.14.43:169][100]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.14.43:170][100]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap
+[2025.11.03-13.14.43:218][100]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.14.43:218][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.43:253][100]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.14.43:254][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.43:272][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-13.14.43:286][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.03-13.14.43:294][100]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.14.43:294][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.43:313][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.03-13.14.43:335][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.03-13.14.43:359][100]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartGameMap'.
+[2025.11.03-13.14.43:359][100]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.14.43:383][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.03-13.14.43:403][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.03-13.14.43:413][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.03-13.14.43:413][100]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.05ms.
+[2025.11.03-13.14.43:536][100]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-13.14.43:536][100]LogContentValidation: Enabled validators:
+[2025.11.03-13.14.43:536][100]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-13.14.43:536][100]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-13.14.43:536][100]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-13.14.43:536][100]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-13.14.43:536][100]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-13.14.43:536][100]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-13.14.43:536][100]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI 에셋 유효성 검사 중
+[2025.11.03-13.14.43:595][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.03-13.14.44:677][156]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.14.44:683][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.14.44:683][156]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.14.44:685][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001201s)
+[2025.11.03-13.14.44:685][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap (0.001232s)
+[2025.11.03-13.14.44:709][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.11.03-13.14.44:714][156]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.14.44:715][156]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2025.11.03-13.14.44:715][156]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.14.44:715][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.14.44:715][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.14.44:715][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.14.44:715][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.14.44:715][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.14.44:717][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.14.44:783][156]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.14.44:783][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.14.44:783][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.14.44:783][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.14.44:784][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.11.03-13.14.44:784][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.11.03-13.14.44:786][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.11.03-13.14.44:786][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.11.03-13.14.44:786][156]LogInit: FAudioDevice initialized with ID 21.
+[2025.11.03-13.14.44:786][156]LogAudio: Display: Audio Device (ID: 21) registered with world 'StartGameMap'.
+[2025.11.03-13.14.44:786][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.03-13.14.44:854][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.14.44:855][156]LogLoad: Game class is 'GM_MainMenu_C'
+[2025.11.03-13.14.44:855][156]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap up for play (max tick rate 60) at 2025.11.03-22.14.44
+[2025.11.03-13.14.44:855][156]LogWorld: Bringing up level for play took: 0.000312
+[2025.11.03-13.14.44:858][156]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.11.03-13.14.44:863][156]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.14.44:865][156]PIE: 에디터에서 플레이 총 시작 시간 0.181초입니다.
+[2025.11.03-13.14.47:494][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.14.47:494][303]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.14.47:495][303]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.14.47:501][303]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.14.47:501][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.47:503][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.14.47:509][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.14.47:526][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.03-13.14.47:526][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.11.03-13.14.47:529][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.11.03-13.14.47:536][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.03-13.14.47:556][304]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.11.03-13.14.48:707][373]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.14.48:713][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.14.48:713][373]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.14.48:714][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000776s)
+[2025.11.03-13.14.48:714][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap (0.000801s)
+[2025.11.03-13.14.48:731][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.03-13.14.48:733][373]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.14.48:734][373]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2025.11.03-13.14.48:735][373]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.14.48:735][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.14.48:735][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.14.48:735][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.14.48:735][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.14.48:735][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.14.48:736][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.14.48:799][373]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.14.48:799][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.14.48:799][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.14.48:799][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.14.48:800][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.11.03-13.14.48:800][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.11.03-13.14.48:802][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.11.03-13.14.48:802][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.11.03-13.14.48:802][373]LogInit: FAudioDevice initialized with ID 22.
+[2025.11.03-13.14.48:802][373]LogAudio: Display: Audio Device (ID: 22) registered with world 'StartGameMap'.
+[2025.11.03-13.14.48:802][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.03-13.14.48:864][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.14.48:864][373]LogLoad: Game class is 'GM_MainMenu_C'
+[2025.11.03-13.14.48:865][373]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap up for play (max tick rate 60) at 2025.11.03-22.14.48
+[2025.11.03-13.14.48:865][373]LogWorld: Bringing up level for play took: 0.000370
+[2025.11.03-13.14.48:867][373]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.11.03-13.14.48:871][373]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.14.48:873][373]PIE: 에디터에서 플레이 총 시작 시간 0.16초입니다.
+[2025.11.03-13.15.00:226][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.15.00:226][ 43]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.15.00:226][ 43]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.15.00:232][ 43]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.15.00:233][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.15.00:235][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.15.00:241][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.15.00:259][ 43]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.03-13.15.00:259][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.11.03-13.15.00:262][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.11.03-13.15.00:269][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.03-13.15.00:290][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.11.03-13.15.34:268][ 53]LogEditorTransaction: Undo 위젯 크기조정
+[2025.11.03-13.15.57:406][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.03-13.16.04:941][848]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.16.04:949][848]LogPlayLevel: [PlayLevel] Compiling WB_StartUI before play...
+[2025.11.03-13.16.05:080][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.03-13.16.05:084][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2025.11.03-13.16.05:084][848]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.16.05:085][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000917s)
+[2025.11.03-13.16.05:085][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap (0.000952s)
+[2025.11.03-13.16.05:105][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.03-13.16.05:107][848]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.03-13.16.05:108][848]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2025.11.03-13.16.05:108][848]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.16.05:108][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.16.05:108][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.16.05:108][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.16.05:108][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.16.05:108][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.16.05:111][848]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.16.05:175][848]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.16.05:175][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.16.05:175][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.16.05:175][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.16.05:175][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.11.03-13.16.05:175][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.11.03-13.16.05:177][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.11.03-13.16.05:177][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.11.03-13.16.05:177][848]LogInit: FAudioDevice initialized with ID 23.
+[2025.11.03-13.16.05:177][848]LogAudio: Display: Audio Device (ID: 23) registered with world 'StartGameMap'.
+[2025.11.03-13.16.05:177][848]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.03-13.16.05:240][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.16.05:240][848]LogLoad: Game class is 'GM_MainMenu_C'
+[2025.11.03-13.16.05:241][848]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap up for play (max tick rate 60) at 2025.11.03-22.16.05
+[2025.11.03-13.16.05:241][848]LogWorld: Bringing up level for play took: 0.000335
+[2025.11.03-13.16.05:243][848]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.11.03-13.16.05:248][848]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.16.05:250][848]PIE: 에디터에서 플레이 총 시작 시간 0.303초입니다.
+[2025.11.03-13.16.12:085][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.16.12:086][245]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.03-13.16.12:086][245]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.16.12:094][245]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.16.12:094][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.16.12:098][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.16.12:105][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.16.12:123][245]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.03-13.16.12:123][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.11.03-13.16.12:125][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.11.03-13.16.12:132][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.03-13.16.12:158][246]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.11.03-13.16.25:405][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.11.03-13.16.26:947][ 13]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-13.16.26:958][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-13.16.27:088][ 13]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_GameOver] ([2] browsable assets)...
+[2025.11.03-13.16.27:090][ 13]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_GameOver.WB_GameOver]
+[2025.11.03-13.16.27:090][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_GameOver]
+[2025.11.03-13.16.27:094][ 13]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_GameOver
+[2025.11.03-13.16.27:095][ 13]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_GameOver3441CF514FEF6B36E189538A6AEEA115.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_GameOver.uasset'
+[2025.11.03-13.16.27:095][ 13]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI] ([2] browsable assets)...
+[2025.11.03-13.16.27:098][ 13]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI.WB_StartUI]
+[2025.11.03-13.16.27:098][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_StartUI]
+[2025.11.03-13.16.27:104][ 13]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI
+[2025.11.03-13.16.27:104][ 13]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_StartUI716B246E4C3968C8D2FE86B47CFBD58C.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_StartUI.uasset'
+[2025.11.03-13.16.27:220][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 262.522 ms (total: 3.34 sec)
+[2025.11.03-13.16.27:220][ 13]LogStreaming: Display: FlushAsyncLoading(934): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-13.16.27:327][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.16.27:399][ 13]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/MainMap.MainMap
+[2025.11.03-13.16.27:419][ 13]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.16.27:419][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.16.27:448][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-13.16.27:450][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.03-13.16.27:457][ 13]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.16.27:459][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.16.27:491][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.11.03-13.16.27:513][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.03-13.16.27:614][ 13]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2025.11.03-13.16.27:614][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.16.27:772][ 13]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.03-13.16.27:819][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-13.16.27:829][ 13]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.03-13.16.27:829][ 13]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.161ms.
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: Enabled validators:
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-13.16.27:965][ 13]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-13.16.27:965][ 13]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_GameOver 에셋 유효성 검사 중
+[2025.11.03-13.16.27:965][ 13]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_StartUI 에셋 유효성 검사 중
+[2025.11.03-13.16.35:949][294]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.MainMap
+[2025.11.03-13.16.35:949][294]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.11.03-13.16.44:738][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.11.03-13.16.46:983][908]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.16.46:989][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.16.46:989][908]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.16.47:041][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051573s)
+[2025.11.03-13.16.47:041][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/MainMap.MainMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap (0.051608s)
+[2025.11.03-13.16.47:061][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.03-13.16.47:064][908]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.16.47:065][908]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.11.03-13.16.47:066][908]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.16.47:066][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.16.47:066][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.16.47:066][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.16.47:066][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.16.47:066][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.16.47:068][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.16.47:133][908]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.16.47:133][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.16.47:133][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.16.47:133][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.16.47:134][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.11.03-13.16.47:134][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.11.03-13.16.47:136][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.11.03-13.16.47:136][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.11.03-13.16.47:136][908]LogInit: FAudioDevice initialized with ID 24.
+[2025.11.03-13.16.47:136][908]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMap'.
+[2025.11.03-13.16.47:136][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.03-13.16.47:203][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.16.47:203][908]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-13.16.47:229][908]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.03-22.16.47
+[2025.11.03-13.16.47:230][908]LogWorld: Bringing up level for play took: 0.026244
+[2025.11.03-13.16.47:232][908]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.11.03-13.16.47:236][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:236][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-13.16.47:236][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:236][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.03-13.16.47:239][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:239][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-13.16.47:240][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:240][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.03-13.16.47:241][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:241][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.03-13.16.47:242][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:242][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-13.16.47:243][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:243][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.16.47:244][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:244][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.16.47:245][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:245][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.03-13.16.47:246][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:246][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.03-13.16.47:247][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:247][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.03-13.16.47:248][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:248][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.03-13.16.47:248][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:248][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.16.47:249][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:249][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.16.47:250][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:250][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.16.47:251][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:251][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.03-13.16.47:252][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:252][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.03-13.16.47:253][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:253][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.03-13.16.47:254][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:254][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.03-13.16.47:255][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:255][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.03-13.16.47:258][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:258][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.16.47:259][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:259][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.03-13.16.47:260][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:260][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.03-13.16.47:261][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:261][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.03-13.16.47:261][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:261][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.16.47:261][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.16.47:261][908]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.16.47:266][908]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.16.47:267][908]PIE: 에디터에서 플레이 총 시작 시간 0.278초입니다.
+[2025.11.03-13.16.54:816][123]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.16.56:623][179]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.17.20:578][109]LogBlueprintUserMessages: [BP_Apple_C_5] BP_Apple
+[2025.11.03-13.17.21:175][134]LogBlueprintUserMessages: [BP_Apple_C_5] ItemNone
+[2025.11.03-13.17.21:810][157]LogBlueprintUserMessages: [BP_Bullets_C_5] BP_Bullets2
+[2025.11.03-13.17.22:186][170]LogBlueprintUserMessages: [BP_Bullets_C_5] ItemNone
+[2025.11.03-13.17.22:219][171]LogBlueprintUserMessages: [BP_Bullets_C_2] BP_Bullets
+[2025.11.03-13.17.22:726][186]LogBlueprintUserMessages: [BP_Bullets_C_2] ItemNone
+[2025.11.03-13.17.26:541][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.17.26:541][313]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.17.26:542][313]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.17.26:585][313]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.17.26:602][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.17.26:608][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.17.26:619][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.17.26:658][313]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.03-13.17.26:658][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.11.03-13.17.26:661][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.11.03-13.17.26:692][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.11.03-13.17.26:725][314]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.11.03-13.17.29:742][495]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.17.57:217][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3974.531982
+[2025.11.03-13.17.58:217][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-13.17.58:217][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3975.199951, Update Interval: 323.353973
