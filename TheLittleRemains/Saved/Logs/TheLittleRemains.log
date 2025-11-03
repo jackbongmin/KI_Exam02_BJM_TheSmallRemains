@@ -5196,3 +5196,594 @@ FPackageName: Skipped package /Game/StackOBot/Environment/Landscape/Textures/RVT
 [2025.11.03-13.17.57:217][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3974.531982
 [2025.11.03-13.17.58:217][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.03-13.17.58:217][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3975.199951, Update Interval: 323.353973
+[2025.11.03-13.21.56:998][943]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.11.03-13.23.21:035][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.11.03-13.23.26:951][371]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.11.03-13.23.27:017][372]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.11.03-13.23.27:064][373]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.11.03-13.23.31:855][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.31:855][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.31:861][543]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_0
+[2025.11.03-13.23.31:867][543]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_0
+[2025.11.03-13.23.32:532][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.11.03-13.23.32:538][563]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2025.11.03-13.23.32:551][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.32:551][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.32:562][563]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_2
+[2025.11.03-13.23.32:566][563]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_2
+[2025.11.03-13.23.50:643][198]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.50:644][198]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.50:646][198]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_4
+[2025.11.03-13.23.50:653][198]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_4
+[2025.11.03-13.23.51:653][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.03-13.23.51:657][233]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.11.03-13.23.51:668][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.51:668][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.23.51:676][233]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_5
+[2025.11.03-13.23.51:681][233]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_5
+[2025.11.03-13.24.12:596][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4349.899902
+[2025.11.03-13.24.12:866][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-13.24.12:866][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4350.142578, Update Interval: 346.636566
+[2025.11.03-13.24.40:534][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.24.40:534][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.24.40:540][247]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_6
+[2025.11.03-13.24.40:545][247]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_6
+[2025.11.03-13.24.41:196][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.03-13.24.41:200][267]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.11.03-13.24.41:210][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.24.41:210][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.24.41:218][267]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_7
+[2025.11.03-13.24.41:222][267]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_7
+[2025.11.03-13.24.47:180][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple_C
+[2025.11.03-13.24.47:180][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple_C
+[2025.11.03-13.24.47:184][546]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple as actor: BP_Apple_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Apple_C_0
+[2025.11.03-13.24.47:188][546]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple as actor: BP_Apple_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Apple_C_0
+[2025.11.03-13.24.47:818][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.03-13.24.47:821][561]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.11.03-13.24.47:830][561]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple_C
+[2025.11.03-13.24.47:830][561]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple_C
+[2025.11.03-13.24.47:836][561]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple as actor: BP_Apple_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Apple_C_2
+[2025.11.03-13.24.47:840][561]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Apple.BP_Apple as actor: BP_Apple_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Apple_C_2
+[2025.11.03-13.24.56:514][961]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.24.56:514][961]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.24.56:517][961]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_0
+[2025.11.03-13.24.56:520][961]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_0
+[2025.11.03-13.24.57:402][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.03-13.24.57:405][998]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.03-13.24.57:414][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.24.57:414][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.24.57:417][998]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_2
+[2025.11.03-13.24.57:420][998]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_2
+[2025.11.03-13.25.11:204][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.25.11:204][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.25.11:206][580]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_3
+[2025.11.03-13.25.11:211][580]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_3
+[2025.11.03-13.25.12:533][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.03-13.25.12:537][626]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.11.03-13.25.12:545][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.25.12:546][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack_C
+[2025.11.03-13.25.12:552][626]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_4
+[2025.11.03-13.25.12:556][626]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_HealPack.BP_HealPack as actor: BP_HealPack_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_HealPack_C_4
+[2025.11.03-13.25.22:626][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.11.03-13.25.23:427][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.23:427][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.23:432][123]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_0
+[2025.11.03-13.25.23:438][123]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_0
+[2025.11.03-13.25.24:794][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.03-13.25.24:798][172]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.03-13.25.24:806][172]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.24:806][172]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.24:813][172]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_3
+[2025.11.03-13.25.24:818][172]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_3
+[2025.11.03-13.25.28:825][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.28:825][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.28:830][336]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_4
+[2025.11.03-13.25.28:834][336]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_4
+[2025.11.03-13.25.29:466][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.03-13.25.29:469][358]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.03-13.25.29:478][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.29:478][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.29:483][358]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_6
+[2025.11.03-13.25.29:488][358]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_6
+[2025.11.03-13.25.30:105][376]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.30:105][376]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.30:108][376]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_8
+[2025.11.03-13.25.30:111][376]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_8
+[2025.11.03-13.25.30:813][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.03-13.25.30:816][404]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.03-13.25.30:824][404]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.30:824][404]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.25.30:827][404]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_13
+[2025.11.03-13.25.30:831][404]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_13
+[2025.11.03-13.25.35:109][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets
+[2025.11.03-13.25.35:109][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.11.03-13.25.35:838][588]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.11.03-13.25.55:923][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.11.03-13.25.57:375][829]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.25.57:384][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.25.57:384][829]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.25.57:437][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053073s)
+[2025.11.03-13.25.57:437][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/MainMap.MainMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap (0.053110s)
+[2025.11.03-13.25.57:460][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.03-13.25.57:463][829]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.25.57:465][829]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2025.11.03-13.25.57:465][829]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.25.57:465][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.25.57:465][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.25.57:465][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.25.57:465][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.25.57:465][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.25.57:467][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.25.57:532][829]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.25.57:532][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.25.57:532][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.25.57:532][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.25.57:532][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.11.03-13.25.57:532][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.11.03-13.25.57:534][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.11.03-13.25.57:535][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.11.03-13.25.57:535][829]LogInit: FAudioDevice initialized with ID 25.
+[2025.11.03-13.25.57:535][829]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainMap'.
+[2025.11.03-13.25.57:535][829]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.03-13.25.57:604][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.25.57:604][829]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-13.25.57:630][829]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.03-22.25.57
+[2025.11.03-13.25.57:631][829]LogWorld: Bringing up level for play took: 0.027661
+[2025.11.03-13.25.57:634][829]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.11.03-13.25.57:638][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:638][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-13.25.57:639][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:639][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.03-13.25.57:640][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:640][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-13.25.57:641][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:641][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.03-13.25.57:642][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:642][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.03-13.25.57:643][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:643][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-13.25.57:644][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:644][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.25.57:646][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:646][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.25.57:646][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:646][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.03-13.25.57:648][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:648][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.03-13.25.57:649][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:649][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.03-13.25.57:650][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:650][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.03-13.25.57:652][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:652][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.25.57:653][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:653][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.25.57:654][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:654][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.25.57:655][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:655][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.03-13.25.57:655][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:655][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.03-13.25.57:656][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:657][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.03-13.25.57:658][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:658][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.03-13.25.57:658][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:658][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.03-13.25.57:660][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:660][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.25.57:661][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:661][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.03-13.25.57:662][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:662][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.03-13.25.57:663][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:663][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.03-13.25.57:665][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:665][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.25.57:665][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.25.57:665][829]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.25.57:671][829]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.25.57:672][829]PIE: 에디터에서 플레이 총 시작 시간 0.288초입니다.
+[2025.11.03-13.25.59:723][872]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.11.03-13.26.15:693][347]LogBlueprintUserMessages: [BP_BatteryCube_C_4] BP_BatteryCube3
+[2025.11.03-13.26.16:284][367]LogBlueprintUserMessages: [BP_BatteryCube_C_4] ItemNone
+[2025.11.03-13.26.20:340][508]LogBlueprintUserMessages: [BP_BatteryCube_C_4] BP_BatteryCube3
+[2025.11.03-13.26.20:896][526]LogBlueprintUserMessages: [BP_BatteryCube_C_4] ItemNone
+[2025.11.03-13.26.31:730][950]LogBlueprintUserMessages: [BP_Apple_C_5] BP_Apple
+[2025.11.03-13.26.32:305][973]LogBlueprintUserMessages: [BP_Apple_C_5] ItemNone
+[2025.11.03-13.26.33:418][ 10]LogBlueprintUserMessages: [BP_Bullets_C_5] BP_Bullets2
+[2025.11.03-13.26.37:751][167]LogBlueprintUserMessages: [BP_Bullets_C_5] ItemNone
+[2025.11.03-13.26.37:784][168]LogBlueprintUserMessages: [BP_Bullets_C_2] BP_Bullets
+[2025.11.03-13.26.41:047][274]LogBlueprintUserMessages: [BP_Bullets_C_2] ItemNone
+[2025.11.03-13.26.42:205][316]LogBlueprintUserMessages: [BP_Bullets_C_2] BP_Bullets
+[2025.11.03-13.26.42:789][335]LogBlueprintUserMessages: [BP_Bullets_C_2] ItemNone
+[2025.11.03-13.26.54:545][738]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] BP_AK47PickUp
+[2025.11.03-13.26.55:035][752]LogBlueprintUserMessages: [BP_AK47PickUp_C_1] ItemNone
+[2025.11.03-13.27.20:590][662]LogBlueprintUserMessages: [BP_Apple_C_9] BP_Apple6
+[2025.11.03-13.27.21:893][707]LogBlueprintUserMessages: [BP_Apple_C_9] ItemNone
+[2025.11.03-13.27.27:631][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.27.27:631][873]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.27.27:632][873]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.27.27:646][873]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.27.27:666][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.27.27:673][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.27.27:685][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.27.27:723][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-13.27.27:725][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.03-13.27.27:725][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.11.03-13.27.27:728][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.11.03-13.27.27:762][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2025.11.03-13.27.27:855][874]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.11.03-13.27.55:180][ 48]Cmd: DUPLICATE
+[2025.11.03-13.27.55:180][ 48]Cmd: ACTOR DUPLICATE
+[2025.11.03-13.28.50:475][614]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.03-13.28.50:486][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-13.28.50:486][614]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.28.50:581][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094750s)
+[2025.11.03-13.28.50:581][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/MainMap.MainMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap (0.094803s)
+[2025.11.03-13.28.50:611][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.11.03-13.28.50:615][614]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.03-13.28.50:617][614]LogPlayLevel: PIE: World Init took: (0.002094s)
+[2025.11.03-13.28.50:618][614]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-13.28.50:618][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-13.28.50:618][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-13.28.50:618][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-13.28.50:618][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-13.28.50:618][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-13.28.50:621][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-13.28.50:741][614]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.03-13.28.50:741][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-13.28.50:741][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-13.28.50:741][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-13.28.50:742][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.11.03-13.28.50:742][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.11.03-13.28.50:745][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.11.03-13.28.50:745][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.11.03-13.28.50:745][614]LogInit: FAudioDevice initialized with ID 26.
+[2025.11.03-13.28.50:745][614]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainMap'.
+[2025.11.03-13.28.50:746][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.11.03-13.28.50:841][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.28.50:841][614]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.03-13.28.50:883][614]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.03-22.28.50
+[2025.11.03-13.28.50:885][614]LogWorld: Bringing up level for play took: 0.043553
+[2025.11.03-13.28.50:887][614]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.11.03-13.28.50:894][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:894][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.03-13.28.50:896][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:896][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.03-13.28.50:899][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:899][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.03-13.28.50:901][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:901][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.03-13.28.50:903][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:903][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.03-13.28.50:905][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:905][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.03-13.28.50:907][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:907][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.28.50:909][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:909][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.28.50:910][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:911][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.03-13.28.50:912][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:912][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.03-13.28.50:914][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:914][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.03-13.28.50:916][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:916][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.03-13.28.50:919][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:919][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.03-13.28.50:921][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:921][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.28.50:923][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:923][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.28.50:925][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:925][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.03-13.28.50:926][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:926][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.03-13.28.50:929][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:929][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.03-13.28.50:930][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:930][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.03-13.28.50:932][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:932][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.03-13.28.50:935][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:935][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.03-13.28.50:938][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:938][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.03-13.28.50:940][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:940][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.03-13.28.50:942][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:942][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.03-13.28.50:944][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:944][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.03-13.28.50:944][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.03-13.28.50:944][614]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.03-13.28.50:954][614]PIE: 서버가 로그인했습니다.
+[2025.11.03-13.28.50:956][614]PIE: 에디터에서 플레이 총 시작 시간 0.47초입니다.
+[2025.11.03-13.29.23:392][670]LogBlueprintUserMessages: [BP_Bullets_C_10] BP_Bullets6
+[2025.11.03-13.29.25:612][748]LogBlueprintUserMessages: [BP_Bullets_C_10] ItemNone
+[2025.11.03-13.29.35:529][192]LogBlueprintUserMessages: [BP_Bullets_C_10] BP_Bullets6
+[2025.11.03-13.29.36:201][217]LogBlueprintUserMessages: [BP_Bullets_C_10] ItemNone
+[2025.11.03-13.29.36:973][246]LogBlueprintUserMessages: [BP_AK74UPickUp_C_1] BP_AK74UPickUp
+[2025.11.03-13.29.38:200][292]LogBlueprintUserMessages: [BP_AK74UPickUp_C_1] ItemNone
+[2025.11.03-13.29.39:117][321]LogBlueprintUserMessages: [BP_Bullets_C_11] BP_Bullets7
+[2025.11.03-13.29.39:278][326]LogBlueprintUserMessages: [BP_Bullets_C_11] ItemNone
+[2025.11.03-13.29.39:830][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-13.29.39:830][346]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.03-13.29.39:831][346]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.03-13.29.39:844][346]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-13.29.39:861][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.29.39:865][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-13.29.39:876][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-13.29.39:916][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.03-13.29.39:917][346]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.11.03-13.29.39:917][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.11.03-13.29.39:919][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.11.03-13.29.39:946][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.11.03-13.29.40:060][347]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.11.03-13.29.44:424][554]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.03-13.29.46:487][650]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.29.46:487][650]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.29.47:577][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.03-13.29.47:580][698]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.11.03-13.29.47:591][698]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.29.47:591][698]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.30.14:654][770]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.30.14:654][770]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.30.16:203][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.11.03-13.30.16:208][821]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.11.03-13.30.16:219][821]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.30.16:219][821]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.11.03-13.30.40:585][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4737.899902
+[2025.11.03-13.30.40:879][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-13.30.40:880][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4738.166992, Update Interval: 303.660400
+[2025.11.03-13.30.59:064][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.03-13.30.59:550][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Maps/MainMap_Auto3
+[2025.11.03-13.30.59:551][377]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MainMap_Auto3DEE6EF5B486AD18A2BBFE4B47B6E9FDE.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Maps/MainMap_Auto3.umap'
+[2025.11.03-13.30.59:556][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/MainMap' took 0.532
+[2025.11.03-13.30.59:556][377]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.532
+[2025.11.03-13.30.59:556][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets] ([2] browsable assets)...
+[2025.11.03-13.30.59:618][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets]
+[2025.11.03-13.30.59:618][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets]
+[2025.11.03-13.30.59:625][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets_Auto3
+[2025.11.03-13.30.59:625][377]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Bullets_Auto32CAA69CE4884160E001B8CB6A7CECDDA.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets_Auto3.uasset'
+[2025.11.03-13.30.59:626][377]LogFileHelpers: Auto-saving content packages took 0.070
+[2025.11.03-13.31.56:153][446]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.03-13.32.02:608][667]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.03-13.32.03:377][689]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.03:377][689]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.03:384][689]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_15
+[2025.11.03-13.32.03:392][689]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_15
+[2025.11.03-13.32.04:370][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.11.03-13.32.04:373][711]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.11.03-13.32.04:384][711]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.04:384][711]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.04:392][711]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_17
+[2025.11.03-13.32.04:398][711]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_17
+[2025.11.03-13.32.05:308][740]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.05:308][740]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.05:313][740]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_18
+[2025.11.03-13.32.05:317][740]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_18
+[2025.11.03-13.32.06:184][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.03-13.32.06:188][768]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.11.03-13.32.06:197][768]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.06:197][768]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.06:203][768]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_19
+[2025.11.03-13.32.06:208][768]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_19
+[2025.11.03-13.32.14:117][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.14:117][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.14:122][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_20
+[2025.11.03-13.32.14:126][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_20
+[2025.11.03-13.32.15:890][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.03-13.32.15:894][166]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.11.03-13.32.16:326][190]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.16:326][190]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.16:330][190]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_21
+[2025.11.03-13.32.16:333][190]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_21
+[2025.11.03-13.32.16:733][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.03-13.32.16:735][193]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.11.03-13.32.24:154][473]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.24:154][473]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.24:158][473]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_22
+[2025.11.03-13.32.24:161][473]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_22
+[2025.11.03-13.32.25:682][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.03-13.32.25:687][534]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2025.11.03-13.32.25:697][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.25:697][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.25:703][534]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_23
+[2025.11.03-13.32.25:708][534]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_23
+[2025.11.03-13.32.57:730][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.57:730][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.57:736][612]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_24
+[2025.11.03-13.32.57:743][612]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_24
+[2025.11.03-13.32.58:520][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.03-13.32.58:526][638]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2025.11.03-13.32.58:537][638]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.58:537][638]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.32.58:546][638]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_25
+[2025.11.03-13.32.58:552][638]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_25
+[2025.11.03-13.33.03:407][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.03:407][807]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.03:414][807]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_26
+[2025.11.03-13.33.03:420][807]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_26
+[2025.11.03-13.33.04:350][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.11.03-13.33.04:356][830]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.11.03-13.33.04:369][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.04:369][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.04:377][830]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_27
+[2025.11.03-13.33.04:383][830]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_27
+[2025.11.03-13.33.11:270][ 72]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.11:270][ 72]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.11:276][ 72]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_28
+[2025.11.03-13.33.11:282][ 72]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_28
+[2025.11.03-13.33.11:920][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.11.03-13.33.11:926][ 87]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.11.03-13.33.11:939][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.11:939][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.11:948][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_29
+[2025.11.03-13.33.11:954][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_29
+[2025.11.03-13.33.16:609][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.16:609][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.16:614][282]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_30
+[2025.11.03-13.33.16:616][282]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_30
+[2025.11.03-13.33.16:971][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.03-13.33.16:976][293]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-13.33.16:985][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.16:985][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.16:991][293]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_31
+[2025.11.03-13.33.16:994][293]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_31
+[2025.11.03-13.33.20:958][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.20:959][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.20:963][438]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_32
+[2025.11.03-13.33.20:966][438]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_32
+[2025.11.03-13.33.21:354][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.03-13.33.21:359][448]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-13.33.21:368][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.21:368][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.21:376][448]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_33
+[2025.11.03-13.33.21:380][448]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_33
+[2025.11.03-13.33.23:961][533]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.23:961][533]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.23:964][533]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_34
+[2025.11.03-13.33.23:967][533]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_34
+[2025.11.03-13.33.24:396][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.03-13.33.24:402][544]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.03-13.33.24:409][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.24:409][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.24:415][544]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_35
+[2025.11.03-13.33.24:419][544]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_35
+[2025.11.03-13.33.30:096][780]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.30:096][780]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.30:101][780]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_36
+[2025.11.03-13.33.30:105][780]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_36
+[2025.11.03-13.33.30:887][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.03-13.33.30:892][801]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.11.03-13.33.30:900][801]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.30:900][801]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.30:907][801]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_37
+[2025.11.03-13.33.30:911][801]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_37
+[2025.11.03-13.33.33:229][903]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.33:229][903]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.33:235][903]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_38
+[2025.11.03-13.33.33:240][903]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_38
+[2025.11.03-13.33.33:905][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.03-13.33.33:910][925]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.11.03-13.33.33:919][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.33:919][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.33:925][925]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_39
+[2025.11.03-13.33.33:930][925]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_39
+[2025.11.03-13.33.40:228][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.40:228][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.40:232][216]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_8
+[2025.11.03-13.33.40:236][216]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_8
+[2025.11.03-13.33.40:765][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.03-13.33.40:771][231]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.03-13.33.40:781][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.40:781][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.40:788][231]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_9
+[2025.11.03-13.33.40:792][231]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_9
+[2025.11.03-13.33.49:542][639]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.49:542][639]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.49:548][639]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_10
+[2025.11.03-13.33.49:552][639]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_10
+[2025.11.03-13.33.50:440][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.03-13.33.50:445][670]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.03-13.33.50:457][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.50:457][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda_C
+[2025.11.03-13.33.50:464][670]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_11
+[2025.11.03-13.33.50:468][670]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Soda/BP_Soda.BP_Soda as actor: BP_Soda_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Soda_C_11
+[2025.11.03-13.33.54:215][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.54:215][848]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.54:219][848]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_40
+[2025.11.03-13.33.54:223][848]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_40
+[2025.11.03-13.33.55:591][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.03-13.33.55:595][904]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.03-13.33.55:605][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.55:605][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.33.55:611][904]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_41
+[2025.11.03-13.33.55:615][904]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_41
+[2025.11.03-13.34.00:923][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.00:923][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.00:928][147]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_42
+[2025.11.03-13.34.00:932][147]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_42
+[2025.11.03-13.34.01:365][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.03-13.34.01:368][159]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.11.03-13.34.01:377][159]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.01:377][159]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.01:383][159]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_43
+[2025.11.03-13.34.01:388][159]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_43
+[2025.11.03-13.34.10:162][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.10:163][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.10:170][574]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_44
+[2025.11.03-13.34.10:177][574]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_44
+[2025.11.03-13.34.10:694][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.11.03-13.34.10:699][579]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2025.11.03-13.34.10:712][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.10:712][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.10:724][579]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_45
+[2025.11.03-13.34.10:730][579]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_45
+[2025.11.03-13.34.11:334][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.11:334][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.11:339][595]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_46
+[2025.11.03-13.34.11:345][595]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_46
+[2025.11.03-13.34.11:905][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.03-13.34.11:909][599]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.11.03-13.34.11:920][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.11:920][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.11:928][599]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_47
+[2025.11.03-13.34.11:934][599]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_47
+[2025.11.03-13.34.14:436][691]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.14:436][691]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.14:443][691]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_48
+[2025.11.03-13.34.14:447][691]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_48
+[2025.11.03-13.34.14:893][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.03-13.34.14:897][697]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.11.03-13.34.14:908][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.14:908][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.14:915][697]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_49
+[2025.11.03-13.34.14:920][697]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_49
+[2025.11.03-13.34.27:984][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.27:984][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.27:990][126]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_50
+[2025.11.03-13.34.27:995][126]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_50
+[2025.11.03-13.34.28:680][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.11.03-13.34.28:684][143]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.11.03-13.34.28:697][143]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.28:697][143]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets_C
+[2025.11.03-13.34.28:705][143]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_51
+[2025.11.03-13.34.28:711][143]LogActorFactory: Actor Factory spawned Blueprint /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.BP_Bullets as actor: BP_Bullets_C /Game/A_TheSmallRemains/Maps/MainMap.MainMap:PersistentLevel.BP_Bullets_C_51
+[2025.11.03-13.34.44:602][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.03-13.34.45:751][714]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.03-13.34.45:761][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-13.34.45:928][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.11.03-13.34.46:203][714]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.03-13.34.46:204][714]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/MainMapBF9443544C93D8F604F5C1A9D1176BF0.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/MainMap.umap'
+[2025.11.03-13.34.46:223][714]LogFileHelpers: Saving map 'MainMap' took 0.344
+[2025.11.03-13.34.46:223][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets] ([2] browsable assets)...
+[2025.11.03-13.34.46:223][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets]
+[2025.11.03-13.34.46:228][714]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets
+[2025.11.03-13.34.46:228][714]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Bullets6A88DD044349AECA6131349066244F96.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets.uasset'
+[2025.11.03-13.34.46:238][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 476.287 ms (total: 3.81 sec)
+[2025.11.03-13.34.46:354][714]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-13.34.46:354][714]LogContentValidation: Enabled validators:
+[2025.11.03-13.34.46:354][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-13.34.46:354][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-13.34.46:354][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-13.34.46:355][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-13.34.46:355][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-13.34.46:355][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-13.34.46:355][714]AssetCheck: /Game/A_TheSmallRemains/Maps/MainMap 에셋 유효성 검사 중
+[2025.11.03-13.34.46:355][714]AssetCheck: /Game/A_TheSmallRemains/Items/Consumable/Bullets/BP_Bullets 에셋 유효성 검사 중
