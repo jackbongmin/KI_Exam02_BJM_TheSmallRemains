@@ -7813,3 +7813,140 @@ Sampler Limit: 32
 [2025.11.04-06.13.23:790][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
 [2025.11.04-06.13.23:921][157]LogPlayLevel: Display: Destroying online subsystem :Context_122
 [2025.11.04-06.22.29:763][795]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.04-06.35.51:679][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.11.04-06.35.52:682][242]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.04-06.35.52:690][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-06.35.52:773][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.11.04-06.35.52:794][242]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Maps/TestPPTMap
+[2025.11.04-06.35.52:794][242]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/TestPPTMapC049C3774BBAA3C5D23D7C82501D9B41.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Maps/TestPPTMap.umap'
+[2025.11.04-06.35.52:810][242]LogFileHelpers: Saving map 'TestPPTMap' took 0.089
+[2025.11.04-06.35.52:818][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.106 ms (total: 11.9 sec)
+[2025.11.04-06.35.52:873][242]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.04-06.35.52:873][242]LogContentValidation: Enabled validators:
+[2025.11.04-06.35.52:873][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-06.35.52:873][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-06.35.52:873][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-06.35.52:873][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-06.35.52:873][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-06.35.52:873][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-06.35.52:873][242]AssetCheck: /Game/A_TheSmallRemains/Maps/TestPPTMap 에셋 유효성 검사 중
+[2025.11.04-07.22.29:763][663]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.04-07.54.02:466][514]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.02:466][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.02:529][514]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.02:529][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.02:569][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.11.04-07.54.03:982][620]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.03:982][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.04:091][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.04-07.54.04:667][665]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.04:667][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.04:808][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.04-07.54.05:502][718]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.05:502][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.05:602][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.04-07.54.14:472][764]LogSlate: Window '메시지' being destroyed
+[2025.11.04-07.54.14:517][764]Message dialog closed, result: No, title: 메시지, text: 이 머티리얼의 변경내용을 원본 머티리얼에 적용할까요?
+/Game/A_TheSmallRemains/Items/Textures/NewMaterial.NewMaterial
+(아니오는 변경내용을 잃습니다!)
+[2025.11.04-07.54.16:857][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.04-07.54.16:857][924]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.16:857][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.16:967][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.04-07.54.17:884][993]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.04-07.54.17:884][993]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.17:884][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.17:998][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.04-07.54.18:972][ 68]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.18:972][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.19:075][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.04-07.54.19:916][130]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.04-07.54.19:916][130]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.19:917][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.20:003][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.04-07.54.20:866][197]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.04-07.54.20:866][197]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.20:866][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.20:953][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.04-07.54.22:394][315]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.04-07.54.22:394][315]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.22:394][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.22:518][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.04-07.54.23:211][373]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.23:211][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.23:283][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.04-07.54.27:739][734]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.27:739][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.27:788][734]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-07.54.27:788][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-07.54.27:815][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.04-07.54.41:178][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default
+[2025.11.04-07.54.41:179][717]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.11.04-07.54.41:883][720]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.11.04-07.54.51:023][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default.BP_cockroach_Default
+[2025.11.04-07.54.51:024][397]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.11.04-07.54.51:717][400]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.11.04-07.54.59:999][992]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle.BP_RhinocerosBeetle
+[2025.11.04-07.55.00:000][992]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.11.04-07.55.04:773][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.11.04-07.55.04:994][288]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.11.04-07.55.06:799][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.BP_Spider_Default
+[2025.11.04-07.55.06:799][386]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2025.11.04-07.55.07:573][389]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.11.04-07.56.04:069][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.11.04-07.56.14:129][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.04-07.56.37:328][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.11.04-07.56.57:033][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.11.04-07.57.15:378][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.04-07.57.42:213][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.04-07.58.00:776][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.04-07.58.13:995][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.04-07.58.20:628][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.04-07.58.29:756][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.04-07.58.30:857][ 57]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.04-07.58.30:866][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-07.58.30:905][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default] ([2] browsable assets)...
+[2025.11.04-07.58.30:944][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.BP_Ant_Default]
+[2025.11.04-07.58.30:944][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default]
+[2025.11.04-07.58.30:968][ 57]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default
+[2025.11.04-07.58.30:968][ 57]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Ant_Default0B3954E34180C86868D2ED9D06DA07E3.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default.uasset'
+[2025.11.04-07.58.30:970][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default] ([2] browsable assets)...
+[2025.11.04-07.58.30:977][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default.BP_cockroach_Default]
+[2025.11.04-07.58.30:977][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default]
+[2025.11.04-07.58.30:998][ 57]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default
+[2025.11.04-07.58.30:998][ 57]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_cockroach_DefaultE9DF545D45CD3EC44B4CD986C0CCA8B2.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default.uasset'
+[2025.11.04-07.58.31:000][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle] ([2] browsable assets)...
+[2025.11.04-07.58.31:006][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle.BP_RhinocerosBeetle]
+[2025.11.04-07.58.31:006][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle]
+[2025.11.04-07.58.31:031][ 57]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle
+[2025.11.04-07.58.31:032][ 57]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_RhinocerosBeetle3BE71A944C5A93D3F47E9E89EBD0BBAE.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle.uasset'
+[2025.11.04-07.58.31:033][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default] ([2] browsable assets)...
+[2025.11.04-07.58.31:039][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.BP_Spider_Default]
+[2025.11.04-07.58.31:040][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default]
+[2025.11.04-07.58.31:064][ 57]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default
+[2025.11.04-07.58.31:064][ 57]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_Spider_Default8C5581324F16C23574FC87A1465E0DAA.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default.uasset'
+[2025.11.04-07.58.31:065][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle] ([2] browsable assets)...
+[2025.11.04-07.58.31:072][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle.BP_StagBeetle]
+[2025.11.04-07.58.31:072][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle]
+[2025.11.04-07.58.31:094][ 57]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle
+[2025.11.04-07.58.31:095][ 57]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_StagBeetle0179FF84449F4ED9CF26B9A1DF84EBC8.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle.uasset'
+[2025.11.04-07.58.31:098][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Animation/Moster/WolfSpider/BP_WolfSpider_Default] ([2] browsable assets)...
+[2025.11.04-07.58.31:104][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Animation/Moster/WolfSpider/BP_WolfSpider_Default.BP_WolfSpider_Default]
+[2025.11.04-07.58.31:104][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Animation/Moster/WolfSpider/BP_WolfSpider_Default]
+[2025.11.04-07.58.31:124][ 57]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Animation/Moster/WolfSpider/BP_WolfSpider_Default
+[2025.11.04-07.58.31:125][ 57]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_WolfSpider_Default0CE17CEA4A753CFD15E97FB7CDA3C9E0.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Animation/Moster/WolfSpider/BP_WolfSpider_Default.uasset'
+[2025.11.04-07.58.31:133][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 266.341 ms (total: 12.1 sec)
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: Display: Starting to validate 6 assets
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: Enabled validators:
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-07.58.31:196][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-07.58.31:197][ 57]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Ant/BP_Ant_Default 에셋 유효성 검사 중
+[2025.11.04-07.58.31:197][ 57]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/cockroach/BP_cockroach_Default 에셋 유효성 검사 중
+[2025.11.04-07.58.31:197][ 57]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/RhinocerosBeetle/BP_RhinocerosBeetle 에셋 유효성 검사 중
+[2025.11.04-07.58.31:197][ 57]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/Spider/BP_Spider_Default 에셋 유효성 검사 중
+[2025.11.04-07.58.31:197][ 57]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/StagBeetle/BP_StagBeetle 에셋 유효성 검사 중
+[2025.11.04-07.58.31:197][ 57]AssetCheck: /Game/A_TheSmallRemains/Animation/Moster/WolfSpider/BP_WolfSpider_Default 에셋 유효성 검사 중
