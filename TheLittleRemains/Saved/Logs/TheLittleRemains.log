@@ -3175,3 +3175,809 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.04-12.29.49:946][802]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2025.11.04-12.29.49:946][802]LogShaderCompilers: Display: Material Cache Hits: 16 (10%)
 [2025.11.04-12.29.49:946][802]LogShaderCompilers: Display: ================================================
+[2025.11.04-12.30.21:119][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.04-12.30.22:443][567]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.04-12.30.22:454][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-12.30.22:561][567]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.11.04-12.30.22:613][567]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.11.04-12.30.22:613][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.11.04-12.30.22:662][567]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.11.04-12.30.22:662][567]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter78DC09714363327153E1A3AEA7FECA81.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.11.04-12.30.22:781][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 326.853 ms (total: 2.58 sec)
+[2025.11.04-12.30.22:781][567]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.04-12.30.22:820][567]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.04-12.30.22:821][567]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap
+[2025.11.04-12.30.22:848][567]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.30.22:848][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.30.22:869][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.04-12.30.22:880][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.04-12.30.22:883][567]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.30.22:883][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.30.22:906][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.04-12.30.22:929][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.04-12.30.22:961][567]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartGameMap'.
+[2025.11.04-12.30.22:961][567]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.04-12.30.22:991][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.04-12.30.23:016][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.04-12.30.23:026][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.04-12.30.23:026][567]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.051ms.
+[2025.11.04-12.30.23:153][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.04-12.30.23:153][567]LogContentValidation: Enabled validators:
+[2025.11.04-12.30.23:153][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-12.30.23:153][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-12.30.23:153][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-12.30.23:153][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-12.30.23:153][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-12.30.23:153][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-12.30.23:153][567]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.11.04-12.30.24:168][624]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.04-12.30.24:175][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-12.30.24:176][624]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.04-12.30.24:177][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2025.11.04-12.30.24:177][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/StartGameMap.StartGameMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap (0.001180s)
+[2025.11.04-12.30.24:202][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.04-12.30.24:207][624]LogChaosDD: Creating Chaos Debug Draw Scene for world StartGameMap
+[2025.11.04-12.30.24:208][624]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2025.11.04-12.30.24:208][624]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-12.30.24:208][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-12.30.24:208][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-12.30.24:208][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-12.30.24:208][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-12.30.24:208][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-12.30.24:210][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-12.30.24:276][624]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.04-12.30.24:276][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-12.30.24:276][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-12.30.24:276][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-12.30.24:276][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.11.04-12.30.24:276][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.11.04-12.30.24:279][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.11.04-12.30.24:279][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.11.04-12.30.24:279][624]LogInit: FAudioDevice initialized with ID 18.
+[2025.11.04-12.30.24:279][624]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartGameMap'.
+[2025.11.04-12.30.24:279][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.04-12.30.24:339][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.30.24:340][624]LogLoad: Game class is 'GM_TestPlayController_C'
+[2025.11.04-12.30.24:340][624]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap.StartGameMap up for play (max tick rate 60) at 2025.11.04-21.30.24
+[2025.11.04-12.30.24:340][624]LogWorld: Bringing up level for play took: 0.000349
+[2025.11.04-12.30.24:343][624]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.11.04-12.30.24:347][624]PIE: 서버가 로그인했습니다.
+[2025.11.04-12.30.24:350][624]PIE: 에디터에서 플레이 총 시작 시간 0.175초입니다.
+[2025.11.04-12.30.34:515][225]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/A_TheSmallRemains/Maps/MainMap"
+[2025.11.04-12.30.34:515][225]LogNet: Browse: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.04-12.30.34:515][225]LogLoad: LoadMap: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.04-12.30.34:515][225]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_StartGameMap
+[2025.11.04-12.30.34:516][225]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.30.34:516][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.30.34:582][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.04-12.30.34:584][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.04-12.30.34:586][225]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.04-12.30.37:213][225]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) - Skipping non mounted imported package /Game/StackOBot/Environment/Foilage/Textures/Wind (0xEF83B9CD550357A3)
+[2025.11.04-12.30.37:213][225]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) - Skipping non mounted imported package /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H (0x9802D4593F025D3C)
+[2025.11.04-12.30.37:454][225]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) - Skipping non mounted imported package /Game/StackOBot/Environment/Foilage/Textures/Wind (0xEF83B9CD550357A3)
+[2025.11.04-12.30.37:454][225]LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) - Skipping non mounted imported package /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H (0x9802D4593F025D3C)
+[2025.11.04-12.30.37:649][225]LogMaterial: Warning: [AssetLog] C:\Users\Jackbongmin\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.11.04-12.30.37:935][225]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMap'.
+[2025.11.04-12.30.37:936][225]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.04-12.30.37:941][225]LogPlayLevel: PIE: World Init took: (0.005797s)
+[2025.11.04-12.30.37:941][225]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/lamp/SM_Light_bulb.SM_Light_bulb being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_061.Cube_061 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_007.Cube_007 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_008.Cube_008 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_039.Cube_039 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_042.Cube_042 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Window_Frame_Blinder_Right.Window_Frame_Blinder_Right being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Antenna.Antenna being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Porch_Planks_1.Porch_Planks_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Porch_Planks_2.Porch_Planks_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Porch_Planks_3.Porch_Planks_3 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Unique/Pole_Cables.Pole_Cables being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Door_01.Door_01 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Window_Frame_Blinder_Left.Window_Frame_Blinder_Left being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Mailbox_Lid.Mailbox_Lid being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Mailbox_Pole.Mailbox_Pole being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Lid.Outhouse_Lid being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Plastic_Trash_Bin_Bin.Plastic_Trash_Bin_Bin being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Plastic_Trash_Bin_Lid.Plastic_Trash_Bin_Lid being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Window_Frame_Part.Window_Frame_Part being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Unique/Diorama_Ground.Diorama_Ground being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Wall_Top_4m.Wall_Top_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_1.Metal_Sheet_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Sheet_2.Metal_Sheet_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Porch_Roof_8x4m.Porch_Roof_8x4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Roof_End_Gap_Right_4m.Roof_End_Gap_Right_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Roof_End_Left_4m.Roof_End_Left_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Roof_End_Right_4m.Roof_End_Right_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Roof_Gap_Filler_4m.Roof_Gap_Filler_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Bottom_Extender_4m.Bottom_Extender_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Wall_Pillar.Wall_Pillar being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Wall_Door_4m.Wall_Door_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Wall_Door_Windows_8m.Wall_Door_Windows_8m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Wall_Window_2_4m.Wall_Window_2_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Wall_Window_4m.Wall_Window_4m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Fence_Old_1_2m.Fence_Old_1_2m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Fence_Old_2_2m.Fence_Old_2_2m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Fence_Old_3_2m.Fence_Old_3_2m being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Fence_Old_Pole.Fence_Old_Pole being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pier.Pier being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Stone_Chimney.Stone_Chimney being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_Door.Outhouse_Door being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Outhouse_House.Outhouse_House being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_1.Ivy_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_2.Ivy_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_3.Ivy_3 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_4.Ivy_4 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_5.Ivy_5 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_6.Ivy_6 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Ivy_Roots_1.Ivy_Roots_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Unique/Diorama_Water.Diorama_Water being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Round_Table.SM_Classic_Round_Table being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Commode.SM_Commode being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Picture.SM_Picture being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Table_Lamp.SM_Table_Lamp being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_TV.SM_TV being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Bush_1.Bush_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Bush_Tree.Bush_Tree being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Cat_Tail.Cat_Tail being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Cat_Tail_2.Cat_Tail_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Flower_Patch_1.Flower_Patch_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Grass_Patch_1.Grass_Patch_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Grass_Patch_Long.Grass_Patch_Long being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Grass_Patch_2.Grass_Patch_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Pine_Tree.Pine_Tree being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Shrubs_1.Shrubs_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Foliage/Shrubs_1_Single.Shrubs_1_Single being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Air_Conditioning_Unit.Air_Conditioning_Unit being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_1.Axe_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Axe_2.Axe_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Barbecue.Barbecue being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Bowl.Bowl being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cutting_Board.Cutting_Board being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Fork.Fork being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Knive.Knive being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Mug.Mug being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Plate_1.Plate_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Plate_2.Plate_2 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Spoon.Spoon being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Tray.Tray being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_1.Cardboard_Box_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_3.Cardboard_Box_3 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_4.Cardboard_Box_4 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_5.Cardboard_Box_5 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_Open_1.Cardboard_Box_Open_1 being ready before playing
+[2025.11.04-12.30.37:956][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_Open_2.Cardboard_Box_Open_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Cardboard_Box_Open_3.Cardboard_Box_Open_3 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Flag.Flag being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_1.Log_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_2.Log_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_3.Log_3 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_4.Log_4 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_5.Log_5 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_6.Log_6 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_1.Log_Pile_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_2.Log_Pile_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Log_Pile_3.Log_Pile_3 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Barrel.Metal_Barrel being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Bucket.Metal_Bucket being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_1.Metal_Chimney_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Chimney_2.Metal_Chimney_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Metal_Overhang.Metal_Overhang being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Office_Chair.Office_Chair being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plank_1.Old_Planks_Plank_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plank_2.Old_Planks_Plank_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plank_3.Old_Planks_Plank_3 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plank_4.Old_Planks_Plank_4 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plank_5.Old_Planks_Plank_5 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_1.Old_Planks_Plywood_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Planks_Plywood_2.Old_Planks_Plywood_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Old_Sofa.Old_Sofa being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet_Broken.Pallet_Broken being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Picnic_Table.Picnic_Table being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Plastic_Chair.Plastic_Chair being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Power_Pole_Addons.Power_Pole_Addons being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Power_Pole_1.Power_Pole_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Power_Pole_Light.Power_Pole_Light being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pumpkin_1.Pumpkin_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pumpkin_2.Pumpkin_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pumpkin_Sign.Pumpkin_Sign being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Refrigerator_Old.Refrigerator_Old being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/River_Stone_1.River_Stone_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/River_Stone_2.River_Stone_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/River_Stone_3.River_Stone_3 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/River_Stone_4.River_Stone_4 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/River_Stone_Set_1.River_Stone_Set_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Road_Sign.Road_Sign being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rock_1.Rock_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Satellite_Dish.Satellite_Dish being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Shopping_Cart.Shopping_Cart being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Side_Shed.Side_Shed being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Tire.Tire being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Tree_Stump_1.Tree_Stump_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_1a.Utility_Box_1a being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_1b.Utility_Box_1b being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_2a.Utility_Box_2a being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_2b.Utility_Box_2b being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate.Wooden_Crate being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_1.Wooden_Crate_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Table_Small.Wooden_Table_Small being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Cabinet.SM_Cabinet being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Cabinet_2.SM_Cabinet_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Cup.SM_Cup being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Fuse.SM_Fuse being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel.SM_Scifi_Barrel being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Cabin.SM_Scifi_Cabin being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Desk.SM_Scifi_Desk being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Panel.SM_Scifi_Panel being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Tool_B.SM_Scifi_Tool_B being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Tool_C.SM_Scifi_Tool_C being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Tube_B.SM_Scifi_Tube_B being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/SciFiShelter/Meshes/SM_Sign.SM_Sign being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/VintageGlobe/SM_Globe_SM_Globe.SM_Globe_SM_Globe being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/VintageGlobe/SM_Globe_SM_Globe_Body.SM_Globe_SM_Globe_Body being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Base.Base being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Box_01.Box_01 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Box_02.Box_02 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Box_03.Box_03 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Box_04.Box_04 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Box_05.Box_05 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Game_Ready_Free_Bedroom_Shelf/Meshes/Box_06.Box_06 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode.SM_Classic_Commode being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_1.SM_Classic_Commode_Drawer_1 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_2.SM_Classic_Commode_Drawer_2 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube.Cube being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_005.Cube_005 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_011.Cube_011 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_009.Cube_009 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_010.Cube_010 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_043.Cube_043 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_044.Cube_044 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_045.Cube_045 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_046.Cube_046 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_047.Cube_047 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_048.Cube_048 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_058.Cube_058 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fab/Corner_Sofa/Cube_059.Cube_059 being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Porch_4x4m.Porch_4x4m being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/ArchViz/MokaPot/SM_MokaPot.SM_MokaPot being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_Chisel_A.SM_Chisel_A being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Tools/CarpenterTools/SM_HandSaw.SM_HandSaw being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Vinyl.SM_Vinyl being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/GrandfatherClock/SM_GrandfatherClock_HourHand.SM_GrandfatherClock_HourHand being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/GrandfatherClock/SM_GrandfatherClock_MinuteHand.SM_GrandfatherClock_MinuteHand being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/Phonograph/SM_Phonograph.SM_Phonograph being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_Bookshelf.SM_Bookshelf being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_Drawer.SM_Drawer being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_LeftPanel.SM_LeftPanel being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_MiddlePanel.SM_MiddlePanel being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/ArchViz/NeoGothicBookcase/SM_RightPanel.SM_RightPanel being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UnrealBucket/Library/Various/GrandfatherClock/SM_GrandfatherClock_Body.SM_GrandfatherClock_Body being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StackOBot/Environment/Modular/SM_Fan_Frame.SM_Fan_Frame being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StackOBot/Environment/Modular/SM_Fence_Pillar.SM_Fence_Pillar being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StackOBot/Environment/Modular/SM_Fan_Grating.SM_Fan_Grating being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StackOBot/Environment/Modular/SM_PipesRing.SM_PipesRing being ready before playing
+[2025.11.04-12.30.37:957][225]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StackOBot/Environment/Modular/SM_Fence_Pillar_Corner.SM_Fence_Pillar_Corner being ready before playing
+[2025.11.04-12.30.38:086][225]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.04-21.30.38
+[2025.11.04-12.30.38:092][225]LogWorld: Bringing up level for play took: 0.122755
+[2025.11.04-12.30.38:097][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:097][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.04-12.30.38:097][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:097][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.04-12.30.38:099][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:099][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.04-12.30.38:100][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:100][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.04-12.30.38:101][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:101][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.04-12.30.38:103][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:103][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.04-12.30.38:104][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:104][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.30.38:106][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:106][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.30.38:107][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:107][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.04-12.30.38:108][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:108][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.04-12.30.38:109][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:109][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.04-12.30.38:111][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:111][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.04-12.30.38:112][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:112][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.30.38:113][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:113][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.04-12.30.38:115][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:115][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.04-12.30.38:116][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:116][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.04-12.30.38:117][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:117][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.04-12.30.38:117][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:117][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.04-12.30.38:118][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:118][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.04-12.30.38:119][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:119][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.04-12.30.38:121][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:121][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.04-12.30.38:122][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:122][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.04-12.30.38:123][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:123][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.04-12.30.38:124][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:124][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.04-12.30.38:127][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:127][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.30.38:127][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.30.38:127][225]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.04-12.30.38:131][225]LogLoad: Took 3.615742 seconds to LoadMap(/Game/A_TheSmallRemains/Maps/MainMap)
+[2025.11.04-12.30.38:131][225]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.04-12.30.38:184][225]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Foilage/Textures/Wind which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.11.04-12.30.38:184][225]LoadErrors: Warning: 패키지 /Game/StackOBot/Environment/Materials/M_TileMaster 로드하려고 시도하는 동안 종속 패키지 /Game/StackOBot/Environment/Foilage/Textures/Wind 사용할 수 없었습니다. 추가 설명은 다음과 같습니다.
+FPackageName: Skipped package /Game/StackOBot/Environment/Foilage/Textures/Wind has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Foilage/Textures/Wind.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.11.04-12.30.38:184][225]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Landscape/Textures/RVT_Crater_H which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.11.04-12.30.38:184][225]LoadErrors: Warning: 패키지 /Game/StackOBot/Environment/Materials/M_TileMaster 로드하려고 시도하는 동안 종속 패키지 /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H 사용할 수 없었습니다. 추가 설명은 다음과 같습니다.
+FPackageName: Skipped package /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Landscape/Textures/RVT_Crater_H.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.11.04-12.30.38:185][225]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Foilage/Textures/Wind which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.11.04-12.30.38:185][225]LoadErrors: Warning: 패키지 /Game/StackOBot/Environment/Materials/ML_Base 로드하려고 시도하는 동안 종속 패키지 /Game/StackOBot/Environment/Foilage/Textures/Wind 사용할 수 없었습니다. 추가 설명은 다음과 같습니다.
+FPackageName: Skipped package /Game/StackOBot/Environment/Foilage/Textures/Wind has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Foilage/Textures/Wind.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.11.04-12.30.38:185][225]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Landscape/Textures/RVT_Crater_H which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.11.04-12.30.38:185][225]LoadErrors: Warning: 패키지 /Game/StackOBot/Environment/Materials/ML_Base 로드하려고 시도하는 동안 종속 패키지 /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H 사용할 수 없었습니다. 추가 설명은 다음과 같습니다.
+FPackageName: Skipped package /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/StackOBot/Environment/Landscape/Textures/RVT_Crater_H.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.11.04-12.30.39:777][271]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.04-12.32.11:922][656]LogRenderer: Warning: [VSM] 비나나이트 마킹 작업 큐가 오버플로됩니다. 퍼포먼스가 영향을 받을 수 있습니다. 이는 비나나이트 메시 다수가 섀도 맵의 많은 영역을 뒤덮을 때 발생합니다.
+[2025.11.04-12.32.12:693][680]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.32.12:693][680]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.04-12.32.12:693][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.04-12.32.19:979][930]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.32.19:979][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.32.38:069][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3954.696289
+[2025.11.04-12.32.38:426][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.04-12.32.38:426][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3955.014404, Update Interval: 301.750549
+[2025.11.04-12.33.20:535][601]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.33.20:535][601]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.33.21:905][646]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.33.21:905][646]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.33.40:115][283]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.33.40:115][283]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.33.45:225][462]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.33.45:225][462]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.34.30:943][789]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.34.30:943][789]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.34.32:173][823]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.34.32:173][823]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.34.59:065][602]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.11.04-12.34.59:065][602]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.34.59:065][602]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.11.04-12.35.02:080][696]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.35.02:080][696]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.04-12.35.02:083][696]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/A_TheSmallRemains/Maps/MainMap"
+[2025.11.04-12.35.02:083][696]LogNet: Browse: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.04-12.35.02:083][696]LogLoad: LoadMap: /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.04-12.35.02:083][696]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.04-12.35.02:087][696]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.35.02:098][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.35.02:212][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.04-12.35.02:247][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2025.11.04-12.35.02:256][696]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.04-12.35.02:552][696]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMap'.
+[2025.11.04-12.35.02:552][696]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.11.04-12.35.02:556][696]LogPlayLevel: PIE: World Init took: (0.003488s)
+[2025.11.04-12.35.02:556][696]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.04-12.35.02:828][696]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2025.11.04-21.35.02
+[2025.11.04-12.35.02:830][696]LogWorld: Bringing up level for play took: 0.274685
+[2025.11.04-12.35.02:840][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:840][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.04-12.35.02:843][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:843][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_1.BPC_StateSystem
+[2025.11.04-12.35.02:846][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:846][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.04-12.35.02:848][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:848][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_1.BPC_StateSystem
+[2025.11.04-12.35.02:850][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:850][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_2.BPC_StateSystem
+[2025.11.04-12.35.02:854][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:854][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.04-12.35.02:857][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:857][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.35.02:860][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:860][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.35.02:862][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:862][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_2.BPC_StateSystem
+[2025.11.04-12.35.02:864][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:864][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_3.BPC_StateSystem
+[2025.11.04-12.35.02:867][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:867][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_3.BPC_StateSystem
+[2025.11.04-12.35.02:870][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:870][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_4.BPC_StateSystem
+[2025.11.04-12.35.02:873][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:873][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.35.02:875][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:875][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_2.BPC_StateSystem
+[2025.11.04-12.35.02:879][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:879][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_StagBeetle_C_1.BPC_StateSystem
+[2025.11.04-12.35.02:882][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:882][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_5.BPC_StateSystem
+[2025.11.04-12.35.02:884][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:884][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_cockroach_Default_C_4.BPC_StateSystem
+[2025.11.04-12.35.02:886][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:886][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_6.BPC_StateSystem
+[2025.11.04-12.35.02:889][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:890][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_7.BPC_StateSystem
+[2025.11.04-12.35.02:892][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:892][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_3.BPC_StateSystem
+[2025.11.04-12.35.02:896][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:896][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_1.BPC_StateSystem
+[2025.11.04-12.35.02:899][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:899][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_RhinocerosBeetle_C_2.BPC_StateSystem
+[2025.11.04-12.35.02:902][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:902][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Ant_Default_C_8.BPC_StateSystem
+[2025.11.04-12.35.02:905][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:905][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_Spider_Default_C_4.BPC_StateSystem
+[2025.11.04-12.35.02:910][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:910][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.35.02:910][696]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.35.02:910][696]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_WolfSpider_Default_C_2.BPC_StateSystem
+[2025.11.04-12.35.02:917][696]LogLoad: Took 0.833585 seconds to LoadMap(/Game/A_TheSmallRemains/Maps/MainMap)
+[2025.11.04-12.35.02:917][696]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/A_TheSmallRemains/Maps/MainMap
+[2025.11.04-12.35.03:976][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.35.03:976][725]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_MainMap
+[2025.11.04-12.35.03:977][725]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.04-12.35.03:999][725]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.35.04:016][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.35.04:022][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-12.35.04:022][725]LogNiagaraEditor: onPieEnd
+[2025.11.04-12.35.04:033][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.35.04:077][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.04-12.35.04:077][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.11.04-12.35.04:079][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.11.04-12.35.04:108][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.11.04-12.35.04:163][726]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.11.04-12.35.28:167][139]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.04-12.35.28:214][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.04-12.35.33:039][428]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.04-12.35.33:042][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Items/Weapons/AK47_U/BP_AK74U.BP_AK74U
+[2025.11.04-12.35.33:042][428]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.04-12.35.33:266][428]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.04-12.35.48:746][350]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.04-12.35.48:786][351]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.04-12.35.49:457][390]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Items/Weapons/AS_VAL/BP_AS_VAL.BP_AS_VAL
+[2025.11.04-12.35.49:458][390]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.11.04-12.35.58:701][925]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.11.04-12.35.58:746][926]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.04-12.35.59:625][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_TheSmallRemains/Items/Weapons/R4A1/BP_R4A1.BP_R4A1
+[2025.11.04-12.35.59:625][978]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.04-12.36.02:852][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-12.36.02:968][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Items/Weapons/R4A1/BP_R4A1] ([2] browsable assets)...
+[2025.11.04-12.36.02:968][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Weapons/R4A1/BP_R4A1]
+[2025.11.04-12.36.02:972][154]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Weapons/R4A1/BP_R4A1
+[2025.11.04-12.36.02:972][154]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_R4A11D0FA9764E56ADBBA7B6DFBCA70DE397.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Weapons/R4A1/BP_R4A1.uasset'
+[2025.11.04-12.36.02:984][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.464 ms (total: 2.71 sec)
+[2025.11.04-12.36.03:077][154]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.04-12.36.03:077][154]LogContentValidation: Enabled validators:
+[2025.11.04-12.36.03:077][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-12.36.03:077][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-12.36.03:077][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-12.36.03:077][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-12.36.03:077][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-12.36.03:077][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-12.36.03:078][154]AssetCheck: /Game/A_TheSmallRemains/Items/Weapons/R4A1/BP_R4A1 에셋 유효성 검사 중
+[2025.11.04-12.37.04:234][810]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.04-12.37.04:270][811]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.11.04-12.38.03:966][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.04-12.38.18:919][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.04-12.38.20:175][242]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.11.04-12.38.20:190][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-12.38.20:299][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.11.04-12.38.20:351][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.11.04-12.38.20:351][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.11.04-12.38.20:399][242]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.11.04-12.38.20:399][242]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterFF4BDAAB4B292EED81A4F5AB72F0A181.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.11.04-12.38.20:532][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.487 ms (total: 3.05 sec)
+[2025.11.04-12.38.20:533][242]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.04-12.38.20:570][242]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.04-12.38.20:613][242]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_TheSmallRemains/Maps/TestMap.TestMap
+[2025.11.04-12.38.20:661][242]LogWorld: UWorld::CleanupWorld for StartGameMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.38.20:661][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.38.20:683][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.04-12.38.20:686][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.04-12.38.20:689][242]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.38.20:690][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.38.20:715][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.04-12.38.20:739][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.04-12.38.20:787][242]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2025.11.04-12.38.20:787][242]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.04-12.38.20:890][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.04-12.38.20:917][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.04-12.38.20:927][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.04-12.38.20:927][242]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.055ms.
+[2025.11.04-12.38.21:048][242]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.04-12.38.21:048][242]LogContentValidation: Enabled validators:
+[2025.11.04-12.38.21:048][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-12.38.21:048][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-12.38.21:048][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-12.38.21:048][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-12.38.21:048][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-12.38.21:048][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-12.38.21:048][242]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.11.04-12.38.22:689][328]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.04-12.38.22:695][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-12.38.22:695][328]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.04-12.38.22:706][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010862s)
+[2025.11.04-12.38.22:706][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.010903s)
+[2025.11.04-12.38.22:732][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.11.04-12.38.22:737][328]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.04-12.38.22:739][328]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2025.11.04-12.38.22:740][328]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-12.38.22:740][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-12.38.22:740][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-12.38.22:740][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-12.38.22:740][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-12.38.22:740][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-12.38.22:742][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-12.38.22:807][328]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.04-12.38.22:807][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-12.38.22:807][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-12.38.22:807][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-12.38.22:808][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.11.04-12.38.22:808][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.11.04-12.38.22:811][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.11.04-12.38.22:811][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.11.04-12.38.22:811][328]LogInit: FAudioDevice initialized with ID 19.
+[2025.11.04-12.38.22:811][328]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestMap'.
+[2025.11.04-12.38.22:811][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.04-12.38.22:873][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.38.22:873][328]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.04-12.38.22:881][328]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.11.04-21.38.22
+[2025.11.04-12.38.22:882][328]LogWorld: Bringing up level for play took: 0.008846
+[2025.11.04-12.38.22:884][328]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.11.04-12.38.22:891][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.38.22:891][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.04-12.38.22:891][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.38.22:891][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.04-12.38.22:893][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.38.22:893][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.38.22:894][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.38.22:894][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.38.22:895][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.38.22:895][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.04-12.38.22:897][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.38.22:897][328]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.38.22:902][328]PIE: 서버가 로그인했습니다.
+[2025.11.04-12.38.22:904][328]PIE: 에디터에서 플레이 총 시작 시간 0.208초입니다.
+[2025.11.04-12.38.25:129][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4301.762695
+[2025.11.04-12.38.25:418][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.04-12.38.25:418][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4302.033691, Update Interval: 332.980133
+[2025.11.04-12.38.43:510][474]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.38.43:510][474]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.04-12.38.43:510][474]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.04-12.38.49:131][805]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.38.49:131][805]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.39.26:050][908]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.39.26:050][908]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.39.28:730][ 66]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.39.28:730][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.39.38:545][610]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.39.38:546][610]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.39.46:405][ 78]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.39.46:405][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.39.54:720][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.39.54:720][552]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.04-12.39.54:721][552]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.04-12.39.54:735][552]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.39.54:737][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.39.54:741][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-12.39.54:741][552]LogNiagaraEditor: onPieEnd
+[2025.11.04-12.39.54:752][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.39.54:777][552]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.04-12.39.54:777][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.11.04-12.39.54:779][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.11.04-12.39.54:793][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.11.04-12.39.54:834][553]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.11.04-12.40.20:735][ 91]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.04-12.40.20:741][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-12.40.20:741][ 91]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.04-12.40.20:751][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009898s)
+[2025.11.04-12.40.20:751][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.009929s)
+[2025.11.04-12.40.20:774][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.04-12.40.20:777][ 91]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.04-12.40.20:778][ 91]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2025.11.04-12.40.20:778][ 91]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-12.40.20:778][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-12.40.20:778][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-12.40.20:778][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-12.40.20:778][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-12.40.20:778][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-12.40.20:780][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-12.40.20:843][ 91]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.04-12.40.20:843][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-12.40.20:843][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-12.40.20:843][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-12.40.20:844][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.04-12.40.20:844][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.11.04-12.40.20:846][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.04-12.40.20:846][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.11.04-12.40.20:846][ 91]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.04-12.40.20:846][ 91]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMap'.
+[2025.11.04-12.40.20:846][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.04-12.40.20:914][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.40.20:915][ 91]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.04-12.40.20:923][ 91]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.11.04-21.40.20
+[2025.11.04-12.40.20:924][ 91]LogWorld: Bringing up level for play took: 0.008555
+[2025.11.04-12.40.20:926][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.11.04-12.40.20:931][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.40.20:931][ 91]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.04-12.40.20:931][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.40.20:931][ 91]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.04-12.40.20:933][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.40.20:933][ 91]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.40.20:934][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.40.20:934][ 91]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.40.20:935][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.40.20:935][ 91]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.04-12.40.20:937][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.40.20:937][ 91]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.40.20:949][ 91]PIE: 서버가 로그인했습니다.
+[2025.11.04-12.40.20:956][ 91]PIE: 에디터에서 플레이 총 시작 시간 0.215초입니다.
+[2025.11.04-12.40.24:708][239]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.04-12.40.26:071][282]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.11.04-12.40.40:916][948]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.40.40:916][948]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.04-12.40.40:916][948]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.04-12.40.50:893][350]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.40.50:893][350]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.41.13:173][446]LogCharacterMovement: BP_StagBeetle_C_0 is stuck and failed to move! Velocity: X=36.18 Y=-20.06 Z=0.00 Location: X=-1095.49 Y=-19.55 Z=14.11 Normal: X=-0.87 Y=0.05 Z=-0.49 PenetrationDepth:0.612 Actor:BP_BatteryCube_C_11 Component:Mesh BoneName:None (0 other events since notify)
+[2025.11.04-12.41.27:638][148]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Graph.Node.Comment.TextColor' 컬러를 찾을 수 없습니다.'
+[2025.11.04-12.42.23:146][718]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.42.23:146][718]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.42.23:797][750]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.42.23:797][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.42.35:037][297]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.42.35:037][297]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.04-12.42.38:810][477]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.42.38:810][477]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.43.17:660][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.43.17:660][359]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.04-12.43.17:660][359]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.04-12.43.17:675][359]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.43.17:677][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.43.17:805][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-12.43.17:806][359]LogNiagaraEditor: onPieEnd
+[2025.11.04-12.43.17:813][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.43.17:837][359]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.04-12.43.17:837][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.11.04-12.43.17:839][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.11.04-12.43.17:848][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.11.04-12.43.18:104][360]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.11.04-12.44.20:483][714]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/A_TheSmallRemains/Items/S_Item.S_Item
+[2025.11.04-12.44.23:958][910]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/A_TheSmallRemains/Items/E_ItemType.E_ItemType
+[2025.11.04-12.44.27:418][104]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/A_TheSmallRemains/Items/E_ItemName.E_ItemName
+[2025.11.04-12.44.33:227][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4669.885742
+[2025.11.04-12.44.33:511][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.04-12.44.33:511][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4670.155273, Update Interval: 339.628906
+[2025.11.04-12.44.34:127][490]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/A_TheSmallRemains/Items/DT_Item.DT_Item
+[2025.11.04-12.45.02:683][183]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/A_TheSmallRemains/Items/Weapons/NewUserDefinedEnum.NewUserDefinedEnum
+[2025.11.04-12.45.04:618][274]LogSlate: Window 'NewUserDefinedEnum' being destroyed
+[2025.11.04-12.45.05:852][346]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/A_TheSmallRemains/Items/Weapons/E_WeaponType.E_WeaponType
+[2025.11.04-12.45.09:496][552]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/A_TheSmallRemains/Items/Weapons/DT_Weapon.DT_Weapon
+[2025.11.04-12.45.39:602][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.04-12.45.39:691][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Items/Weapons/DT_Weapon] ([1] browsable assets)...
+[2025.11.04-12.45.39:691][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Items/Weapons/DT_Weapon]
+[2025.11.04-12.45.39:692][328]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Items/Weapons/DT_Weapon
+[2025.11.04-12.45.39:693][328]LogSavePackage: Moving '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/DT_WeaponA4A09173462B1C76FB8C1EAFD60DB907.tmp' to '../../../../../../Users/Jackbongmin/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Items/Weapons/DT_Weapon.uasset'
+[2025.11.04-12.45.39:701][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.660 ms (total: 3.15 sec)
+[2025.11.04-12.45.39:802][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.04-12.45.39:802][328]LogContentValidation: Enabled validators:
+[2025.11.04-12.45.39:802][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.04-12.45.39:802][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.04-12.45.39:802][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.04-12.45.39:802][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.04-12.45.39:802][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.04-12.45.39:802][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.04-12.45.39:802][328]AssetCheck: /Game/A_TheSmallRemains/Items/Weapons/DT_Weapon 에셋 유효성 검사 중
+[2025.11.04-12.45.42:688][496]LogDebuggerCommands: Repeating last play command: 새 에디터 창(PIE)
+[2025.11.04-12.45.42:695][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.04-12.45.42:695][496]LogPlayLevel: Creating play world package: /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.04-12.45.42:705][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010057s)
+[2025.11.04-12.45.42:705][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_TheSmallRemains/Maps/TestMap.TestMap to /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap (0.010092s)
+[2025.11.04-12.45.42:942][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.04-12.45.42:945][496]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.11.04-12.45.42:947][496]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2025.11.04-12.45.42:947][496]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.04-12.45.42:947][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.04-12.45.42:947][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.04-12.45.42:947][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.04-12.45.42:947][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.04-12.45.42:947][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.04-12.45.42:949][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.04-12.45.43:013][496]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.11.04-12.45.43:013][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.04-12.45.43:013][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.04-12.45.43:013][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.04-12.45.43:014][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.11.04-12.45.43:014][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.11.04-12.45.43:016][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.11.04-12.45.43:016][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.11.04-12.45.43:016][496]LogInit: FAudioDevice initialized with ID 21.
+[2025.11.04-12.45.43:016][496]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2025.11.04-12.45.43:016][496]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.04-12.45.43:078][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.45.43:078][496]LogLoad: Game class is 'GM_PlayerInput_C'
+[2025.11.04-12.45.43:086][496]LogWorld: Bringing World /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.11.04-21.45.43
+[2025.11.04-12.45.43:087][496]LogWorld: Bringing up level for play took: 0.008536
+[2025.11.04-12.45.43:090][496]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.11.04-12.45.43:095][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.45.43:095][496]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Ant_Default_C_0.BPC_StateSystem
+[2025.11.04-12.45.43:096][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.45.43:096][496]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_cockroach_Default_C_0.BPC_StateSystem
+[2025.11.04-12.45.43:097][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.45.43:097][496]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RhinocerosBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.45.43:098][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.45.43:098][496]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_StagBeetle_C_0.BPC_StateSystem
+[2025.11.04-12.45.43:099][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.45.43:099][496]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Spider_Default_C_0.BPC_StateSystem
+[2025.11.04-12.45.43:101][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/A_TheSmallRemains/Components/BPC_StateSystem.BPC_StateSystem_C:ExecuteUbergraph_BPC_StateSystem'!
+[2025.11.04-12.45.43:101][496]LogScript: Warning: Script Msg called by: BPC_StateSystem_C /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_WolfSpider_Default_C_1.BPC_StateSystem
+[2025.11.04-12.45.43:107][496]PIE: 서버가 로그인했습니다.
+[2025.11.04-12.45.43:109][496]PIE: 에디터에서 플레이 총 시작 시간 0.413초입니다.
+[2025.11.04-12.45.50:488][890]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.04-12.45.50:488][890]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.04-12.45.50:488][890]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.04-12.45.53:527][ 70]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.04-12.45.53:527][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.04-12.46.44:630][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.04-12.46.44:630][956]LogWorld: BeginTearingDown for /Game/A_TheSmallRemains/Maps/UEDPIE_0_TestMap
+[2025.11.04-12.46.44:631][956]LogSlate: Window 'TheLittleRemains 프리뷰 [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.04-12.46.44:640][956]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.04-12.46.44:643][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.46.44:785][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.04-12.46.44:786][956]LogNiagaraEditor: onPieEnd
+[2025.11.04-12.46.44:793][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.04-12.46.44:817][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.04-12.46.44:818][956]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.04-12.46.44:818][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.11.04-12.46.44:820][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.11.04-12.46.44:830][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.04-12.46.44:869][957]LogPlayLevel: Display: Destroying online subsystem :Context_43
