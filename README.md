@@ -41,3 +41,4 @@ The Small Remains는 Grounded에서 영감을 받은 3인칭 생존 어드벤처
 - E : 아이템 줍기  
 - 1~5 : 퀵슬롯 선택  
 - Tab : 인벤토리 열기
+- Left Shift : 달리기
