@@ -4909,3 +4909,958 @@ FPackageName: Skipped package /Game/StackOBot/Environment/Landscape/Textures/RVT
 [2025.11.06-01.35.51:000][324]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto67D764563483AF8B3BBA075952412603F.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Components/BPC_AttackSystem_Auto6.uasset'
 [2025.11.06-01.35.51:001][324]LogFileHelpers: Auto-saving content packages took 0.063
 [2025.11.06-01.38.28:863][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.06-01.45.16:952][946]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.11.06-01.45.16:964][946]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.11.06-01.45.16:980][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.11.06-01.45.22:245][362]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Menu
+[2025.11.06-01.45.22:246][362]LogContentBrowser: End creating deferred item NewInputAction
+[2025.11.06-01.45.23:678][470]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/A_TheSmallRemains/Input/IMC_Player.IMC_Player
+[2025.11.06-01.45.27:289][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.06-01.45.27:325][841]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IMC_Player] ([1] browsable assets)...
+[2025.11.06-01.45.27:325][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IMC_Player]
+[2025.11.06-01.45.27:327][841]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Input/IMC_Player
+[2025.11.06-01.45.27:328][841]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IMC_PlayerC6A8B0944AF68312BE6969A1AC6AE8FC.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Input/IMC_Player.uasset'
+[2025.11.06-01.45.27:335][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.511 ms (total: 753.119 ms)
+[2025.11.06-01.45.27:391][841]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.06-01.45.27:391][841]LogContentValidation: Enabled validators:
+[2025.11.06-01.45.27:391][841]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.06-01.45.27:391][841]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.06-01.45.27:391][841]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.06-01.45.27:391][841]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.06-01.45.27:391][841]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.06-01.45.27:391][841]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.06-01.45.27:392][841]AssetCheck: /Game/A_TheSmallRemains/Input/IMC_Player 에셋 유효성 검사 중
+[2025.11.06-01.45.40:245][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.06-01.45.40:291][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IMC_Player] ([1] browsable assets)...
+[2025.11.06-01.45.40:291][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IMC_Player]
+[2025.11.06-01.45.40:293][301]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Input/IMC_Player
+[2025.11.06-01.45.40:294][301]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IMC_PlayerDEE45747409BD7CDA0DF51B3FC8CA5DF.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Input/IMC_Player.uasset'
+[2025.11.06-01.45.40:299][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.111 ms (total: 807.230 ms)
+[2025.11.06-01.45.40:340][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.06-01.45.40:340][301]LogContentValidation: Enabled validators:
+[2025.11.06-01.45.40:340][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.06-01.45.40:340][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.06-01.45.40:340][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.06-01.45.40:340][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.06-01.45.40:340][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.06-01.45.40:340][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.06-01.45.40:340][301]AssetCheck: /Game/A_TheSmallRemains/Input/IMC_Player 에셋 유효성 검사 중
+[2025.11.06-01.46.33:692][825]LogSlate: External Image Picker: DecompressImage failed
+[2025.11.06-01.46.48:682][613]LogSlate: Window '프로젝트 세팅' being destroyed
+[2025.11.06-01.47.25:624][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.06-01.47.25:627][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_TheSmallRemains/Maps/StartGameMap' took 0.052
+[2025.11.06-01.47.25:628][993]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.11.06-01.47.25:628][993]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.11.06-01.47.25:774][993]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter_C]
+[2025.11.06-01.47.25:789][993]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.11.06-01.47.25:789][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.11.06-01.47.25:865][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter_Auto7
+[2025.11.06-01.47.25:866][993]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecter_Auto75F0707814716C3AAF78CC297F679287A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter_Auto7.uasset'
+[2025.11.06-01.47.25:867][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.11.06-01.47.25:867][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.11.06-01.47.25:927][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Components/BPC_AttackSystem_Auto7
+[2025.11.06-01.47.25:927][993]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem_Auto79C3917814CC4F047E61790A1C0A978D1.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Components/BPC_AttackSystem_Auto7.uasset'
+[2025.11.06-01.47.25:928][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IA_Menu] ([1] browsable assets)...
+[2025.11.06-01.47.25:928][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IA_Menu]
+[2025.11.06-01.47.25:928][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_TheSmallRemains/Input/IA_Menu_Auto7
+[2025.11.06-01.47.25:928][993]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IA_Menu_Auto7A69EA1CD4D40C69244EFF79A9B2AAE37.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Autosaves/Game/A_TheSmallRemains/Input/IA_Menu_Auto7.uasset'
+[2025.11.06-01.47.25:929][993]LogFileHelpers: Auto-saving content packages took 0.302
+[2025.11.06-01.54.09:715][997]LogBlueprint: Error: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Blueprint\BP_TestCharecter.uasset: [Compiler] 위젯 생성  스폰 노드는 클래스를 지정해야 합니다.
+[2025.11.06-01.54.09:833][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.11.06-01.54.34:693][992]LogContentBrowser: Deferred new asset file creation: WB_StartUI1
+[2025.11.06-01.54.34:703][992]LogContentBrowser: Creating deferred item: WB_StartUI1
+[2025.11.06-01.54.34:721][993]LogContentBrowser: Renaming the item being created (Deferred Item: WB_StartUI1).
+[2025.11.06-01.54.40:457][479]LogContentBrowser: Attempting asset rename: WB_StartUI1 -> WB_Pause
+[2025.11.06-01.54.40:491][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.06-01.54.40:523][479]LogContentBrowser: End creating deferred item WB_StartUI1
+[2025.11.06-01.54.43:149][679]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Pause.WB_Pause
+[2025.11.06-01.54.43:149][679]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.11.06-01.54.43:158][679]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.11.06-01.55.57:256][800]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.06-01.56.25:100][ 90]LogSlate: Window '색 선택 툴' being destroyed
+[2025.11.06-01.56.28:509][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.06-01.56.40:866][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.11.06-01.58.13:712][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.06-01.58.25:043][ 45]LogBlueprint: Error: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\A_TheSmallRemains\Blueprint\BP_TestCharecter.uasset: [Compiler] 이 블루프린트(셀프)는 UserWidget 이지 않으므로, ' Target '에 연결이 있어야 합니다.
+[2025.11.06-01.58.25:141][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.11.06-01.58.30:300][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.11.06-01.58.44:400][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.11.06-01.58.44:415][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.06-01.58.44:471][366]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter] ([2] browsable assets)...
+[2025.11.06-01.58.44:517][366]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter.BP_TestCharecter]
+[2025.11.06-01.58.44:517][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Blueprint/BP_TestCharecter]
+[2025.11.06-01.58.44:596][366]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter
+[2025.11.06-01.58.44:597][366]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BP_TestCharecterFB8E7F864625FC182A7383B72248B120.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Blueprint/BP_TestCharecter.uasset'
+[2025.11.06-01.58.44:599][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem] ([2] browsable assets)...
+[2025.11.06-01.58.44:599][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Components/BPC_AttackSystem]
+[2025.11.06-01.58.44:660][366]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Components/BPC_AttackSystem
+[2025.11.06-01.58.44:661][366]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/BPC_AttackSystem67A505DB4BD17893897D97A4C01BE562.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Components/BPC_AttackSystem.uasset'
+[2025.11.06-01.58.44:662][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_TheSmallRemains/Input/IA_Menu] ([1] browsable assets)...
+[2025.11.06-01.58.44:662][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/Input/IA_Menu]
+[2025.11.06-01.58.44:663][366]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/Input/IA_Menu
+[2025.11.06-01.58.44:663][366]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/IA_MenuC6B496AC4ACAEFE7516D139AE499927C.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/Input/IA_Menu.uasset'
+[2025.11.06-01.58.44:667][366]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_TheSmallRemains/UI/StartMap/WB_Pause] ([2] browsable assets)...
+[2025.11.06-01.58.44:670][366]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/A_TheSmallRemains/UI/StartMap/WB_Pause.WB_Pause]
+[2025.11.06-01.58.44:670][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_TheSmallRemains/UI/StartMap/WB_Pause]
+[2025.11.06-01.58.44:682][366]LogSavePackage: Moving output files for package: /Game/A_TheSmallRemains/UI/StartMap/WB_Pause
+[2025.11.06-01.58.44:682][366]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/WB_PauseEEC2E4D84C9D5D3235C1C29B7C6A523A.tmp' to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Content/A_TheSmallRemains/UI/StartMap/WB_Pause.uasset'
+[2025.11.06-01.58.44:691][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 275.336 ms (total: 1.08 sec)
+[2025.11.06-01.58.46:168][366]LogTurnkeySupport: Project does not require temp target
+[2025.11.06-01.58.46:172][366]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2025.11.06-01.58.46:182][366]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/TheLittleRemains.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=49406  -project="C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/TheLittleRemains.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/TheLittleRemains.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Build" -clientconfig=Development" -nocompile -nocompileuat ]
+[2025.11.06-01.58.46:230][366]UATHelper: 패키징 (Windows): Running AutomationTool...
+[2025.11.06-01.58.46:273][366]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.06-01.58.46:273][366]LogContentValidation: Enabled validators:
+[2025.11.06-01.58.46:273][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.06-01.58.46:273][366]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.06-01.58.46:273][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.06-01.58.46:273][366]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.06-01.58.46:273][366]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.06-01.58.46:273][366]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.06-01.58.46:273][366]AssetCheck: /Game/A_TheSmallRemains/Blueprint/BP_TestCharecter 에셋 유효성 검사 중
+[2025.11.06-01.58.46:273][366]AssetCheck: /Game/A_TheSmallRemains/Components/BPC_AttackSystem 에셋 유효성 검사 중
+[2025.11.06-01.58.46:273][366]AssetCheck: /Game/A_TheSmallRemains/Input/IA_Menu 에셋 유효성 검사 중
+[2025.11.06-01.58.46:274][366]AssetCheck: /Game/A_TheSmallRemains/UI/StartMap/WB_Pause 에셋 유효성 검사 중
+[2025.11.06-01.58.46:307][367]UATHelper: 패키징 (Windows): Using bundled DotNet SDK version: 8.0.300
+[2025.11.06-01.58.46:428][373]UATHelper: 패키징 (Windows): Starting AutomationTool...
+[2025.11.06-01.58.46:450][375]UATHelper: 패키징 (Windows): Parsing command line: -ScriptsForProject=C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/TheLittleRemains.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=49406 -project=C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/TheLittleRemains.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/TheLittleRemains.uproject -unrealexe="C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory=C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Build -clientconfig=Development -nocompile -nocompileuat
+[2025.11.06-01.58.46:560][382]UATHelper: 패키징 (Windows): Initializing script modules...
+[2025.11.06-01.58.46:824][400]UATHelper: 패키징 (Windows): Total script module initialization time: 0.26 s.
+[2025.11.06-01.58.46:890][405]UATHelper: 패키징 (Windows): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2025.11.06-01.58.47:439][446]UATHelper: 패키징 (Windows): Executing commands...
+[2025.11.06-01.58.47:538][453]UATHelper: 패키징 (Windows): Installed Sdk validity:
+[2025.11.06-01.58.47:549][454]UATHelper: 패키징 (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.26100.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2025.11.06-01.58.47:549][454]UATHelper: 패키징 (Windows): Scanning for envvar changes...
+[2025.11.06-01.58.47:549][454]UATHelper: 패키징 (Windows): ... done! 
+[2025.11.06-01.58.47:549][454]UATHelper: 패키징 (Windows): Cleaning Temp Paths...
+[2025.11.06-01.58.47:549][454]UATHelper: 패키징 (Windows): BUILD SUCCESSFUL
+[2025.11.06-01.58.47:549][454]UATHelper: 패키징 (Windows): Setting up ProjectParams for C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject
+[2025.11.06-01.58.47:921][481]UATHelper: 패키징 (Windows): ********** COOK COMMAND STARTED **********
+[2025.11.06-01.58.47:932][482]UATHelper: 패키징 (Windows): Running UnrealEditor Cook for project C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject
+[2025.11.06-01.58.47:932][482]UATHelper: 패키징 (Windows): Commandlet log file is C:\Program Files\Epic Games\UE_5.5\Engine\Programs\AutomationTool\Saved\Cook-2025.11.06-10.58.47.txt
+[2025.11.06-01.58.47:943][483]UATHelper: 패키징 (Windows): Running: C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject" -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.5\Engine\Programs\AutomationTool\Saved\Cook-2025.11.06-10.58.47.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2025.11.06-01.58.48:570][526]UATHelper: 패키징 (Windows): LogWindows: Warning: Failed to set completion port for job object "UE.ShaderCompileWorker.JobGroup": 매개 변수가 틀립니다.
+[2025.11.06-01.58.48:570][526]UATHelper: 패키징 (Windows): LogInit: Display: Running engine for game: TheLittleRemains
+[2025.11.06-01.58.48:570][526]UATHelper: 패키징 (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2025.11.06-01.58.48:573][526]PackagingResults: Warning: Failed to set completion port for job object "UE.ShaderCompileWorker.JobGroup": 매개 변수가 틀립니다.
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogTrace: Display: Display Control listening on port 39053
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-40574608"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.5.4-40574608+++UE5+Release-5.5"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.6456] "
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600G with Radeon Graphics"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.5\Engine\Programs\AutomationTool\Saved\Cook-2025.11.06-10.58.47.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2025.11.06-01.58.48:581][527]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : loginid="9711bacf4330d8db80492f890f57979c"
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading Mac ini files took 0.09 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.09 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading IOS ini files took 0.09 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogAssetRegistry: Display: Asset registry cache read as 51.7 MiB from ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Intermediate/CachedAssetRegistry_0.bin
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading Android ini files took 0.10 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading Unix ini files took 0.11 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading TVOS ini files took 0.12 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading Linux ini files took 0.14 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading LinuxArm64 ini files took 0.14 seconds
+[2025.11.06-01.58.48:967][553]UATHelper: 패키징 (Windows): LogConfig: Display: Loading Windows ini files took 0.07 seconds
+[2025.11.06-01.58.49:143][565]UATHelper: 패키징 (Windows): LogConfig: Display: Loading VisionOS ini files took 0.07 seconds
+[2025.11.06-01.58.49:440][588]UATHelper: 패키징 (Windows): LogPluginManager: Display: Ignored optional reference to 'GLTFImporter' plugin from 'FabLauncher' plugin; plugin was not built by target.
+[2025.11.06-01.58.49:583][599]UATHelper: 패키징 (Windows): LogStudioTelemetry: Display: Starting StudioTelemetry Module
+[2025.11.06-01.58.49:726][610]UATHelper: 패키징 (Windows): RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2025.11.06-01.58.49:726][610]UATHelper: 패키징 (Windows): LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: false, Async Loading Thread: false, Async Post Load: false
+[2025.11.06-01.58.49:748][611]UATHelper: 패키징 (Windows): LogStreaming: Display: AsyncLoading2 - Initialized
+[2025.11.06-01.58.49:880][621]UATHelper: 패키징 (Windows): LogHAL: Display: Platform has ~ 32 GB [34137075712 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.12
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2025.11.06-01.58.49:913][624]UATHelper: 패키징 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.11.06-01.58.49:968][628]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.11.06-01.58.50:001][631]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.11.06-01.58.50:001][631]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.11.06-01.58.50:034][633]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.11.06-01.58.50:034][633]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.11.06-01.58.50:034][633]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2025.11.06-01.58.50:034][633]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.11.06-01.58.50:067][636]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.11.06-01.58.50:067][636]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2025.11.06-01.58.50:067][636]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2025.11.06-01.58.50:089][637]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2025.11.06-01.58.50:089][637]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.11.06-01.58.50:089][637]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2025.11.06-01.58.50:089][637]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.11.06-01.58.50:122][640]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.11.06-01.58.50:122][640]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.11.06-01.58.50:155][642]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.11.06-01.58.50:155][642]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.11.06-01.58.50:155][642]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.11.06-01.58.50:155][642]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.11.06-01.58.50:155][642]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.11.06-01.58.50:177][644]UATHelper: 패키징 (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.11.06-01.58.50:781][691]UATHelper: 패키징 (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.11.06-01.58.50:869][698]UATHelper: 패키징 (Windows): LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2025.11.06-01.58.50:880][698]UATHelper: 패키징 (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1559 MiB)
+[2025.11.06-01.58.50:880][698]UATHelper: 패키징 (Windows): LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2025.11.06-01.58.50:891][699]UATHelper: 패키징 (Windows): LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2025.11.06-01.58.50:891][699]UATHelper: 패키징 (Windows): LogDerivedDataCache: Display: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=1231.21MBs, RandomWriteSpeed=185.40MBs. Assigned SpeedClass 'Local'
+[2025.11.06-01.58.50:891][699]UATHelper: 패키징 (Windows): LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2025.11.06-01.58.50:891][699]UATHelper: 패키징 (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.11.06-01.58.51:914][754]UATHelper: 패키징 (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.11.06-01.58.51:925][755]UATHelper: 패키징 (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2025.11.06-01.58.52:222][777]UATHelper: 패키징 (Windows): LogAssetRegistry: Display: AssetDataGatherer spent 0.001s loading caches ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Intermediate/CachedAssetRegistry_*.bin.
+[2025.11.06-01.58.52:255][780]UATHelper: 패키징 (Windows): LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.06-01.58.52:255][780]UATHelper: 패키징 (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2025.11.06-01.58.52:288][782]UATHelper: 패키징 (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 8 to allow recursive sync load to finish
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 9 to allow recursive sync load to finish
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 10 to allow recursive sync load to finish
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:310][784]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 11 to allow recursive sync load to finish
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 13 to allow recursive sync load to finish
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 14 to allow recursive sync load to finish
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 16 to allow recursive sync load to finish
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 17 to allow recursive sync load to finish
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.11.06-01.58.52:321][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 19 to allow recursive sync load to finish
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 20 to allow recursive sync load to finish
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDiffuse with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 22 to allow recursive sync load to finish
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 23 to allow recursive sync load to finish
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 21 to allow recursive sync load to finish
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:332][785]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 24 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 18 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 25 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 15 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 26 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/T_Default_Material_Grid_M with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/T_Default_Material_Grid_N with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 12 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/WorldGridMaterial with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 27 to allow recursive sync load to finish
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/WorldGridMaterial with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2025.11.06-01.58.52:343][786]UATHelper: 패키징 (Windows): LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.11.06-01.58.52:409][791]UATHelper: 패키징 (Windows): LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2025.11.06-01.58.52:409][791]UATHelper: 패키징 (Windows): LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.11.06-01.58.52:409][791]UATHelper: 패키징 (Windows): LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.11.06-01.58.52:409][791]UATHelper: 패키징 (Windows): LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.11.06-01.58.52:618][807]UATHelper: 패키징 (Windows): LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.11.06-01.58.52:618][807]UATHelper: 패키징 (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.11.06-01.58.52:794][820]UATHelper: 패키징 (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.11.06-01.58.52:805][821]UATHelper: 패키징 (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.11.06-01.58.53:509][872]UATHelper: 패키징 (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.737 ms
+[2025.11.06-01.58.53:509][872]UATHelper: 패키징 (Windows): LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.11.06-01.58.54:610][950]UATHelper: 패키징 (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.11.06-01.58.54:610][950]UATHelper: 패키징 (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.11.06-01.58.55:083][984]UATHelper: 패키징 (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.11.06-01.58.55:138][988]UATHelper: 패키징 (Windows): LogFabLauncher: Display: FabLauncher (version 0.4.2) active
+[2025.11.06-01.58.55:138][988]UATHelper: 패키징 (Windows): LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36495 public script object entries (988.92 KB)
+[2025.11.06-01.58.55:182][991]UATHelper: 패키징 (Windows): LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.11.06-01.58.56:579][ 65]UATHelper: 패키징 (Windows): LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): LogCook: Display: CookProcessCount=1. CookMultiprocess is disabled and the cooker is running as a single process.
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): LogCook: Display: CookSettings for Memory:
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): 	MemoryMaxUsedVirtual 0MiB
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): 	MemoryMaxUsedPhysical 0MiB
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): 	MemoryMinFreeVirtual 2048MiB
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): 	MemoryMinFreePhysical 2048MiB
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): 	MemoryTriggerGCAtPressureLevel None
+[2025.11.06-01.58.56:744][ 65]UATHelper: 패키징 (Windows): 	UseSoftGC true (5/10)
+[2025.11.06-01.58.56:755][ 65]UATHelper: 패키징 (Windows): LogCook: Display: SkipOnlyEditorOnly is enabled, unsolicited packages will not be cooked unless they are referenced from the cooked version of the instigator package.
+[2025.11.06-01.58.56:942][ 66]UATHelper: 패키징 (Windows): LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.11.06-01.58.56:997][ 66]UATHelper: 패키징 (Windows): LogEditorDomain: Display: Cycle detected in parents of class /Script/RigVMDeveloper.RigVMUnitNode. Allow flags for editordomain and iterative cooking will be invalid.
+[2025.11.06-01.58.56:997][ 66]UATHelper: 패키징 (Windows): LogEditorDomain: Display: Cycle detected in parents of class /Script/LiveLinkGraphNode.K2Node_EvaluateLiveLinkFrameWithSpecificRole. Allow flags for editordomain and iterative cooking will be invalid.
+[2025.11.06-01.58.56:997][ 66]UATHelper: 패키징 (Windows): LogZenStore: Display: Establishing oplog 'TheLittleRemains.05e0216f/EditorDomain'
+[2025.11.06-01.58.56:997][ 66]UATHelper: 패키징 (Windows): LogZenStore: Display: Zen project 'TheLittleRemains.05e0216f' already exists
+[2025.11.06-01.58.56:997][ 66]UATHelper: 패키징 (Windows): LogZenStore: Display: Zen oplog 'TheLittleRemains.05e0216f/EditorDomain' already exists
+[2025.11.06-01.58.57:261][ 67]UATHelper: 패키징 (Windows): LogCook: Display: Waiting for Asset Registry
+[2025.11.06-01.58.57:272][ 67]UATHelper: 패키징 (Windows): LogAssetRegistry: Display: Asset registry cache written as 0.0 MiB to ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Intermediate/CachedAssetRegistry_*.bin
+[2025.11.06-01.58.57:415][ 67]UATHelper: 패키징 (Windows): LogCook: Display: FULL COOK: Neither -iterative nor -cookincremental were specified. Deleting previously cooked packages for platform Windows and recooking all packages discovered in the current cook.
+[2025.11.06-01.58.57:415][ 67]UATHelper: 패키징 (Windows): LogCook: Display: Sandbox cleanup took 0.062 seconds for platforms Windows
+[2025.11.06-01.58.59:340][ 73]UATHelper: 패키징 (Windows): LogCook: Display: Compiling global changed shaders for platform 'Windows'
+[2025.11.06-01.58.59:340][ 73]UATHelper: 패키징 (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 473 (47300.00%)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shaders: 7584, Unique Shaders: 7584 (100.00%)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shader Size: 83.60mb, Unique Shaders Size: 83.60mb (100.00%)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 583
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:     1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Unique shaders itemization (sorted by compressed size):
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Compute: 5124 shaders (67.56%), compressed size: 55.08 MB (11.01 KB avg per shader), uncompressed size: 71.82 MB (14.35 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Pixel: 1879 shaders (24.78%), compressed size: 20.43 MB (11.13 KB avg per shader), uncompressed size: 26.93 MB (14.68 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayGen: 427 shaders (5.63%), compressed size: 7.65 MB (18.35 KB avg per shader), uncompressed size: 9.94 MB (23.83 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Vertex: 124 shaders (1.64%), compressed size: 0.32 MB (2.67 KB avg per shader), uncompressed size: 0.40 MB (3.31 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayHitGroup: 17 shaders (0.22%), compressed size: 0.05 MB (3.31 KB avg per shader), uncompressed size: 0.06 MB (3.87 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayMiss: 8 shaders (0.11%), compressed size: 0.04 MB (5.71 KB avg per shader), uncompressed size: 0.06 MB (7.72 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Geometry: 3 shaders (0.04%), compressed size: 0.01 MB (2.15 KB avg per shader), uncompressed size: 0.01 MB (3.31 KB avg per shader)
+[2025.11.06-01.58.59:857][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_WorkGraphRoot: 1 shaders (0.01%), compressed size: 0.00 MB (2.73 KB avg per shader), uncompressed size: 0.00 MB (3.35 KB avg per shader)
+[2025.11.06-01.58.59:868][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayCallable: 1 shaders (0.01%), compressed size: 0.00 MB (1.40 KB avg per shader), uncompressed size: 0.00 MB (1.56 KB avg per shader)
+[2025.11.06-01.58.59:868][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-Global-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2025.11.06-01.58.59:890][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.58.59:890][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:
+[2025.11.06-01.58.59:890][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2025.11.06-01.58.59:890][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.58.59:890][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 320 (32000.00%)
+[2025.11.06-01.58.59:890][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shaders: 3926, Unique Shaders: 3915 (99.72%)
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shader Size: 12.33mb, Unique Shaders Size: 12.32mb (99.97%)
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 303
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Unique shaders itemization (sorted by compressed size):
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Pixel: 1636 shaders (41.79%), compressed size: 6.28 MB (3.93 KB avg per shader), uncompressed size: 30.53 MB (19.11 KB avg per shader)
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Compute: 2177 shaders (55.61%), compressed size: 5.98 MB (2.81 KB avg per shader), uncompressed size: 22.83 MB (10.74 KB avg per shader)
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Vertex: 100 shaders (2.55%), compressed size: 0.06 MB (0.58 KB avg per shader), uncompressed size: 0.12 MB (1.26 KB avg per shader)
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Geometry: 2 shaders (0.05%), compressed size: 0.00 MB (0.49 KB avg per shader), uncompressed size: 0.00 MB (1.55 KB avg per shader)
+[2025.11.06-01.58.59:901][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2025.11.06-01.58.59:923][ 75]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.58.59:923][ 75]UATHelper: 패키징 (Windows): LogCook: Display: Discovering localized assets for cultures: en
+[2025.11.06-01.58.59:923][ 75]UATHelper: 패키징 (Windows): LogCook: Display: Found 0 localized assets
+[2025.11.06-01.58.59:923][ 75]UATHelper: 패키징 (Windows): LogCook: Display: Cooked packages 0 Packages Remain 432 Total 432
+[2025.11.06-01.59.00:088][ 75]UATHelper: 패키징 (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=272, VirtualMemory=1662MiB, VirtualMemoryAvailable=16062MiB
+[2025.11.06-01.59.00:088][ 75]UATHelper: 패키징 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.11.06-01.59.00:088][ 75]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.00:165][ 76]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.01:661][149]UATHelper: 패키징 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.11.06-01.59.02:057][152]UATHelper: 패키징 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.11.06-01.59.03:256][155]UATHelper: 패키징 (Windows): LogCook: Display: Cooked packages 388 Packages Remain 1338 Total 1726
+[2025.11.06-01.59.03:256][155]UATHelper: 패키징 (Windows): LogCook: Display: Garbage collection triggered (Soft). Triggered by conditions:
+[2025.11.06-01.59.03:256][155]UATHelper: 패키징 (Windows):   CookSettings.bUseSoftGC: Available physical memory 15783MiB is less than the current target for SoftGC 16277MiB.
+[2025.11.06-01.59.03:300][155]UATHelper: 패키징 (Windows): LogCookCommandlet: Display: GarbageCollection... (Soft GC)
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): LogCook: Display: GarbageCollection Results:
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 	Type: Soft
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 	NumObjects:
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		Capacity:           25231360
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		Before GC:             49908
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		After GC:              49221
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		Freed by GC:             687
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 	Virtual Memory:
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		Before GC:              3187 MB
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		After GC:               2942 MB
+[2025.11.06-01.59.04:378][159]UATHelper: 패키징 (Windows): 		Freed by GC:             244 MB
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): LogCook: Display: Cooked packages 867 Packages Remain 859 Total 1726
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM6, Default, SM6, Game (DDC key hash: 3d7e1111a8b64896231851d6a5f49482967c96d1), compiling.
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5, Game (DDC key hash: 919d3505c7b2943f57bfb0a78ba18acb32eb4cdc), compiling.
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.04:554][159]UATHelper: 패키징 (Windows): LogMaterial: Warning: Cooking a material resource (in M_Lamp hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+[2025.11.06-01.59.04:565][159]UATHelper: 패키징 (Windows): LogMaterial: Warning: Cooking a material resource (in M_Lamp hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+[2025.11.06-01.59.04:675][159]PackagingResults: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+[2025.11.06-01.59.04:675][159]PackagingResults: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.11.06-01.59.04:675][159]PackagingResults: Warning: Cooking a material resource (in M_Lamp hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+[2025.11.06-01.59.04:675][159]PackagingResults: Warning: Cooking a material resource (in M_Lamp hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+[2025.11.06-01.59.06:414][165]UATHelper: 패키징 (Windows): LogStreaming: Display: ImportPackages: SkipPackage: /Game/Fab/Megascans/Surfaces/Flake_Boards_thejajhn/Mid/MI_thejajhn (0x6768B8A42B3DF974) /Game/Fab/Megascans/Surfaces/Flake_Boards_thejajhn/Mid/MI_thejajhn (0x6768B8A42B3DF974) - Skipping non mounted imported package /Fab/Materials/Standard/M_MS_Srf (0xD0CD1593F9177C1)
+[2025.11.06-01.59.06:414][165]UATHelper: 패키징 (Windows): LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) - Skipping non mounted imported package /Game/StackOBot/Environment/Foilage/Textures/Wind (0xEF83B9CD550357A3)
+[2025.11.06-01.59.06:425][165]UATHelper: 패키징 (Windows): LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) /Game/StackOBot/Environment/Materials/ML_Base (0xF3B5D5ADC163EFBC) - Skipping non mounted imported package /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H (0x9802D4593F025D3C)
+[2025.11.06-01.59.07:041][167]UATHelper: 패키징 (Windows): LogCook: Display: Cooked packages 1416 Packages Remain 310 Total 1726
+[2025.11.06-01.59.07:041][167]UATHelper: 패키징 (Windows): LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) - Skipping non mounted imported package /Game/StackOBot/Environment/Foilage/Textures/Wind (0xEF83B9CD550357A3)
+[2025.11.06-01.59.08:427][171]UATHelper: 패키징 (Windows): LogStreaming: Display: ImportPackages: SkipPackage: /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) /Game/StackOBot/Environment/Materials/M_TileMaster (0x8F601BDC240AA2C9) - Skipping non mounted imported package /Game/StackOBot/Environment/Landscape/Textures/RVT_Crater_H (0x9802D4593F025D3C)
+[2025.11.06-01.59.09:405][174]UATHelper: 패키징 (Windows): LogCook: Display: Cooked packages 1646 Packages Remain 80 Total 1726
+[2025.11.06-01.59.09:405][174]UATHelper: 패키징 (Windows): LogCook: Display: Cooked packages 1727 Packages Remain 0 Total 1727
+[2025.11.06-01.59.09:405][174]UATHelper: 패키징 (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=4874, VirtualMemory=2510MiB, VirtualMemoryAvailable=15440MiB
+[2025.11.06-01.59.09:515][174]UATHelper: 패키징 (Windows): LogCook: Display: Finishing up...
+[2025.11.06-01.59.09:570][174]UATHelper: 패키징 (Windows): LogAssetRegistryGenerator: Display: Saving asset registry v17.
+[2025.11.06-01.59.09:625][174]UATHelper: 패키징 (Windows): LogAssetRegistryGenerator: Display: Generated development asset registry C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Cooked/Windows/TheLittleRemains/Metadata/DevelopmentAssetRegistry.bin num assets 1846, size is 2213.80kb, XxHash64[LE] = 0x6C21933BD39EE542, waited on hash 0.00 seconds
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogAssetRegistryGenerator: Display: Generated asset registry num assets 1839, size is 1458.70kb
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Shader Library 'TheLittleRemains' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Assets: 211, Unique Shadermaps: 159 (75.36%)
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shaders: 3633, Unique Shaders: 2484 (68.37%)
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shader Size: 29.76mb, Unique Shaders Size: 22.78mb (76.52%)
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 14
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 645
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.11.06-01.59.09:724][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:     115, 62, 58, 33, 28, 26, 22, 18, 18, 17
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Unique shaders itemization (sorted by compressed size):
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Pixel: 1033 shaders (41.59%), compressed size: 6.95 MB (6.89 KB avg per shader), uncompressed size: 9.08 MB (9.00 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Compute: 419 shaders (16.87%), compressed size: 6.17 MB (15.09 KB avg per shader), uncompressed size: 8.22 MB (20.08 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayHitGroup: 429 shaders (17.27%), compressed size: 5.08 MB (12.12 KB avg per shader), uncompressed size: 6.47 MB (15.44 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Vertex: 534 shaders (21.50%), compressed size: 3.89 MB (7.45 KB avg per shader), uncompressed size: 5.18 MB (9.92 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Mesh: 60 shaders (2.42%), compressed size: 0.58 MB (9.98 KB avg per shader), uncompressed size: 0.71 MB (12.18 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayMiss: 4 shaders (0.16%), compressed size: 0.08 MB (19.31 KB avg per shader), uncompressed size: 0.11 MB (27.16 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_RayCallable: 3 shaders (0.12%), compressed size: 0.01 MB (4.90 KB avg per shader), uncompressed size: 0.02 MB (6.24 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Geometry: 2 shaders (0.08%), compressed size: 0.01 MB (5.30 KB avg per shader), uncompressed size: 0.01 MB (7.49 KB avg per shader)
+[2025.11.06-01.59.09:735][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-TheLittleRemains-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Shader Library 'TheLittleRemains' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Assets: 211, Unique Shadermaps: 158 (74.88%)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shaders: 1917, Unique Shaders: 1247 (65.05%)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Total Shader Size: 5.08mb, Unique Shaders Size: 3.70mb (72.86%)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 6
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 248
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display:     58, 21, 21, 21, 18, 18, 16, 16, 15, 15
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Unique shaders itemization (sorted by compressed size):
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Pixel: 723 shaders (57.98%), compressed size: 1.80 MB (2.55 KB avg per shader), uncompressed size: 6.31 MB (8.94 KB avg per shader)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Vertex: 408 shaders (32.72%), compressed size: 1.07 MB (2.69 KB avg per shader), uncompressed size: 3.36 MB (8.44 KB avg per shader)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Compute: 114 shaders (9.14%), compressed size: 0.82 MB (7.39 KB avg per shader), uncompressed size: 3.65 MB (32.81 KB avg per shader)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: SF_Geometry: 2 shaders (0.16%), compressed size: 0.00 MB (1.66 KB avg per shader), uncompressed size: 0.01 MB (5.37 KB avg per shader)
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-TheLittleRemains-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: =================
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogCook: Display: Dependent plugin "GLTFImporter" referenced by "FabLauncher" wasn't found in enabled plugins list when creating cook metadata file... skipping
+[2025.11.06-01.59.09:746][175]UATHelper: 패키징 (Windows): LogCook: Display: Finalize package store(s)...
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCook: Display: Cook by the book total time in tick 9.435501s total time 12.750995
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCook: Display: Peak Used virtual 3101 MiB Peak Used physical 3010 MiB
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCook: Display: Packages Cooked: 1720, Packages Iteratively Skipped: 0, Packages Skipped by Platform: 7, Total Packages: 1727
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Hierarchy Timer Information:
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:   Root: 0.000s (0)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     CleanSandbox: 0.062s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     CollectFilesToCook: 0.005s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       CookModificationDelegate: 0.000s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     GenerateLongPackageName: 0.001s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     TickMainCookLoop: 9.435s (2)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       PumpPollables: 0.003s (2)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       PumpRequests: 0.040s (55)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       LoadPackageForCooking: 4.231s (1727)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       ValidateSourcePackage: 0.000s (1727)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       SavingPackages: 5.087s (204)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         PollPendingCookedPlatformDatas: 0.166s (15491)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         PrepareSave: 0.192s (13948)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         PrecachePlatformDataForNextPackage: 0.636s (1724)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:           PrepareSave: 0.635s (2127)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         SaveCookedPackage: 3.834s (1727)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:           GEditorSavePackage: 3.721s (1727)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:             VerifyCanCookPackage: 0.009s (1720)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         ClearAllCachedCookedPlatformData: 0.132s (1727)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       PostLoadPackageFixup: 0.000s (4)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       WaitForAsync: 0.008s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     CookByTheBookFinished: 0.350s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       SavingCurrentIniSettings: 0.055s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         ProcessingAccessedStrings: 0.010s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       ChunkGeneration: 0.015s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       CalculateReferencedSet: 0.000s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       FinishPopulateShaderLibrary: 0.000s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       GeneratorPreSave: 0.000s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       BuildChunkManifest: 0.044s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:         FixupPackageDependenciesForChunks: 0.008s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       SaveManifests: 0.000s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       SaveAssetRegistry: 0.105s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       WriteCookerOpenOrder: 0.062s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       WriteCookMetadata: 0.001s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       WriteReferencedSet: 0.002s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:       FinalizePackageStore: 0.004s (1)
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Misc Cook Stats
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ===============
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Niagara
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraScriptTranslationCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraCpuScriptCompileCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraCpuScriptDdcCacheHitCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraCpuScriptDdcCacheMissCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraGpuScriptCompileCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraGpuScriptDdcCacheHitCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraGpuScriptDdcCacheMissCount=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NiagaraSystemWaitForCompilationCompleteTime=0.021300
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: NiagaraShader.Misc
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     ShadersCompiled=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ComputeKernelShader.Misc
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     ShadersCompiled=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ShaderCompiler
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     BlockingTimeSec=0.000134
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     AsyncCompileTimeSec=0.000000
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     GlobalBeginCompileShaderCalls=0
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     ProcessAsyncResultsTimeSec=0.000176
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display: GlobalShader.Misc
+[2025.11.06-01.59.09:757][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     ShadersCompiled=0
+[2025.11.06-01.59.09:758][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Material
+[2025.11.06-01.59.09:758][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     FinishCacheShadersSec=0.145770
+[2025.11.06-01.59.09:758][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Package.Load
+[2025.11.06-01.59.09:758][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumRequestedLoads=1382
+[2025.11.06-01.59.09:758][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumPackagesLoaded=4668
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumInlineLoads=3286
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     LoadPackageTimeSec=4.706999
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Package.Save
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumPackagesIterativelySkipped=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumPackagesSaved=1727
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SavePackageTimeSec=3.500862
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     TagPackageExportsTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     FullyLoadLoadersTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     ResetLoadersTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SerializeImportsTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SerializeExportsTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SerializeBulkDataTimeSec=0.014249
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     AsyncWriteTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     MBWritten=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CookOnTheFlyServer
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     PeakRequestQueueSize=1726
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     PeakLoadQueueSize=40
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     PeakSaveQueueSize=292
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Package.DifferentPackagesSizeMBPerAsset
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Package.PackageDifferencesSizeMBPerAsset
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Package.DiffTotal
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumberOfDifferentPackages=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     DifferentPackagesSizeMB=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     NumberOfDifferencesInPackages=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     PackageDifferencesSizeMB=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: UnversionedProperties
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SavedStructs=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     SavedMB=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     EquivalentTaggedMB=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     CompressionRatio=-nan(ind)
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:     BitfieldWasteKB=0
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Cook Profile
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ============
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0.CookWallTimeSec=21.555140
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 0.StartupWallTimeSec=8.544970
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 1.StartCookByTheBookTimeSec=3.171203
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 1. 0.BlockOnAssetRegistryTimeSec=0.257041
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 1. 1.GameCookModificationDelegateTimeSec=0.000017
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 2.TickCookOnTheSideTimeSec=3.335321
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 2. 0.TickCookOnTheSideLoadPackagesTimeSec=4.231541
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 2. 1.TickCookOnTheSideSaveCookedPackageTimeSec=3.833830
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 2. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 2. 2.TickCookOnTheSidePrepareSaveTimeSec=0.827855
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 3.TickLoopGCTimeSec=0.044287
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 4.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 5.TickLoopShaderProcessAsyncResultsTimeSec=0.000007
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 6.TickLoopProcessDeferredCommandsTimeSec=0.000026
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 7.TickLoopTickCommandletStatsTimeSec=0.000002
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 8.TickLoopFlushRenderingCommandsTimeSec=0.003029
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 9.ShaderFlushTimeSec=0.000000
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  0. 10.ValidationTimeSec=0.000591
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1.CookParameters=
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 0.TargetPlatforms=Windows
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 1.CookProject=TheLittleRemains
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 2.CookCultures=
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 3.IsCookAll=false
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 4.IsCookOnTheFly=false
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 5.IsIterativeCook=false
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 6.IsUnversioned=true
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 7.CookLabel=
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:  1. 8.IsFastCook=false
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display:
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: DDC Summary Stats
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: =================
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2025.11.06-01.59.09:768][175]UATHelper: 패키징 (Windows): LogCookStats: Display: HasLocalCache   =      true
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: HasSharedCache  =     false
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: HasCloudCache   =     false
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: HasZenCache     =      true
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalGetHits    =      9960
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalGetMisses  =         5
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalGets       =      9965
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalGetHitPct  =  0.999498
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: GetMissPct      =  0.000502
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalPutHits    =         1
+[2025.11.06-01.59.09:780][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalPutMisses  =         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalPuts       =         1
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: TotalPutHitPct  =  1.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: PutMissPct      =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalGetHits    =      9126
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalGetMisses  =         5
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalGetTotal   =      9131
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalGetHitPct  =  0.999452
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SharedGetHits   =         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SharedGetTotal  =         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SharedGetHitPct =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ZenLocalGetHits =      9126
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ZenLocalGetTotal=      9131
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ZenLocalGetHitPct=  0.999452
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ZenRemoteGetHits=         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ZenRemoteGetTotal=         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ZenRemoteGetHitPct=  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CloudGetHits    =         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CloudGetTotal   =         0
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CloudGetHitPct  =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalLatency    =  0.489544
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalReadSpeed  =562.195022
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: LocalWriteSpeed =  2.958765
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SharedLatency   =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SharedReadSpeed =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SharedWriteSpeed=  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CloudLatency    =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CloudReadSpeed  =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CloudWriteSpeed =  0.000000
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display:
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: DDC Resource Stats
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: =======================================================================================================
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Texture                                         0.11                   0.00             0       1333.35
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: GlobalShader                                    0.05                   0.04             0         98.22
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: BulkDataList                                    0.04                   0.00             0          0.67
+[2025.11.06-01.59.09:781][175]UATHelper: 패키징 (Windows): LogCookStats: Display: BulkDataPayloadId                               0.01                   0.00             0          0.06
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: STREAMEDAUDIO                                   0.01                   0.00             0         10.88
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: MaterialShader                                  0.01                   0.14             0         42.90
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: StaticMesh                                      0.01                   0.01             0         19.68
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: DistanceField                                   0.01                   0.00             0          5.61
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: NavCollision                                    0.01                   0.00             0          0.54
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CardRepresentation                              0.00                   0.00             0          0.08
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: AnimationSequence                               0.00                   0.00             0          1.11
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: GeometryCollection                              0.00                   0.00             1          0.00
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: BodySetup                                       0.00                   0.00             0          9.13
+[2025.11.06-01.59.09:782][175]UATHelper: 패키징 (Windows): LogCookStats: Display: Audio                                           0.00                   0.00             0         10.87
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogCookStats: Display: SkeletalMesh                                    0.00                   0.00             0         22.65
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogCookStats: Display: MESHDATAKEY                                     0.00                   0.00             0          1.98
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogCookStats: Display: NiagaraScript                                   0.00                   0.00             0          0.08
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogCookStats: Display: CKERSM                                          0.00                   0.00             0          0.17
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogCookStats: Display: MaterialTranslation                             0.00                   0.00             0          0.00
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (938 referencing packages with a total of 8929 unique accesses)
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogConfigBuildDependencyTracker: Display: Config Accesses (1315 referencing packages with a total of 5919 unique accesses). 2897 unique accesses that were not associated with a package.
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogCook: Display: Done!
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogSavePackage: Display: Took 0.002464s to verify the EDL loading graph.
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display:
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display: Warning/Error Summary (Unique only)
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display: -----------------------------------
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display: LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display: LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Content\Fab\lamp\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display: LogMaterial: Warning: Cooking a material resource (in M_Lamp hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display:
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display: Success - 0 error(s), 4 warning(s)
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): LogInit: Display:
+[2025.11.06-01.59.09:790][175]UATHelper: 패키징 (Windows): Execution of commandlet took:  13.02 seconds
+[2025.11.06-01.59.12:368][183]UATHelper: 패키징 (Windows): LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.11.06-01.59.12:368][183]UATHelper: 패키징 (Windows): Took 24.44s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2025.11.06-01.59.12:368][183]UATHelper: 패키징 (Windows): Cook command time: 24.45 s
+[2025.11.06-01.59.12:368][183]UATHelper: 패키징 (Windows): ********** COOK COMMAND COMPLETED **********
+[2025.11.06-01.59.12:368][183]UATHelper: 패키징 (Windows): ********** STAGE COMMAND STARTED **********
+[2025.11.06-01.59.12:401][183]UATHelper: 패키징 (Windows): Creating Staging Manifest...
+[2025.11.06-01.59.12:411][183]UATHelper: 패키징 (Windows): Patching bootstrap executable; C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Intermediate\Staging\TheLittleRemains.exe
+[2025.11.06-01.59.12:411][183]UATHelper: 패키징 (Windows): Begin update resource 'C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Intermediate\Staging\TheLittleRemains.exe' (0)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 101, length 104 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 1, length 1996 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 2, length 2447 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 3, length 2535 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 4, length 3037 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 5, length 3244 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 6, length 3531 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 7, length 6931 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 201, length 74 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): Add resource 202, length 104 (True)
+[2025.11.06-01.59.12:422][183]UATHelper: 패키징 (Windows): End update resource (True/0)
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Base.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseCompat.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseDeviceProfiles.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseEditor.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseEditorKeyBindings.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseEditorSettings.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseEngine.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseGame.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseGameUserSettings.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseHardware.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseInput.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseInstallBundle.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseLightmass.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BasePakFileRules.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseRuntimeOptions.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseScalability.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\BaseSourceControlSettings.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\ConfigRedirects.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\ConsoleVariables.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\PluginBase.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Layouts\DefaultLayout.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Layouts\UE4ClassicLayout.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\Category.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\Editor.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\EditorTutorials.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\Engine.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\Keywords.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\PortableObjectExport.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\PortableObjectImport.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\PropertyNames.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\RepairData.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\ToolTips.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Localization\WordCount.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\VulkanPC\DataDrivenPlatformInfo.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\BaseWindowsEngine.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\BaseWindowsInput.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\DataDrivenPlatformInfo.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\WindowsEditorPerProjectUserSettings.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\WindowsEngine.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\WindowsGame.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Including config file C:\Program Files\Epic Games\UE_5.5\Engine\Config\Windows\WindowsInput.ini
+[2025.11.06-01.59.12:433][183]UATHelper: 패키징 (Windows): Excluding config file C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Config\DefaultEditor.ini
+[2025.11.06-01.59.12:444][183]UATHelper: 패키징 (Windows): Including config file C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Config\DefaultEngine.ini
+[2025.11.06-01.59.12:444][183]UATHelper: 패키징 (Windows): Including config file C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Config\DefaultGame.ini
+[2025.11.06-01.59.12:444][183]UATHelper: 패키징 (Windows): Including config file C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Config\DefaultInput.ini
+[2025.11.06-01.59.12:554][183]UATHelper: 패키징 (Windows): Cleaning Stage Directory: C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows
+[2025.11.06-01.59.12:752][184]UATHelper: 패키징 (Windows): Creating pak using staging manifest.
+[2025.11.06-01.59.12:752][184]UATHelper: 패키징 (Windows): DumpManifest: C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\PrePak_Windows_NonUFSFiles.txt, NumItems: 41
+[2025.11.06-01.59.12:752][184]UATHelper: 패키징 (Windows): DumpManifest: C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\PrePak_Windows_NonUFSFilesDebug.txt, NumItems: 8
+[2025.11.06-01.59.12:752][184]UATHelper: 패키징 (Windows): DumpManifest: C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\PrePak_Windows_UFSFiles.txt, NumItems: 5917
+[2025.11.06-01.59.12:950][184]UATHelper: 패키징 (Windows): No matching platform for PakFileRules for Section ExcludeContentForMobile : Windows
+[2025.11.06-01.59.12:983][184]UATHelper: 패키징 (Windows): Using 0 pak order files:
+[2025.11.06-01.59.12:994][184]UATHelper: 패키징 (Windows): Running UnrealPak with arguments: "C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject"  -cryptokeys="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\Crypto.json" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken  -platform=Windows  -CreateMultiple="C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\PakCommands.txt"
+[2025.11.06-01.59.12:994][184]UATHelper: 패키징 (Windows): Running: C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealPak.exe "C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject"  -cryptokeys="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\Crypto.json" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken  -platform=Windows  -CreateMultiple="C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\PakCommands.txt"
+[2025.11.06-01.59.13:268][185]UATHelper: 패키징 (Windows): LogPakFile: Display: ProjectDir: ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/
+[2025.11.06-01.59.13:268][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2025.11.06-01.59.13:268][185]UATHelper: 패키징 (Windows): LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2025.11.06-01.59.13:268][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2025.11.06-01.59.13:279][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Loading response file C:\Program Files\Epic Games\UE_5.5\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_TheLittleRemains-Windows.txt
+[2025.11.06-01.59.13:279][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Added 1612 entries to add to pak file.
+[2025.11.06-01.59.13:279][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Collecting files to add to pak file...
+[2025.11.06-01.59.13:279][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Collected 1612 files in 0.01s.
+[2025.11.06-01.59.13:290][185]UATHelper: 패키징 (Windows): LogPakFile: Display: Creating pak C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows\TheLittleRemains\Content\Paks\TheLittleRemains-Windows.pak.
+[2025.11.06-01.59.13:377][186]UATHelper: 패키징 (Windows): OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: Created pak file: C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows\TheLittleRemains\Content\Paks\TheLittleRemains-Windows.pak
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: CompressionFormat 0 [Oodle] : 354 files, 26800486 -> 9318831 bytes
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: CompressionFormat 2 [None] : 1258 files, 738927 -> 738927 bytes
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: Added 1612 files, 10678139 bytes total
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: PrimaryIndex size: 22430 bytes
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: PathHashIndex size: 49450 bytes
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: FullDirectoryIndex size: 52733 bytes
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: Compression summary: 34.77% of original size. Compressed Size 9318831 bytes, Original Size 26800486 bytes.
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: Encryption - DISABLED
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display:
+[2025.11.06-01.59.13:388][186]UATHelper: 패키징 (Windows): LogPakFile: Display: Writer and Compression Threads exited.
+[2025.11.06-01.59.13:432][186]UATHelper: 패키징 (Windows): LogPakFile: Display: UnrealPak executed in 0.115188 seconds
+[2025.11.06-01.59.13:432][186]UATHelper: 패키징 (Windows): Took 0.44s to run UnrealPak.exe, ExitCode=0
+[2025.11.06-01.59.13:432][186]UATHelper: 패키징 (Windows): Running UnrealPak with arguments: "C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject" -CreateGlobalContainer="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows\TheLittleRemains\Content\Paks\global.utoc" -PackageStoreManifest="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\packagestore.manifest" -CookedDirectory="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows" -Commands="C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt" -ScriptObjects="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken   -cryptokeys="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled 
+[2025.11.06-01.59.13:432][186]UATHelper: 패키징 (Windows): Running: C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealPak.exe "C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\TheLittleRemains.uproject" -CreateGlobalContainer="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows\TheLittleRemains\Content\Paks\global.utoc" -PackageStoreManifest="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\packagestore.manifest" -CookedDirectory="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows" -Commands="C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt" -ScriptObjects="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken   -cryptokeys="C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogPakFile: Display: ProjectDir: ../../../../../../Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows\TheLittleRemains\Metadata\Crypto.json'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Container signing - DISABLED
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Directory index - ENABLED
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using compression format 'Oodle'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using compression block size '65536'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using compression block alignment '2048'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using compression min percent saved '5'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Using max partition size '0'
+[2025.11.06-01.59.13:686][186]UATHelper: 패키징 (Windows): LogIoStore: Display: Not using DDC for compression
+[2025.11.06-01.59.13:697][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Using command list file: 'C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
+[2025.11.06-01.59.13:697][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2025.11.06-01.59.13:697][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Fetched 1727 oplog items from Manifest in 0.00 seconds
+[2025.11.06-01.59.13:708][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Parsed 1727 oplog items 0.01 seconds, 2581 chunks
+[2025.11.06-01.59.13:719][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Using input asset registry: C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Cooked/Windows/TheLittleRemains/Metadata/DevelopmentAssetRegistry.bin
+[2025.11.06-01.59.13:719][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Loaded 861 chunk hashes from AssetRegistry in 0.02 seconds, 861 hashes updated in 0.00 seconds
+[2025.11.06-01.59.13:741][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\Cooked\Windows'
+[2025.11.06-01.59.13:763][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Found '4309' files
+[2025.11.06-01.59.13:763][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Creating container targets...
+[2025.11.06-01.59.13:796][187]UATHelper: 패키징 (Windows): OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
+[2025.11.06-01.59.13:796][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Parsing packages...
+[2025.11.06-01.59.13:807][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Reading package assets...
+[2025.11.06-01.59.13:807][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Reading 1000/1720: 'C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Saved/Cooked/Windows/TheLittleRemains/Content/UnrealBucket/Library/Various/GrandfatherClock/T_GrandfatherClock_Albedo.uasset'
+[2025.11.06-01.59.13:818][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Packages read 1,720 files in 0.01 seconds, 3,561,743 total bytes, 454,895,781 bytes per second
+[2025.11.06-01.59.13:829][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2025.11.06-01.59.13:917][187]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 360 groups (135 of them didn't need new indices), average uncompressed size 155800 bytes, min 249 bytes, max 1047981 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.06-01.59.13:945][187]UATHelper: 패키징 (Windows): LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3915 shaders as 360 groups. Library size changed from 12619 KB (4.34 : 1 ratio) to 5556 KB (9.86 : 1 ratio), 44.03% of previous.
+[2025.11.06-01.59.14:596][194]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 542 groups (183 of them didn't need new indices), average uncompressed size 211303 bytes, min 1249 bytes, max 1045875 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.06-01.59.14:607][194]UATHelper: 패키징 (Windows): LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 7584 shaders as 542 groups. Library size changed from 85603 KB (1.31 : 1 ratio) to 48196 KB (2.32 : 1 ratio), 56.30% of previous.
+[2025.11.06-01.59.14:651][197]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 237 groups (95 of them didn't need new indices), average uncompressed size 59017 bytes, min 325 bytes, max 965040 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.06-01.59.14:662][197]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-PCD3D_SM5(PCD3D_SM5): Recompressed 1247 shaders as 237 groups. Library size changed from 3787 KB (3.61 : 1 ratio) to 1779 KB (7.68 : 1 ratio), 46.98% of previous.
+[2025.11.06-01.59.14:849][205]UATHelper: 패키징 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 270 groups (60 of them didn't need new indices), average uncompressed size 115689 bytes, min 2342 bytes, max 956289 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.11.06-01.59.14:849][205]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-PCD3D_SM6(PCD3D_SM6): Recompressed 2484 shaders as 270 groups. Library size changed from 23323 KB (1.31 : 1 ratio) to 15826 KB (1.93 : 1 ratio), 67.86% of previous.
+[2025.11.06-01.59.14:849][205]UATHelper: 패키징 (Windows): LogIoStore: Display: Shaders processed in 1.03 seconds
+[2025.11.06-01.59.14:860][205]UATHelper: 패키징 (Windows): LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=6 (12 cores), MaxSourceBufferMemory=3072MiB
+[2025.11.06-01.59.14:860][205]UATHelper: 패키징 (Windows): LogIoStore: Display: Processing redirects...
+[2025.11.06-01.59.14:860][205]UATHelper: 패키징 (Windows): LogIoStore: Display: Creating disk layout...
+[2025.11.06-01.59.14:893][207]UATHelper: 패키징 (Windows): LogIoStore: Display: Ordered 1720 packages using fallback bundle order
+[2025.11.06-01.59.16:895][294]UATHelper: 패키징 (Windows): LogIoStore: Display: Serializing container(s)...
+[2025.11.06-01.59.18:894][395]UATHelper: 패키징 (Windows): LogIoStore: Display: Writing chunks 3194/3994... [1782 compressed] [8498 compression tasks] [Physical: 2962 MiB, Virtual: 5780 MiB]
+[2025.11.06-01.59.20:906][499]UATHelper: 패키징 (Windows): LogIoStore: Display: Writing chunks 3357/3994... [1945 compressed] [6346 compression tasks] [Physical: 2978 MiB, Virtual: 5386 MiB]
+[2025.11.06-01.59.22:910][598]UATHelper: 패키징 (Windows): LogIoStore: Display: Writing chunks 3516/3994... [2104 compressed] [3744 compression tasks] [Physical: 2918 MiB, Virtual: 4914 MiB]
+[2025.11.06-01.59.23:745][640]UATHelper: 패키징 (Windows): LogIoStore: Display: Writing chunks 3672/3994... [2260 compressed] [1280 compression tasks] [Physical: 2658 MiB, Virtual: 4392 MiB]
+[2025.11.06-01.59.23:745][640]UATHelper: 패키징 (Windows): LogIoStore: Display: Writing and compressing took 8.79 seconds, writes to disk took 1.28 seconds for 1,586,079,392 bytes @ 1,234,922,604 bytes per second.
+[2025.11.06-01.59.23:745][640]UATHelper: 패키징 (Windows): LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-Windows: Found perfect hashmap for 3993 items.
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 864,790 bytes, 55,615,650 bytes per second
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display: Writing tocs... [Physical: 2536 MiB, Virtual: 4194 MiB]
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display: 861 / 3,994 hashes were loaded from the hash database, by type:
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     BulkData                   858
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     OptionalBulkData           3
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display: 2,581 / 3,994 chunks attempted to compress, by type:
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     ExportBundleData           1,720 / 1,720
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     BulkData                   858 / 858
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     OptionalBulkData           3 / 3
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.11.06-01.59.23:756][641]UATHelper: 패키징 (Windows): LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:     ShaderCode                 0 / 1,407
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Source bytes read:
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:     Zen:                                  0
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:     Loose File:               3,081,430,638
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:         ExportBundleData        584,934,172 bytes over 3,440 reads
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:         BulkData               2,429,387,602 bytes over 858 reads
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:         OptionalBulkData         67,108,864 bytes over 3 reads
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:     Memory:                     147,385,144
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:         ShaderCodeLibrary         1,247,896 bytes over 8 reads
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:         ShaderCode              146,137,248 bytes over 2,814 reads
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Calculating stats...
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container Summary
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ==================
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.31                 2.31 -
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-Windows                            C/-/-/I/-            3993          843.90              2735.35              1510.29 (44.79% Oodle)
+[2025.11.06-01.59.23:767][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Total                                                                    3994          844.52              2737.66              1512.60
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Compression block padding:     2.99 MiB
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container Directory Index
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ==========================
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container                                          Size (KiB)
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: global                                                   0.00
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-Windows                               108.02
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container Patch Report
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ========================
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-Windows                                 3993                0             3993             0.00          1507.31
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: PackageStore
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: =============
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: TheLittleRemains-Windows                                   56            1720               0
+[2025.11.06-01.59.23:768][642]UATHelper: 패키징 (Windows): LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Total                                                      56            1720               0
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:      1720 Packages
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:      0.27 GB UExp
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:      0.00 GB UAsset
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:      2.33 GB UBulk
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:     52.49 MB for 902 Global shaders
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:      2.60 MB for 226 Shared shaders
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Input:     14.59 MB for 279 Inline shaders
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Output:    19531 Name map entries
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Output:     2704 Imported package entries
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Output:      895 Packages without imports
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display: Output:     2.31 MB InitialLoadData
+[2025.11.06-01.59.23:778][642]UATHelper: 패키징 (Windows): LogIoStore: Display:
+[2025.11.06-01.59.23:811][645]UATHelper: 패키징 (Windows): LogPakFile: Display: UnrealPak executed in 10.084071 seconds
+[2025.11.06-01.59.23:811][645]UATHelper: 패키징 (Windows): Took 10.38s to run UnrealPak.exe, ExitCode=0
+[2025.11.06-01.59.23:811][645]UATHelper: 패키징 (Windows): DumpManifest: C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\FinalCopyWin64_UFSFiles.txt, NumItems: 5918
+[2025.11.06-01.59.23:822][645]UATHelper: 패키징 (Windows): DumpManifest: C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\FinalCopyWin64_NonUFSFiles.txt, NumItems: 41
+[2025.11.06-01.59.23:822][645]UATHelper: 패키징 (Windows): DumpManifest: C:\Users\KGA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\FinalCopyWin64_NonUFSFilesDebug.txt, NumItems: 8
+[2025.11.06-01.59.23:822][645]UATHelper: 패키징 (Windows): Copying NonUFSFiles to staging directory: C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows
+[2025.11.06-01.59.24:251][670]UATHelper: 패키징 (Windows): Copying DebugFiles to staging directory: C:\Users\KGA\Documents\GitHub\KI_Exam02_BJM_TheSmallRemains\TheLittleRemains\Saved\StagedBuilds\Windows
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): Stage command time: 12.00 s
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): ********** STAGE COMMAND COMPLETED **********
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): ********** PACKAGE COMMAND STARTED **********
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): Package command time: 0.00 s
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): ********** PACKAGE COMMAND COMPLETED **********
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): ********** ARCHIVE COMMAND STARTED **********
+[2025.11.06-01.59.24:372][677]UATHelper: 패키징 (Windows): Archiving to C:/Users/KGA/Documents/GitHub/KI_Exam02_BJM_TheSmallRemains/TheLittleRemains/Build
+[2025.11.06-01.59.25:736][762]UATHelper: 패키징 (Windows): Archive command time: 1.36 s
+[2025.11.06-01.59.25:736][762]UATHelper: 패키징 (Windows): ********** ARCHIVE COMMAND COMPLETED **********
+[2025.11.06-01.59.25:736][762]UATHelper: 패키징 (Windows): BuildCookRun time: 38.19 s
+[2025.11.06-01.59.25:736][762]UATHelper: 패키징 (Windows): BUILD SUCCESSFUL
+[2025.11.06-01.59.25:736][762]UATHelper: 패키징 (Windows): AutomationTool executed for 0h 0m 39s
+[2025.11.06-01.59.25:736][762]UATHelper: 패키징 (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2025.11.06-02.00.18:615][773]LogEditorTransaction: Undo 텍스트 편집
+[2025.11.06-02.00.21:253][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.06-02.00.26:882][425]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.06-02.00.35:991][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
